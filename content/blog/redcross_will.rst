@@ -1,3 +1,5 @@
+.. _redcross_will:
+
 Red Cross brings Community Currency to Kisauni
 ###############################################
 
@@ -12,7 +14,7 @@ By Emmanuel Mbui
 ******************
 Economic imbalance, insecurity, dependency and luck of money are the challenges experienced by most people in Kisauni. Thanks  to Red Cross, partnering with Grassroots economics foundation for introducing CICs, Community Inclusion Currency (locally Sarafu or 'currency' in Kisawhili); a medium of exchange that builds trust and unites members of a community. Sarafu helps people pool the locally available resources and provides a fair space for exchange within the community.
 
-.. image:: /images/redcross-will1.webp
+.. image:: /images/blog/redcross-will1.webp
     :align: center
     :alt: redcross-will1
 
@@ -31,20 +33,20 @@ Mshomoroni Area in Mjambere Ward: Its an area where the local economy is not tha
 
 Here are some testimonials of users who have benefited with the usage of sarafu in the area.
 
-.. image:: /images/redcross-will2.webp
+.. image:: /images/blog/redcross-will2.webp
     :align: center
     :alt: redcross-will2
 
 Mwanahamisi Kiti: A mother of three who sells Samaki (fish) by the road side is very grateful for the introduction of Sarafu to her business she says she can now get the daily needs this is because there is an increase in customers to her business and the sarafu she gets she can comfortably buy charcoal from Patricia Munyaka who is her immediate neighbor. (She also spends her sarafu to buy groceries from Irene Matoke and buy Utensils from Suleiman Mohammed.)
 
-.. image:: /images/redcross-will3.webp
+.. image:: /images/blog/redcross-will3.webp
     :align: center
     :alt: redcross-will3
     :width: 100%
 
 Patricia Munyaka (pictured above): She  is the bread winner of her family has a small Makaa (charcoal) business  which she says the sales have increased when she embraces the sarafu concept. She further explains how she has reduced debt holding in her business which was a major challenge to her but now she accepts sarafu instead of debts. This has greatly helped her business in terms of restocking. She uses her sarafu to buy fish from Mwanahamisi  Kiti and also accepts sarafu from her and also buys groceries from Irene Matoke.
 
-.. image:: /images/redcross-will4.webp
+.. image:: /images/blog/redcross-will4.webp
     :align: center
     :alt: redcross-will4
 
@@ -56,7 +58,7 @@ By Janet Otieno Akinyi
 ************************
 SARAFU CHANGING LIVES! Imagine being evicted from your house because of an accumulated rent arrears together with your 5 children. This is the sad story of Fatuma Mzee, a 35 year old residing in Mjambere, Kisauni, Mombasa Kenya of Sarafu.
 
-.. image:: /images/redcross-will5.webp
+.. image:: /images/blog/redcross-will5.webp
     :align: center
     :alt: redcross-will5
 
@@ -87,7 +89,7 @@ Execution of Sarafu network by Grassroots economy in conjunction with Kenya Red 
 
 Below are examples of  success stories from a group of  users  who  form a good trading loop amongst themselves;
 
-.. image:: /images/redcross-will6.webp
+.. image:: /images/blog/redcross-will6.webp
     :align: center
     :alt: redcross-will6
 
@@ -101,13 +103,13 @@ Christine is a food vendor from Mathew’s network and whose son at one point go
 
 Abdallah’s family comprises of seven members and their source of income solely depends on daily sales from their family grocery kiosk. He is greatful with the introduction of community  currency now that he can meet other basic needs for the family while using his trade networks among Christine and Mathew.
 
-.. image:: /images/redcross-will7.webp
+.. image:: /images/blog/redcross-will7.webp
     :align: center
     :alt: redcross-will7
 
 Zaiwabu Moraa a grocer lady located a  few meters  from Mathew’s chemist is also connected to this active network and has supported her network by accepting sarafu for groceries and fries.
 
-.. image:: /images/redcross-will8.webp
+.. image:: /images/blog/redcross-will8.webp
     :align: center
     :alt: redcross-will8
 
