@@ -1,83 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <meta charset="utf-8" />
-        <meta name="generator" content="Pelican" />
-        <title>grassroots-pelican - pools</title>
-        <link rel="stylesheet" href="/theme/css/main.css" />
+    <title>grassroots-pelican - pools tag</title>
+    <meta charset="utf-8" />
+    <meta name="ida" content="Pelican"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/css/style.css">
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
 </head>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="/">grassroots-pelican</a></h1>
-                <nav><ul>
-                    <li><a href="/category/blog.html">blog</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
+<body id="base-index" class="base-home">
+    <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+<!--        <a class ="navbar-brand" href="#">GE</a>-->
+        <ul class="nav text-nav">
+             <a class ="navbar-brand" href="#">GE</a>
+                <li class="nav-item" ><a class="nav-link" href="/pages/about-us.html">About us</a></li>
+                <li class="nav-item" ><a class="nav-link" href="/pages/food-forests.html">Food Forests</a></li>
+                <li class="nav-item" ><a class="nav-link" href="/pages/get-involved.html">Get Involved</a></li>
+                <li class="nav-item" ><a class="nav-link" href="/pages/how-it-works.html">How It Works</a></li>
+                <li class="nav-item" ><a class="nav-link" href="/pages/media.html">Media</a></li>
+                <li class="nav-item" ><a class="nav-link" href="/pages/research.html">Research</a></li>
+                <li class="nav-item" ><a class="nav-link" href="/pages/sarafu-network.html">Sarafu Network</a></li>
+                <li class="nav-item" ><a class="nav-link" href="/category/blog.html">blog</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+<section id="content">
+<h2>Articles tagged with pools</h2>
 
-            <aside id="featured" class="body">
-                <article>
-                    <h1 class="entry-title"><a href="/static-vs-bonded-liquidity.html">Static vs Bonded Liquidity Pools for CICs</a></h1>
-<footer class="post-info">
-        <abbr class="published" title="2021-01-16T00:00:00+03:00">
-                Published: Sat 16 January 2021
-        </abbr>
-		<br />
-        <abbr class="modified" title="2021-01-19T00:00:00+03:00">
-                Updated: Tue 19 January 2021
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/will-ruddick.html">Will Ruddick</a>
-        </address>
-<p>In <a href="/category/blog.html">blog</a>.</p>
-<p>tags: <a href="/tag/liquidity.html">liquidity</a> <a href="/tag/pools.html">pools</a> <a href="/tag/defi.html">defi</a> </p>
-</footer><!-- /.post-info --><p>As communities create their Community Inclusion Currencies as a credit against their future production, projects and excess capacity, Grassroots Economics is looking at various ways to connect these tokens together and as well to other networks. Below I'll describe and contrast two approaches, namely a Fixed vs Algorithmic Rate liquidity pools. But before that I just want to give a simple overview of what a liquidity pool is.</p>
-<p>For the blockchain and #defi folks they are probably familiar with the Bonded Pool like you can find with Uniswap or in the Bancor Network, but lets start with its sibling the Static Pool - which simply is a contract holding 2 tokens that are exchangeable to each other.</p>
-<img alt="static-will1" class="align-center" src="images/blog/static-will1.webp" />
-<p>In the fixed exchange rate or static pool above. A community creating a CIC can decide to add some of their CIC A token supply to a common pool along with some tokens from another community B.  The pool contains A and B tokens.</p>
-<p>Someone holding A tokens pays some A tokens to someone holding B tokens, the pool accepts A tokens from A and gives B tokens to B. Now anyone can push in A tokens to that pool and get out B tokens with a 1:1 fixed exchange rate - that is, until there are no more Bs in the pool. At which point someone from community B would need to add some Bs to re-balance the pool before any more exchange is possible.</p>
-<p>This create a simple way for community A and B to trade with each other with a limited amount of tokens in the pool.</p>
-<p>Next let's talk about a Bonded pool - the kind you will find in Uniswap or the Bancor Network.</p>
-<img alt="static-will2" class="align-center" src="images/blog/static-will2.webp" />
-<p>In the algorithmic exchange rate or bonded pool above. A community creating a CIC can similarly decide to add some of their CIC A token supply to a common pool along with some tokens from another community B.</p>
-<p>Now if anyone wants to push in A tokens to that pool they can get out B tokens with an initial 1:1 exchange rate - but every time you dd more As you get less and less Bs out. This can virtually go on forever until for each A added you only get 0.0000001 Bs and so on.</p>
-<p>This create another way for community A and B to trade with each other with continuous liquidity but changing exchange rates. There can be a lot more added to the liquidity contracts, such as oracles that can adjust prices and investment shares that can grow based on exchange fees which are also options. Communities could also create DAOs and vote on which pools are allowed into the network. But let's stick with the simple versions mentioned above and compare them a bit further:</p>
-<img alt="static-will3" class="align-center" src="images/blog/static-will3.webp" />
-<p>The table above gives a few ways to compare the types of liquidity pools. While the Bonded Pool allows for continuous liquidity and a market price stabilization effect, it also creates a variable exchange rate that is often hard to deal with for regular commerce. In the extreme case, where many A's have been converted to B (changing the rate) and one CIC A users sends 10 tokens to buy tomatoes and they turn into only one B token - the tomato seller could demand more tokens - but this is quite cumbersome.</p>
-<p>On the contrary with a Static Pool, one side of the pool could simply run out causing trade to stop until there is trade in the opposite direction. This could be equally frustrating for commerce and require the two communities come up with a regular method of trade balance or to allow for multiple non-exchangeable tokens co-existing in their wallets.</p>
-<p>If communities connect their CICs to a basic income or network token like Sarafu in a 1:1 Static Pool - all such CICs would automatically be exchangeable 1:1 with each other. This is appealing because it creates a well defined common pool of tokens connected through a network token. This method combines the concept of a UBI with a credit system - described briefly <a class="reference external" href="https://www.grassrootseconomics.org/post/dex-multitudes">here</a></p>
-<p>Also note that both types of pools could be used to connect a CIC with some other non-CIC token (like Eth or DAI) who's value might be fluctuating or unknown relative to the CICs - in this case having market supply and demand to establish that price over time might be preferable using a Bonded Pool. Note that many such pools can co-exist in the same network, connecting the same tokens. So connecting UBI and CICs on static pools while also connecting to non-CICs via bonded pools could allow for in-network 1:1 exchanges and variable/market rate exchanges against foreign tokens (e.g. Eth or stable coins).</p>
-<p>We're excited to be building infrastructure - using the open source <a class="reference external" href="https://github.com/bancorprotocol/contracts-solidity">Bancor DEX contracts</a>  -that can accommodate an extremely diverse set of pools - creating really decentralized typologies for common pooling of Community Inclusion Currencies.</p>
-                </article>
-            </aside><!-- /#featured -->
-        <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>links</h2>
-                        <ul>
-                            <li><a href="https://getpelican.com/">Pelican</a></li>
-                            <li><a href="https://www.python.org/">Python.org</a></li>
-                            <li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
-                            <li><a href="#">You can modify those links in your config file</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
-
-                            <li><a href="#">You can add links in your config file</a></li>
-                            <li><a href="#">Another social link</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
-
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
-                </address><!-- /#about -->
-
-                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
+<ol id="post-list">
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="/static-vs-bonded-liquidity.html" rel="bookmark" title="Permalink to Static vs Bonded Liquidity Pools for CICs">Static vs Bonded Liquidity Pools for CICs</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2021-01-16T00:00:00+03:00"> Sat 16 January 2021 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="/author/will-ruddick.html">Will Ruddick</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>As communities create their Community Inclusion Currencies as a credit against their future production, projects and excess capacity, Grassroots Economics is looking at various ways to connect these tokens together and as well to other networks. Below I'll describe and contrast two approaches, namely a Fixed vs Algorithmic Rate liquidity …</p> </div><!-- /.entry-content -->
+        </article></li>
+</ol><!-- /#posts-list -->
+</section><!-- /#content -->
+    </div>
 
 </body>
 </html>

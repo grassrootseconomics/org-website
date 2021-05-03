@@ -33,6 +33,9 @@ DEFAULT_PAGINATION = 10
 
 LOAD_CONTENT_CACHE = False
 
+THEME = "ge-theme"
+
+DISPLAY_PAGES_ON_MENU = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
