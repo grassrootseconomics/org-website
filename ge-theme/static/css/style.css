@@ -1,3 +1,13 @@
 .text-nav{
     text-align: center;
 }
+#blue{
+    color: #0040D0;
+}
+
+.navbar a {
+    color: black;
+}
+/*.try {*/
+/*    color: blue;*/
+/*}*/

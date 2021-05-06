@@ -37,5 +37,10 @@ THEME = "ge-theme"
 
 DISPLAY_PAGES_ON_MENU = True
 
+THEME_STATIC_PATHS = ['static']
+
+CSS_FILE = ['style.css']
+
+
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True

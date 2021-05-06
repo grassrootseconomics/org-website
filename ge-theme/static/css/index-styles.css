@@ -1,0 +1,14 @@
+.try{
+    color: darkred;
+}
+.article-display{
+    border-style: solid;
+    border-color: #85adad;
+    border-width: 1px;
+}
+.ul-style{
+    list-style-type: none;
+}
+.li-style{
+    margin-bottom: 25px;
+}

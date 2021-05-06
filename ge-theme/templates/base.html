@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" type="text/css" href="{{SITEURL}}/theme/css/style.css">
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -42,25 +42,36 @@
 </head>
 
 <body id="base-index" class="base-home">
+<!--<div class="d-flex">-->
     <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-<!--        <a class ="navbar-brand" href="#">GE</a>-->
-        <ul class="nav text-nav">
-             <a class ="navbar-brand" href="#">GE</a>
-            {% for title, link in MENUITEMS %}
-            <li class="nav-item"><a href="{{ link }}">{{ title }}</a></li>
-            {% endfor %}
-            {% if DISPLAY_PAGES_ON_MENU %}
-              {% for p in pages %}
-                <li class="nav-item" {% if p == page %}  {% endif %}><a class="nav-link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
-              {% endfor %}
-            {% endif %}
-            {% if DISPLAY_CATEGORIES_ON_MENU %}
-              {% for cat, null in categories %}
-                <li class="nav-item" {% if cat == category %}  {% endif %}><a class="nav-link" href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-              {% endfor %}
-            {% endif %}
-        </ul>
+        <a class ="navbar-brand" href="#">
+             <img id="nav-logo" src="{{SITEURL}}/theme/images/ge-logo-resizeimage.png" alt="logo">
+         </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+
+                {% for title, link in MENUITEMS %}
+                <li class="nav-item"><a href="{{ link }}">{{ title }}</a></li>
+                {% endfor %}
+                {% if DISPLAY_PAGES_ON_MENU %}
+                  {% for p in pages %}
+                    <li class="nav-item" {% if p == page %}  {% endif %}><a class="nav-link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                  {% endfor %}
+                {% endif %}
+                {% if DISPLAY_CATEGORIES_ON_MENU %}
+                  {% for cat, null in categories %}
+                    <li class="nav-item" {% if cat == category %}  {% endif %}><a class="nav-link" href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+                  {% endfor %}
+                {% endif %}
+
+            </ul>
+        </div>
     </nav>
+<!--</div>-->
+
     <div class="container">
         {% block content %}
         {% endblock %}

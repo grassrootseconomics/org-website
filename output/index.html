@@ -7,154 +7,247 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" type="text/css" href="./theme/css/style.css">
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
+
+<link rel="stylesheet" type="text/css" href="./theme/css/index-styles.css">
 </head>
 
 <body id="base-index" class="base-home">
+<!--<div class="d-flex">-->
     <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-<!--        <a class ="navbar-brand" href="#">GE</a>-->
-        <ul class="nav text-nav">
-             <a class ="navbar-brand" href="#">GE</a>
-                <li class="nav-item" ><a class="nav-link" href="/pages/about-us.html">About us</a></li>
-                <li class="nav-item" ><a class="nav-link" href="/pages/food-forests.html">Food Forests</a></li>
-                <li class="nav-item" ><a class="nav-link" href="/pages/get-involved.html">Get Involved</a></li>
-                <li class="nav-item" ><a class="nav-link" href="/pages/how-it-works.html">How It Works</a></li>
-                <li class="nav-item" ><a class="nav-link" href="/pages/media.html">Media</a></li>
-                <li class="nav-item" ><a class="nav-link" href="/pages/research.html">Research</a></li>
-                <li class="nav-item" ><a class="nav-link" href="/pages/sarafu-network.html">Sarafu Network</a></li>
-                <li class="nav-item" ><a class="nav-link" href="/category/blog.html">blog</a></li>
-        </ul>
+        <a class ="navbar-brand" href="#">
+             <img id="nav-logo" src="./theme/images/ge-logo-resizeimage.png" alt="logo">
+         </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+
+                    <li class="nav-item" ><a class="nav-link" href="./pages/about-us.html">About us</a></li>
+                    <li class="nav-item" ><a class="nav-link" href="./pages/food-forests.html">Food Forests</a></li>
+                    <li class="nav-item" ><a class="nav-link" href="./pages/get-involved.html">Get Involved</a></li>
+                    <li class="nav-item" ><a class="nav-link" href="./pages/how-it-works.html">How It Works</a></li>
+                    <li class="nav-item" ><a class="nav-link" href="./pages/media.html">Media</a></li>
+                    <li class="nav-item" ><a class="nav-link" href="./pages/research.html">Research</a></li>
+                    <li class="nav-item" ><a class="nav-link" href="./pages/sarafu-network.html">Sarafu Network</a></li>
+                    <li class="nav-item" ><a class="nav-link" href="./category/blog.html">blog</a></li>
+
+            </ul>
+        </div>
     </nav>
+<!--</div>-->
+
     <div class="container">
 <section id="content">
-<h2>All articles</h2>
+<h2 class="try">All articles</h2>
 
-<ol id="post-list">
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/red-cross-brings-community-currency-to-kisauni.html" rel="bookmark" title="Permalink to Red Cross brings Community Currency to Kisauni">Red Cross brings Community Currency to Kisauni</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-04-25T00:00:00+03:00"> Sun 25 April 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/will-ruddick.html">Will Ruddick</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>Below are a compilation of Community Inclusion Currency (CIC) user stories from Grassroots Economics Field Support Engineers <em>(Emmanuel Mbui, Amina Godana, Janet Akinyi and Joyce Kamau)</em> supporting and working with Red Cross volunteers  and community groups. Implementation with Red Cross volunteers led by Bahero Mohamed through door to door awareness …</p> </div><!-- /.entry-content -->
+<ul class="ul-style" id="post-list">
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./red-cross-brings-community-currency-to-kisauni.html" rel="bookmark" title="Permalink to Red Cross brings Community Currency to Kisauni">Red Cross brings Community Currency to Kisauni</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-04-25T00:00:00+03:00"> Sun 25 April 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/will-ruddick.html">Will Ruddick</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <p>Below are a compilation of Community Inclusion Currency (CIC) user stories from Grassroots Economics Field Support Engineers <em>(Emmanuel Mbui, Amina Godana, Janet Akinyi and Joyce Kamau)</em> supporting and working with Red Cross volunteers  and community groups. Implementation with Red Cross volunteers led by Bahero Mohamed through door to door awareness …</p> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/grassroots-economics-has-a-new-director-shalia-agha.html" rel="bookmark" title="Permalink to Grassroots Economics has a New Director: Shaila Agha">Grassroots Economics has a New Director: Shaila Agha</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-04-08T00:00:00+03:00"> Thu 08 April 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/shaila-agha.html">Shaila Agha</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <img alt="" class="align-center" src="/images/blog/shaila_agha.webp" />
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./grassroots-economics-has-a-new-director-shalia-agha.html" rel="bookmark" title="Permalink to Grassroots Economics has a New Director: Shaila Agha">Grassroots Economics has a New Director: Shaila Agha</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-04-08T00:00:00+03:00"> Thu 08 April 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/shaila-agha.html">Shaila Agha</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <img alt="" class="align-center" src="/images/blog/shaila_agha.webp" />
 <p>When I was 9 years old, my mother came home one day with a monopoly board game. It was the beginning of the March holidays and she wanted to provide us with an alternative activity to watching cartoons. Every day after that, my brother and I would insistently play game …</p> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/kakuma-refugee-testimonial.html" rel="bookmark" title="Permalink to Kakuma Refugee Testimonial">Kakuma Refugee Testimonial</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-03-28T00:00:00+03:00"> Sun 28 March 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/amina-godana.html">Amina Godana</a>
-                        <a class="url fn" href="/author/janet-akinyi-atieno.html">Janet Akinyi Atieno</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>After <a class="reference external" href="https://www.grassrootseconomics.org/post/kakuma-refugee-testimonial">after hearing about sarafu</a>  local leaders of a small community group started building a support network in their community. Nyota explains below how after living in the refugee camp for 10 years, Sarafu has helped her to maintain trade with her community and grow their collective farming even when …</p> </div><!-- /.entry-content -->
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./kakuma-refugee-testimonial.html" rel="bookmark" title="Permalink to Kakuma Refugee Testimonial">Kakuma Refugee Testimonial</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-03-28T00:00:00+03:00"> Sun 28 March 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/amina-godana.html">Amina Godana</a>
+                            <a class="url fn" href="./author/janet-akinyi-atieno.html">Janet Akinyi Atieno</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <p>After <a class="reference external" href="https://www.grassrootseconomics.org/post/kakuma-refugee-testimonial">after hearing about sarafu</a>  local leaders of a small community group started building a support network in their community. Nyota explains below how after living in the refugee camp for 10 years, Sarafu has helped her to maintain trade with her community and grow their collective farming even when …</p> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/recycling-debt.html" rel="bookmark" title="Permalink to Recycling Debt (Kusaga Deni, Kubali Sarafu)">Recycling Debt (Kusaga Deni, Kubali Sarafu)</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-03-13T00:00:00+03:00"> Sat 13 March 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/isavary-khabuqwi.html">Isavary Khabuqwi</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <img alt="" class="align-left" src="/images/blog/recycling1.webp" />
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./recycling-debt.html" rel="bookmark" title="Permalink to Recycling Debt (Kusaga Deni, Kubali Sarafu)">Recycling Debt (Kusaga Deni, Kubali Sarafu)</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-03-13T00:00:00+03:00"> Sat 13 March 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/isavary-khabuqwi.html">Isavary Khabuqwi</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <img alt="" class="align-left" src="/images/blog/recycling1.webp" />
 <p>Imagine having to endure constant reminders and threatening messages from predatory lenders your entire life.</p>
 <p>Imagine going out of business because you’ve loaned out too many of your products to people in need.</p>
 <p>This is daily life here in Kenya</p>
 <p><strong>Debtors suffer:</strong>  People are taking on debts from payment …</p> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/refugee-economics-kakuma.html" rel="bookmark" title="Permalink to Refugee Economics in Kakuma Kenya">Refugee Economics in Kakuma Kenya</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-02-13T00:00:00+03:00"> Sat 13 February 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/marcelin-munga-petro.html">Marcelin Munga Petro</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <img alt="refugee1" class="align-center" src="/images/blog/refugee1.webp" />
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./refugee-economics-kakuma.html" rel="bookmark" title="Permalink to Refugee Economics in Kakuma Kenya">Refugee Economics in Kakuma Kenya</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-02-13T00:00:00+03:00"> Sat 13 February 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/marcelin-munga-petro.html">Marcelin Munga Petro</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <img alt="refugee1" class="align-center" src="/images/blog/refugee1.webp" />
 <p>Short description of FHE community based organization.</p>
 <p>dear sir/madam</p>
 <p>Greetings, I'm MARCELIN MUNGA PETRO a Congolese by nationality being recognized under UNHCR as a refugee in side kakuma refugee camp.</p>
 <p>I'm the founder and CEO  of FHE organization that mean Farming and Health Education, the organization include 31 members …</p> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/kilifi-kenya.html" rel="bookmark" title="Permalink to Kilifi Kenya - a hub for Community Driven Basic Income">Kilifi Kenya - a hub for Community Driven Basic Income</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-02-10T00:00:00+03:00"> Wed 10 February 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/isavary-khabuqwi.html">Isavary Khabuqwi</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>The current reality is that following Covid-19 many have fallen deeper and deeper into debt. However, most individuals would still not openly disclose this reality to avoid the negative connotation that comes with owing. Imagine a world where household debt is no longer an individual burden, but rather a tool …</p> </div><!-- /.entry-content -->
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./kilifi-kenya.html" rel="bookmark" title="Permalink to Kilifi Kenya - a hub for Community Driven Basic Income">Kilifi Kenya - a hub for Community Driven Basic Income</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-02-10T00:00:00+03:00"> Wed 10 February 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/isavary-khabuqwi.html">Isavary Khabuqwi</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <p>The current reality is that following Covid-19 many have fallen deeper and deeper into debt. However, most individuals would still not openly disclose this reality to avoid the negative connotation that comes with owing. Imagine a world where household debt is no longer an individual burden, but rather a tool …</p> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/kenyan-cics-review.html" rel="bookmark" title="Permalink to 2020 Kenyan CICs Review">2020 Kenyan CICs Review</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-02-07T00:00:00+03:00"> Sun 07 February 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/will-ruddick.html">Will Ruddick</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <img alt="kenyacic-will1" class="align-center" src="images/blog/kenyancic-will1.webp" />
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./kenyan-cics-review.html" rel="bookmark" title="Permalink to 2020 Kenyan CICs Review">2020 Kenyan CICs Review</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-02-07T00:00:00+03:00"> Sun 07 February 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/will-ruddick.html">Will Ruddick</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <img alt="kenyacic-will1" class="align-center" src="images/blog/kenyancic-will1.webp" />
 <div class="section" id="brief-historical-overview">
 <h2>Brief Historical Overview</h2>
 <p>Starting in 2010 Grassroots Economics worked with local communities to issue vouchers aka Community Currencies (CCs) as a medium of exchange with the belief that CCs could enable communities to develop a source of local credit based on productive capacity and local values, while creating a monetary …</p></div> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/youth-employment-via-elderly.html" rel="bookmark" title="Permalink to Youth Employment via Elderly/Vulnerable Support">Youth Employment via Elderly/Vulnerable Support</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-01-28T00:00:00+03:00"> Thu 28 January 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/will-ruddick.html">Will Ruddick</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <img alt="youth-will1" class="align-center" src="images/blog/youth-will1.webp" />
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./youth-employment-via-elderly.html" rel="bookmark" title="Permalink to Youth Employment via Elderly/Vulnerable Support">Youth Employment via Elderly/Vulnerable Support</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-01-28T00:00:00+03:00"> Thu 28 January 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/will-ruddick.html">Will Ruddick</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <img alt="youth-will1" class="align-center" src="images/blog/youth-will1.webp" />
 <p>Using a basic income (Sarafu in Kenya) youth can support their elderly and vulnerable by giving them their Sarafu. Then those elderly/vulnerable in turn spend it with other youth run businesses, who could in turn give it to their elderly/vulnerable - who could, in turn, spend it on other …</p> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/municipal-basic-income.html" rel="bookmark" title="Permalink to Municipal Basic Income(MBI) via CIC">Municipal Basic Income(MBI) via CIC</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-01-23T00:00:00+03:00"> Sat 23 January 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/will-ruddick.html">Will Ruddick</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <img alt="municipal-will1" class="align-center" src="images/blog/municipal-will1.webp" />
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./municipal-basic-income.html" rel="bookmark" title="Permalink to Municipal Basic Income(MBI) via CIC">Municipal Basic Income(MBI) via CIC</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-01-23T00:00:00+03:00"> Sat 23 January 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/will-ruddick.html">Will Ruddick</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <img alt="municipal-will1" class="align-center" src="images/blog/municipal-will1.webp" />
 <p>A municipality, town or local administration is an ideal issuer and anchor for a basic/guaranteed income because the have the means to back it and the intention to build sustainable and thriving local markets– Such a Municipal Basic Income (MBI) can in turn act as a growth medium and …</p> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="/static-vs-bonded-liquidity.html" rel="bookmark" title="Permalink to Static vs Bonded Liquidity Pools for CICs">Static vs Bonded Liquidity Pools for CICs</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2021-01-16T00:00:00+03:00"> Sat 16 January 2021 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="/author/will-ruddick.html">Will Ruddick</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>As communities create their Community Inclusion Currencies as a credit against their future production, projects and excess capacity, Grassroots Economics is looking at various ways to connect these tokens together and as well to other networks. Below I'll describe and contrast two approaches, namely a Fixed vs Algorithmic Rate liquidity …</p> </div><!-- /.entry-content -->
+        <li class="li-style"><article class="article-display">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <header> <h2 class="entry-title"><a href="./static-vs-bonded-liquidity.html" rel="bookmark" title="Permalink to Static vs Bonded Liquidity Pools for CICs">Static vs Bonded Liquidity Pools for CICs</a></h2> </header>
+                    <footer class="post-info">
+                        <time class="published" datetime="2021-01-16T00:00:00+03:00"> Sat 16 January 2021 </time>
+                        <address class="vcard author">By
+                            <a class="url fn" href="./author/will-ruddick.html">Will Ruddick</a>
+                        </address>
+                    </footer><!-- /.post-info -->
+                    <div class="entry-content"> <p>As communities create their Community Inclusion Currencies as a credit against their future production, projects and excess capacity, Grassroots Economics is looking at various ways to connect these tokens together and as well to other networks. Below I'll describe and contrast two approaches, namely a Fixed vs Algorithmic Rate liquidity …</p> </div><!-- /.entry-content -->
+                    </div>
+                </div>
+
         </article></li>
-</ol><!-- /#posts-list -->
+</ul><!-- /#posts-list -->
 <p class="paginator">
     Page 1 / 2
-        <a href="/index2.html">&raquo;</a>
-        <a href="/index2.html">&#8649;</a>
+        <a href="./index2.html">&raquo;</a>
+        <a href="./index2.html">&#8649;</a>
 </p>
 </section><!-- /#content -->
     </div>
