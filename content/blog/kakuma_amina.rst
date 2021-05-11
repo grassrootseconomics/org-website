@@ -5,8 +5,8 @@ Kakuma Refugee Testimonial
 
 :date: 2021-03-28
 :authors: Amina Godana, Janet Akinyi Atieno
-:slug: kakuma-refugee-testimonial
-
+:slug: kakuma-amina
+:summary: heloo ge
 
 After `after hearing about sarafu <https://www.grassrootseconomics.org/post/kakuma-refugee-testimonial>`_  local leaders of a small community group started building a support network in their community. Nyota explains below how after living in the refugee camp for 10 years, Sarafu has helped her to maintain trade with her community and grow their collective farming even when there are no shillings available.
 

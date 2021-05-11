@@ -6,7 +6,8 @@ Red Cross brings Community Currency to Kisauni
 :date: 2021-04-25
 :tags: Red Cross, Kisauni, Covid
 :author: Will Ruddick
-:slug: red-cross-brings-community-currency-to-kisauni
+:slug: redcross-will
+:summary:
 
 Below are a compilation of Community Inclusion Currency (CIC) user stories from Grassroots Economics Field Support Engineers *(Emmanuel Mbui, Amina Godana, Janet Akinyi and Joyce Kamau)* supporting and working with Red Cross volunteers  and community groups. Implementation with Red Cross volunteers led by Bahero Mohamed through door to door awareness raising and street theater began in January 2021. The following case studies are taken from the week of April 23rd 2021 and their successes continue to ripple out across the region. While Kisauni is only a small part of Kenya; through word-of-mouth over 50,000 households and small businesses in vulnerable areas have registered to be part of the Sarafu Network since 2020 and have traded roughly 3 Million USD of goods and services among each other using a blockchain ledger - on simple phones without the need for internet.
 

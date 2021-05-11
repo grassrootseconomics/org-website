@@ -1,0 +1,20 @@
+
+#blue{
+    color: #0040D0;
+}
+
+.navbar a {
+    color: black;
+}
+.navbar-light .navbar-toggler-icon{
+    color: black;
+}
+.navbar {
+    background-color: rgba(255, 255, 255, 0.6);
+    /*opacity: 0.6;*/
+    box-shadow: 2px 2px 2px #A1A1A1;
+}
+/*}*/
+/*.try {*/
+/*    color: blue;*/
+/*}*/

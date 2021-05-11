@@ -6,7 +6,8 @@ Recycling Debt (Kusaga Deni, Kubali Sarafu)
 :date: 2021-03-13
 :tags: debt, defaulters, lenders, debtors
 :author: Isavary Khabuqwi
-:slug: recycling-debt
+:slug: recycling
+:summary:
 
 .. image:: /images/blog/recycling1.webp
     :align: left

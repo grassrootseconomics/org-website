@@ -6,7 +6,8 @@ Youth Employment via Elderly/Vulnerable Support
 :date: 2021-01-28
 :tags: elderly, youth, Basic Income
 :author: Will Ruddick
-:slug: youth-employment-via-elderly
+:slug: youth-will
+:summary:
 
 .. image:: images/blog/youth-will1.webp
     :align: center

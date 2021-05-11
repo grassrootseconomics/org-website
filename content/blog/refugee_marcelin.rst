@@ -6,7 +6,8 @@ Refugee Economics in Kakuma Kenya
 :date: 2021-02-13
 :authors: Marcelin Munga Petro
 :tags: refugee, kakuma, sarafu
-:slug: refugee-economics-kakuma
+:slug: refugee
+:summary:
 
 .. image:: /images/blog/refugee1.webp
     :align: center

@@ -6,7 +6,8 @@ Self-Funded Regenerative Agriculture Kwale Site January Visit
 :date: 2021-01-14
 :tags: syntropic, agroforestry, regen, food forest
 :author: James-thiong'o
-:slug: self-funded-regnerative-agriculture
+:slug: self-funded-james
+:summary:
 
 .. image:: images/blog/self-fund-james1.webp
     :align: center

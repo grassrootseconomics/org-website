@@ -7,7 +7,8 @@ Municipal Basic Income(MBI) via CIC
 :modified: 2021-01-24
 :tags: UBI, Basic Income, municipe, MBI
 :author: Will Ruddick
-:slug: municipal-basic-income
+:slug: municipal-will
+:summary:
 
 .. image:: images/blog/municipal-will1.webp
     :align: center

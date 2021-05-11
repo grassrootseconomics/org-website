@@ -7,7 +7,8 @@ Kilifi Kenya - a hub for Community Driven Basic Income
 :modified: 2021-02-12
 :tags: Kilifi, Kenya, debt, Basic income, Community currency
 :author: Isavary Khabuqwi
-:slug: kilifi-kenya
+:slug: kilifi-isavary
+:summary:
 
 The current reality is that following Covid-19 many have fallen deeper and deeper into debt. However, most individuals would still not openly disclose this reality to avoid the negative connotation that comes with owing. Imagine a world where household debt is no longer an individual burden, but rather a tool to build a strong local economy?  Instead of waiting for Kenyan Shillings from the government or donors, basic income programs built via community currencies like Sarafu are communalizing  and trading debt to reduce poverty. A perfect example of this is the diverse and welcoming population of Kilifi, who have begun to accept a basic income (locally called Sarafu) for goods and services, as a way of reverting the loss they would have incurred through stagnate loans and markets.
 

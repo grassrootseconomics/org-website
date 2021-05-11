@@ -6,9 +6,10 @@ Grassroots Economics has a New Director: Shaila Agha
 :date: 2021-04-08
 :tags: organization, directors, staff, mission
 :author: Shaila Agha
-:slug: grassroots-economics-has-a-new-director-shalia-agha
+:slug: shalia_agha
+:summary:
 
-.. image:: /images/blog/shaila_agha.webp
+.. image:: /images/blog/shaila_agha1.webp
     :align: center
 
 When I was 9 years old, my mother came home one day with a monopoly board game. It was the beginning of the March holidays and she wanted to provide us with an alternative activity to watching cartoons. Every day after that, my brother and I would insistently play game after game; holding on to our colourful money as if our future depended on it. Like all children, we eventually lost interest in the game. However, the colorful currency notes then became our most valuable asset. We used it as a means of exchange to incentivize each other to do each other's chores, as a rental fee to play with shared toys and even  for buying candy off each other. We lived in the middle of rural Kenya, with almost no neighbours or shops, we therefore had no access to national currency. We clearly understood however, that currency (even play money) is merely a medium of exchange; with its value being determined by the users; namely us.

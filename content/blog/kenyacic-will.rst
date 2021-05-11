@@ -6,7 +6,8 @@
 :date: 2021-02-07
 :tags: dex, exchange, liquidity, community currency
 :author: Will Ruddick
-:slug: kenyan-cics-review
+:slug: kenyancic-will
+:summary:
 
 .. image:: images/blog/kenyancic-will1.webp
     :align: center
