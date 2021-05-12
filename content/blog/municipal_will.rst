@@ -8,7 +8,7 @@ Municipal Basic Income(MBI) via CIC
 :tags: UBI, Basic Income, municipe, MBI
 :author: Will Ruddick
 :slug: municipal-will
-:summary:
+:summary: A municipality, town or local administration is an ideal issuer and anchor for a basic/guaranteed income because the have the means to back it and the intention to build sustainable and thriving local markets
 
 .. image:: images/blog/municipal-will1.webp
     :align: center

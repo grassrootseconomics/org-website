@@ -8,7 +8,7 @@ Static vs Bonded Liquidity Pools for CICs
 :tags: liquidity, pools, defi
 :author: Will Ruddick
 :slug: static-will
-:summary:
+:summary: As communities create their Community Inclusion Currencies as a credit against their future production, projects and excess capacity
 
 As communities create their Community Inclusion Currencies as a credit against their future production, projects and excess capacity, Grassroots Economics is looking at various ways to connect these tokens together and as well to other networks. Below I'll describe and contrast two approaches, namely a Fixed vs Algorithmic Rate liquidity pools. But before that I just want to give a simple overview of what a liquidity pool is.
 

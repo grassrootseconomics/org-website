@@ -2,7 +2,7 @@
     color: darkred;
 }
 #content{
-    padding-top: 40px;
+    padding-top: 20px;
 }
 .article-display{
     border-style: solid;

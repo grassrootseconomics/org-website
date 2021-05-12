@@ -1,0 +1,43 @@
+#article-content{
+    border-style: solid;
+    border-color: #85adad;
+    border-width: 1px;
+    padding: 60px;
+    margin-top: 40px;
+}
+#article-content img{
+    width:100%;
+    padding: 20px ;
+}
+#article-content iframe{
+    width:100%;
+    padding: 20px ;
+}
+.article-entry-title a{
+    color: black;
+}
+.vcard-author a{
+    color: gray;
+}
+.tags{
+    padding-top: 10px;
+}
+.tags a{
+    text-decoration: none;
+    background-color: #ffffff;
+    color: black;
+    padding: 5px 10px 5px 10px;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    margin-right: 4px;
+}
+.tags a:hover{
+    background-color: gray;
+    color: #ffffff;
+}
+.article-entry-content a{
+    color: black;
+    text-decoration: underline;
+}

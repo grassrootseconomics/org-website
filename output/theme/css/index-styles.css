@@ -1,6 +1,9 @@
 .try{
     color: darkred;
 }
+#content{
+    padding-top: 40px;
+}
 .article-display{
     border-style: solid;
     border-color: #85adad;
@@ -22,3 +25,31 @@
 .entry-title a{
     color: black;
 }
+.post-info{
+    display: flex;
+    width: 300px;
+    padding-top: 10px;
+}
+.post-info:before{
+    font-family: "FontAwesome";
+    content: "\f007";
+    font-weight: 900;
+    padding-right: 10px ;
+    font-size: 30px;
+}
+.vcard-author a{
+    color: black;
+}
+.entry-content{
+    padding-right: 10px;
+}
+.published{
+    color: gray;
+}
+
+/*.article-display-footer{*/
+/*    padding-bottom: 10px;*/
+/*    margin-right: 10px;*/
+/*    margin-left: 10px;*/
+/*    border-top: 3px solid gray;*/
+/*}*/

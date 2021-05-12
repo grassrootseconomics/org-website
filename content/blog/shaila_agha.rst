@@ -7,7 +7,7 @@ Grassroots Economics has a New Director: Shaila Agha
 :tags: organization, directors, staff, mission
 :author: Shaila Agha
 :slug: shalia_agha
-:summary:
+:summary: When I was 9 years old, my mother came home one day with a monopoly board game.
 
 .. image:: /images/blog/shaila_agha1.webp
     :align: center

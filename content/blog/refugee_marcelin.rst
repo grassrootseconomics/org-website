@@ -7,7 +7,7 @@ Refugee Economics in Kakuma Kenya
 :authors: Marcelin Munga Petro
 :tags: refugee, kakuma, sarafu
 :slug: refugee
-:summary:
+:summary: Short description of FHE community based organization.
 
 .. image:: /images/blog/refugee1.webp
     :align: center

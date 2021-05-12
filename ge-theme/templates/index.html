@@ -8,7 +8,7 @@
 {% block content %}
 <section id="content">
 {% block content_title %}
-<h2 class="try">All articles</h2>
+<!--<h2 class="try">All articles</h2>-->
 {% endblock %}
 
 <ul class="ul-style" id="post-list">
@@ -20,18 +20,18 @@
                 </div>
 
                 <div class="col-6">
-                    <i class="fas fa-user fa-2x"></i>
                     <div class="post-info">
-                        <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
-                        <address class="vcard author">By
+                        <address class="vcard-author">By
                         {% for author in article.authors %}
-                            <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                            <a class="author-url" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a><br>
                         {% endfor %}
+                            <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
                         </address>
-
                     </div>
                     <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
                     <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
+                    <div class="article-display-footer">
+                    </div>
                 </div>
             </div>
         </article></li>

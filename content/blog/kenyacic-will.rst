@@ -7,7 +7,7 @@
 :tags: dex, exchange, liquidity, community currency
 :author: Will Ruddick
 :slug: kenyancic-will
-:summary:
+:summary: Starting in 2010 Grassroots Economics worked with local communities to issue vouchers aka Community Currencies (CCs) as a medium of exchange with the belief that CCs
 
 .. image:: images/blog/kenyancic-will1.webp
     :align: center

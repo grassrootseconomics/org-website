@@ -7,7 +7,7 @@ Self-Funded Regenerative Agriculture Kwale Site January Visit
 :tags: syntropic, agroforestry, regen, food forest
 :author: James-thiong'o
 :slug: self-funded-james
-:summary:
+:summary: On 11th January 2021, I visited Miyani Demo Plot to monitor the progress made a month later after my visit in December
 
 .. image:: images/blog/self-fund-james1.webp
     :align: center

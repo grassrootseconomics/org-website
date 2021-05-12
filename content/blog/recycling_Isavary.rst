@@ -7,7 +7,7 @@ Recycling Debt (Kusaga Deni, Kubali Sarafu)
 :tags: debt, defaulters, lenders, debtors
 :author: Isavary Khabuqwi
 :slug: recycling
-:summary:
+:summary: Imagine having to endure constant reminders and threatening messages from predatory lenders your entire life.
 
 .. image:: /images/blog/recycling1.webp
     :align: left
