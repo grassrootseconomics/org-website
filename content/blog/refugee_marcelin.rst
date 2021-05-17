@@ -1,4 +1,3 @@
-.. _refugee_marcelin:
 
 Refugee Economics in Kakuma Kenya
 ####################################
@@ -9,7 +8,7 @@ Refugee Economics in Kakuma Kenya
 :slug: refugee
 :summary: Short description of FHE community based organization.
 
-.. image:: /images/blog/refugee1.webp
+.. image:: images/blog/refugee1.webp
     :align: center
     :alt: refugee1
 
@@ -21,7 +20,7 @@ Greetings, I'm MARCELIN MUNGA PETRO a Congolese by nationality being recognized 
 
 I'm the founder and CEO  of FHE organization that mean Farming and Health Education, the organization include 31 members who are contributing their own efforts and ideas in order to push the FHE vision, mission and objectives. FHE is Community Based Organization that works in Kakuma refugee camp to address the dire of health, protection and psychological  needs of the children their families and the communities, with one of our strategy focuses being strengthen the community based protection mechanism. Enabling communities to be done active in protection.
 
-.. image:: /images/blog/refugee2.webp
+.. image:: images/blog/refugee2.webp
     :align: center
     :alt: refugee2
 
@@ -29,7 +28,7 @@ In addition FHE includes in its permaculture gardens and trainings, health testi
 
 In this regard,we are conducting adult education or training vocational center and doing some awareness in the community with the aim being to engage individual discussion on adult education and other programs carried out by the FHE as well as to create self environment for the communities.
 
-.. image:: /images/blog/refugee3.webp
+.. image:: images/blog/refugee3.webp
     :align: center
     :alt: refugee3
 

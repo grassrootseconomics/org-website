@@ -1,4 +1,3 @@
-.. _cic-will:
 
 Community Currencies and DEX Multitudes
 #########################################

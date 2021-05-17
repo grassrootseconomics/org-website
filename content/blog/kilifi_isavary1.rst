@@ -1,4 +1,3 @@
-.. _kilifi_isavary:
 
 Kilifi Kenya - a hub for Community Driven Basic Income
 #########################################################

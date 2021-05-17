@@ -41,3 +41,11 @@
     color: black;
     text-decoration: underline;
 }
+@media only screen and (max-width: 480px){
+    .tags {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: left;
+        margin-top: 2px;
+    }
+}

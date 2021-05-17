@@ -1,4 +1,3 @@
-.. _recycling_Isavary:
 
 Recycling Debt (Kusaga Deni, Kubali Sarafu)
 #############################################
@@ -9,7 +8,7 @@ Recycling Debt (Kusaga Deni, Kubali Sarafu)
 :slug: recycling
 :summary: Imagine having to endure constant reminders and threatening messages from predatory lenders your entire life.
 
-.. image:: /images/blog/recycling1.webp
+.. image:: images/blog/recycling1.webp
     :align: left
 
 Imagine having to endure constant reminders and threatening messages from predatory lenders your entire life.

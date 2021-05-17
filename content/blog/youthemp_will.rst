@@ -1,4 +1,3 @@
-.. _youthemp_will:
 
 Youth Employment via Elderly/Vulnerable Support
 ##################################################

@@ -46,10 +46,18 @@
 .published{
     color: gray;
 }
+@media only screen and (max-width: 480px){
 
-/*.article-display-footer{*/
-/*    padding-bottom: 10px;*/
-/*    margin-right: 10px;*/
-/*    margin-left: 10px;*/
-/*    border-top: 3px solid gray;*/
-/*}*/
+    .entry-title {
+        font-size: 20px;
+    }
+    .col-6{
+        padding-left: 1px;
+    }
+    .post-info address{
+        font-size: 12px;
+    }
+
+}
+
+

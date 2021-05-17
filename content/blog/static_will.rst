@@ -1,4 +1,3 @@
-.. _static_will:
 
 Static vs Bonded Liquidity Pools for CICs
 ###########################################

@@ -1,5 +1,3 @@
-.. _kakuma_refugee:
-
 Kakuma Refugee Testimonial
 ############################
 
@@ -16,20 +14,20 @@ After `after hearing about sarafu <https://www.grassrootseconomics.org/post/kaku
 
 |
 
-.. image:: /images/blog/kakuma-amina1.webp
+.. image:: images/blog/kakuma-amina1.webp
     :align: center
     :alt: kakuma-amina1
 
 Here the `FHE group in Kakuma <https://www.grassrootseconomics.org/post/refugee-economics-in-kakuma-kenya>`_ are meeting to talk about community farming and community inclusion currencies which they learned more about after a trip to Siaya Kenya..
 
 
-.. image:: /images/blog/kakuma-amina2.webp
+.. image:: images/blog/kakuma-amina2.webp
     :align: center
     :alt: kakuma-amina2
 
 Here the Kaukuma community leaders traveled to Siaya to learn about how Sarafu is used there and about community farming practices that Sarafu helps to make economically sustainable (circular economy). Communities teaching other communities how to use Community Currency is always the best way to share.
 
-.. image:: /images/blog/kakuma-amina3.webp
+.. image:: images/blog/kakuma-amina3.webp
     :align: center
     :alt: kakuma-amina3
     :width: 100%

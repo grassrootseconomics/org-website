@@ -1,4 +1,3 @@
-.. _kenyacic-will.rst:
 
 2020 Kenyan CICs Review
 #########################
@@ -7,7 +6,7 @@
 :tags: dex, exchange, liquidity, community currency
 :author: Will Ruddick
 :slug: kenyancic-will
-:summary: Starting in 2010 Grassroots Economics worked with local communities to issue vouchers aka Community Currencies (CCs) as a medium of exchange with the belief that CCs
+:summary: Starting in 2010 Grassroots Economics worked with local communities to issue vouchers aka Community Currencies (CCs)
 
 .. image:: images/blog/kenyancic-will1.webp
     :align: center

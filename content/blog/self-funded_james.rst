@@ -1,4 +1,3 @@
-.. _self-funded_james:
 
 Self-Funded Regenerative Agriculture Kwale Site January Visit
 ###############################################################
