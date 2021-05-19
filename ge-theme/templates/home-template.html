@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" type="text/css" href="{{SITEURL}}/theme/css/home-styles.css">
+
+{% endblock %}
+
+{% block content %}
+<div class="row row-one">
+    <div class="col-6">
+        <img src="{{SITEURL}}/theme/images/home-imgs/home-img1.gif" alt="img-gif">
+    </div>
+    <div class="col-6 ">
+        <div class="wrapper-col">
+            <p class="row-one-words">Prospering economies built by thriving communities</p>
+            <img src="{{SITEURL}}/theme/images/home-imgs/home-logo.webp">
+        </div>
+    </div>
+</div>
+{% endblock %}}

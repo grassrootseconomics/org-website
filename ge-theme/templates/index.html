@@ -3,9 +3,11 @@
 {% block head %}
 {{ super() }}
 <link rel="stylesheet" type="text/css" href="{{SITEURL}}/theme/css/index-styles.css">
+
 {% endblock %}
 
 {% block content %}
+<div class="container">
 <section id="content">
 {% block content_title %}
 <!--<h2 class="try">All articles</h2>-->
@@ -41,4 +43,5 @@
     {% include 'pagination.html' %}
 {% endif %}
 </section><!-- /#content -->
+</div>
 {% endblock content %}
