@@ -1,11 +1,13 @@
 .row-one-words{
     text-align: center;
     font-size: 40px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 20px;
+    /*padding-left: 20px;*/
+    /*padding-right: 20px;*/
 
 }
-/*.col-6 .wrapper-col{*/
-/*    padding-left: 40px;*/
-/*    padding-right: 40px;*/
+/*.wrapper-col{*/
+/*    !*left: 25%; !important;*!*/
+/*    padding-right: 40px; !important;*/
+/*    padding-left: 40px; !important;*/
 /*}*/

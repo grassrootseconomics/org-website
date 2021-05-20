@@ -1,11 +1,18 @@
 .row-one-words{
     text-align: center;
     font-size: 40px;
-    /*padding-left: 20px;*/
-    /*padding-right: 20px;*/
-
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
-/*.col-6 .wrapper-col{*/
-/*    padding-left: 40px;*/
-/*    padding-right: 40px;*/
+.row-one-img{
+    padding: 20px;
+}
+.height-row{
+    height: 60%;
+}
+/*.wrapper-col{*/
+/*    !*left: 25%; !important;*!*/
+/*    padding-right: 40px; !important;*/
+/*    padding-left: 40px; !important;*/
 /*}*/
