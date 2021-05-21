@@ -1,9 +1,19 @@
 .row-one-words{
     text-align: center;
     font-size: 40px;
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.row-one-img{
     padding: 20px;
-    /*padding-left: 20px;*/
-    /*padding-right: 20px;*/
+}
+.height-row{
+    height: 60%;
+}
+.img-style{
+    height: 400px;
+    width: 400px;
 
 }
 /*.wrapper-col{*/
