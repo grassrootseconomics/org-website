@@ -1,10 +1,11 @@
 .row-one-words{
     text-align: center;
     font-size: 40px;
+    padding-top: 50px;
 }
-.row-one-img{
-    padding: 20px;
-}
+/*.row-one-img{*/
+/*    padding: 20px;*/
+/*}*/
 .height-row{
     height: 80%;
 }
@@ -16,8 +17,9 @@
 
 }
 .wrapper-col{
-    margin-top: 100px;
-    margin-left: 150px;
+    /*margin-top: 100px;*/
+    /*margin-left: 150px;*/
+    margin: auto;
     border-style: solid;
     border-color: #ffffff;
     box-sizing: border-box;
@@ -67,6 +69,24 @@
     background-color: #3E3F45;
     color: #ffffff;
 }
+.home-last-row{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+}
+.inline-block{
+    /*display: inline-block;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*padding-left: 20px;*/
+    /*padding-right: 20px;*/
+}
+.a-center{
+    
+}
 /*.words-col-wrapper a{*/
 /*    text-decoration: none;*/
 /*    color: black;*/
@@ -94,11 +114,12 @@
         /*border-color: #ff4c85;*/
     }
     .row-2-words{
+        padding-top: 20px;
         padding-bottom: 10px;
     }
-    /*.row-margin{*/
-    /*    margin-bottom: 1px;*/
-    /*}*/
+    .row-margin{
+        margin-bottom: 10px;
+    }
     .h2-title{
         padding-top: 20px;
     }

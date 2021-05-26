@@ -1,1 +1,2 @@
 :title: Media
+:template: media

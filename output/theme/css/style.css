@@ -1,8 +1,4 @@
 
-#blue{
-    color: #0040D0;
-}
-
 .base-home{
     font-family: 'Nanum Gothic', sans-serif;
 }
@@ -13,4 +9,23 @@
 }
 .navbar-light .navbar-nav .nav-link{
     color: black;
+}
+.base-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+#terms-conditions{
+    color: #3E3F45;
+    padding-left: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+#terms-conditions:hover{
+    text-decoration: underline;
 }
