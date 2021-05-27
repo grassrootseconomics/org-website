@@ -41,6 +41,8 @@ THEME_STATIC_PATHS = ['static']
 
 CSS_FILE = ['style.css']
 
+OUTPUT_RETENTION = [".hg",".git","CNAME"]
+
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
