@@ -47,3 +47,10 @@
     background-color: #3E3F45;
     color: #ffffff;
 }
+.wrapper-carousel{
+    box-sizing: border-box;
+    margin: auto;
+    border: solid 2px blue;
+    max-height: 600px;
+    max-width: 400px;
+}
