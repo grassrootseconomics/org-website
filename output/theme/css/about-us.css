@@ -91,10 +91,40 @@
 .carousel-inner{
    margin-bottom: 50px;
 }
-/*.row-carousel{*/
-/*    padding-right: 20px;*/
-/*    padding-left: 20px;*/
-/*}*/
+.row-carousel{
+    margin-left: 100px;
+    margin-right: 100px;
+    /*margin-right: 60px;*/
+}
+.rounded-img{
+    border-radius: 5px;
+    border: 1px solid #a3a3c2;
+    padding: 3px;
+}
+.pad-bott{
+    padding-bottom: 20px;
+}
+.pesa-items{
+    padding-top: 150px;
+}
+.pesa {
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.cert-link{
+    text-decoration: none;
+}
+.line-between{
+    padding-top: 10px;
+    /*padding-bottom: 10px;*/
+    width: 50px;
+    border-bottom: 2px solid black;
+}
+.carousel-titles{
+    font-weight: bold;
+    padding-top: 10px;
+}
 /*.col-carousel-left{*/
 /*    padding-left: 100px;*/
 /*}*/
