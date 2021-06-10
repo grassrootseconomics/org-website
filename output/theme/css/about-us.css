@@ -89,7 +89,7 @@
     background-color: #ffffff;
 }
 .carousel-inner{
-   margin-bottom: 50px;
+   margin-bottom: 100px;
 }
 .row-carousel{
     margin-left: 100px;
@@ -125,12 +125,56 @@
     font-weight: bold;
     padding-top: 10px;
 }
-/*.col-carousel-left{*/
-/*    padding-left: 100px;*/
+/*.mx-6{*/
+/*    margin-left: 20rem !important;*/
+/*    margin-right: 20rem  !important;*/
 /*}*/
-/*.carousel-indicators-round{*/
-/*     width: 14px;*/
-/*     height: 14px;*/
-/*     border: 2px solid black;*/
-/*     border-radius: 100%;*/
-/*}*/
+.grid-color-wrap{
+    background-color: #EFF0F0;
+}
+.grid-wrapper{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.first-row{
+    padding-top: 50px;
+}
+.meet-title{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.meet-title h2{
+    font-weight: bold;
+}
+.big-line-between{
+    padding-top: 10px;
+    /*padding-bottom: 20px;*/
+    width: 50px;
+    border-bottom: 4px solid black;
+    margin: auto;
+}
+.circle-img{
+    padding-top: 10px;
+    border-radius: 50%;
+}
+.grid-img-text{
+    padding-top: 20px;
+    /*padding-left: 40px;*/
+}
+.name{
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 480px){
+    .grid-wrapper{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1024px){
+    .grid-wrapper{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}

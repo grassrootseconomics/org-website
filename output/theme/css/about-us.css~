@@ -89,7 +89,7 @@
     background-color: #ffffff;
 }
 .carousel-inner{
-   margin-bottom: 50px;
+   margin-bottom: 100px;
 }
 .row-carousel{
     margin-left: 100px;
@@ -105,14 +105,34 @@
     padding-bottom: 20px;
 }
 .pesa-items{
-    padding-top: 100px;
+    padding-top: 150px;
 }
-/*.col-carousel-left{*/
-/*    padding-left: 100px;*/
+.pesa {
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.cert-link{
+    text-decoration: none;
+}
+.line-between{
+    padding-top: 10px;
+    /*padding-bottom: 10px;*/
+    width: 50px;
+    border-bottom: 2px solid black;
+}
+.carousel-titles{
+    font-weight: bold;
+    padding-top: 10px;
+}
+.mx-6{
+    margin-left: 20rem !important;
+    margin-right: 20rem  !important;
+}
+/*.grid-wrapper{*/
+/*    margin-left: 400px;*/
+/*    margin-right: 400px;*/
 /*}*/
-/*.carousel-indicators-round{*/
-/*     width: 14px;*/
-/*     height: 14px;*/
-/*     border: 2px solid black;*/
-/*     border-radius: 100%;*/
-/*}*/
+.first-row{
+    padding-top: 20px;
+}
