@@ -164,12 +164,53 @@
 .name{
     font-size: 20px;
 }
-
+.read-more{
+    color: black;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+}
+.read-more:hover{
+    color: black;
+}
+.sponsors-wrapper{
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-top: 40px;
+}
+.sponsor-imgs{
+    gap: 50px;
+}
+.sponsor-text{
+    font-size: 40px;
+}
+.special-title{
+    font-weight: bold;
+    padding-top: 40px;
+}
+.small-text{
+    font-size: 15px;
+}
+.last-line{
+    color: #A1A1A1;
+}
 @media only screen and (max-width: 480px){
     .grid-wrapper{
         margin-left: 10px;
         margin-right: 10px;
     }
+    .sponsors-wrapper{
+    margin-right: 10px;
+    margin-left: 10px;
+    }
+    .box-title1{
+        padding-top: 20px;
+    }
+    .pesa-items{
+        padding-top: 20px;
+    }
+
 }
 
 @media (min-width: 600px) and (max-width: 1024px){
@@ -177,4 +218,15 @@
         margin-left: 10px;
         margin-right: 10px;
     }
+    .sponsors-wrapper{
+    margin-right: 10px;
+    margin-left: 10px;
+    }
+    .box-title1{
+        padding-top: 20px;
+    }
+    .pesa-items{
+        padding-top: 20px;
+    }
+
 }
