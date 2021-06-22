@@ -19,12 +19,85 @@
 }
 .many-imgs{
     padding-top: 100px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
-.arrow-container{
-    
+/*.img-center{*/
+/*    margin: auto;*/
+/*}*/
+.center-this{
+    text-align: center;
 }
+.word-wrap{
+    text-align: center;
+    box-sizing: border-box;
+    border-top: solid 2px #e6e6e6;
+    border-bottom: solid 2px #e6e6e6;
+    max-width: 250px;
+    max-height: 300px;
+    padding: 10px;
+
+}
+
+.word-wrap2{
+    /*margin-top: 10px;*/
+    box-sizing: border-box;
+    border-top: solid 2px #e6e6e6;
+    border-bottom: solid 2px #e6e6e6;
+    padding: 10px;
+    max-width: 60%;
+    margin: auto;
+    overflow: hidden;
+
+    /*position: absolute;*/
+    /*max-width: 300px;*/
+}
+
+.last-content-box{
+    display: inline-block;
+}
+/*.right-this{*/
+/*    text-align: right;*/
+/*}*/
+/*.reduce-gap{*/
+/*    display: inline;*/
+/*}*/
+/*.arrow-container{*/
+/*    !*margin-left: -100px;*!*/
+/*    !*display: flex;*!*/
+/*    width: 200px;*/
+/*    height: 120px;*/
+/*}*/
+/*.arrow-container img{*/
+/*    width: 100%;*/
+/*    height: auto;*/
+/*}*/
+.rotate-up{
+    transform: rotate(250deg);
+}
+.tree-img{
+    margin-left: -60px;
+}
+.rotate-up-side{
+    transform: rotate(180deg);
+}
+.rotate-down-side{
+    transform: rotate(120deg);
+    overflow: hidden;
+    /*margin-left: -30px;*/
+}
+/*.vertical-center{*/
+/*    vertical-align: center;*/
+/*}*/
+.handmaid-img{
+    padding-top: 20px;
+}
+/*.last-content-box{*/
+/*    display: inline;*/
+/*}*/
+/*.bottom{*/
+/*    align-self: flex-end;*/
+/*}*/
 @media only screen and (max-width: 480px){
     .text-img{
         font-size: 30px;
@@ -48,6 +121,12 @@
     .many-imgs{
         margin-left: 10px;
         margin-right: 10px;
+    }
+    .tree-img{
+        margin-left: auto;
+    }
+    .img-extend{
+        height: 300px;
     }
 }
 
@@ -74,5 +153,8 @@
     .many-imgs{
         margin-left: 10px;
         margin-right: 10px;
+    }
+    .tree-img{
+        margin-left: auto;
     }
 }
