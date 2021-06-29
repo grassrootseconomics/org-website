@@ -56,6 +56,12 @@
 .last-content-box{
     display: inline-block;
 }
+.image-span-over{
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 .rotate-up{
     transform: rotate(250deg);
 }
@@ -199,8 +205,15 @@
     padding-top: 20px;
 }
 .click-style{
-    text-decoration: none;
-    color: #0073e6;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+    color: black;
+    font-weight: bold;
+}
+.click-style:hover{
+    color: black;
 }
 .huge-font{
     padding-top: 50px;
@@ -252,10 +265,108 @@
     padding-top: 100px;
     padding-bottom: 100px;
 }
-/*.rotate-torch{*/
-/*    transform: rotate(-20deg);*/
-/*}*/
+.circle-container{
+    position: relative;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
 
+.text-middle{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.words-below-wrap{
+    width: 100px;
+    height: auto;
+    box-sizing: border-box;
+    margin: auto;
+}
+.words-below{
+    font-weight: bold;
+    font-size: 30px;
+}
+.last-link-wrap{
+    width: 200px;
+    height: auto;
+    box-sizing: border-box;
+    margin: auto;
+}
+.last-link-style{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: white;
+    text-decoration-thickness: 3px;
+    font-weight: bold;
+    color: white;
+}
+.last-link-style:hover{
+    color: white;
+}
+.style-center{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.container-cic{
+    padding-top: 100px;
+}
+.cic-title{
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 100px;
+}
+.cic-img-round{
+    border-radius: 50%;
+    border: 1px solid #a3a3c2;
+    padding: 5px;
+}
+.going-to-scale{
+    padding-top: 100px;
+}
+.scale-text{
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+.line-span{
+    color: #A1A1A1;
+}
+.box-center-padding{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.box-center{
+    box-sizing: border-box;
+    max-width: 600px;
+    margin: auto;
+    height: auto;
+}
+.font-increase{
+    font-size: 30px;
+}
+.small-box-center{
+    box-sizing: border-box;
+    max-width: 400px;
+    margin: auto;
+    height: auto;
+}
+.mooc-link{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+    color: black;
+}
+.mooc-link:hover{
+    color: black;
+}
+.small-increase{
+    font-size: 20px;
+}
 @media only screen and (max-width: 480px){
     .text-img{
         font-size: 30px;
@@ -341,6 +452,27 @@
     .percent-words{
         font-size: 15px;
     }
+    .text-middle{
+        top: 30%;
+        font-size: 15px;
+    }
+    .words-below{
+        font-size: 20px;
+    }
+    .container-cic{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .going-to-scale{
+        padding-top: 50px;
+    }
+    .font-increase{
+        font-size: 20px;
+    }
+    .small-increase{
+        font-size: 15px;
+    }
+
 
     /*.img-small-media{*/
     /*    height: 100%;*/
@@ -400,5 +532,9 @@
     }
     .trade-padding{
         padding-top: 50px;
+    }
+    .container-cic{
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }

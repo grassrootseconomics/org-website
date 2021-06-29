@@ -199,8 +199,9 @@
     padding-top: 20px;
 }
 .click-style{
-    text-decoration: none;
-    color: #0073e6;
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
 }
 .huge-font{
     padding-top: 50px;
@@ -223,7 +224,12 @@
 }
 .col1-color{
     background-color:#2eb8b8;
+    /*overflow: hidden;*/
 }
+/*.col2-color{*/
+/*    background-color: #70dbdb;*/
+/*    overflow: hidden;*/
+/*}*/
 .col-padding-util{
     padding-bottom: 50px;
     padding-top: 40px;
@@ -243,10 +249,79 @@
     font-weight: bold;
     font-size: 20px;
 }
-/*.rotate-torch{*/
-/*    transform: rotate(-20deg);*/
-/*}*/
+.more-percentages{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.circle-container{
+    position: relative;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
 
+.text-middle{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.words-below-wrap{
+    width: 100px;
+    height: auto;
+    box-sizing: border-box;
+    margin: auto;
+}
+.words-below{
+    font-weight: bold;
+    font-size: 30px;
+}
+.last-link-wrap{
+    width: 200px;
+    height: auto;
+    box-sizing: border-box;
+    margin: auto;
+}
+.last-link-style{
+    font-weight: bold;
+    color: white;
+}
+.style-center{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.container-cic{
+    padding-top: 100px;
+}
+.cic-title{
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 100px;
+}
+.cic-img-round{
+    border-radius: 50%;
+    border: 1px solid #a3a3c2;
+    padding: 5px;
+}
+.going-to-scale{
+    padding-top: 100px;
+}
+.scale-text{
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+.line-span{
+    color: #A1A1A1;
+}
+.box-center{
+    box-sizing: border-box;
+    max-width: 500px;
+    margin: auto;
+    height: auto;
+}
 @media only screen and (max-width: 480px){
     .text-img{
         font-size: 30px;
@@ -327,8 +402,26 @@
         font-size: 30px;
     }
     .percent-font{
+        font-size: 30px;
+    }
+    .percent-words{
+        font-size: 15px;
+    }
+    .text-middle{
+        top: 30%;
+        font-size: 15px;
+    }
+    .words-below{
         font-size: 20px;
     }
+    .container-cic{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .going-to-scale{
+        padding-top: 50px;
+    }
+
 
     /*.img-small-media{*/
     /*    height: 100%;*/
@@ -388,5 +481,9 @@
     }
     .trade-padding{
         padding-top: 50px;
+    }
+    .container-cic{
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
