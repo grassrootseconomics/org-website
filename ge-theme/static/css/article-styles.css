@@ -15,12 +15,13 @@
 }
 .article-entry-title a{
     color: black;
+    text-decoration: none;
 }
 .vcard-author a{
     color: gray;
 }
 .tags{
-    padding-top: 10px;
+    gap: 5px;
 }
 .tags a{
     text-decoration: none;
@@ -31,7 +32,6 @@
     border-right: 1px solid black;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
-    margin-right: 4px;
 }
 .tags a:hover{
     background-color: gray;
@@ -42,10 +42,10 @@
     text-decoration: underline;
 }
 @media only screen and (max-width: 480px){
-    .tags {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: left;
-        margin-top: 2px;
-    }
+    /*.tags {*/
+    /*    display: flex;*/
+    /*    flex-wrap: wrap;*/
+    /*    justify-content: left;*/
+    /*    margin-top: 2px;*/
+    /*}*/
 }

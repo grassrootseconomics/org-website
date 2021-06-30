@@ -7,7 +7,7 @@
 {% endblock %}
 
 {% block content %}
-<div class="container">
+<div class="container container-margins">
 <section id="content">
 {% block content_title %}
 <!--<h2 class="try">All articles</h2>-->
@@ -17,22 +17,24 @@
 {% for article in articles_page.object_list %}
         <li class="li-style"><article class="article-display">
             <div class="row">
-                <div class="col-6">
+                <div class="col-lg-6 col-md-12 col-sm-12">
                     <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"><img class="img-fluid img-resize" src="{{ SITEURL}}/images/blog/{{ article.slug}}1.webp"/></a>
                 </div>
 
-                <div class="col-6">
-                    <div class="post-info">
-                        <address class="vcard-author">By
-                        {% for author in article.authors %}
-                            <a class="author-url" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a><br>
-                        {% endfor %}
-                            <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
-                        </address>
-                    </div>
-                    <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
-                    <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
-                    <div class="article-display-footer">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="post-wrap">
+                        <div class="post-info">
+                            <address class="vcard-author">By
+                            {% for author in article.authors %}
+                                <a class="author-url" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a><br>
+                            {% endfor %}
+                                <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
+                            </address>
+                        </div>
+                        <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+                        <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
+                        <div class="article-display-footer">
+                        </div>
                     </div>
                 </div>
             </div>

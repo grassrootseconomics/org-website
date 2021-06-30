@@ -53,7 +53,7 @@
 <!--    </div>-->
 <!--    {% endif %}-->
     {% if article.tags %}
-    <div class="tags">
+    <div class=" d-flex flex-wrap tags">
         {% for tag in article.tags %}
             <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
         {% endfor %}
