@@ -1,0 +1,25 @@
+.img-ge-container{
+    position: relative;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+.text-inside1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #e6e6e6;
+    font-size: 70px;
+    font-weight: bold;
+}
+.text-inside2{
+    position: absolute;
+    /*margin-bottom: 10px;*/
+    /*bottom: 0;*/
+    left: 50%;
+    transform: translate(-50%, -40%);
+    color: #e6e6e6;
+    font-size: 70px;
+    font-weight: bold;
+}

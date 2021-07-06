@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" type="text/css" href="{{SITEURL}}/theme/css/get-involved.css">
+
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="img-ge-container">
+        <img class="img-fluid" src="{{SITEURL}}/theme/images/get-involved-imgs/howit-img1.webp">
+        <h1 class="join-forces1 text-inside1">Joining</h1>
+        <h1 class="join-forces2 text-inside2">FORCES</h1>
+    </div>
+    <div class="container container-getinv">
+        <div class="row pt-5">
+            <div class="col-6">
+                <p>We are seeking support to both spread our programs through training global leaders and currency designers and to deepen cooperative economic resilience in communities already using Community Currencies through increasing health, education and trade opportunities.</p>
+                <p><a class="geinv-link" href="https://www.grassrootseconomics.org/get-involved">Join our chat server!</a></p>
+            </div>
+            <div class="col-6">
+                <h2>WAYS IN WHICH YOU CAN GET INVOLVED</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
