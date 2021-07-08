@@ -23,6 +23,84 @@
 }
 .container-getinv{
     width: 50%;
+    padding-top: 40px;
+}
+.center-text{
+    text-align: center;
+}
+.ways-txt{
+    font-weight: bold;
+    padding-top: 20px;
+}
+.geinv-link{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+    color: black;
+}
+.geinv-link:hover{
+    color: black;
+}
+.geinv-butt-class{
+    padding-top: 40px;
+    gap: 30px;
+    text-align: center;
+}
+.geinv-buttons{
+    background: #ffffff;
+    border: 1px solid black;
+    color: black;
+    padding: 0.5em;
+    text-decoration: none;
+    width: 120px;
+    border-radius: 25px;
+}
+.line-deco{
+    padding-top: 50px;
+    width: 300px;
+    border-bottom: 3px solid black;
+}
+.available-positions{
+    padding-top: 60px;
+}
+.big-title{
+    font-weight: bold;
+}
+.row-pad{
+    padding-top: 60px;
+}
+.positions{
+    font-weight: bold;
+}
+.gev-img-round{
+    border-radius: 50%;
+    border: 1px solid #a3a3c2;
+    padding: 5px;
+}
+.img-pad{
+    padding-top: 30px;
+}
+.text-wrap{
+    box-sizing: border-box;
+    margin: auto;
+    max-width: 300px;
+}
+.gev-text{
+    padding-top: 30px;
+}
+.gev-small-text{
+    font-size: 13px;
+}
+.gev-italics{
+    font-style: italic;
+}
+.research-title{
+    padding-top: 60px;
+}
+.bigger-small-font{
+    padding-top: 30px;
+    font-size: 20px;
 }
 @media only screen and (max-width: 480px){
     .text-inside1{
@@ -34,6 +112,9 @@
     }
     .container-getinv{
         width: 100%;
+    }
+    .mobile-pad{
+        padding-top: 30px;
     }
 }
 @media (min-width: 600px) and (max-width: 1024px){
