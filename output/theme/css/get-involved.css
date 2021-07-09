@@ -102,6 +102,73 @@
     padding-top: 30px;
     font-size: 20px;
 }
+.research-row{
+    padding-top: 50px;
+}
+.wrap-this-text{
+    box-sizing: border-box;
+    margin: auto;
+    max-width: 250px;
+}
+.pad-this-text{
+    padding-top: 30px;
+}
+.calender-wrap{
+    width: 40%;
+}
+.calender-text{
+    padding-top: 30px;
+    font-size: 20px;
+}
+.big-link-font{
+    font-size: 25px;
+    font-weight: bold;
+}
+.backimg-big{
+    padding-top: 60px;
+}
+.backimg-container{
+    position: relative;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+.streched-back-img{
+    position: relative;
+    width: 100%;
+}
+.logo-img{
+    position: absolute;
+    top: 30px;
+    left: 30px
+}
+.community-title-wrap{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+.community-title{
+    color: white;
+    font-weight: bold;
+    font-size: 70px;
+}
+.container-mooc{
+    width: 50%;
+}
+.line-above{
+    color: #A1A1A1;
+}
+.mooc-text-wrap{
+    box-sizing: border-box;
+    max-width: 600px;
+    margin: auto;
+}
+.mooc-small-font{
+    padding-top: 10px;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
 @media only screen and (max-width: 480px){
     .text-inside1{
         font-size: 30px;
@@ -116,6 +183,31 @@
     .mobile-pad{
         padding-top: 30px;
     }
+    .pad-this-text{
+        padding-bottom: 30px;
+    }
+    .calender-wrap{
+        width: 100%;
+    }
+    .streched-back-img{
+        height: 300px;
+    }
+    .community-title-wrap{
+        top: 50%;
+        left: 45%;
+    }
+    .logo-img{
+        width: 40%;
+        height: 20%;
+        left: 10px
+    }
+    .community-title{
+        font-size: 30px;
+    }
+    .container-mooc{
+        width: 100%;
+    }
+
 }
 @media (min-width: 600px) and (max-width: 1024px){
     .text-inside1{
@@ -128,4 +220,18 @@
     .container-getinv{
         width: 80%;
     }
+    .calender-wrap{
+        width: 60%;
+    }
+    .community-title-wrap{
+        top: 50%;
+        left: 45%;
+    }
+    .community-title{
+        font-size: 30px;
+    }
+    .container-mooc{
+        width: 80%;
+    }
+
 }
