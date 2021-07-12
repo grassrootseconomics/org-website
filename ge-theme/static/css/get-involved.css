@@ -1,8 +1,13 @@
 .img-ge-container{
     position: relative;
     text-align: center;
-    height: 100%;
+    /*height: 500px;*/
+    /*height: 50%;*/
     width: 100%;
+}
+.img-cover{
+    width: 100%;
+    /*height: 50%;*/
 }
 .text-inside1{
     position: absolute;
@@ -168,6 +173,43 @@
     font-size: 20px;
     padding-bottom: 10px;
 }
+.bold-words{
+    box-sizing: border-box;
+    margin: auto;
+    max-width: 250px;
+    text-align: center;
+}
+.bold-big-font{
+    font-weight: bold;
+    font-size: 25px;
+}
+.big-carousel{
+    background-color: #EFF0F0;
+}
+.text-below{
+    padding-top: 40px;
+    box-sizing: border-box;
+    max-width: 600px;
+    margin: auto;
+    padding-bottom: 30px;
+}
+.car-big-font{
+    font-size: 20px;
+    font-style: italic;
+}
+.donate-img-wrap{
+    position: relative;
+    text-align: center;
+}
+.text-donate{
+    color: #e6e6e6;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+}
 
 @media only screen and (max-width: 480px){
     .text-inside1{
@@ -206,6 +248,9 @@
     }
     .container-mooc{
         width: 100%;
+    }
+    .text-donate{
+        font-size: 30px;
     }
 
 }
