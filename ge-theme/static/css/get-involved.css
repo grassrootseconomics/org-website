@@ -30,6 +30,9 @@
     width: 50%;
     padding-top: 40px;
 }
+.row-gev-pad{
+    padding-top: 50px;
+}
 .center-text{
     text-align: center;
 }
@@ -210,6 +213,19 @@
     transform: translate(-50%, -50%);
     font-size: 70px;
 }
+.container-impact{
+    width: 50%;
+    padding-top: 60px;
+}
+.multiply-wrap{
+    box-sizing: border-box;
+    max-width: 150px;
+    margin: auto;
+}
+.multiply-bold{
+    padding-top: 40px;
+    font-weight: bold;
+}
 
 @media only screen and (max-width: 480px){
     .text-inside1{
@@ -221,6 +237,9 @@
     }
     .container-getinv{
         width: 100%;
+    }
+    .row-gev-pad{
+        padding-top: 10px;
     }
     .mobile-pad{
         padding-top: 30px;
@@ -252,6 +271,13 @@
     .text-donate{
         font-size: 30px;
     }
+    .container-impact{
+        width: 100%;
+        padding-top: 40px;
+    }
+    .multiply-bold{
+        padding-top: 20px;
+    }
 
 }
 @media (min-width: 600px) and (max-width: 1024px){
@@ -276,6 +302,9 @@
         font-size: 30px;
     }
     .container-mooc{
+        width: 80%;
+    }
+    .container-impact{
         width: 80%;
     }
 
