@@ -1,0 +1,91 @@
+.re-img-container{
+    height: 450px;
+    position: relative;
+}
+.re-img{
+    width: 100%;
+    height: 100%;
+}
+.research-heading{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+}
+.research-container{
+    width: 50%;
+}
+.re-center-this{
+    text-align: center;
+}
+.re-link{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+    color: black;
+}
+.re-dataset-buttons{
+    padding-top: 30px;
+    gap: 30px;
+    text-align: center;
+}
+
+.dataset-download{
+    background: #33cccc;
+    border: 1px solid white;
+    color: white;
+    padding: 0.5em;
+    text-decoration: none;
+    width: 350px;
+    border-radius: 25px;
+}
+.dataset-download:hover{
+    color: black;
+}
+.re-inline-buttons{
+    gap: 30px;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    text-align: center;
+}
+.re-buttons{
+    background: #ffffff;
+    border: 1px solid black;
+    color: black;
+    padding: 0.5em;
+    text-decoration: none;
+    width: 250px;
+    border-radius: 25px;
+}
+.re-buttons:hover{
+    background-color: #3E3F45;
+    color: #b3e6ff;
+}
+
+@media only screen and (max-width: 480px){
+    .re-img-container{
+        height: 180px;
+    }
+    .research-heading{
+        font-size: 30px;
+    }
+    .research-container{
+        width: 100%;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1024px){
+    .re-img-container{
+        height: 300px;
+    }
+    .re-img-heading{
+        font-size: 50px;
+    }
+    .research-container{
+        width: 80%;
+    }
+}

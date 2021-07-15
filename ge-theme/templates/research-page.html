@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" type="text/css" href="{{SITEURL}}/theme/css/research.css">
+
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="re-img-container">
+        <img class="img-fluid re-img" src="{{SITEURL}}/theme/images/research-imgs/research-img1.webp">
+        <h1 class="research-heading">Research</h1>
+    </div>
+    <div class="container research-container pt-5">
+        <div class="re-center-this">
+            <p>We do regular monitoring and evaluation on the impact of our programs and collaborate with researchers from around the world. Data is collected through digital (blockchain-based) transaction data, journals and surveys of people using and not using Community Currencies.</p>
+            <p>Data definitions can be found <a class="re-link" href="https://gitlab.com/grassrootseconomics/cic-docs/-/blob/master/TransactionDatasets.md">here</a> and datasets can be downloaded below.</p>
+        </div>
+        <div class="d-flex justify-content-center re-dataset-buttons">
+            <a class="dataset-download" href="{{SITEURL}}/theme/datasets/POA_sarafu_tx_and_users_all_pub_2018-201.zip" download="POA_sarafu_tx_and_users-2018">2018-2019 POA Blockchain Data</a>
+            <a class="dataset-download" href="{{SITEURL}}/theme/datasets/Sarafu_xdai_data_July_13_2021.zip" download="POA_sarafu_tx_and_users-2018">2020-July 13 2021 DAI Blockchain Data</a>
+        </div>
+        <div class="d-flex justify-content-center re-inline-buttons">
+            <a class="re-buttons" href="#">Published Research Papers</a>
+            <a class="re-buttons" href="https://play.grassecon.org/">Demo CIC Creation</a>
+            <a class="re-buttons" href="https://dashboard.sarafu.network/">CIC Data Dashboard</a>
+            <a class="re-buttons" href="https://gitlab.com/grassrootseconomics/cic-docs">White paper&docs&code</a>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
