@@ -16,7 +16,7 @@
     font-weight: bold;
 }
 .research-container{
-    width: 50%;
+    width: 40%;
 }
 .re-center-this{
     text-align: center;
@@ -28,14 +28,75 @@
     text-decoration-thickness: 3px;
     color: black;
 }
+.re-dataset-buttons{
+    padding-top: 30px;
+    gap: 30px;
+    text-align: center;
+}
+
 .dataset-download{
+    background: #33cccc;
+    border: 1px solid white;
+    color: white;
+    padding: 0.5em;
+    text-decoration: none;
+    width: 350px;
+    border-radius: 25px;
+}
+.dataset-download:hover{
+    color: black;
+}
+.re-inline-buttons{
+    gap: 30px;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    text-align: center;
+}
+.re-buttons{
     background: #ffffff;
     border: 1px solid black;
     color: black;
     padding: 0.5em;
     text-decoration: none;
-    width: auto;
+    width: 250px;
     border-radius: 25px;
+}
+.re-buttons:hover{
+    background-color: #3E3F45;
+    color: #b3e6ff;
+}
+.blue-section{
+    background-color: #ebfafa
+}
+.list-section{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.crisis-response{
+    padding-top: 60px;
+}
+.re-small-font{
+    font-size: 20px;
+}
+.re-articles{
+    padding-top: 70px;
+}
+.bold-font{
+    font-weight: bold;
+}
+.click-here{
+    background: #ffffff;
+    border: 1px solid black;
+    color: black;
+    padding: 0.5em;
+    text-decoration: none;
+    width: 200px;
+    border-radius: 25px;
+    text-align: center;
+}
+.bottom-line{
+    border-bottom: 2px solid black;
+    width: 100%;
 }
 
 @media only screen and (max-width: 480px){

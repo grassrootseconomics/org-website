@@ -79,7 +79,10 @@
     font-size: 20px;
 }
 .re-articles{
-    padding-top: 70px;
+    padding-top: 30px;
+}
+.article_r{
+    padding-top: 40px;
 }
 .bold-font{
     font-weight: bold;
@@ -97,6 +100,9 @@
 .bottom-line{
     border-bottom: 2px solid black;
     width: 100%;
+}
+.re-last-line{
+    color: #A1A1A1;
 }
 
 @media only screen and (max-width: 480px){
