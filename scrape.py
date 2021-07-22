@@ -1,9 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
+import shutil
+import urllib.parse
 
 index_page = "https://www.grassrootseconomics.org/post/claims-and-currencies"
 html_text = requests.get(index_page).text
 soup = BeautifulSoup(html_text, 'lxml')
+imgdir = "content/images/blog"
 
 def findwriter(soup):
     authors = soup.find_all('span', class_='iYG_V user-name _4AzY3')
@@ -77,14 +80,44 @@ def findslug(title):
     print(slug)
 # findslug(text)
 
-def filtercontent(soup):
-    maincontent = soup.find('div', id="content-wrapper")
-    paragraphs = maincontent.find_all('p')
-    for par in paragraphs:
-        print(par.prettify())
-    # print(maincontent.prettify())
+def finddownloadimg(soup):
+    newtitle, titletext = findtitle(soup)
+    imgsinpage = []
+    divwrap = soup.find_all('div', class_="_3lvoN LPH2h")
+    for wrap in divwrap:
+        imgtags = wrap.img
+        imgsrc = imgtags.attrs['src']
+        imgsinpage.append(imgsrc)
 
-filtercontent(soup)
+    for i, imgsrc in enumerate(imgsinpage):
+        r = requests.get(imgsrc, stream=True)
+        if r.status_code == 200:
+            filename = "/" + "try" + str(i+1) + ".jpg"
+            print(filename)
+            with open(urllib.parse.urljoin(imgdir, filename), 'wb') as f:
+                r.raw.decode_content = True
+                shutil.copyfileobj(r.raw, f)
+        else:
+            print("cannot find image")
+
+
+
+
+
+
+finddownloadimg(soup)
+# def filtercontent(soup):
+#     maincontent = soup.find('div', id="content-wrapper")
+#     paragraphs = maincontent.find_all('p')
+#     for par in paragraphs:
+#         print(par.prettify())
+#     # print(maincontent.prettify())
+#
+# filtercontent(soup)
+
+
+
+
 # print(soup.find_all(id=True))
 # for tag in soup.find_all(True):
 #     print(tag.name)
