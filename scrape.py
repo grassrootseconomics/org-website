@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 import shutil
-import urllib.parse
 
-index_page = "https://www.grassrootseconomics.org/post/claims-and-currencies"
+
+index_page = "https://www.grassrootseconomics.org/post/recycling-debt"
 html_text = requests.get(index_page).text
 soup = BeautifulSoup(html_text, 'lxml')
 imgdir = "content/images/blog"
@@ -69,6 +69,7 @@ def findtitle(soup):
     return newtitle, titletext
 
 tagtitle, text = findtitle(soup)
+print(tagtitle)
 
 def findslug(title):
     words = title.replace(',','').replace("'",'').replace(":", '').replace("(",'').replace(")",'')
@@ -77,11 +78,13 @@ def findslug(title):
     second = words[1]
     slug = first + "-" + second
     slug = slug.lower()
-    print(slug)
-# findslug(text)
+    return slug
+
+# print(findslug(text))
 
 def finddownloadimg(soup):
-    newtitle, titletext = findtitle(soup)
+    title, slugtitle = findtitle(soup)
+    titletext = findslug(slugtitle)
     imgsinpage = []
     divwrap = soup.find_all('div', class_="_3lvoN LPH2h")
     for wrap in divwrap:
@@ -92,26 +95,79 @@ def finddownloadimg(soup):
     for i, imgsrc in enumerate(imgsinpage):
         r = requests.get(imgsrc, stream=True)
         if r.status_code == 200:
-            filename = "/" + "try" + str(i+1) + ".jpg"
-            print(filename)
-            with open(urllib.parse.urljoin(imgdir, filename), 'wb') as f:
+            filename = "/" + str(titletext) + str(i+1) + ".webp"
+            pathtofile = imgdir + filename
+            # print(pathtofile)
+            with open(pathtofile, 'wb') as f:
                 r.raw.decode_content = True
                 shutil.copyfileobj(r.raw, f)
         else:
             print("cannot find image")
 
+# finddownloadimg(soup)
+
+def changehrefs(soup):
+    articlesection = soup.find('div', class_ = "post-content__body")
+
+    alllinks = articlesection.find_all('a', class_="_2qJYG _2E8wo")
+    for link in alllinks:
+        linktext = link.text
+        linkhref = link['href']
+        newlinks = "`" + linktext + "<" + linkhref + ">" + "`" + "_"
+        print(newlinks)
+
+# changehrefs(soup)
+
+def subtitles(soup):
+    bold = soup.find_all('h2', class_= "_3f-vr _208Ie blog-post-title-font _1Hxbl _3SkfC _2QAo- _25MYV _2WrB- _1atvN public-DraftStyleDefault-block-depth0 public-DraftStyleDefault-text-ltr")
+    for b in bold:
+        text = b.text
+        newtext = text + "\n*************************************************"
+        print(newtext)
+
+# subtitles(soup)
+
+def italics(soup):
+    itl = soup.find_all('em')
+    for i in itl:
+        text = i.text.lstrip().rstrip()
+        newtext = "*"+ text + "*"
+        print(newtext)
+
+# italics(soup)
+
+def bold(soup):
+    boldt = soup.find_all('strong')
+    for bt in boldt:
+        txt = bt.text.lstrip().rstrip()
+        newtxt = "**"+txt+"**"
+        print(newtxt)
+
+# bold(soup)
 
 
+# def iframeproces(soup):
+    # iframe = soup.find('iframe', id="widget2")
+    # print(iframe)
+    # content = soup.find_all('div', class_= "post-content__body")
+    # for tag in soup.find_all(True):
+    #     print(tag.name)
+    # wrap = content.find('div', class_="o56NN")
+    # for w in wrap.children:
+    #     print(w)
+    # for w in wrap:
+    #     iframe = w.decendants
+    #     print(iframe)
+
+    # for frame in iframes:
+    #     print(frame)
+
+# iframeproces(soup)
 
 
-
-finddownloadimg(soup)
 # def filtercontent(soup):
 #     maincontent = soup.find('div', id="content-wrapper")
-#     paragraphs = maincontent.find_all('p')
-#     for par in paragraphs:
-#         print(par.prettify())
-#     # print(maincontent.prettify())
+#
 #
 # filtercontent(soup)
 
