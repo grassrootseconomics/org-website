@@ -1,0 +1,43 @@
+.cont-reduce{
+    width: 50%;
+}
+.media-center{
+    text-align: center;
+}
+.media-title{
+    padding-top: 40px;
+    font-weight: bold;
+}
+.news-title{
+    font-weight: bold;
+}
+.media-link{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+    color: black;
+}
+.media-link:hover{
+    color: black;
+}
+.bfont{
+    font-size: 20px;
+}
+.black-line{
+    border-bottom: black;
+    width: 400px;
+}
+@media only screen and (max-width: 480px){
+    .cont-reduce{
+        width: 100%;
+    }
+}
+
+
+@media (min-width: 600px) and (max-width: 1024px){
+    .cont-reduce{
+        width: 80%;
+    }
+
+}
