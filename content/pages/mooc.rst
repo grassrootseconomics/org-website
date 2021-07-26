@@ -1,2 +1,2 @@
-MOOC
-######
+:title: MOOC
+:template: moocpage

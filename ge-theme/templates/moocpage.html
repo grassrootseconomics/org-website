@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" type="text/css" href="{{SITEURL}}/theme/css/moocstyles.css">
+{% endblock %}
+
+{% block content %}
+
+<div class="container mooc-container">
+    <div class="pt-5">
+        <h4 class="mooc-center join-title">Join us for our free online course!</h4>
+    </div>
+    <div class="pt-3">
+        <p class="mooc-center">You will learn to develop paper based community currencies: This course pre-dates our digital Community
+            Inclusion Currencies for more recent trainings visit the links below.</p>
+    </div>
+    <div class="pt-5">
+        <p>Video missing</p>
+    </div>
+    <div class="row pt-5">
+<!--        <p class="in-font">Take the course here       or          Access the resource here</p>-->
+<!--        <div class="col-4">-->
+<!--            <p class="in-font">Take course here</p>-->
+<!--        </div>-->
+<!--        <div class="col-4 mooc-center">-->
+<!--            <p class="in-font">or</p>-->
+<!--        </div>-->
+<!--        <div class="col-4">-->
+<!--            <p class="in-font">Access the resource here:</p>-->
+<!--        </div>-->
+    </div>
+    <div class="row pt-5 pb-5">
+        <div class="col-6 mooc-center">
+            <p class="in-font pb-5">Take the course</p>
+            <a class="m-button" href="https://www.grassrootseconomics.org/mooc-1">Let's begin</a>
+        </div>
+        <div class="col-6 ">
+            <p class="in-font ">Acess the resource here:</p>
+            <div class="d-flex align-items-center mooc-gap">
+                <div class="flex-shrink-0">
+                    <a href="https://www.youtube.com/playlist?list=PLPUExzwZAUpbaCnZSJPxMve-h1yys54v4"><img class="img-fluid" src="{{SITEURL}}/theme/images/mooc-imgs/tube-icon.webp"></a>
+                </div>
+                <div class="flex-grow-1 ms-3">
+                    Course videos
+                </div>
+            </div>
+            <div class="d-flex align-items-center mooc-gap">
+                <div class="flex-shrink-0">
+                    <a href="https://www.youtube.com/playlist?list=PLPUExzwZAUpbEInJy_8Wj_c_mDsw7-qXe"><img class="img-fluid" src="{{SITEURL}}/theme/images/mooc-imgs/tube-icon.webp"></a>
+                </div>
+                <div class="flex-grow-1 ms-3">
+                    Village Market Simulator
+                </div>
+            </div>
+            <div class="d-flex align-items-center mooc-gap">
+                <div class="flex-shrink-0">
+                    <a href="https://github.com/GrassrootsEconomics"><img class="img-fluid" src="{{SITEURL}}/theme/images/mooc-imgs/github-icon.webp"></a>
+                </div>
+                <div class="flex-grow-1 ms-3">
+                    <a class="mooclink" href="https://gitlab.com/grassrootseconomics/cic-docs">Gitlab resources</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr class="moc-lastline">
+{% endblock %}

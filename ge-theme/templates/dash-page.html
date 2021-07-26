@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" type="text/css" href="{{SITEURL}}/theme/css/dashboard.css">
+{% endblock %}
+
+{% block content %}
+<div class="container dash-cont">
+    <div class="pt-5">
+        <img class="img-fluid img-dash" src="{{SITEURL}}/theme/images/dashboard/dash1.webp">
+    </div>
+    <div class="pt-5">
+        <h3>Dashboard</h3>
+        <p>These dashboards are derived from transactional data of individual Community Inclusion Currency Users.For raw
+            data access visit our <a class="dash-link" href="{{SITEURL}}/pages/research.html">research page.</a></p>
+    </div>
+    <div class="dash-center pt-5">
+        <img class="img-fluid img-dash" src="{{SITEURL}}/theme/images/dashboard/dash2.webp">
+    </div>
+    <div class="pt-5 pb-5">
+        <h3>Help us with Data Analysis and Visualization!</h3>
+        <p><a class="dash-link" href="{{SITEURL}}/pages/contact-us.html">Contact us</a> so we can start working together.</p>
+    </div>
+</div>
+<hr class="dashline">
+{% endblock %}
