@@ -25,19 +25,63 @@
     font-size: 20px;
 }
 .black-line{
-    border-bottom: black;
+    border-bottom: 1px solid black;
     width: 400px;
+    margin: auto;
 }
+.media-iframe{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+.media-iframe iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.vid-words{
+    padding-top: 70px;
+}
+.video-wrap{
+   width: 500px;
+    margin: auto;
+}
+.pdf-wrap{
+    width: 200px;
+    border: white solid 2px;
+}
+.pdfsec{
+    gap: 30px;
+}
+.blue-link{
+    text-decoration: none;
+    color: #3385ff;
+}
+/*.line-under{*/
+/*    text-decoration: underline;*/
+/*    text-decoration-thickness: 3px;*/
+/*}*/
 @media only screen and (max-width: 480px){
     .cont-reduce{
         width: 100%;
     }
+    .vid-words{
+        padding-top: 0;
+    }
+
 }
 
 
 @media (min-width: 600px) and (max-width: 1024px){
     .cont-reduce{
         width: 80%;
+    }
+    .vid-words{
+        padding-top: 0;
     }
 
 }
