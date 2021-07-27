@@ -1,2 +1,2 @@
-Contact us
-############
+:title: Contact us
+:template: contactpage
