@@ -3,10 +3,11 @@ import requests
 import shutil
 
 
-index_page = "https://www.grassrootseconomics.org/post/recycling-debt"
+index_page = "https://www.grassrootseconomics.org/post/claims-and-currencies"
 html_text = requests.get(index_page).text
 soup = BeautifulSoup(html_text, 'lxml')
 imgdir = "content/images/blog"
+storeimg = "images/blog"
 
 def findwriter(soup):
     authors = soup.find_all('span', class_='iYG_V user-name _4AzY3')
@@ -14,7 +15,8 @@ def findwriter(soup):
         tag = author.text
         out = ":author: "
         strauth = out + tag
-        print(strauth)
+        # print(strauth)
+        return strauth
 
 # findwriter(soup)
 
@@ -24,7 +26,9 @@ def findtime(soup):
         tag = time.text
         out = ":date: "
         strauth = out + tag
-        print(strauth)
+        # print(strauth)
+        return strauth
+
 
 # findtime(soup)
 
@@ -43,6 +47,7 @@ def findtags(soup):
         newstr = apptags[0]
         strout = out + newstr
         print(strout)
+    return strout
 
 # findtags(soup)
 
@@ -56,6 +61,7 @@ def findmodified(soup):
             modified = modified.replace('Updated:', '')
             strout = out + modified
             print(strout)
+            return strout
     except:
         print("no such class for modified date")
 
@@ -69,7 +75,7 @@ def findtitle(soup):
     return newtitle, titletext
 
 tagtitle, text = findtitle(soup)
-print(tagtitle)
+# print(tagtitle)
 
 def findslug(title):
     words = title.replace(',','').replace("'",'').replace(":", '').replace("(",'').replace(")",'')
@@ -78,7 +84,8 @@ def findslug(title):
     second = words[1]
     slug = first + "-" + second
     slug = slug.lower()
-    return slug
+    slugwrite = ":slug: " +slug
+    return slug, slugwrite
 
 # print(findslug(text))
 
@@ -115,6 +122,7 @@ def changehrefs(soup):
         linkhref = link['href']
         newlinks = "`" + linktext + "<" + linkhref + ">" + "`" + "_"
         print(newlinks)
+        return newlinks
 
 # changehrefs(soup)
 
@@ -124,6 +132,7 @@ def subtitles(soup):
         text = b.text
         newtext = text + "\n*************************************************"
         print(newtext)
+        return newtext
 
 # subtitles(soup)
 
@@ -133,6 +142,7 @@ def italics(soup):
         text = i.text.lstrip().rstrip()
         newtext = "*"+ text + "*"
         print(newtext)
+        return newtext
 
 # italics(soup)
 
@@ -142,8 +152,20 @@ def bold(soup):
         txt = bt.text.lstrip().rstrip()
         newtxt = "**"+txt+"**"
         print(newtxt)
+        return newtxt
 
 # bold(soup)
+def unorderedlist(soup):
+    # content = soup.find('div', class_="_6SyeS")
+    lis = []
+    li = soup.find_all('li')
+    for l in li:
+        # li = l.find('li')
+        lis.append(l.text+ "\n")
+    return lis
+
+
+# unorderedlist(soup)
 
 
 # def iframeproces(soup):
@@ -165,11 +187,87 @@ def bold(soup):
 # iframeproces(soup)
 
 
-# def filtercontent(soup):
-#     maincontent = soup.find('div', id="content-wrapper")
-#
-#
-# filtercontent(soup)
+def filtercontent(soup):
+    maincontent = soup.find('div', class_="_6SyeS")
+    title, words = findtitle(soup)
+    author = findwriter(soup)
+    date = findtime(soup)
+    slug, slugtext = findslug(words)
+    tags = findtags(soup)
+
+
+    modified = findmodified(soup)
+    blogpath = "content/blog/"
+    filename = slug + '.rst'
+    filepath = blogpath + filename
+    fileobj = open(filepath, 'a')
+    list = [title +"\n", author+ "\n", date+"\n", slugtext+"\n", modified+"\n", tags+"\n\n"]
+    fileobj.writelines(list)
+    print(filepath)
+
+    for i, tag in enumerate(maincontent.find_all(True)):
+        if tag.name == 'li':
+            newlist = "\t" + "*" + " " + tag.text + "\n"
+            fileobj.write(newlist)
+        if tag.name == 'a':
+            linktext = tag.text
+            linkhref = tag['href']
+            newlinks = "`" + linktext + " " + "<" + linkhref + ">" + "`" + "_" + "\t"
+            # print(newlinks)
+            fileobj.write(newlinks)
+        if tag.name == 'span':
+            spantext = "\n" + tag.text + "\n"
+            fileobj.write(spantext)
+        if tag.name == 'h2':
+            text = tag.text
+            newtext = "\n" +text + "\n*******************************************************"
+            fileobj.write(newtext)
+        if tag.name == 'strong':
+            txt = tag.text.lstrip().rstrip()
+            newtxt = "**" + txt + "**"
+            fileobj.write(newtxt)
+        if tag.name == 'em':
+            text = tag.text.lstrip().rstrip()
+            newtext = "*" + text + "*"
+            fileobj.write(newtext)
+        if tag.name == 'img':
+            title, slugtitle = findtitle(soup)
+            titletext, _ = findslug(slugtitle)
+            imgsrc = tag.attrs['src']
+            r = requests.get(imgsrc, stream=True)
+            if r.status_code == 200:
+                filename = "/" + str(titletext) + str(i + 1) + ".webp"
+                pathtofile = imgdir + filename
+                storedimg = storeimg + filename
+                # print(pathtofile)
+                with open(pathtofile, 'wb') as f:
+                    r.raw.decode_content = True
+                    shutil.copyfileobj(r.raw, f)
+                imagrst = "\n"+".. image:: " + storedimg + "\n"
+                fileobj.write(imagrst)
+            else:
+                print("cannot find image")
+
+        # if tag.span['class'] == "vkIF2 public-DraftStyleDefault-ltr":
+        #     text = tag.text
+        #     print(text)
+
+
+
+            # print(i)
+
+    #         list = unorderedlist(maincontent)
+    #         print(list)
+
+        # if tag.name == 'a':
+        #     print(tag)
+        # print(isinstance(tag.name, str))
+        # print(tag.name)
+        #
+
+
+
+filtercontent(soup)
 
 
 
