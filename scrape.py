@@ -1,9 +1,31 @@
 from bs4 import BeautifulSoup
 import requests
 import shutil
+from selenium import webdriver
+
+# browser = webdriver.Firefox()
+# browser.get("https://www.grassrootseconomics.org/_api/communities-blog-node-api/_api/posts?offset=80&size=20&pinnedFirst=true&excludeContent=true")
+# browser.implicitly_wait(90)
 
 
-index_page = "https://www.grassrootseconomics.org/post/claims-and-currencies"
+index_blog = "https://www.grassrootseconomics.org/blog"
+infpage = requests.get("https://www.grassrootseconomics.org/_api/communities-blog-node-api/_api/posts?offset=80&size=20&pinnedFirst=true&excludeContent=true").text
+# html_blog = requests.get(index_blog).text
+mainsoup = BeautifulSoup(infpage, 'lxml')
+
+atitles = mainsoup.findAll('a', class_="_2oveR _2llBS _1e-gz _3T8tF")
+# btitles = mainsoup.findAll('a', class_="_2oveR _2llBS _1e-gz _3T8tF")
+# divtitles = mainsoup.findAll('div', class_="bmMd1 blog-post-homepage-link-hashtag-hover-color _2uDiB _1e-gz")
+# print(len(divtitles))
+
+print(len(atitles))
+# for at in atitles:
+    # print(at)
+    # hrefs = at['href']
+    # print(hrefs)
+
+
+index_page = "https://www.grassrootseconomics.org/post/smes-the-missing-link-in-circular-economies"
 html_text = requests.get(index_page).text
 soup = BeautifulSoup(html_text, 'lxml')
 imgdir = "content/images/blog"
@@ -33,21 +55,25 @@ def findtime(soup):
 # findtime(soup)
 
 def findtags(soup):
-    listtags = soup.find_all('li', class_='_3uJTw')
-    out = ":tags: "
-    apptags = []
-    for lists in listtags:
-        tags = lists.text
-        apptags.append(tags)
-    if len(apptags) > 1:
-        newstr = ",".join(apptags)
-        strout = out + newstr
-        print(strout)
-    else:
-        newstr = apptags[0]
-        strout = out + newstr
-        print(strout)
-    return strout
+    try:
+        listtags = soup.find_all('li', class_='_3uJTw')
+        out = ":tags: "
+        apptags = []
+        for lists in listtags:
+            tags = lists.text
+            apptags.append(tags)
+        if len(apptags) > 1:
+            newstr = ",".join(apptags)
+            strout = out + newstr
+            print(strout)
+        else:
+            newstr = apptags[0]
+            strout = out + newstr
+            print(strout)
+        return strout
+    except:
+        print("no tags found here")
+        return " "
 
 # findtags(soup)
 
@@ -55,15 +81,16 @@ def findmodified(soup):
     try:
         updated = soup.find('p', class_="_2aGvg _1AZWZ")
         out = ":modified: "
-        for update in updated:
-            uptime = update.span
-            modified = uptime.text
-            modified = modified.replace('Updated:', '')
-            strout = out + modified
-            print(strout)
-            return strout
+
+        uptime = updated.span
+        modified = uptime.text
+        modified = modified.replace('Updated:', '')
+        strout = out + modified
+        print(strout)
+        return strout
     except:
         print("no such class for modified date")
+        return " "
 
 # findmodified(soup)
 
@@ -206,30 +233,48 @@ def filtercontent(soup):
     print(filepath)
 
     for i, tag in enumerate(maincontent.find_all(True)):
+
         if tag.name == 'li':
             newlist = "\t" + "*" + " " + tag.text + "\n"
             fileobj.write(newlist)
+
         if tag.name == 'a':
             linktext = tag.text
             linkhref = tag['href']
-            newlinks = "`" + linktext + " " + "<" + linkhref + ">" + "`" + "_" + "\t"
+            newlinks = "\t" + "`" + linktext + " " + "<" + linkhref + ">" + "`" + "_" + "\t"
             # print(newlinks)
             fileobj.write(newlinks)
+
         if tag.name == 'span':
-            spantext = "\n" + tag.text + "\n"
-            fileobj.write(spantext)
-        if tag.name == 'h2':
-            text = tag.text
-            newtext = "\n" +text + "\n*******************************************************"
-            fileobj.write(newtext)
-        if tag.name == 'strong':
-            txt = tag.text.lstrip().rstrip()
-            newtxt = "**" + txt + "**"
-            fileobj.write(newtxt)
-        if tag.name == 'em':
-            text = tag.text.lstrip().rstrip()
-            newtext = "*" + text + "*"
-            fileobj.write(newtext)
+            for child in tag.children:
+                if child.name == None:
+                    spantext = "\n" + tag.text + "\n"
+                    fileobj.write(spantext)
+                if child.name == 'h2':
+                    text = tag.text
+                    newtext = "\n" + text + "\n*******************************************************"
+                    fileobj.write(newtext)
+                if child.name == 'strong':
+                    txt = tag.text.lstrip().rstrip()
+                    newtxt = "\t"+"**" + txt + "**"+"\t"
+                    fileobj.write(newtxt)
+                if child.name == 'em':
+                    text = tag.text.lstrip().rstrip()
+                    newtext = "\t" +"*" + text + "*" + "\n"
+                    fileobj.write(newtext)
+
+        # if tag.name == 'h2':
+        #     text = tag.text
+        #     newtext = "\n" +text + "\n*******************************************************"
+        #     fileobj.write(newtext)
+        # if tag.name == 'strong':
+        #     txt = tag.text.lstrip().rstrip()
+        #     newtxt = "**" + txt + "**"
+        #     fileobj.write(newtxt)
+        # if tag.name == 'em':
+        #     text = tag.text.lstrip().rstrip()
+        #     newtext = "*" + text + "*"
+        #     fileobj.write(newtext)
         if tag.name == 'img':
             title, slugtitle = findtitle(soup)
             titletext, _ = findslug(slugtitle)
@@ -243,10 +288,15 @@ def filtercontent(soup):
                 with open(pathtofile, 'wb') as f:
                     r.raw.decode_content = True
                     shutil.copyfileobj(r.raw, f)
-                imagrst = "\n"+".. image:: " + storedimg + "\n"
+                imagrst = "\n\n"+".. image:: " + storedimg + "\n\n"
                 fileobj.write(imagrst)
             else:
                 print("cannot find image")
+
+        if tag.name == 'iframe':
+            print("iframe found here")
+
+
 
         # if tag.span['class'] == "vkIF2 public-DraftStyleDefault-ltr":
         #     text = tag.text
@@ -267,7 +317,7 @@ def filtercontent(soup):
 
 
 
-filtercontent(soup)
+# filtercontent(soup)
 
 
 
