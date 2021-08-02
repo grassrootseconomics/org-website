@@ -2,34 +2,40 @@ from bs4 import BeautifulSoup
 import requests
 import shutil
 from selenium import webdriver
+import time
+import logging
 
-# browser = webdriver.Firefox()
-# browser.get("https://www.grassrootseconomics.org/_api/communities-blog-node-api/_api/posts?offset=80&size=20&pinnedFirst=true&excludeContent=true")
-# browser.implicitly_wait(90)
+browser = webdriver.Firefox()
+browser.get("https://www.grassrootseconomics.org/blog")
 
+browser.implicitly_wait(90)
 
-index_blog = "https://www.grassrootseconomics.org/blog"
-infpage = requests.get("https://www.grassrootseconomics.org/_api/communities-blog-node-api/_api/posts?offset=80&size=20&pinnedFirst=true&excludeContent=true").text
-# html_blog = requests.get(index_blog).text
-mainsoup = BeautifulSoup(infpage, 'lxml')
+scrollnumber = 13
+for i in range(1, scrollnumber):
+    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(5)
+
+gretext = "https://www.grassrootseconomics.org/post/gre-for-me"
+html_text = requests.get(gretext).text
+soup = BeautifulSoup(html_text, 'lxml')
+
+mainsoup = BeautifulSoup(browser.page_source, 'lxml')
+bloglinks = []
 
 atitles = mainsoup.findAll('a', class_="_2oveR _2llBS _1e-gz _3T8tF")
-# btitles = mainsoup.findAll('a', class_="_2oveR _2llBS _1e-gz _3T8tF")
-# divtitles = mainsoup.findAll('div', class_="bmMd1 blog-post-homepage-link-hashtag-hover-color _2uDiB _1e-gz")
-# print(len(divtitles))
 
-print(len(atitles))
-# for at in atitles:
-    # print(at)
-    # hrefs = at['href']
-    # print(hrefs)
+for a in atitles:
+    hrefs = a['href']
+    bloglinks.append(hrefs)
 
+print(len(bloglinks))
 
-index_page = "https://www.grassrootseconomics.org/post/smes-the-missing-link-in-circular-economies"
-html_text = requests.get(index_page).text
-soup = BeautifulSoup(html_text, 'lxml')
 imgdir = "content/images/blog"
 storeimg = "images/blog"
+
+logging.basicConfig(filename='loginginfo.log', encoding='utf-8', level=logging.INFO)
+logging.info("Running scrape")
+
 
 def findwriter(soup):
     authors = soup.find_all('span', class_='iYG_V user-name _4AzY3')
@@ -65,14 +71,14 @@ def findtags(soup):
         if len(apptags) > 1:
             newstr = ",".join(apptags)
             strout = out + newstr
-            print(strout)
+            # print(strout)
         else:
             newstr = apptags[0]
             strout = out + newstr
-            print(strout)
+            # print(strout)
         return strout
     except:
-        print("no tags found here")
+        # print("no tags found here")
         return " "
 
 # findtags(soup)
@@ -86,10 +92,9 @@ def findmodified(soup):
         modified = uptime.text
         modified = modified.replace('Updated:', '')
         strout = out + modified
-        print(strout)
         return strout
     except:
-        print("no such class for modified date")
+        # print("no such class for modified date")
         return " "
 
 # findmodified(soup)
@@ -101,11 +106,11 @@ def findtitle(soup):
     newtitle = out + titletext
     return newtitle, titletext
 
-tagtitle, text = findtitle(soup)
+# tagtitle, text = findtitle(soup)
 # print(tagtitle)
 
 def findslug(title):
-    words = title.replace(',','').replace("'",'').replace(":", '').replace("(",'').replace(")",'')
+    words = title.replace(',','').replace("'",'').replace(":", '').replace("(",'').replace(")",'').replace("&",'')
     words = words.split()
     first = words[0]
     second = words[1]
@@ -114,85 +119,6 @@ def findslug(title):
     slugwrite = ":slug: " +slug
     return slug, slugwrite
 
-# print(findslug(text))
-
-def finddownloadimg(soup):
-    title, slugtitle = findtitle(soup)
-    titletext = findslug(slugtitle)
-    imgsinpage = []
-    divwrap = soup.find_all('div', class_="_3lvoN LPH2h")
-    for wrap in divwrap:
-        imgtags = wrap.img
-        imgsrc = imgtags.attrs['src']
-        imgsinpage.append(imgsrc)
-
-    for i, imgsrc in enumerate(imgsinpage):
-        r = requests.get(imgsrc, stream=True)
-        if r.status_code == 200:
-            filename = "/" + str(titletext) + str(i+1) + ".webp"
-            pathtofile = imgdir + filename
-            # print(pathtofile)
-            with open(pathtofile, 'wb') as f:
-                r.raw.decode_content = True
-                shutil.copyfileobj(r.raw, f)
-        else:
-            print("cannot find image")
-
-# finddownloadimg(soup)
-
-def changehrefs(soup):
-    articlesection = soup.find('div', class_ = "post-content__body")
-
-    alllinks = articlesection.find_all('a', class_="_2qJYG _2E8wo")
-    for link in alllinks:
-        linktext = link.text
-        linkhref = link['href']
-        newlinks = "`" + linktext + "<" + linkhref + ">" + "`" + "_"
-        print(newlinks)
-        return newlinks
-
-# changehrefs(soup)
-
-def subtitles(soup):
-    bold = soup.find_all('h2', class_= "_3f-vr _208Ie blog-post-title-font _1Hxbl _3SkfC _2QAo- _25MYV _2WrB- _1atvN public-DraftStyleDefault-block-depth0 public-DraftStyleDefault-text-ltr")
-    for b in bold:
-        text = b.text
-        newtext = text + "\n*************************************************"
-        print(newtext)
-        return newtext
-
-# subtitles(soup)
-
-def italics(soup):
-    itl = soup.find_all('em')
-    for i in itl:
-        text = i.text.lstrip().rstrip()
-        newtext = "*"+ text + "*"
-        print(newtext)
-        return newtext
-
-# italics(soup)
-
-def bold(soup):
-    boldt = soup.find_all('strong')
-    for bt in boldt:
-        txt = bt.text.lstrip().rstrip()
-        newtxt = "**"+txt+"**"
-        print(newtxt)
-        return newtxt
-
-# bold(soup)
-def unorderedlist(soup):
-    # content = soup.find('div', class_="_6SyeS")
-    lis = []
-    li = soup.find_all('li')
-    for l in li:
-        # li = l.find('li')
-        lis.append(l.text+ "\n")
-    return lis
-
-
-# unorderedlist(soup)
 
 
 # def iframeproces(soup):
@@ -248,11 +174,11 @@ def filtercontent(soup):
         if tag.name == 'span':
             for child in tag.children:
                 if child.name == None:
-                    spantext = "\n" + tag.text + "\n"
+                    spantext = "\n\n" + tag.text + "\n\n"
                     fileobj.write(spantext)
                 if child.name == 'h2':
                     text = tag.text
-                    newtext = "\n" + text + "\n*******************************************************"
+                    newtext = "\n" + text + "\n*******************************************************\n\n"
                     fileobj.write(newtext)
                 if child.name == 'strong':
                     txt = tag.text.lstrip().rstrip()
@@ -263,23 +189,13 @@ def filtercontent(soup):
                     newtext = "\t" +"*" + text + "*" + "\n"
                     fileobj.write(newtext)
 
-        # if tag.name == 'h2':
-        #     text = tag.text
-        #     newtext = "\n" +text + "\n*******************************************************"
-        #     fileobj.write(newtext)
-        # if tag.name == 'strong':
-        #     txt = tag.text.lstrip().rstrip()
-        #     newtxt = "**" + txt + "**"
-        #     fileobj.write(newtxt)
-        # if tag.name == 'em':
-        #     text = tag.text.lstrip().rstrip()
-        #     newtext = "*" + text + "*"
-        #     fileobj.write(newtext)
         if tag.name == 'img':
             title, slugtitle = findtitle(soup)
             titletext, _ = findslug(slugtitle)
-            imgsrc = tag.attrs['src']
+            imgsrc = tag.attrs['data-pin-media']
             r = requests.get(imgsrc, stream=True)
+            # print(f"request-details: {r.url} \nrequest-headers: {r.headers.items()}")
+            # print(r)
             if r.status_code == 200:
                 filename = "/" + str(titletext) + str(i + 1) + ".webp"
                 pathtofile = imgdir + filename
@@ -291,54 +207,20 @@ def filtercontent(soup):
                 imagrst = "\n\n"+".. image:: " + storedimg + "\n\n"
                 fileobj.write(imagrst)
             else:
-                print("cannot find image")
+                logging.info(f"cannot find image here {slug}")
 
         if tag.name == 'iframe':
-            print("iframe found here")
-
-
-
-        # if tag.span['class'] == "vkIF2 public-DraftStyleDefault-ltr":
-        #     text = tag.text
-        #     print(text)
-
-
-
-            # print(i)
-
-    #         list = unorderedlist(maincontent)
-    #         print(list)
-
-        # if tag.name == 'a':
-        #     print(tag)
-        # print(isinstance(tag.name, str))
-        # print(tag.name)
-        #
-
-
-
+            logging.info(f"iframe found here {slug}")
 # filtercontent(soup)
 
+for links in bloglinks[:5]:
+    html_text = requests.get(links).text
+    soup = BeautifulSoup(html_text, 'lxml')
+    filtercontent(soup)
 
 
 
-# print(soup.find_all(id=True))
-# for tag in soup.find_all(True):
-#     print(tag.name)
-# def head_of_articles(soup):
-#     file = open("ge-theme/static/scrapped-text/reseasrch/article-head.txt",'a+')
-#     for match in soup.find_all('div', class_='s_usaAWRichTextClickableSkin_richTextContainer'):
-#         # print(match.p.text)
-#         for words in match.find_all('em'):
-#             text = words.text
-#             file.write(text + "\n")
-#
-# head_of_articles(soup)
-# print(isinstance(head_of_articles(soup), list))
 
-# for match in soup.find_all('div', class_='s_usaAWRichTextClickableSkin_richTextContainer'):
-#     # print(match.p.text)
-#     for words in match.find_all('em'):
-#         text = words.text
-#         print(text)
-#         print()
+
+
+
