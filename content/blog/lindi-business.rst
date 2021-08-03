@@ -1,0 +1,44 @@
+:title: Lindi Business Network Gumbaru Trainings
+:author: Daniel Mukosia
+:date: Mar 4, 2018
+:slug: lindi-business
+ 
+:summary: Empowering women is  a great ways to boast our economy . This however  doesn't come without  facing challenges of Illitracy  among most...
+ 
+
+
+
+.. image:: images/blog/lindi-business18.webp
+
+
+
+ 
+
+
+
+Empowering women is  a great ways to boast our economy . This however  doesn't come without  facing challenges of Illitracy  among most members.  Many of them lack reading and writing skills and others can't understand English. 
+
+
+
+ 
+
+
+
+GE finds it's important to support the women and men through Gumbaru school. By paying 20 sarafu credit money people are able to assist classes taught by our volunteer Carol where they can learn basic reading and writing skills and thus be able to carry out daily financial transaction without any difficulties. The money received for these lessons is  used to purchase chalkdust and pens at LBN shop in Kibera. 
+
+
+
+ 
+
+
+
+#education #sarafu
+
+	`#education <https://www.grassrootseconomics.org/blog/hashtags/education>`_	
+
+#education
+
+	`#sarafu <https://www.grassrootseconomics.org/blog/hashtags/sarafu>`_	
+
+#sarafu
+

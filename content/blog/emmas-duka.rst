@@ -3,6 +3,7 @@
 :date: May 21
 :slug: emmas-duka
  
+:summary: Emma's Duka Community Currency Movement - in support of those seeking to free themselves from poorly designed monetary systems.
  
 
 

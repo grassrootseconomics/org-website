@@ -3,6 +3,7 @@
 :date: Jul 16
 :slug: gre-for
  
+:summary: Thank you for doing the sacred and life-preserving work of creating financial opportunity and elevating people’s dignity 
 :tags: testimonial
 
 

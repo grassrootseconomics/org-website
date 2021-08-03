@@ -3,6 +3,7 @@
 :date: May 18
 :slug: smes-the
  
+:summary: Organizations merely have to choose whether to help their local community, or pay taxes to a government whose reach is never felt in these s
 :tags: SME,CSR,Tax
 
 

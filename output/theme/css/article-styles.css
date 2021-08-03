@@ -46,8 +46,8 @@
     text-decoration: underline;
 }
 @media only screen and (max-width: 480px){
-       .article-container{
-        width: 50%;
+    .article-container{
+        width: 100%;
     }
 }
 @media (min-width: 600px) and (max-width: 1024px){
