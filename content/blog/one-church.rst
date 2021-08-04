@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/one-church18.webp
+.. image:: images/blog/one-church1.webp
 
 
 
@@ -50,5 +50,5 @@ He quotes “ If it were not for Sarafu, I would not be where I am. Sarafu has e
 
 Dzeha’s church is a pillar of support representing the majority of CIC trade in the community. In just the last month during the COVID crisis the church has: 
 
-	* Received 97,303 CICs in 252 transactions from 181 people, 
-	* Spent 126,638 CIC in 248 transactions to 42 people. This represents as much as 6000 individual meals in a community! 
+* Received 97,303 CICs in 252 transactions from 181 people,
+* Spent 126,638 CIC in 248 transactions to 42 people. This represents as much as 6000 individual meals in a community!

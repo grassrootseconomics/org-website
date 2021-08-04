@@ -1,6 +1,6 @@
 :title: 2021 Mid Year CIC Update
 :author: Will Ruddick
-:date: May 11
+:date: May 11 2021
 :slug: 2021-mid
  
 :summary: We grew from a few thousands users to over 50,000 and have seen roughly 3 Million USD worth of trade between users for basic needs.

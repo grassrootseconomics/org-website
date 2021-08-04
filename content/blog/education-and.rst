@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/education-and18.webp
+.. image:: images/blog/education-and1.webp
 
 
 
@@ -48,21 +48,7 @@ At Grassroots Economics, we believe that every child has a right to education he
 
 
 
-#education #kenya #sarafu
 
 
-
-#education #kenya #sarafu
-
-	`#education <https://www.grassrootseconomics.org/blog/hashtags/education>`_	
-
-#education
-
-	`#kenya <https://www.grassrootseconomics.org/blog/hashtags/kenya>`_	
-
-#kenya
-
-	`#sarafu <https://www.grassrootseconomics.org/blog/hashtags/sarafu>`_	
-
-#sarafu
+`#education <https://www.grassrootseconomics.org/blog/hashtags/education>`_		`#kenya <https://www.grassrootseconomics.org/blog/hashtags/kenya>`_	`#sarafu <https://www.grassrootseconomics.org/blog/hashtags/sarafu>`_
 

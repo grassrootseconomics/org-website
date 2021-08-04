@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/new-business18.webp
+.. image:: images/blog/new-business1.webp
 
 
 

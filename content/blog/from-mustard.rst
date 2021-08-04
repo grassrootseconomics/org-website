@@ -1,6 +1,6 @@
 :title: From Mustard Seeds to Food Forests: A Regenerative Journey
 :author: Shaila Agha
-:date: May 4
+:date: May 4 2021
 :slug: from-mustard
 :modified:  May 5
 :summary: We are learning from 50 community groups that use a community currency to sell produce and pay for the labor with community currency
@@ -8,53 +8,22 @@
 
 
 
-We've been blessed by an opportunity from Mustard Seed Trust to support 50 acres of Syntropic Agriculture paired with Community Currencies in Kenya. We are learning from 50 community groups that use a community currency to sell produce and pay for the labor intensive setup, inputs and maintenance of one acre community farms (Shamba ya Jamii). The Shamba ya Jamii design was imported from Curacao (thanks to Curadao) and contextualized by Roland Van Reenen and James Thiong'o and hundreds of local farmers. 
+We've been blessed by an opportunity from `Mustard Seed Trust <https://www.mustardseedtrust.org/>`_ to support 50 acres of Syntropic Agriculture paired with Community Currencies in Kenya. We are learning from 50 community groups that use a community currency to sell produce and pay for the labor intensive setup, inputs and maintenance of one acre community farms (Shamba ya Jamii). The Shamba ya Jamii design was imported from `Curadao <https://curadao.io/>`_ (thanks to Curadao) and contextualized by Roland Van Reenen and James Thiong'o and hundreds of local farmers.
 
-
-
-We've been blessed by an opportunity from Mustard Seed Trust to support 50 acres of Syntropic Agriculture paired with Community Currencies in Kenya. We are learning from 50 community groups that use a community currency to sell produce and pay for the labor intensive setup, inputs and maintenance of one acre community farms (Shamba ya Jamii). The Shamba ya Jamii design was imported from Curacao (thanks to Curadao) and contextualized by Roland Van Reenen and James Thiong'o and hundreds of local farmers. 
-
-
-
-We've been blessed by an opportunity from Mustard Seed Trust to support 50 acres of Syntropic Agriculture paired with Community Currencies in Kenya. We are learning from 50 community groups that use a community currency to sell produce and pay for the labor intensive setup, inputs and maintenance of one acre community farms (Shamba ya Jamii). The Shamba ya Jamii design was imported from Curacao (thanks to Curadao) and contextualized by Roland Van Reenen and James Thiong'o and hundreds of local farmers. 
-
-	`Mustard Seed Trust <https://www.mustardseedtrust.org/>`_		`Curadao <https://curadao.io/>`_	
 
 "Regenerative agricultural techniques/tools have the potential to feed an entire nation without the political and social-economic strains that farmers currently undergo. We’re encouraging local community groups in the arid and semi-arid coastal regions to join the Shamba ya Jamii (Community Carm) Movement so as to build a sustainable ecological and economic future. " - Isavary Khabuqwi
 
 
 
-Below are a few inspiring excerpts of what has been accomplished so far by Grassroots Economics' support engineers in rural Nyanza, Kwale and Kakuma Refugee Camp, Watamu, Kilifi as well as urban Nairobi 
+Below are a few inspiring excerpts of what has been accomplished so far by Grassroots Economics' support engineers in rural Nyanza, Kwale and Kakuma Refugee Camp, Watamu, Kilifi as well as urban Nairobi
 
 
 
-Below are a few inspiring excerpts of what has been accomplished so far by Grassroots Economics' support engineers in rural Nyanza, Kwale and Kakuma Refugee Camp, Watamu, Kilifi as well as urban Nairobi 
 
 
+.. image:: images/blog/from-mustard1.webp
 
-Below are a few inspiring excerpts of what has been accomplished so far by Grassroots Economics' support engineers in rural Nyanza, Kwale and Kakuma Refugee Camp, Watamu, Kilifi as well as urban Nairobi 
-
-
-
-Below are a few inspiring excerpts of what has been accomplished so far by Grassroots Economics' support engineers in rural Nyanza, Kwale and Kakuma Refugee Camp, Watamu, Kilifi as well as urban Nairobi 
-
-
-
-Below are a few inspiring excerpts of what has been accomplished so far by Grassroots Economics' support engineers in rural Nyanza, Kwale and Kakuma Refugee Camp, Watamu, Kilifi as well as urban Nairobi 
-
-
-
-Below are a few inspiring excerpts of what has been accomplished so far by Grassroots Economics' support engineers in rural Nyanza, Kwale and Kakuma Refugee Camp, Watamu, Kilifi as well as urban Nairobi 
-
-
-
-Below are a few inspiring excerpts of what has been accomplished so far by Grassroots Economics' support engineers in rural Nyanza, Kwale and Kakuma Refugee Camp, Watamu, Kilifi as well as urban Nairobi 
-
-	`Nyanza <#viewer-2obrt>`_		`Kwale <#viewer-kp0h>`_		`Kakuma <#viewer-an9an>`_		`Watamu <#viewer-8ar20>`_		`Kilifi <#viewer-7ded5>`_		`Nairobi <#viewer-3c3kg>`_	
-
-.. image:: images/blog/from-mustard47.webp
-
-	**Syntropic Siaya by Janet Akinyi**	
+**Syntropic Siaya by Janet Akinyi**
 
 
 The destruction and loss of indigenous ecosystems is a major challenge affecting areas across the Lake Victoria Region and the drought stricken areas in Kenya. The Nyalgunga Farmers Group and Kwe Kende Group in Nyalgunga Village, North Alego ward, Alego Usonga Constituency, Siaya County are among the privileged groups across Kenya that have been trained and empowered on Syntropic Agroforestry- a system that regenerates soil and provides long term food forest.
@@ -87,7 +56,7 @@ Healthy organic Kales ready for harvesting.
 
 The community members have started harvesting food from their farms that they are able to buy and sell using Sarafu (community Currency). Other community members who are not part of these two groups but are using Community Inclusion Currency are also able to buy food from the two farms.
 
-	**Syntropic Kwale by Amina Godana**	
+**Syntropic Kwale by Amina Godana**
 
 
 8 years ago the World Food Program had initiated a project in Kwale County that is PRRO (Protracted Relief Recovery Operation which was aimed for asset creation in the region under Kenyan Red Cross who were the implementing partners. They had different activities,
@@ -120,10 +89,10 @@ This whole project was however short lived this was because the community member
 
 The best thing about practicing Syntropic Agroforestry is that everything in the farm is useful.
 
-	* Some weeds keep off pests and diseases.
-	* Companion planting of plants which are beneficial to each other optimises the use of space,sunlight and nutrient cycle.
-	* Permanent soil cover with mulch prevents soil erosion and provides nutrients for the plants when they decay.
-	* Pruning the matured plants increases the amount of sunlight for other plants.
+* Some weeds keep off pests and diseases.
+* Companion planting of plants which are beneficial to each other optimises the use of space,sunlight and nutrient cycle.
+* Permanent soil cover with mulch prevents soil erosion and provides nutrients for the plants when they decay.
+* Pruning the matured plants increases the amount of sunlight for other plants.
 
 
 Migunani A, Madewani, Yowani and Chikole are some of the many chamas in Kwale County that have embraced the new form of farming. It's a new concept in the area which makes them so eager to see if it actually works. Food insecurity in the area was the main reason as to why they wholeheartedly embraced the syntropic agroforestry this is because it involves planting of different types of crops on the same piece of land being that some crops mature earlier than others this means they will be harvesting almost all the time and do replanting the issue of lack of food will be sorted!
@@ -170,7 +139,7 @@ Members buying first produce from their farm.
 
 
 
-Syntropic Kakuma Refugee Camp by Marcelin Petro
+**Syntropic Kakuma Refugee Camp by Marcelin Petro**
 
 
 
@@ -182,12 +151,8 @@ From WFP each family can get one and some type of grain every month (3kg to 4kg)
 
 
 
-Instead of waiting to be given food at the end of the month it's better to plant even just a kitchen gardens for the families while waiting for the monthly food distribution <instead of giving money better you teach me how to make our own money>. 
+Instead of waiting to be given food at the end of the month it's better to plant even just a kitchen gardens for the families while waiting for the monthly food distribution *<instead of giving money better you teach me how to make our own money>*.
 
-	*Instead of waiting to be given food at the end of the month it's better to plant even just a kitchen gardens for the families while waiting for the monthly food distribution <instead of giving money better you teach me how to make our own money>.*
-
-
-Instead of waiting to be given food at the end of the month it's better to plant even just a kitchen gardens for the families while waiting for the monthly food distribution <instead of giving money better you teach me how to make our own money>. 
 
 
 
@@ -199,7 +164,7 @@ Here I am proudly buying local food with local currency and not waiting for WFP 
 
 
 
-Urban Gardens in Nairobi by Sylvia Karanja
+**Urban Gardens in Nairobi by Sylvia Karanja**
 
 
 
@@ -223,7 +188,7 @@ James Thiong'o, Joyce and myself (Sylvia Karanja shown below)
 
 
 
-Syntropic Watamu, Kilifi by Emmanuel Mbui
+**Syntropic Watamu, Kilifi by Emmanuel Mbui**
 
 
 
@@ -235,7 +200,7 @@ Now, in another new community, Gede, Watamu Community, through Mohamed, a farmer
 
 
 
- Watamu Reef Welfare Group  trained on the Syntropic agriculture at their Shamba.
+Watamu Reef Welfare Group  trained on the Syntropic agriculture at their Shamba.
 
 
 
@@ -243,7 +208,7 @@ Members of the Watamu Reef Welfare Group are planting fruits trees in the prepar
 
 
 
-Syntropic Kilifi by Isavary Khabuqwi
+**Syntropic Kilifi by Isavary Khabuqwi**
 
 
 
@@ -267,13 +232,9 @@ According to our beloved and passionate Kilifi Agronomist Eck Volkmann, "When ge
 
 
 
-Emmanuel Kahindi is the farm manager as Sue's and is also teaching other groups how to do the same while selling produce using Community Currency - pictured here at Distant Relatives'  May Fair.
+Emmanuel Kahindi is the farm manager as Sue's and is also teaching other groups how to do the same while selling produce using Community Currency - pictured here at `Distant Relatives <http://www.kilifibackpackers.com/about/>`_ '  May Fair.
 
 
-
-Emmanuel Kahindi is the farm manager as Sue's and is also teaching other groups how to do the same while selling produce using Community Currency - pictured here at Distant Relatives'  May Fair.
-
-	`Distant Relatives <http://www.kilifibackpackers.com/about/>`_	
 
 Sue’s farm is looking to upgrade its production capacity by adding more crop options such as watermelon and basil following soil analysis. One of the project members plans to donate basil seeds from Muzambara mountains in Tanzania as a way of trying out new varieties. 
 

@@ -12,7 +12,7 @@
 
 
 
-.. image:: images/blog/mikindani-community21.webp
+.. image:: images/blog/mikindani-community1.webp
 
 
 

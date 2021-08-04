@@ -1,14 +1,14 @@
 :title: Municipal Basic Income (MBI) via CIC
 :author: Will Ruddick
-:date: Jan 23
+:date: Jan 23 2021
 :slug: municipal-basic
-:modified:  Jan 24
+:modified:  Jan 24 2021
 :summary: Consider the value in decentralized, municipally supported economies (networks of MBIs) - building and supporting local as well as regional 
 :tags: UBI,Basic Income,municiple,MBI
 
 
 
-.. image:: images/blog/municipal-basic18.webp
+.. image:: images/blog/municipal-basic1.webp
 
 
 
@@ -24,9 +24,7 @@ In its simplest form a municipality creates a token which is distributed to resi
 
 
 
-Businesses and groups of residents can create a Community Inclusion Currency against their production (like a voucher) and offer some of these CICs in exchange for the MBI – in order to support the municipality. This is a measurable form of corporate social responsibility (CSR) and social enterprise. 
-
-	**Businesses and groups of residents can create a Community Inclusion Currency against their production (like a voucher) and offer some of these CICs in exchange for the MBI – in order to support the municipality. This is a measurable form of corporate social responsibility (CSR) and social enterprise.**	
+Businesses and groups of residents can create a Community Inclusion Currency against their production (like a voucher) and offer some of these CICs in exchange for the MBI – in order to support the municipality. **This is a measurable form of corporate social responsibility (CSR) and social enterprise.**
 
 
 This allows business and communities to transparently and measurably connect their vouchers to the greater social service network formed by the MBI. Online marketplace could feature these supporting businesses as a way to drive traffic to them. 
@@ -49,6 +47,5 @@ This means that people could keep their municipality economies thriving by accep
 
 
 
-While in Kenya we rely on Humanitarian organizations to supply a basic income token - a municipality, or local administration would be a wonderful anchor for community health in this way. The possibilities of MBIs combined with CICs are profound and life affirming. Consider the value in decentralized, municipally supported economies (networks of MBIs) - building and supporting local as well as regional or National economies.
+While in Kenya we rely on Humanitarian organizations to supply a basic income token - a municipality, or local administration would be a wonderful anchor for community health in this way. The possibilities of MBIs combined with CICs are profound and life affirming. **Consider the value in decentralized, municipally supported economies (networks of MBIs) - building and supporting local as well as regional or National economies.**
 
-	**While in Kenya we rely on Humanitarian organizations to supply a basic income token - a municipality, or local administration would be a wonderful anchor for community health in this way. The possibilities of MBIs combined with CICs are profound and life affirming. Consider the value in decentralized, municipally supported economies (networks of MBIs) - building and supporting local as well as regional or National economies.**	

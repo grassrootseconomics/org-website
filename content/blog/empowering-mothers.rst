@@ -6,14 +6,14 @@
 :summary: Sarafu-Credit: empowering strong women who never stop fighting for their families wellbeing We are joining together to celebrate mothers’...
  
 
-	**Sarafu-Credit: empowering strong women who never stop fighting for their families wellbeing**	
+**Sarafu-Credit: empowering strong women who never stop fighting for their families wellbeing**
 
 
  
 
 
 
-.. image:: images/blog/empowering-mothers25.webp
+.. image:: images/blog/empowering-mothers1.webp
 
 
 
@@ -57,65 +57,13 @@ Zainabu, member of the Sarafu-Credit in Miyani, recalls the day when women came 
 
 
 
- 
-
-
-
- 
-
-
-
- 
-
-
-
 “My daughter used not to go to school because I did not have enough money. I decided to let the boys go and let the girl stay at home. But ever since I joined the BN, I was able to use the CC on my daily needs like food and water and save enough money such that I was able to enroll my daughter to school.”
 
 Dama Ngala , member of Bangla-Pesa network since 2016 and a proud mother sending all of her children to school. - Testimonial collected by Lydia Anyango
 
 
 
-“My daughter used not to go to school because I did not have enough money. I decided to let the boys go and let the girl stay at home. But ever since I joined the BN, I was able to use the CC on my daily needs like food and water and save enough money such that I was able to enroll my daughter to school.”
 
-Dama Ngala , member of Bangla-Pesa network since 2016 and a proud mother sending all of her children to school. - Testimonial collected by Lydia Anyango
-
-
-
-“My daughter used not to go to school because I did not have enough money. I decided to let the boys go and let the girl stay at home. But ever since I joined the BN, I was able to use the CC on my daily needs like food and water and save enough money such that I was able to enroll my daughter to school.”
-
-Dama Ngala , member of Bangla-Pesa network since 2016 and a proud mother sending all of her children to school. - Testimonial collected by Lydia Anyango
-
-
-
-“My daughter used not to go to school because I did not have enough money. I decided to let the boys go and let the girl stay at home. But ever since I joined the BN, I was able to use the CC on my daily needs like food and water and save enough money such that I was able to enroll my daughter to school.”
-
-Dama Ngala , member of Bangla-Pesa network since 2016 and a proud mother sending all of her children to school. - Testimonial collected by Lydia Anyango
-
-
-
-“My daughter used not to go to school because I did not have enough money. I decided to let the boys go and let the girl stay at home. But ever since I joined the BN, I was able to use the CC on my daily needs like food and water and save enough money such that I was able to enroll my daughter to school.”
-
-Dama Ngala , member of Bangla-Pesa network since 2016 and a proud mother sending all of her children to school. - Testimonial collected by Lydia Anyango
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
 
 
 
@@ -123,16 +71,6 @@ Dama Ngala , member of Bangla-Pesa network since 2016 and a proud mother sending
 
 
 
- 
-
-
-
- 
-
-
-
- 
-
 
 
 Ever since I joined the network I started receiving many more people who come to fetch my water. Because I accept SC I get more customers.”
@@ -141,45 +79,10 @@ Priscilla, member of Ng’ombeni-Pesa  since 2015 is happy that she can feed and
 
 
 
-Ever since I joined the network I started receiving many more people who come to fetch my water. Because I accept SC I get more customers.”
-
-Priscilla, member of Ng’ombeni-Pesa  since 2015 is happy that she can feed and take good care of her granddaughter Caro by  using of Sarafu-Credit. - Testimonial collected by Lydia Anyango
 
 
 
-Ever since I joined the network I started receiving many more people who come to fetch my water. Because I accept SC I get more customers.”
 
-Priscilla, member of Ng’ombeni-Pesa  since 2015 is happy that she can feed and take good care of her granddaughter Caro by  using of Sarafu-Credit. - Testimonial collected by Lydia Anyango
+`#mothersday <https://www.grassrootseconomics.org/blog/hashtags/mothersday>`_		`#sarafu <https://www.grassrootseconomics.org/blog/hashtags/sarafu>`_	`#communitycurrencies <https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies>`_
 
-
-
-Ever since I joined the network I started receiving many more people who come to fetch my water. Because I accept SC I get more customers.”
-
-Priscilla, member of Ng’ombeni-Pesa  since 2015 is happy that she can feed and take good care of her granddaughter Caro by  using of Sarafu-Credit. - Testimonial collected by Lydia Anyango
-
-
-
-Ever since I joined the network I started receiving many more people who come to fetch my water. Because I accept SC I get more customers.”
-
-Priscilla, member of Ng’ombeni-Pesa  since 2015 is happy that she can feed and take good care of her granddaughter Caro by  using of Sarafu-Credit. - Testimonial collected by Lydia Anyango
-
-
-
-#mothersday #sarafu #communitycurrencies
-
-
-
-#mothersday #sarafu #communitycurrencies
-
-	`#mothersday <https://www.grassrootseconomics.org/blog/hashtags/mothersday>`_	
-
-#mothersday
-
-	`#sarafu <https://www.grassrootseconomics.org/blog/hashtags/sarafu>`_	
-
-#sarafu
-
-	`#communitycurrencies <https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies>`_	
-
-#communitycurrencies
 

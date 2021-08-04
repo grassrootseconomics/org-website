@@ -3,13 +3,12 @@
 :date: Dec 25, 2019
 :slug: economies-into
  
-:summary: The reserve behind these tokens, the actual aid funding, was about $2.5k USD).
-This means that $2,500 USD of Aid funds created 10,000 tokens
- 
+:summary: The reserve behind these tokens, the actual aid funding, was about $2.5k USD).This means that $2,500 USD of Aid funds created 10,000 tokens
 
 
 
-.. image:: images/blog/economies-into18.webp
+
+.. image:: images/blog/economies-into1.webp
 
 
 
@@ -37,86 +36,20 @@ This means that $2,500 USD of Aid funds created 10,000 tokens (CICs) which were 
 
 
 
- 
-
-
-
 What is exciting about CICs is that any community could decide to take some capital and treat it as a commons and leverage it into a local credit system – and integrate with other credit systems. Those 1,877 users above are using 3 distinct Community Inclusion Currencies backed by different groups of businesses and their own reserves.
 
 
 
- 
-
-	**So how did these 3 currencies get started in the Mnyenzeni area of Kenya? Reserves in Kenyan Shillings were added by donors and the CICs were minted based on that collateral. The Chief, elders, and women’s groups all came together for training from other communities already using CICs and began using a feature phone-based (button phone = no need for internet or smart phone) platform to trade with each other, each having received an air-drop of 400 CICs (worth about $4 USD). Here in Kenya the injection of seed capital from Humanitarian Aid into the reserves of these systems is the jump start (bootstrap) that gets everyone involved and builds trust in the system. Most importantly the marketplace starts with a few groups (mostly savings and loan women’s groups) and foundational businesses or cooperatives that agree to accepting CICs. They give users a reason to continually refill the reserve and increase the value of the CICs.**	
-
-
-So how did these 3 currencies get started in the Mnyenzeni area of Kenya? Reserves in Kenyan Shillings were added by donors and the CICs were minted based on that collateral. The Chief, elders, and women’s groups all came together for training from other communities already using CICs and began using a feature phone-based (button phone = no need for internet or smart phone) platform to trade with each other, each having received an air-drop of 400 CICs (worth about $4 USD). Here in Kenya the injection of seed capital from Humanitarian Aid into the reserves of these systems is the jump start (bootstrap) that gets everyone involved and builds trust in the system. Most importantly the marketplace starts with a few groups (mostly savings and loan women’s groups) and foundational businesses or cooperatives that agree to accepting CICs. They give users a reason to continually refill the reserve and increase the value of the CICs.
+**So how did these 3 currencies get started in the Mnyenzeni area of Kenya?** Reserves in Kenyan Shillings were added by donors and the CICs were minted based on that collateral. The Chief, elders, and women’s groups all came together for training from other communities already using CICs and began using a feature phone-based (button phone = no need for internet or smart phone) platform to trade with each other, each having received an air-drop of 400 CICs (worth about $4 USD). Here in Kenya the injection of seed capital from Humanitarian Aid into the reserves of these systems is the jump start (bootstrap) that gets everyone involved and builds trust in the system. Most importantly the marketplace starts with a few groups (mostly savings and loan women’s groups) and foundational businesses or cooperatives that agree to accepting CICs. They give users a reason to continually refill the reserve and increase the value of the CICs.
 
 
 
- 
+
+
+What most excites me about 2020 is that these tools are being piloted and made available on an `open source platform <http://github.com/teamsempo>`_ platform and could be available via Red Cross worldwide in the next few years. This means a lot for humanitarian aid, for poverty and for humanity.
 
 
 
-What most excites me about 2020 is that these tools are being piloted and made available on an open source platform and could be available via Red Cross worldwide in the next few years. This means a lot for humanitarian aid, for poverty and for humanity.
+`#RedCross <https://www.grassrootseconomics.org/blog/hashtags/RedCross>`_		`#Sempo <https://www.grassrootseconomics.org/blog/hashtags/Sempo>`_	`#CICs <https://www.grassrootseconomics.org/blog/hashtags/CICs>`_	`#HimanitarianAid <https://www.grassrootseconomics.org/blog/hashtags/HimanitarianAid>`_		`#Kenya <https://www.grassrootseconomics.org/blog/hashtags/Kenya>`_		`#Economies <https://www.grassrootseconomics.org/blog/hashtags/Economies>`_		`#Ecosystems <https://www.grassrootseconomics.org/blog/hashtags/Ecosystems>`_
 
-
-
-What most excites me about 2020 is that these tools are being piloted and made available on an open source platform and could be available via Red Cross worldwide in the next few years. This means a lot for humanitarian aid, for poverty and for humanity.
-
-
-
-What most excites me about 2020 is that these tools are being piloted and made available on an open source platform and could be available via Red Cross worldwide in the next few years. This means a lot for humanitarian aid, for poverty and for humanity.
-
-	` open source platform <http://github.com/teamsempo>`_	
-
-#RedCross #Sempo #CICs #HimanitarianAid #Kenya #Economies #Ecosystems
-
-
-
-#RedCross #Sempo #CICs #HimanitarianAid #Kenya #Economies #Ecosystems
-
-
-
-#RedCross #Sempo #CICs #HimanitarianAid #Kenya #Economies #Ecosystems
-
-
-
-#RedCross #Sempo #CICs #HimanitarianAid #Kenya #Economies #Ecosystems
-
-
-
-#RedCross #Sempo #CICs #HimanitarianAid #Kenya #Economies #Ecosystems
-
-
-
-#RedCross #Sempo #CICs #HimanitarianAid #Kenya #Economies #Ecosystems
-
-	`#RedCross <https://www.grassrootseconomics.org/blog/hashtags/RedCross>`_	
-
-#RedCross
-
-	`#Sempo <https://www.grassrootseconomics.org/blog/hashtags/Sempo>`_	
-
-#Sempo
-
-	`#CICs <https://www.grassrootseconomics.org/blog/hashtags/CICs>`_	
-
-#CICs
-
-	`#HimanitarianAid <https://www.grassrootseconomics.org/blog/hashtags/HimanitarianAid>`_	
-
-#HimanitarianAid
-
-	`#Kenya <https://www.grassrootseconomics.org/blog/hashtags/Kenya>`_	
-
-#Kenya
-
-	`#Economies <https://www.grassrootseconomics.org/blog/hashtags/Economies>`_	
-
-#Economies
-
-	`#Ecosystems <https://www.grassrootseconomics.org/blog/hashtags/Ecosystems>`_	
-
-#Ecosystems
 

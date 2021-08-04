@@ -36,7 +36,7 @@ Just two months since they had their launch, the Lindi Business Network (LBN) is
 
 
 
-.. image:: images/blog/nairobis-1st39.webp
+.. image:: images/blog/nairobis-1st1.webp
 
 
 
@@ -46,7 +46,7 @@ Just two months since they had their launch, the Lindi Business Network (LBN) is
 
 The use of Lindi-Pesa has enabled these women to exchange their goods and services, even when they lack enough money due to poverty and economic downturns. Pamela concludes by noting, “As a business woman in this community, I want to take charge of my family’s livelihood, I want afford my children’s school fees and still have enough to save so that I can expand my business.”
 
-	`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_	
+`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_
 
-#gatina
+
 

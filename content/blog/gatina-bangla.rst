@@ -10,7 +10,9 @@
 
  
 
+.. raw:: html
 
+    <iframe width="740" height="416" src="https://www.youtube.com/embed/Xe5d8SwwpOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
 
@@ -35,7 +37,9 @@ Gatina-Pesa continues to pick up steam spreading out from schools in Nairobi's K
 Lots of new and exciting things are on the horizon set to launch in 2015, if we get the right support! New Currencies in Nairobi and Mombasa counties, as well as more in South African Municipalities.
 
 
+.. raw:: html
 
+    <iframe width="740" height="416" src="https://www.youtube.com/embed/SQrnN5QXdVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 

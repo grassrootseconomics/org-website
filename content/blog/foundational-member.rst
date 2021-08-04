@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/foundational-member18.webp
+.. image:: images/blog/foundational-member1.webp
 
 
 

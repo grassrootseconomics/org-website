@@ -1,6 +1,6 @@
 :title: Emma's Duka Community Currency Movement
 :author: Will Ruddick
-:date: May 21
+:date: May 21 2021
 :slug: emmas-duka
  
 :summary: Emma's Duka Community Currency Movement - in support of those seeking to free themselves from poorly designed monetary systems.
@@ -8,11 +8,11 @@
 
 
 
-Click for recording. (not exactly what was recorded - but close enough)
+`Click for recording. <https://youtu.be/BiArnG8jv9g>`_. (not exactly what was recorded - but close enough)
 
-	`Click for recording. <https://youtu.be/BiArnG8jv9g>`_		` <https://youtu.be/BiArnG8jv9g>`_	
 
-.. image:: images/blog/emmas-duka19.webp
+
+.. image:: images/blog/emmas-duka1.webp
 
 
 
@@ -22,11 +22,11 @@ This song is called Emma’s Duka, and it's about Emma, and the
 
 Duka where you could shop for all kinds of stuff, like peanuts, but Emma’s Duka is not the name of the duka, that's just the name of the song, and that's why I called the song Emma’s Duka.
 
-	*You can trade with anything you want at Emma’s Duka (E - A - E -B7)*
-	*You can trade with anything you want at Emma’s Duka (E - A - E -B7)*
-	*Walk right in, it’s around the back (E - E7)*
-	*Just a half a mile from the railroad track (E - A)*
-	*You can trade with anything you want at Emma’s Duka (E - A - E -B7)*
+| *You can trade with anything you want at Emma’s Duka (E - A - E -B7)*
+| *You can trade with anything you want at Emma’s Duka (E - A - E -B7)*
+| *Walk right in, it’s around the back (E - E7)*
+| *Just a half a mile from the railroad track (E - A)*
+| *You can trade with anything you want at Emma’s Duka (E - A - E -B7)*
 
 
 Now it started a few years back, when I went with a friend to visit Emma. And while we were talking to Emma she had a customer come up, his name was Alfred and he didn’t have a shilling on him. Instead of turning him away she wrote his name down on a little paper and the price of the peanuts and told him he could pay her later by repairing her shoes.
@@ -355,12 +355,12 @@ So we'll wait for it to come around on the guitar, here and...
 
 Sing it when it does. Here it comes...
 
-	*You can trade with anything you want, at Emma’s Duka*
-	*You can trade with anything you want, at Emma’s Duka*
-	*Walk right in, it's around the back*
-	*Just a half a mile from the railroad track*
-	*You can trade with anything you want, at Emma’s Duka*
-
+|	*You can trade with anything you want, at Emma’s Duka*
+|	*You can trade with anything you want, at Emma’s Duka*
+|	*Walk right in, it's around the back*
+|	*Just a half a mile from the railroad track*
+|	*You can trade with anything you want, at Emma’s Duka*
+|
 
 Folks, That was horrible.
 
@@ -388,11 +388,11 @@ We're just waitin' for it to come around is what we're doing….
 
 All right now….
 
-	*You can trade with anything you want, at Emma’s Duka*
-	*Excepting Emma*
-	*You can trade with anything you want, at Emma’s Duka*
-	*Walk right in, it's around the back*
-	*Just a half a mile from the railroad track*
-	*You can trade with anything you want, at Emma’s Duka*
-	*Da da da da da da da daaaa*
-	*At Emma’s … Dukaaaa*
+|	*You can trade with anything you want, at Emma’s Duka*
+|	*Excepting Emma*
+|	*You can trade with anything you want, at Emma’s Duka*
+|	*Walk right in, it's around the back*
+|	*Just a half a mile from the railroad track*
+|	*You can trade with anything you want, at Emma’s Duka*
+|	*Da da da da da da da daaaa*
+|	*At Emma’s … Dukaaaa*

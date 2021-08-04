@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/kangemi-pesa-launched18.webp
+.. image:: images/blog/kangemi-pesa-launched1.webp
 
 
 

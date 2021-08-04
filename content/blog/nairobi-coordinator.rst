@@ -8,7 +8,7 @@
 
 
 
- 
+ .. image:: images/blog/nairobi-coordinator1.webp
 
 
 

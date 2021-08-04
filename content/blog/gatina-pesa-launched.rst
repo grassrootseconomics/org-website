@@ -8,15 +8,8 @@
 
 
 
-.. image:: images/blog/gatina-pesa-launched18.webp
+.. image:: images/blog/gatina-pesa-launched1.webp
 
-
-
- 
-
-
-
- 
 
 
 

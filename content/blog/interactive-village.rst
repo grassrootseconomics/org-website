@@ -6,16 +6,7 @@
 :summary: The 5th installment of the Village Market Simulator series is now online! You can find it on YouTube or in the 'Simulations' section of...
  
 
-	**The 5th installment of the Village Market Simulator series is now online! You can find it on YouTube or in the 'Simulations' section of our MOOC.**	
-	**The 5th installment of the Village Market Simulator series is now online! You can find it on YouTube or in the 'Simulations' section of our MOOC.**	
-	**The 5th installment of the Village Market Simulator series is now online! You can find it on YouTube or in the 'Simulations' section of our MOOC.**	
-	`YouTube <http://www.youtube.com/watch?v=AyYkJsFGjHg>`_		`MOOC <http://www.grassrootseconomics.org/mooc>`_	
-
- 
-
-
-
- 
+**The 5th installment of the Village Market Simulator series is now online! You can find it on** `YouTube <http://www.youtube.com/watch?v=AyYkJsFGjHg>`_ **or in the 'Simulations' section of our** `MOOC <http://www.grassrootseconomics.org/mooc>`_.
 
 
 
@@ -23,23 +14,11 @@ This episode goes through the basic premises of community currencies and how the
 
 
 
-.. image:: images/blog/interactive-village41.webp
+.. image:: images/blog/interactive-village1.webp
 
 
 
- 
-
-
-
-What is especially exciting about this one is that it will be available in Github and you can play with all the bells and whistles, and experiment by yourself how changing different variables affect trade within the village. 
-
-
-
-What is especially exciting about this one is that it will be available in Github and you can play with all the bells and whistles, and experiment by yourself how changing different variables affect trade within the village. 
-
-	`Github <http://github.com/GrassrootsEconomics/vms>`_	
-
- 
+What is especially exciting about this one is that it will be available in `Github <http://github.com/GrassrootsEconomics/vms>`_ and you can play with all the bells and whistles, and experiment by yourself how changing different variables affect trade within the village.
 
 
 

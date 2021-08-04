@@ -12,25 +12,14 @@ The Bangla-Pesa crew is getting ready for our November 23rd re-launch. We have c
 
 
 
- 
-
-
 
 Our agenda for the day includes: 
 
-
-
-Our agenda for the day includes: 
-
-
-
-Our agenda for the day includes: 
-
-	* A match with the Bangla-Pesa volley ball team.  
-	* Displays of various media on Bangla-Pesa including our newest animation.  
-	* Speeches from honored guests, lawyers and community members  
-	* An enactment drama of Bangla-Pesa past present and future.  
-	* Program's Official re-Launch Ribbon Cutting 
+* A match with the Bangla-Pesa volley ball team.
+* Displays of various media on Bangla-Pesa including our newest animation.
+* Speeches from honored guests, lawyers and community members
+* An enactment drama of Bangla-Pesa past present and future.
+* Program's Official re-Launch Ribbon Cutting
 
 
 Look out for the Bangla-Pesa street sign. Emma Onyango will operating out of various shops in the community accepting registrations in the program.
@@ -39,23 +28,10 @@ Look out for the Bangla-Pesa street sign. Emma Onyango will operating out of var
 
  
 
-	`Bangla-Pesa was featured on Public Radio International today. <http://www.pri.org/stories/2013-11-13/african-slum-lacked-cash-so-people-made-their-own>`_	
-
-#bangla #complementarycurrencies #grassrootseconomicsnews
+`Bangla-Pesa was featured on Public Radio International today. <http://www.pri.org/stories/2013-11-13/african-slum-lacked-cash-so-people-made-their-own>`_
 
 
 
-#bangla #complementarycurrencies #grassrootseconomicsnews
+`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	`#complementarycurrencies <https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies>`_	`#grassrootseconomicsnews <https://www.grassrootseconomics.org/blog/hashtags/grassrootseconomicsnews>`_
 
-	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	
-
-#bangla
-
-	`#complementarycurrencies <https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies>`_	
-
-#complementarycurrencies
-
-	`#grassrootseconomicsnews <https://www.grassrootseconomics.org/blog/hashtags/grassrootseconomicsnews>`_	
-
-#grassrootseconomicsnews
 

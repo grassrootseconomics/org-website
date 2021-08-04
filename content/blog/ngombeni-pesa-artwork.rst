@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/ngombeni-pesa-artwork18.webp
+.. image:: images/blog/ngombeni-pesa-artwork1.webp
 
 
 
@@ -32,17 +32,10 @@ At our 3rd large scale community meeting on April 18th 2015 we talked with a pot
 
 
 
- 
-
-
 
  
 
+`#ngombeni <https://www.grassrootseconomics.org/blog/hashtags/ngombeni>`_
 
 
- 
-
-	`#ngombeni <https://www.grassrootseconomics.org/blog/hashtags/ngombeni>`_	
-
-#ngombeni
 

@@ -76,79 +76,51 @@ Existing assets and future capacity of cooperative businesses are identified and
 
 
 
- 
-
-
 
 Our core staff, along with a network of CCDs, provide: 
 
-
-
-Our core staff, along with a network of CCDs, provide: 
-
-
-
-Our core staff, along with a network of CCDs, provide: 
-
-	* Baseline and feasibility analysis services for budding communities, as well as assistance in monitoring and evaluation. 
-	* Certification of Community Currency Systems and Designers – assuring that they follow a high professional and ethical standard and perform regular financial auditing and renewal. 
-	* In-person support to impart practical success stories and co-design customized systems. We also provide printing and digital currency services through our partners. as well as This seems to be a different topic. 
-	* Capacity building for NGOs, local governments, communities and businesses to implement and manage a Community Currency. 
+* Baseline and feasibility analysis services for budding communities, as well as assistance in monitoring and evaluation.
+* Certification of Community Currency Systems and Designers – assuring that they follow a high professional and ethical standard and perform regular financial auditing and renewal.
+* In-person support to impart practical success stories and co-design customized systems. We also provide printing and digital currency services through our partners. as well as This seems to be a different topic.
+* Capacity building for NGOs, local governments, communities and businesses to implement and manage a Community Currency.
 
 
 With only six staff members, we are stretched thin! In Nairobi and Mombasa we have three employees each, a regional director, field officer and cooperative business developer, serving over 2,500 businesses AND providing support for certifying new CCDs. As demand for more local currencies and more CCDs continues to grow, we are not prepared and need your support.
 
 
 
-.. image:: images/blog/ending-our87.webp
+.. image:: images/blog/ending-our1.webp
 
-
-
- 
 
 
 
 Where is Support Needed? 
 
-
-
-Where is Support Needed? 
-
-
-
-Where is Support Needed? 
-
-	* Staffing:  
-	* Grant writing, marketing and communications staff 
-	* Training and certification staff 
-	* IT and programming staff to support digital currencies 
-	* An in-house accountant (we currently outsource our accounting). 
-	* An Operations Manager 
-	* Research, Monitoring and Evaluation  
-	* Scholarships for Certified Community Currency Designers across Africa. We wish to train 50 CCDs from communities that can’t afford to come to Kenya next year. We will support each CCD in turn to develop a program in their country of origin. 
-	* Development of training materials (curriculum, videos, methodological tools) 
-	* Further development of the community currencies in Kenya. We need more examples of Community Currency being used in Kenya with different populations. We wish to develop five more sites in urban, peri-urban and rural regions. In each region in Kenya we target thousands of small businesses and schools serving a greater community of tens of thousands in chronic need of stable markets and food security. 
+* Staffing:
+* Grant writing, marketing and communications staff
+* Training and certification staff
+* IT and programming staff to support digital currencies
+* An in-house accountant (we currently outsource our accounting).
+* An Operations Manager
+* Research, Monitoring and Evaluation
+* Scholarships for Certified Community Currency Designers across Africa. We wish to train 50 CCDs from communities that can’t afford to come to Kenya next year. We will support each CCD in turn to develop a program in their country of origin.
+* Development of training materials (curriculum, videos, methodological tools)
+* Further development of the community currencies in Kenya. We need more examples of Community Currency being used in Kenya with different populations. We wish to develop five more sites in urban, peri-urban and rural regions. In each region in Kenya we target thousands of small businesses and schools serving a greater community of tens of thousands in chronic need of stable markets and food security.
 
 
 How Will We Get There?
 
 
 
- 
-
-
-
 This year we managed to cover roughly 20% of our operating costs through consulting, training, certification and cooperative business development. In 2018 we are seeking to sustainability cover our costs through international CCD student fees and consulting programs. In order to do this we need your support. 
 
 
 
-This year we managed to cover roughly 20% of our operating costs through consulting, training, certification and cooperative business development. In 2018 we are seeking to sustainability cover our costs through international CCD student fees and consulting programs. In order to do this we need your support. 
+This year we managed to cover roughly 20% of our operating costs through consulting, training, certification and cooperative business development. In 2018 we are seeking to sustainability cover our costs through international CCD student fees and consulting programs. In order to do this we need your `support <https://www.grassrootseconomics.org/get-involved>`_.
 
-	`support <https://www.grassrootseconomics.org/get-involved>`_	
 
-#endyear #2017
 
-	`#endyear <https://www.grassrootseconomics.org/blog/hashtags/endyear>`_	
+`#endyear <https://www.grassrootseconomics.org/blog/hashtags/endyear>`_
 
-#endyear
+
 

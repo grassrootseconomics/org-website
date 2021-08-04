@@ -1,6 +1,6 @@
 :title: GRE for ME
 :author: Grace Rachmany
-:date: Jul 16
+:date: Jul 16 2021
 :slug: gre-for
  
 :summary: Thank you for doing the sacred and life-preserving work of creating financial opportunity and elevating people’s dignity 
@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/gre-for18.webp
+.. image:: images/blog/gre-for1.webp
 
 
 
@@ -16,17 +16,8 @@ To be perfectly honest, which isn’t necessarily considered a virtue in the blo
 
 
 
-For those who aren’t familiar with my work, you can find more about me on LinkedIn and on my Odysee channels. I host a regular open weekly meeting on these topics and teach a workshop on rethinking our financial and governmental systems. My place in the industry is somewhat of a contrarian. I maintain a long memory of unsuccessful startups, failed cryptocurrency projects, and ideas that didn’t hold up in the real world. Founders love talking to me because I can point to flaws in their thinking, connect them with people who’ve tried similar thing, and give them examples of what has and hasn’t worked in their industry.
+For those who aren’t familiar with my work, you can find more about me on `LinkedIn <https://www.linkedin.com/in/rebeccarachmany/>`_ and on my `Odysee <https://odysee.com/@SufficiencyCurrency:7/MoneyIsSoLastCentury:a>`_ channels. I host a regular open weekly meeting on these topics and teach a workshop on rethinking our financial and governmental systems. My place in the industry is somewhat of a contrarian. I maintain a long memory of unsuccessful startups, failed cryptocurrency projects, and ideas that didn’t hold up in the real world. Founders love talking to me because I can point to flaws in their thinking, connect them with people who’ve tried similar thing, and give them examples of what has and hasn’t worked in their industry.
 
-
-
-For those who aren’t familiar with my work, you can find more about me on LinkedIn and on my Odysee channels. I host a regular open weekly meeting on these topics and teach a workshop on rethinking our financial and governmental systems. My place in the industry is somewhat of a contrarian. I maintain a long memory of unsuccessful startups, failed cryptocurrency projects, and ideas that didn’t hold up in the real world. Founders love talking to me because I can point to flaws in their thinking, connect them with people who’ve tried similar thing, and give them examples of what has and hasn’t worked in their industry.
-
-
-
-For those who aren’t familiar with my work, you can find more about me on LinkedIn and on my Odysee channels. I host a regular open weekly meeting on these topics and teach a workshop on rethinking our financial and governmental systems. My place in the industry is somewhat of a contrarian. I maintain a long memory of unsuccessful startups, failed cryptocurrency projects, and ideas that didn’t hold up in the real world. Founders love talking to me because I can point to flaws in their thinking, connect them with people who’ve tried similar thing, and give them examples of what has and hasn’t worked in their industry.
-
-	`LinkedIn <https://www.linkedin.com/in/rebeccarachmany/>`_		`Odysee <https://odysee.com/@SufficiencyCurrency:7/MoneyIsSoLastCentury:a>`_	
 
 What I can’t do is point to a lot of long-term success stories.
 

@@ -16,13 +16,8 @@ Bangladesh, Kenya is an informal settlement of approximatly 20 000 inhabitants a
 
 
 
- 
-
-
 
 The purpose of these sessions was to:
-
-
 
 
 
@@ -42,53 +37,28 @@ The purpose of these sessions was to:
 
 
 
- 
-
-
 
 For a full report on the first two meetings visit:
 
 
 
 
-Meeting 1
-Meeting 2
 
-
-
-
-Meeting 1
-Meeting 2
-
-	`Meeting 1 <http://communityforge.net/Bangladesh_Kenya_1st_Meeting>`_		`Meeting 2 <http://communityforge.net/Bangladesh_Kenya_2nd_Meeting>`_	
+| `Meeting 1 <http://communityforge.net/Bangladesh_Kenya_1st_Meeting>`_
+| `Meeting 2 <http://communityforge.net/Bangladesh_Kenya_2nd_Meeting>`_
 
  
-
+|
 
 
 These meetings will continue in January and help lead the way for base line data collection, community ownership and implementation.
 
 
 
-.. image:: images/blog/complementary-currency52.webp
+.. image:: images/blog/complementary-currency1.webp
 
 
 
- 
+`#complementarycurrencies <https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies>`_		`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_
 
-
-
- 
-
-
-
-#complementarycurrencies #bangla
-
-	`#complementarycurrencies <https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies>`_	
-
-#complementarycurrencies
-
-	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	
-
-#bangla
 

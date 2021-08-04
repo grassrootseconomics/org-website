@@ -8,15 +8,9 @@
 
 
 
-.. image:: images/blog/marcianas-struggle18.webp
+.. image:: images/blog/marcianas-struggle1.webp
 
 
-
- 
-
-
-
- 
 
 
 
@@ -40,29 +34,7 @@ When we spoke with her, Marciana had 400 Bangla-Pesa after a day of trading. The
 
 
 
-#bangla #women #complementarycurrencies #businesswomen
 
+`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_		`#women <https://www.grassrootseconomics.org/blog/hashtags/women>`_		`#complementarycurrencies <https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies>`_		`#businesswomen <https://www.grassrootseconomics.org/blog/hashtags/businesswomen>`_
 
-
-#bangla #women #complementarycurrencies #businesswomen
-
-
-
-#bangla #women #complementarycurrencies #businesswomen
-
-	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	
-
-#bangla
-
-	`#women <https://www.grassrootseconomics.org/blog/hashtags/women>`_	
-
-#women
-
-	`#complementarycurrencies <https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies>`_	
-
-#complementarycurrencies
-
-	`#businesswomen <https://www.grassrootseconomics.org/blog/hashtags/businesswomen>`_	
-
-#businesswomen
 

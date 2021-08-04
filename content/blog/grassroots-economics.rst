@@ -1,6 +1,6 @@
 :title: Grassroots Economics has a New Director: Shaila Agha
 :author: Shaila Agha
-:date: Apr 8
+:date: Apr 8 2021
 :slug: grassroots-economics
  
 :summary: It is an honor to work as a Director along with Will Ruddick and the Grassroots Economics team in their endeavor to rebalance the inequaliti
@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/grassroots-economics18.webp
+.. image:: images/blog/grassroots-economics1.webp
 
 
 
@@ -30,6 +30,4 @@ In 2015, I attended a KIICO conference on trade and development. My angle, to un
 
 It is an honor to work as a Director along with Will and the Grassroots Economics team in their endeavor to rebalance the inequalities existing in our current economy and empower those who are most in need. To tackle today’s challenges, we need not only new solutions, but new methods at arriving at solutions. Data and data science will be at the forefront at meeting these challenges and to social innovation, humanitarian aid and international development. 
 
-	*Shaila is an ocean loving global citizen trained in disruptive Financial systems, she has a keen interest in transformative agriculture and conservation. Her love for science and children led her to create a beginner science lab kit that she aims to launch in primary schools countrywide alongside an activity booklet called “The science of life”. She has held various roles in International organizations and private organizations from business development to analyst roles, all of which revolved around developing alternative financial systems and sustainability. You can find out more information about her here.*
-	*Shaila is an ocean loving global citizen trained in disruptive Financial systems, she has a keen interest in transformative agriculture and conservation. Her love for science and children led her to create a beginner science lab kit that she aims to launch in primary schools countrywide alongside an activity booklet called “The science of life”. She has held various roles in International organizations and private organizations from business development to analyst roles, all of which revolved around developing alternative financial systems and sustainability. You can find out more information about her here.*
-	`here <https://ke.linkedin.com/in/shailaa>`_	
+*Shaila is an ocean loving global citizen trained in disruptive Financial systems, she has a keen interest in transformative agriculture and conservation. Her love for science and children led her to create a beginner science lab kit that she aims to launch in primary schools countrywide alongside an activity booklet called “The science of life”. She has held various roles in International organizations and private organizations from business development to analyst roles, all of which revolved around developing alternative financial systems and sustainability. You can find out more information about her* `here <https://ke.linkedin.com/in/shailaa>`_.

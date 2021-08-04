@@ -12,29 +12,11 @@ The Gatina Business Organization is busy preparing for the community currency's 
 
 
 
- 
-
-
-
 After a wonderful design process with local students in Kenya and Nyendo-lernen as well as the Cheimgauer in Germany the Gatina-Pesa have been printed and are on their way to Kenya. Hopes are high and there is a strong commitment to seeing this program take off.
 
 
 
-#bangla #gatina #nairobi
 
+`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_		`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_	`#nairobi <https://www.grassrootseconomics.org/blog/hashtags/nairobi>`_
 
-
-#bangla #gatina #nairobi
-
-	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	
-
-#bangla
-
-	`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_	
-
-#gatina
-
-	`#nairobi <https://www.grassrootseconomics.org/blog/hashtags/nairobi>`_	
-
-#nairobi
 

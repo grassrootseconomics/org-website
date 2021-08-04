@@ -32,7 +32,7 @@ The table below contains a summary of basic characteristics of MotoMoto particip
 
 
 
-.. image:: images/blog/growing-up36.webp
+.. image:: images/blog/growing-up1.webp
 
 
 

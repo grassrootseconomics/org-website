@@ -8,11 +8,8 @@
 
 
 
-.. image:: images/blog/detergent-accelerator18.webp
+.. image:: images/blog/detergent-accelerator1.webp
 
-
-
- 
 
 
 
@@ -20,29 +17,12 @@ Julius Nyelele has been a member of Lindi Business Network for more than one yea
 
 
 
- 
-
-
 
 Julius is benefiting from increased connection among the members and businesses of his community. By virtue of hundreds of shops receiving an interest free credit to use among each-other in an area overall efficiency greatly increases. Instead of waiting on Kenyan Shillings to make a purchase, members of these networks can trade using credit that is readily available. These networks also develop assets, like supermarket stock, that backs the credits (community currency) in case of defaults and to grow the credit supply.
 
 
 
-#detergent #bodyoil #businessaccelerator
 
+`#detergent <https://www.grassrootseconomics.org/blog/hashtags/detergent>`_	 `#bodyoil <https://www.grassrootseconomics.org/blog/hashtags/bodyoil>`_	`#businessaccelerator <https://www.grassrootseconomics.org/blog/hashtags/businessaccelerator>`_
 
-
-#detergent #bodyoil #businessaccelerator
-
-	`#detergent <https://www.grassrootseconomics.org/blog/hashtags/detergent>`_	
-
-#detergent
-
-	`#bodyoil <https://www.grassrootseconomics.org/blog/hashtags/bodyoil>`_	
-
-#bodyoil
-
-	`#businessaccelerator <https://www.grassrootseconomics.org/blog/hashtags/businessaccelerator>`_	
-
-#businessaccelerator
 

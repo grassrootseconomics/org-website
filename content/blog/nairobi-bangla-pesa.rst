@@ -20,29 +20,7 @@ Because of the sucsses in Bangladesh in using Bangla-Pesa to help with school fe
 
 
 
-#nairobi #kawangware #bangla #gatina
+`#nairobi <https://www.grassrootseconomics.org/blog/hashtags/nairobi>`_		`#kawangware <https://www.grassrootseconomics.org/blog/hashtags/kawangware>`_	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_
 
 
-
-#nairobi #kawangware #bangla #gatina
-
-
-
-#nairobi #kawangware #bangla #gatina
-
-	`#nairobi <https://www.grassrootseconomics.org/blog/hashtags/nairobi>`_	
-
-#nairobi
-
-	`#kawangware <https://www.grassrootseconomics.org/blog/hashtags/kawangware>`_	
-
-#kawangware
-
-	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	
-
-#bangla
-
-	`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_	
-
-#gatina
 

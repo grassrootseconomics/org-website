@@ -2,7 +2,7 @@
 :author: Isavary Khabuqwi
 :date: Feb 10
 :slug: kilifi-kenya
-:modified:  Feb 12
+:modified:  Feb 12 2021
 :summary: The current reality is that following Covid-19 many have fallen deeper and deeper into debt. However, most individuals would still not...
 :tags: Kilifi,Kenya,debt,Basic Income,community currency
 
@@ -12,7 +12,7 @@ The current reality is that following Covid-19 many have fallen deeper and deepe
 
 
 
-.. image:: images/blog/kilifi-kenya21.webp
+.. image:: images/blog/kilifi-kenya1.webp
 
 
 
@@ -25,6 +25,7 @@ The implementation of a basic income program in Kilifi, as developed by Grassroo
 
 
 What Sarafu means for me…
+*******************************
 
 
 
@@ -37,6 +38,7 @@ When a Kilfi resident, like Pascaline Wanjiku, accepts to receive Sarafu, she of
 
 
 Market Days
+***************
 
 
 
@@ -52,12 +54,7 @@ Kilifians come to weekly Sarafu market days to sell goods and services using bas
 
 
 
-Anyone can receive a basic income in Sarafu by dialing *384*96# or call 0757628885 for more information. This national service is free and available to all Kenyans thanks to the Red Cross. Kilifians who don’t need a basic income, often support others by giving theirs to those in need and accepting it for goods and services or in place of debt.
-
-	**Anyone can receive a basic income in Sarafu by dialing *384*96# or call 0757628885 for more information. This national service is free and available to all Kenyans thanks to the Red Cross. Kilifians who don’t need a basic income, often support others by giving theirs to those in need and accepting it for goods and services or in place of debt.**	
-
-
-Anyone can receive a basic income in Sarafu by dialing *384*96# or call 0757628885 for more information. This national service is free and available to all Kenyans thanks to the Red Cross. Kilifians who don’t need a basic income, often support others by giving theirs to those in need and accepting it for goods and services or in place of debt.
+Anyone can receive a basic income in Sarafu by dialing *384*96# or call 0757628885 for more information. **This national service is free and available to all Kenyans thanks to the Red Cross**. Kilifians who don’t need a basic income, often support others by giving theirs to those in need and accepting it for goods and services or in place of debt.
 
 
 

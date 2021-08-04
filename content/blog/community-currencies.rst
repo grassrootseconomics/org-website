@@ -1,6 +1,6 @@
 :title: Community Currencies and DEX Multitudes 
 :author: Will Ruddick
-:date: Jan 7
+:date: Jan 7 2021
 :slug: community-currencies
  
 :summary: Decentralized Exchange (DEX) Contracts contain multitudes. There are nearly infinite ways to use them to connect blockchain contracts...

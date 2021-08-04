@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/lindi-business18.webp
+.. image:: images/blog/lindi-business1.webp
 
 
 
@@ -28,17 +28,11 @@ GE finds it's important to support the women and men through Gumbaru school. By 
 
 
 
- 
+
+`#education <https://www.grassrootseconomics.org/blog/hashtags/education>`_		`#sarafu <https://www.grassrootseconomics.org/blog/hashtags/sarafu>`_
 
 
 
-#education #sarafu
 
-	`#education <https://www.grassrootseconomics.org/blog/hashtags/education>`_	
 
-#education
-
-	`#sarafu <https://www.grassrootseconomics.org/blog/hashtags/sarafu>`_	
-
-#sarafu
 

@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/not-your18.webp
+.. image:: images/blog/not-your1.webp
 
 
 
@@ -44,13 +44,7 @@ This system creates an interest free source of credit and market stability for t
 
 
 
-#bangla #duka
 
-	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	
+`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	`#duka <https://www.grassrootseconomics.org/blog/hashtags/duka>`_
 
-#bangla
-
-	`#duka <https://www.grassrootseconomics.org/blog/hashtags/duka>`_	
-
-#duka
 

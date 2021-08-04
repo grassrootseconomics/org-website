@@ -8,7 +8,7 @@
 
 
 
- 
+.. image:: images/blog/kiberas-lindi-pesa1.webp
 
 
 
@@ -68,13 +68,8 @@ Many thanks to our partners Nyendo-lernen, Lush Cosmetics and DOEN for making th
 
 
 
-#kibera #nairobi
 
-	`#kibera <https://www.grassrootseconomics.org/blog/hashtags/kibera>`_	
+`#kibera <https://www.grassrootseconomics.org/blog/hashtags/kibera>`_	`#nairobi <https://www.grassrootseconomics.org/blog/hashtags/nairobi>`_
 
-#kibera
 
-	`#nairobi <https://www.grassrootseconomics.org/blog/hashtags/nairobi>`_	
-
-#nairobi
 

@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/managing-their14.webp
+.. image:: images/blog/managing-their1.webp
 
 
 
@@ -24,141 +24,6 @@ Over the last 1 month they have had 268 clients come buy over $3,000 USD worth o
 
 
 
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-Over the last 1 month they have had 268 clients come buy over $3,000 USD worth of their cooked food!  What makes it even more amazing is that they have spent an equivalent of $2,600 USD of Sarafu to purchase cooking oil, fuel and wheat flour for their business. Circular economy - circular chapati!
-
-
-
-1
-
-
-
-268
-
-
-
-3
-
-
-
-,
-
-
-
-000
-
-
-
-USD
-
-
-
-of
-
-
-
-!
-
-
-
-of
-
-
-
-2
-
-
-
-,
-
-
-
-600
-
-
-
-USD
-
-
-
-of
-
-
-
- to purchase cooking oil
-
-
-
-,
-
-
-
- fuel and wheat flour 
-
-
-
-for
-
-
-
- their business
-
-
-
-.
-
-
-
- Circular economy 
-
-
-
--
-
-
-
- circular chapati
-
-
-
-!
-
-
 
 .. image:: images/blog/managing-their103.webp
 
@@ -169,42 +34,6 @@ Vincent and his mother have used Sarafu for the past 8 months providing differen
 
 
 Over the last month they have had 123 customers and sold $840 USD by accepting Sarafu when Kenyan Shillings is scarce and they have spent roughly the same amount on their own basic needs - creating and maintaining a circular economy.
-
-
-
-Over the last month they have had 123 customers and sold $840 USD by accepting Sarafu when Kenyan Shillings is scarce and they have spent roughly the same amount on their own basic needs - creating and maintaining a circular economy.
-
-
-
-Over the last month they have had 123 customers and sold $840 USD by accepting Sarafu when Kenyan Shillings is scarce and they have spent roughly the same amount on their own basic needs - creating and maintaining a circular economy.
-
-
-
-Over the last month they have had 123 customers and sold $840 USD by accepting Sarafu when Kenyan Shillings is scarce and they have spent roughly the same amount on their own basic needs - creating and maintaining a circular economy.
-
-
-
-Over the last month they have had 123 customers and sold $840 USD by accepting Sarafu when Kenyan Shillings is scarce and they have spent roughly the same amount on their own basic needs - creating and maintaining a circular economy.
-
-
-
-123
-
-
-
-840
-
-
-
-USD
-
-
-
--
-
-
-
-.
 
 
 
@@ -219,59 +48,6 @@ Susan is a mother and tailor in Mukuru. She was started using CICs 2 months ago 
 In the last month Sarah has sold $756 USD worth of masks to over 100 people. Need a mask? Talk to Susan!
 
 
-
-In the last month Sarah has sold $756 USD worth of masks to over 100 people. Need a mask? Talk to Susan!
-
-
-
-In the last month Sarah has sold $756 USD worth of masks to over 100 people. Need a mask? Talk to Susan!
-
-
-
-In the last month Sarah has sold $756 USD worth of masks to over 100 people. Need a mask? Talk to Susan!
-
-
-
-In the last month Sarah has sold $756 USD worth of masks to over 100 people. Need a mask? Talk to Susan!
-
-
-
-In the last month Sarah has sold $756 USD worth of masks to over 100 people. Need a mask? Talk to Susan!
-
-
-
-In the last month Sarah has sold $756 USD worth of masks to over 100 people. Need a mask? Talk to Susan!
-
-
-
-756
-
-
-
-USD
-
-
-
-of
-
-
-
-100
-
-
-
-.
-
-
-
-?
-
-
-
-!
-
-
-
 .. image:: images/blog/managing-their169.webp
 
 
@@ -284,54 +60,6 @@ Victor in the last month has had 54 clients and sold $1,246 USD worth of his ser
 
 
 
-Victor in the last month has had 54 clients and sold $1,246 USD worth of his services using Sarafu
-
-
-
-Victor in the last month has had 54 clients and sold $1,246 USD worth of his services using Sarafu
-
-
-
-Victor in the last month has had 54 clients and sold $1,246 USD worth of his services using Sarafu
-
-
-
-Victor in the last month has had 54 clients and sold $1,246 USD worth of his services using Sarafu
-
-
-
-Victor in the last month has had 54 clients and sold $1,246 USD worth of his services using Sarafu
-
-
-
-in
-
-
-
-54
-
-
-
-1
-
-
-
-,
-
-
-
-246
-
-
-
-USD
-
-
-
-of
-
-
-
 .. image:: images/blog/managing-their203.webp
 
 
@@ -340,97 +68,5 @@ Grace is one of the Red Cross' disaster response team members and is also a cari
 
 
 
-Grace is one of the Red Cross' disaster response team members and is also a caring mother. She has a cereal shop in Mukuru and she feeds more than a hundred households. She joined the network 8 months ago and in this time of the pandemic, she has dedicated her shop to feed even more families by use of the CIC (Sarafu). She has increased her trade volume in order to help families get a meal. In return, Gertrude also spends more of her Sarafu in the community and by doing so, she is able to save the national currency which she uses to buy more stock for her shop.
-
-
-
-Gertrude
-
-
-
 Grace has given out $2,286 USD worth of food to 114 community members this month using Sarafu and has spent $2,316 USD on restocking and her family basic needs. She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
-
-
-
-Grace has given out $2,286 USD worth of food to 114 community members this month using Sarafu and has spent $2,316 USD on restocking and her family basic needs. She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
-
-
-
-Grace has given out $2,286 USD worth of food to 114 community members this month using Sarafu and has spent $2,316 USD on restocking and her family basic needs. She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
-
-
-
-Grace has given out $2,286 USD worth of food to 114 community members this month using Sarafu and has spent $2,316 USD on restocking and her family basic needs. She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
-
-
-
-Grace has given out $2,286 USD worth of food to 114 community members this month using Sarafu and has spent $2,316 USD on restocking and her family basic needs. She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
-
-
-
-Grace has given out $2,286 USD worth of food to 114 community members this month using Sarafu and has spent $2,316 USD on restocking and her family basic needs. She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
-
-
-
-Grace has given out $2,286 USD worth of food to 114 community members this month using Sarafu and has spent $2,316 USD on restocking and her family basic needs. She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
-
-
-
-Grace has given out $2,286 USD worth of food to 114 community members this month using Sarafu and has spent $2,316 USD on restocking and her family basic needs. She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
-
-
-
-Grace has given out $2,286 USD worth of food to 114 community members this month using Sarafu and has spent $2,316 USD on restocking and her family basic needs. She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
-
-
-
-2
-
-
-
-,
-
-
-
-286
-
-
-
-USD
-
-
-
-of
-
-
-
-114
-
-
-
-this
-
-
-
-2
-
-
-
-,
-
-
-
-316
-
-
-
-USD
-
-
-
-.
-
-
-
-.
 

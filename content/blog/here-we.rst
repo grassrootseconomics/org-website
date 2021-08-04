@@ -8,11 +8,7 @@
 
 
 
-.. image:: images/blog/here-we18.webp
-
-
-
- 
+.. image:: images/blog/here-we1.webp
 
 
 
@@ -48,13 +44,8 @@ Have a wonderful holiday and healthy 2017!
 
 
 
-#kenya #2016 #yearlyreport
 
-	`#kenya <https://www.grassrootseconomics.org/blog/hashtags/kenya>`_	
+`#kenya <https://www.grassrootseconomics.org/blog/hashtags/kenya>`_		`#yearlyreport <https://www.grassrootseconomics.org/blog/hashtags/yearlyreport>`_
 
-#kenya
 
-	`#yearlyreport <https://www.grassrootseconomics.org/blog/hashtags/yearlyreport>`_	
-
-#yearlyreport
 

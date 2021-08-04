@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/gatina-business18.webp
+.. image:: images/blog/gatina-business1.webp
 
 
 

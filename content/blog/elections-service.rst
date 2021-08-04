@@ -40,7 +40,7 @@ Kangemi-Pesa? – Nairobi
 
 Last week Will Ruddick was invited to Kangemi, an informal settlement in Nairobi, where a group of local schools together with Nyendo-Learning Hand in Hand are taking their first steps in replicating the Bangla-Pesa program. We are excited to see another community benefit from enabling themselves to issue and manage their own community currency. We are also happy to be talking with professors of economics from the University of Nairobi on studying these programs.
 
-	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	
+`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_
 
-#bangla
+
 

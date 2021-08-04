@@ -1,6 +1,6 @@
 :title: Faith Based Community Inclusion Currencies
 :author: Janet Akinyi
-:date: May 11
+:date: May 11 2021
 :slug: faith-based
  
 :summary: Local churches and faith based organizations have begun to develop their own community currencies (Sarafu)
@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/faith-based18.webp
+.. image:: images/blog/faith-based1.webp
 
 
 
@@ -17,6 +17,7 @@ Due to economic instability, many people in the marginalized communities are sho
 
 
 AMK CHURCH
+****************
 
 
 
@@ -24,21 +25,16 @@ The church (pictured above) is located in Mkanyeni village, Mtaa location, Bofu 
 
 
 
- “The tree that provided us with the shade dried up and fell down and that's when we decided to build a temporary structure” Dzeha explains.
+“The tree that provided us with the shade dried up and fell down and that's when we decided to build a temporary structure” Dzeha explains.
 
 
 
 At the height of the COVID-19 pandemic in 2020, Mkanyeni community was among the numerous communities that were empowered by Sarafu to build their own prospering economies. Pastor Dzeha Nyanye was one of the people that was trained on how to use the Community Inclusion Currency -a blockchain based voucher used to trade among community members when the national currency is scarce. Dzeha who is also a shopkeeper explains how Sarafu has impacted his community positively, 
 
-	*”Sarafu has been a safe way of trade even during the pandemic since I no longer need to carry cash, it has also created job opportunities in my community since the youths and even those without businesses or jobs can now offer services to those registered in Sarafu and earn an income. My sales have also increased as the users that could not have afforded a product from my shop due to lack of the national currency, can now use Sarafu to top up the little they have and get a product from me. I have created a network in my community and I'm also able to get other products that I don’t have in my shop from other users in my network.”*
+*”Sarafu has been a safe way of trade even during the pandemic since I no longer need to carry cash, it has also created job opportunities in my community since the youths and even those without businesses or jobs can now offer services to those registered in Sarafu and earn an income. My sales have also increased as the users that could not have afforded a product from my shop due to lack of the national currency, can now use Sarafu to top up the little they have and get a product from me. I have created a network in my community and I'm also able to get other products that I don’t have in my shop from other users in my network.”*
 
 
-It is during this time that Dzeha saw an opportunity to develop his church. He quickly shared this concept with his congregation and they equally liked and received the concept well. They were happy and optimistic about building their church through Sarafu. They contributed Sarafu jointly and bought the building materials like sand, cement. metals, water and stones. They were able to pay the people that would work on the site in Sarafu and those people with Sarafu could pay tithings and local goods and services from the congregation. Their church is not yet done but they are grateful that Sarafu was introduced in their community. They are hoping to complete their roofing soon.”We are grateful to Sarafu because through it, my community got empowered and as a church in particular, we've made tremendous developments.” Said Elizabeth Chari, one of the church members.
-
-	*It is during this time that Dzeha saw an opportunity to develop his church. He quickly shared this concept with his congregation and they equally liked and received the concept well. They were happy and optimistic about building their church through Sarafu. They contributed Sarafu jointly and bought the building materials like sand, cement. metals, water and stones. They were able to pay the people that would work on the site in Sarafu and those people with Sarafu could pay tithings and local goods and services from the congregation. Their church is not yet done but they are grateful that Sarafu was introduced in their community. They are hoping to complete their roofing soon.”We are grateful to Sarafu because through it, my community got empowered and as a church in particular, we've made tremendous developments.” Said Elizabeth Chari, one of the church members.*
-
-
-It is during this time that Dzeha saw an opportunity to develop his church. He quickly shared this concept with his congregation and they equally liked and received the concept well. They were happy and optimistic about building their church through Sarafu. They contributed Sarafu jointly and bought the building materials like sand, cement. metals, water and stones. They were able to pay the people that would work on the site in Sarafu and those people with Sarafu could pay tithings and local goods and services from the congregation. Their church is not yet done but they are grateful that Sarafu was introduced in their community. They are hoping to complete their roofing soon.”We are grateful to Sarafu because through it, my community got empowered and as a church in particular, we've made tremendous developments.” Said Elizabeth Chari, one of the church members.
+It is during this time that Dzeha saw an opportunity to develop his church. He quickly shared this concept with his congregation and they equally liked and received the concept well. They were happy and optimistic about building their church through Sarafu. They contributed Sarafu jointly and bought the building materials like sand, cement. metals, water and stones. They were able to pay the people that would work on the site in Sarafu and those people with Sarafu could pay tithings and local goods and services from the congregation. Their church is not yet done but they are grateful that Sarafu was introduced in their community. They are hoping to complete their roofing soon. *”We are grateful to Sarafu because through it, my community got empowered and as a church in particular, we've made tremendous developments.”* Said Elizabeth Chari, one of the church members.
 
 
 
@@ -59,6 +55,7 @@ A congregation that consists of 48 members are now able to worship in a conduciv
 
 
 ST. REGINA SEGERE LEGIO MARIA
+***********************************
 
 
 
@@ -74,9 +71,7 @@ They were lucky enough to also get empowered and trained on Syntropic Agroforest
 
 
 
-Speaking to Christabell- a selfless hardworking lady in her mid twenties, she gladly explains how great Sarafu has improved their livelihood, "It was hard feeding the big number of the vulnerable persons that we have under our care since the offerings that we use for the same weren't enough or rather sustainable. Since we started using Sarafu, the burden is lighter. We are able to source food from the nearby market since we also registered them in Sarafu. The youths are also empowered and can now offer services to different users and get paid in Sarafu. We receive more offerings than before and we use the same to cater for basic needs. We are also working hard in our farms and we are looking forward to good harvest that we will also sell in Sarafu” 
-
-	*Speaking to Christabell- a selfless hardworking lady in her mid twenties, she gladly explains how great Sarafu has improved their livelihood, "It was hard feeding the big number of the vulnerable persons that we have under our care since the offerings that we use for the same weren't enough or rather sustainable. Since we started using Sarafu, the burden is lighter. We are able to source food from the nearby market since we also registered them in Sarafu. The youths are also empowered and can now offer services to different users and get paid in Sarafu. We receive more offerings than before and we use the same to cater for basic needs. We are also working hard in our farms and we are looking forward to good harvest that we will also sell in Sarafu”*
+Speaking to Christabell- a selfless hardworking lady in her mid twenties, she gladly explains how great Sarafu has improved their livelihood, *"It was hard feeding the big number of the vulnerable persons that we have under our care since the offerings that we use for the same weren't enough or rather sustainable. Since we started using Sarafu, the burden is lighter. We are able to source food from the nearby market since we also registered them in Sarafu. The youths are also empowered and can now offer services to different users and get paid in Sarafu. We receive more offerings than before and we use the same to cater for basic needs. We are also working hard in our farms and we are looking forward to good harvest that we will also sell in Sarafu”*
 
 
 .. image:: images/blog/faith-based164.webp
@@ -92,6 +87,7 @@ Church members working on their farm.
 
 
 Pastors Network Nairobi
+*****************************
 
 
 
@@ -99,17 +95,7 @@ This is a group of around 36 members from different denominations within the 30 
 
 
 
-When Sarafu was introduced to their community, they felt that the concept would help them fill the gaps in their quest to support the vulnerable households in their different communities. They were trained on how to use the Community Inclusion Currencies(CIC) after which they were registered. They joined the many other communities that have been empowered to prosper their own economies. They were able to get basic needs through exchanging goods and services in Sarafu. The pastor Network Group joined hands and registered all the people under their course. “Since we started using Sarafu, I have never slept hungry as I can easily get food from my network. Before Sarafu, I could only manage to get one meal a day. I’m looking forward to making my network bigger to help me get more products. We also use Sarafu in our churches to pay tithes and offerings.” Said Mary, the group's treasurer. Members of Pastors Network (pictured above) group ready to visit a number of vulnerable households.
-
-	*When Sarafu was introduced to their community, they felt that the concept would help them fill the gaps in their quest to support the vulnerable households in their different communities. They were trained on how to use the Community Inclusion Currencies(CIC) after which they were registered. They joined the many other communities that have been empowered to prosper their own economies. They were able to get basic needs through exchanging goods and services in Sarafu. The pastor Network Group joined hands and registered all the people under their course. “Since we started using Sarafu, I have never slept hungry as I can easily get food from my network. Before Sarafu, I could only manage to get one meal a day. I’m looking forward to making my network bigger to help me get more products. We also use Sarafu in our churches to pay tithes and offerings.” Said Mary, the group's treasurer. Members of Pastors Network (pictured above) group ready to visit a number of vulnerable households.*
-
-
-When Sarafu was introduced to their community, they felt that the concept would help them fill the gaps in their quest to support the vulnerable households in their different communities. They were trained on how to use the Community Inclusion Currencies(CIC) after which they were registered. They joined the many other communities that have been empowered to prosper their own economies. They were able to get basic needs through exchanging goods and services in Sarafu. The pastor Network Group joined hands and registered all the people under their course. “Since we started using Sarafu, I have never slept hungry as I can easily get food from my network. Before Sarafu, I could only manage to get one meal a day. I’m looking forward to making my network bigger to help me get more products. We also use Sarafu in our churches to pay tithes and offerings.” Said Mary, the group's treasurer. Members of Pastors Network (pictured above) group ready to visit a number of vulnerable households.
-
-	*When Sarafu was introduced to their community, they felt that the concept would help them fill the gaps in their quest to support the vulnerable households in their different communities. They were trained on how to use the Community Inclusion Currencies(CIC) after which they were registered. They joined the many other communities that have been empowered to prosper their own economies. They were able to get basic needs through exchanging goods and services in Sarafu. The pastor Network Group joined hands and registered all the people under their course. “Since we started using Sarafu, I have never slept hungry as I can easily get food from my network. Before Sarafu, I could only manage to get one meal a day. I’m looking forward to making my network bigger to help me get more products. We also use Sarafu in our churches to pay tithes and offerings.” Said Mary, the group's treasurer. Members of Pastors Network (pictured above) group ready to visit a number of vulnerable households.*
-
-
-When Sarafu was introduced to their community, they felt that the concept would help them fill the gaps in their quest to support the vulnerable households in their different communities. They were trained on how to use the Community Inclusion Currencies(CIC) after which they were registered. They joined the many other communities that have been empowered to prosper their own economies. They were able to get basic needs through exchanging goods and services in Sarafu. The pastor Network Group joined hands and registered all the people under their course. “Since we started using Sarafu, I have never slept hungry as I can easily get food from my network. Before Sarafu, I could only manage to get one meal a day. I’m looking forward to making my network bigger to help me get more products. We also use Sarafu in our churches to pay tithes and offerings.” Said Mary, the group's treasurer. Members of Pastors Network (pictured above) group ready to visit a number of vulnerable households.
+When Sarafu was introduced to their community, they felt that the concept would help them fill the gaps in their quest to support the vulnerable households in their different communities. They were trained on how to use the Community Inclusion Currencies(CIC) after which they were registered. They joined the many other communities that have been empowered to prosper their own economies. They were able to get basic needs through exchanging goods and services in Sarafu. The pastor Network Group joined hands and registered all the people under their course. *“Since we started using Sarafu, I have never slept hungry as I can easily get food from my network. Before Sarafu, I could only manage to get one meal a day. I’m looking forward to making my network bigger to help me get more products. We also use Sarafu in our churches to pay tithes and offerings.”* Said Mary, the group's treasurer. Members of Pastors Network (pictured above) group ready to visit a number of vulnerable households.
 
 
 

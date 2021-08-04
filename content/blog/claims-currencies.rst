@@ -1,6 +1,6 @@
 :title: Claims, Currencies and Cryptography
 :author: Will Ruddick
-:date: Jun 22
+:date: Jun 22 2021
 :slug: claims-currencies
 :modified:  Jun 29
 :summary: We need frameworks and protocols for various types of endorsed claims that can be held self-sovereignty by individuals and groups.

@@ -6,9 +6,9 @@
 :summary: Since we started using blockchain for CICs in September 2018 we have seen nearly half a million dollars (482k USD) worth of trade via 154k t
  
 
-	` <https://dashboard.sarafu.network/>`_	
 
-.. image:: images/blog/covid-19-blockchain18.webp
+
+.. image:: images/blog/covid-19-blockchain1.webp
 
 
 
@@ -27,17 +27,9 @@ Since January $26,300 USD from donors have been used via Mpesa (eMoney) to purch
 
 Comparing transaction volume to donor aid since January we see 18.3x the amount of volume compared to the donor aid injected. See our dashboard below:
 
-	**Since January $26,300 USD from donors have been used via Mpesa (eMoney) to purchase these vouchers 1:1 from chamas (savings groups) and redistribute them to other needy members. These donor injections help peg the value of a CIC to National Currency and give women's groups the ability to purchase things not available in the network.
 
-Comparing transaction volume to donor aid since January we see 18.3x the amount of volume compared to the donor aid injected. See our dashboard below:**	
+https://dashboard.sarafu.network/
 
-
-
-Since January $26,300 USD from donors have been used via Mpesa (eMoney) to purchase these vouchers 1:1 from chamas (savings groups) and redistribute them to other needy members. These donor injections help peg the value of a CIC to National Currency and give women's groups the ability to purchase things not available in the network.
-
-Comparing transaction volume to donor aid since January we see 18.3x the amount of volume compared to the donor aid injected. See our dashboard below:
-
-	` <https://dashboard.sarafu.network/>`_	
 
 .. image:: images/blog/covid-19-blockchain45.webp
 
@@ -61,23 +53,9 @@ There has been a huge increase in usage since COVID-19 and specifically in Mukur
 
 $2,780 USD of donor funds have been used via Mpesa (1:1 with National Currency) to purchase back these vouchers from chamas. 
 
-Comparing transaction volume to donor aid for Kayaba we see 34x the amount of volume compared to injected donor funds.
+Comparing transaction volume to donor aid for Kayaba we see **34x** the amount of volume compared to injected donor funds.
 
 Note that out of the  2,588 registered users in Kayaba 2,072 were registered since April 6th (starting with 516 users). That is a growth of 501.5% since Covid-19. 
-
-	**$2,780 USD of donor funds have been used via Mpesa (1:1 with National Currency) to purchase back these vouchers from chamas. 
-
-Comparing transaction volume to donor aid for Kayaba we see 34x the amount of volume compared to injected donor funds.
-
-Note that out of the  2,588 registered users in Kayaba 2,072 were registered since April 6th (starting with 516 users). That is a growth of 501.5% since Covid-19.**	
-
-
-$2,780 USD of donor funds have been used via Mpesa (1:1 with National Currency) to purchase back these vouchers from chamas. 
-
-Comparing transaction volume to donor aid for Kayaba we see 34x the amount of volume compared to injected donor funds.
-
-Note that out of the  2,588 registered users in Kayaba 2,072 were registered since April 6th (starting with 516 users). That is a growth of 501.5% since Covid-19. 
-
 
 
 The photo above is a Kenya Red Cross trained Community Based Disaster Response Team member helping to spread awareness about COVID-19 in Mukuru, while also helping people identify where they can use their CICs to purchase basic commodities like soap, water and food, as well as where those shops can purchase from other shops and service providers in the network to encourage the community to support each other even when National Currency is scarce. 

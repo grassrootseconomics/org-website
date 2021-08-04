@@ -50,135 +50,9 @@ Community: By supporting community services and increasing interconnectivity of 
 
 
 
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
-Education: Through helping pay for school fees
-
-Environment: By helping to pay for youth centered environmental programs like waste collection and preventing flooding.
-
-Economy: By increasing trade and decreasing unemployment in the area.
-
-Community: By supporting community services and increasing interconnectivity of people.
-
-
-
- 
-
 
 
 South Africa wants Bangla-Pesa!
-
-
-
- 
 
 
 
@@ -186,29 +60,11 @@ Koru's own Will Ruddick was invited to South Africa to teach a group formed by M
 
 
 
- 
-
-
-
 John Ziniades from Meshfield and Will Ruddick also got to meet with Tim Jenkin the founder of CES and a global leader in the Complementary Currency movement.
 
 
 
-#bangl #gatina #SouthAfrica
 
+`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangl>`_	`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_	`#SouthAfrica <https://www.grassrootseconomics.org/blog/hashtags/SouthAfrica>`_
 
-
-#bangl #gatina #SouthAfrica
-
-	`#bangl <https://www.grassrootseconomics.org/blog/hashtags/bangl>`_	
-
-#bangl
-
-	`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_	
-
-#gatina
-
-	`#SouthAfrica <https://www.grassrootseconomics.org/blog/hashtags/SouthAfrica>`_	
-
-#SouthAfrica
 

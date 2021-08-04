@@ -26,7 +26,6 @@ Each day more and more small business owners are able to trade with each other e
 
 Will Ruddick can be seen on the right giving a seminar at the University of Nairobi, with the hope that more research will focus on these alternative financial programs.
 
-	`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_	
+`#gatina <https://www.grassrootseconomics.org/blog/hashtags/gatina>`_
 
-#gatina
 

@@ -9,26 +9,16 @@
 
 
  
-
+.. image:: images/blog/community-currency1.webp
 
 
 Grassroots Economics has opened up its archives of design and implementation to students world wide through a hands-on, practical course in Kenya. After having our first round of students this year with great results, we are excited to open up enrollment to students across Africa and abroad.
 
 
 
- 
 
+Become a `certified Community Currency designer <https://www.grassrootseconomics.org/get-involved>`_.
 
-
-Become a certified Community Currency designer.
-
-
-
-Become a certified Community Currency designer.
-
-	`certified Community Currency designer <https://www.grassrootseconomics.org/get-involved>`_	
-
- 
 
 
 
@@ -38,7 +28,7 @@ After understanding how to tap into the abundance of communities and build resil
 
  
 
-	`Click here to inquire about the course <https://www.grassrootseconomics.org/get-involved>`_	
+`Click here to inquire about the course <https://www.grassrootseconomics.org/get-involved>`_
 
  
 
@@ -48,15 +38,7 @@ This course will immerse you into the world of Community Currencies as a tool fo
 
 
 
- 
-
-
-
 Topical Outline:
-
-
-
- 
 
 
 
@@ -68,60 +50,6 @@ Community Currency Theory:development economics, history of money, financial sys
 Preparation & Development: community participation and ownership, system design, voucher creation, communications, partnerships, and legality.
 
 
-
-
-Preparation & Development: community participation and ownership, system design, voucher creation, communications, partnerships, and legality.
-
-
-
-
-Preparation & Development: community participation and ownership, system design, voucher creation, communications, partnerships, and legality.
-
-
-
-
-Setup & Launch:  cooperative facilitation, collateral asset development, financial sustainability, and marketing.
-
-Long Term Care: long-term support, audits, Community Currency renewal.
-
-
-
-
-Setup & Launch:  cooperative facilitation, collateral asset development, financial sustainability, and marketing.
-
-Long Term Care: long-term support, audits, Community Currency renewal.
-
-
-
-
-Setup & Launch:  cooperative facilitation, collateral asset development, financial sustainability, and marketing.
-
-Long Term Care: long-term support, audits, Community Currency renewal.
-
-
-
-
-Setup & Launch:  cooperative facilitation, collateral asset development, financial sustainability, and marketing.
-
-Long Term Care: long-term support, audits, Community Currency renewal.
-
-
-
-
-Setup & Launch:  cooperative facilitation, collateral asset development, financial sustainability, and marketing.
-
-Long Term Care: long-term support, audits, Community Currency renewal.
-
-
-
-
-Setup & Launch:  cooperative facilitation, collateral asset development, financial sustainability, and marketing.
-
-Long Term Care: long-term support, audits, Community Currency renewal.
-
-
-
-
 Setup & Launch:  cooperative facilitation, collateral asset development, financial sustainability, and marketing.
 
 Long Term Care: long-term support, audits, Community Currency renewal.
@@ -134,31 +62,9 @@ Management: system maintenance, legal reporting, accounting, currency circulatio
 
 
 
-Management: system maintenance, legal reporting, accounting, currency circulation, administration, data collection, and personnel.
-
-
-
-
-Management: system maintenance, legal reporting, accounting, currency circulation, administration, data collection, and personnel.
-
-
-
 
 Fieldwork: on-the-ground survey work and interviews; lessons learned from previous Community Currency models; taking part in community currency events and activities; economic resource mapping.
 
-
-
-
-Fieldwork: on-the-ground survey work and interviews; lessons learned from previous Community Currency models; taking part in community currency events and activities; economic resource mapping.
-
-
-
-
-Fieldwork: on-the-ground survey work and interviews; lessons learned from previous Community Currency models; taking part in community currency events and activities; economic resource mapping.
-
-
-
- 
 
 
 

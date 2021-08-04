@@ -8,19 +8,12 @@
 
 
 
-.. image:: images/blog/lindi-and18.webp
-
-
-
- 
+.. image:: images/blog/lindi-and1.webp
 
 
 
 The 4th and 5th Kenyan Community Currencies were launched last week within a span of 7 days. We now have our 3rd Nairobi Currency in Kibera, known as the Lindi-Pesa - linking together with Kangemi-Pesa and Gatina-Pesa in Kawangware. In Mombasa, we have Ng'ombeni-Pesa, the first currency to branch out of Bangla-Pesa in Mikindani. These were our first launches to feature our new Community Currency User Guide and Quiz as well as directories for all the business and school members.
 
-
-
- 
 
 
 
@@ -44,33 +37,17 @@ Ng'ombeni-Pesa or (Cow Money) comes the the Kwa Ng'ombe area of Mikindani, Momba
 
 
 
- 
-
-
 
 For their help in making these two currencies a reality we offer a special thanks to: 
 
+* For the Lindi and Ng'ombeni Business Networks - for taking on these programs and showing us how to use them.
+* Nyendo-lernen who are dedicated to helping Kenyan schools and are featured on the Lindi and Ng'ombeni vouchers.
+* Chiemgauer - for helping with the printing and specialty paper
+* Stichen DOEN - who supported both currencies through implementation.
+* LUSH Cosmetics - who assisted with Kangemi and Lindi-Pesa
+* Carol Opondo and Tatjana Posavec for their artistic talents doing the original art and graphic design for the currencies.
+* For the Grassroots Economics Team - especially Robin Gerbaux for his work on the directories and user guide - who will be heading back to France in September.
 
 
-For their help in making these two currencies a reality we offer a special thanks to: 
+South Africa: This last month the 2nd Community Currency following the original Bangla-Pesa model was launched in Kokstad, South Africa. We're extremely proud of the `FlowAfrica.org <http://FlowAfrica.org>`_ team on there work there and hope they can keep up the momentum.
 
-
-
-For their help in making these two currencies a reality we offer a special thanks to: 
-
-	* For the Lindi and Ng'ombeni Business Networks - for taking on these programs and showing us how to use them. 
-	* Nyendo-lernen who are dedicated to helping Kenyan schools and are featured on the Lindi and Ng'ombeni vouchers. 
-	* Chiemgauer - for helping with the printing and specialty paper 
-	* Stichen DOEN - who supported both currencies through implementation. 
-	* LUSH Cosmetics - who assisted with Kangemi and Lindi-Pesa 
-	* Carol Opondo and Tatjana Posavec for their artistic talents doing the original art and graphic design for the currencies. 
-	* For the Grassroots Economics Team - especially Robin Gerbaux for his work on the directories and user guide - who will be heading back to France in September. 
-
-
-South Africa: This last month the 2nd Community Currency following the original Bangla-Pesa model was launched in Kokstad, South Africa. We're extremely proud of the FlowAfrica.org team on there work there and hope they can keep up the momentum.
-
-
-
-South Africa: This last month the 2nd Community Currency following the original Bangla-Pesa model was launched in Kokstad, South Africa. We're extremely proud of the FlowAfrica.org team on there work there and hope they can keep up the momentum.
-
-	`FlowAfrica.org <http://FlowAfrica.org>`_	
