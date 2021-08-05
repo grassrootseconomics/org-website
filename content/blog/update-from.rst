@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/update-from18.webp
+.. image:: images/blog/update-from1.webp
 
 
 

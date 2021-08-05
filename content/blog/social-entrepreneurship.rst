@@ -12,29 +12,21 @@ Africa’s 2nd largest Social Entrepreneurship Conference was held at Tangaza Un
 
 
 
-.. image:: images/blog/social-entrepreneurship21.webp
+.. image:: images/blog/social-entrepreneurship1.webp
 
 
 
  
 
-	*Grassroots Team at AACOSE in Tangaza University.*
+*Grassroots Team at AACOSE in Tangaza University.*
 
 
  
 
 
 
-Themed Contextualizing and shaping social entrepreneurship in Africa, this conference attracted over 700 participants  who included social entrepreneurs practitioners, policy makers, investors, community leaders and academicians across Africa.
+Themed *Contextualizing and shaping social entrepreneurship in Africa*, this conference attracted over 700 participants  who included social entrepreneurs practitioners, policy makers, investors, community leaders and academicians across Africa.
 
-	*Themed Contextualizing and shaping social entrepreneurship in Africa, this conference attracted over 700 participants  who included social entrepreneurs practitioners, policy makers, investors, community leaders and academicians across Africa.*
-
-
-Themed Contextualizing and shaping social entrepreneurship in Africa, this conference attracted over 700 participants  who included social entrepreneurs practitioners, policy makers, investors, community leaders and academicians across Africa.
-
-
-
- 
 
 
 
@@ -76,7 +68,7 @@ So far this economic system has empowered the “unbanked poor” by linking sma
 
  
 
-	*Lucy Akinyi, a Sarafu-Credit (Lindi Pesa) user from Kibera.*
+*Lucy Akinyi, a Sarafu-Credit (Lindi Pesa) user from Kibera.*
 
 
  
@@ -143,65 +135,19 @@ And since these social enterprises need donor fund and sponsorships in order to 
 
 
 
-Want to participate, subscribe to our newsletter to never miss an update!
+Want to participate, `subscribe <http://www.grassrootseconomics.org>`_ to our newsletter to never miss an update!
 
 
-
-Want to participate, subscribe to our newsletter to never miss an update!
-
-	`subscribe <http://www.grassrootseconomics.org>`_	
 
 You can also drop us a comment on our social media pages, and don't forget to 
 
 
 
-click on the website  www.grassrootseconomics.org to find out more on Sarafu-Credit.
+click on the website `www.grassrootseconomics.org <http://www.grassrootseconomics.org>`_ to find out more on Sarafu-Credit.
 
 
-
-click on the website  www.grassrootseconomics.org to find out more on Sarafu-Credit.
-
-	`www.grassrootseconomics.org <http://www.grassrootseconomics.org>`_	
-
- 
 
 
 
  
-
-
-
-#AACOSE2018 #Socialentrepreneurship #SarafuCredit #SDG #Bancor
-
-
-
-#AACOSE2018 #Socialentrepreneurship #SarafuCredit #SDG #Bancor
-
-
-
-#AACOSE2018 #Socialentrepreneurship #SarafuCredit #SDG #Bancor
-
-
-
-#AACOSE2018 #Socialentrepreneurship #SarafuCredit #SDG #Bancor
-
-	`#AACOSE2018 <https://www.grassrootseconomics.org/blog/hashtags/AACOSE2018>`_	
-
-#AACOSE2018
-
-	`#Socialentrepreneurship <https://www.grassrootseconomics.org/blog/hashtags/Socialentrepreneurship>`_	
-
-#Socialentrepreneurship
-
-	`#SarafuCredit <https://www.grassrootseconomics.org/blog/hashtags/SarafuCredit>`_	
-
-#SarafuCredit
-
-	`#SDG <https://www.grassrootseconomics.org/blog/hashtags/SDG>`_	
-
-#SDG
-
-	`#Bancor <https://www.grassrootseconomics.org/blog/hashtags/Bancor>`_	
-
-#Bancor
 

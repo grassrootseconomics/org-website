@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/skylife-school18.webp
+.. image:: images/blog/skylife-school1.webp
 
 
 

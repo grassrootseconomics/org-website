@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/the-people18.webp
+.. image:: images/blog/the-people1.webp
 
 
 
@@ -18,7 +18,7 @@
 
  
 
-	**Sarafu stands at the fore-front of digital community currencies offering novel ways to learn about the inner workings of local exchange systems and study their impact hands-on.**	
+**Sarafu stands at the fore-front of digital community currencies offering novel ways to learn about the inner workings of local exchange systems and study their impact hands-on.**
 
 
  
@@ -197,81 +197,7 @@ P.S. A peek into the data - The following user-profiles spotlight how the commun
 
 
 
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
 
 #Miyani #complementarycurrency #impacts
 
-
-
-#Miyani #complementarycurrency #impacts
-
-	`#Miyani <https://www.grassrootseconomics.org/blog/hashtags/Miyani>`_	
-
-#Miyani
-
-	`#complementarycurrency <https://www.grassrootseconomics.org/blog/hashtags/complementarycurrency>`_	
-
-#complementarycurrency
-
-	`#impacts <https://www.grassrootseconomics.org/blog/hashtags/impacts>`_	
-
-#impacts
 

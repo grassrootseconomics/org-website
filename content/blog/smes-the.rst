@@ -1,6 +1,6 @@
 :title: SMEs the missing link in Circular Economies
 :author: Shaila Agha
-:date: May 18
+:date: May 18 2021
 :slug: smes-the
  
 :summary: Organizations merely have to choose whether to help their local community, or pay taxes to a government whose reach is never felt in these s
@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/smes-the18.webp
+.. image:: images/blog/smes-the1.webp
 
 
 

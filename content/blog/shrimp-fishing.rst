@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/shrimp-fishing18.webp
+.. image:: images/blog/shrimp-fishing1.webp
 
 
 
@@ -36,13 +36,7 @@ What if this flow of resources didn't depend on access to scares Kenyan Shilling
 
 
 
-Communities in rural areas near Mombasa are doing just that. They join a network of local businesses and receive a free credit of 400 Tokens (soft-peg to National currency). Once various loops of trade (like above fishing->storage->cooking->school fees->fishing) are decoupled from scare or volatile Kenyan Shillings we are seeing a lot more is possible in developing local resilient economies. The ability for community members to support one another in times of need begins to grow - reaching back to a time before the introduction National Currencies when community members would take turns working on each others fields and fixing each others houses.
-
-	*Communities in rural areas near Mombasa are doing just that. They join a network of local businesses and receive a free credit of 400 Tokens (soft-peg to National currency). Once various loops of trade (like above fishing->storage->cooking->school fees->fishing) are decoupled from scare or volatile Kenyan Shillings we are seeing a lot more is possible in developing local resilient economies. The ability for community members to support one another in times of need begins to grow - reaching back to a time before the introduction National Currencies when community members would take turns working on each others fields and fixing each others houses.*
-
-
-Communities in rural areas near Mombasa are doing just that. They join a network of local businesses and receive a free credit of 400 Tokens (soft-peg to National currency). Once various loops of trade (like above fishing->storage->cooking->school fees->fishing) are decoupled from scare or volatile Kenyan Shillings we are seeing a lot more is possible in developing local resilient economies. The ability for community members to support one another in times of need begins to grow - reaching back to a time before the introduction National Currencies when community members would take turns working on each others fields and fixing each others houses.
-
+Communities in rural areas near Mombasa are doing just that. They join a network of local businesses and receive a free credit of 400 Tokens (soft-peg to National currency). Once various loops of trade (like above *fishing->storage->cooking->school fees->fishing*) are decoupled from scare or volatile Kenyan Shillings we are seeing a lot more is possible in developing local resilient economies. The ability for community members to support one another in times of need begins to grow - reaching back to a time before the introduction National Currencies when community members would take turns working on each others fields and fixing each others houses.
 
 
  
@@ -53,29 +47,7 @@ What is perhaps most exciting right now is the usage of Community Currencies in 
 
 
 
-#fishing #economics #Miyani #Mombasa
 
+`#fishing <https://www.grassrootseconomics.org/blog/hashtags/fishing>`_		`#economics <https://www.grassrootseconomics.org/blog/hashtags/economics>`_	`#Miyani <https://www.grassrootseconomics.org/blog/hashtags/Miyani>`_	`#Mombasa <https://www.grassrootseconomics.org/blog/hashtags/Mombasa>`_
 
-
-#fishing #economics #Miyani #Mombasa
-
-
-
-#fishing #economics #Miyani #Mombasa
-
-	`#fishing <https://www.grassrootseconomics.org/blog/hashtags/fishing>`_	
-
-#fishing
-
-	`#economics <https://www.grassrootseconomics.org/blog/hashtags/economics>`_	
-
-#economics
-
-	`#Miyani <https://www.grassrootseconomics.org/blog/hashtags/Miyani>`_	
-
-#Miyani
-
-	`#Mombasa <https://www.grassrootseconomics.org/blog/hashtags/Mombasa>`_	
-
-#Mombasa
 

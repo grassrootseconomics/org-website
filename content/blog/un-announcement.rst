@@ -3,7 +3,7 @@
 :date: Nov 5, 2018
 :slug: un-announcement
  
-:summary: On October 25th Will Ruddick along with Galia Bernartzi from Bancor addressed the UN regarding the potential impacts of blockchain technolog
+:summary: On October 25th Will Ruddick along with Galia Bernartzi from Bancor addressed the UN regarding the potential impacts of blockchain technology
  
 
 
@@ -20,7 +20,7 @@ On October 25th, Will Ruddick along with Galia Bernartzi from Bancor addressed a
 
 
 
-.. image:: images/blog/un-announcement27.webp
+.. image:: images/blog/un-announcement1.webp
 
 
 
@@ -48,17 +48,9 @@ In lieu of creating exchanges between communities, Bancor offers a smart contrac
 
 
 
-Themed  "Blockchains for Social Impact, at the UN Geneva," Will Ruddick (The Pioneer of Community currencies in Kenya) presented research from Universities worldwide on impacts related to Grassroots Economics' Community Currencies and the shift to blockchain technology which enables large data sets of transactions to be analysed.
+Themed  "Blockchains for Social Impact, at the UN Geneva," Will Ruddick (`The Pioneer of Community currencies in Kenya <http://www.grassrootseconomics.org/media>`_) presented research from Universities worldwide on impacts related to Grassroots Economics' Community Currencies and the shift to blockchain technology which enables large data sets of transactions to be analysed.
 
 
-
-Themed  "Blockchains for Social Impact, at the UN Geneva," Will Ruddick (The Pioneer of Community currencies in Kenya) presented research from Universities worldwide on impacts related to Grassroots Economics' Community Currencies and the shift to blockchain technology which enables large data sets of transactions to be analysed.
-
-
-
-Themed  "Blockchains for Social Impact, at the UN Geneva," Will Ruddick (The Pioneer of Community currencies in Kenya) presented research from Universities worldwide on impacts related to Grassroots Economics' Community Currencies and the shift to blockchain technology which enables large data sets of transactions to be analysed.
-
-	`  <http://www.grassrootseconomics.org/media>`_		`The Pioneer of Community currencies in Kenya <http://www.grassrootseconomics.org/media>`_	
 
 He exemplified how this technological development offers a platform to engage people currently outside the formal financial system, mentioning that, " Through Block chain Liquid Community Currencies address the financial inclusion gap existing among people underserved by current financial solutions."
 
@@ -84,15 +76,10 @@ Galia Benartzi, Bancor reinforced this by stating that, "It is unlikely that the
 
 
 
-This exciting week at the UN provided a platform to validate how the implementation of blockchain technology in Kenya by Grassroots Economics, will increase local trade and overall economic stability by addressing multiple derivations targeted by the UN.  Many NGOs were interested in setting up Liquid Community Currencies as they realized it was possible to track Sustainable Development Goals  through transparent blockchain technology hence offering real solutions to worldwide problems. 
+This exciting week at the UN provided a platform to validate how the implementation of blockchain technology in Kenya by `Grassroots Economics <http://www.grassrootseconomics.org>`_, will increase local trade and overall economic stability by addressing multiple derivations targeted by the UN.  Many NGOs were interested in setting up Liquid Community Currencies as they realized it was possible to track Sustainable Development Goals  through transparent blockchain technology hence offering real solutions to worldwide problems.
 
 
 
-This exciting week at the UN provided a platform to validate how the implementation of blockchain technology in Kenya by Grassroots Economics, will increase local trade and overall economic stability by addressing multiple derivations targeted by the UN.  Many NGOs were interested in setting up Liquid Community Currencies as they realized it was possible to track Sustainable Development Goals  through transparent blockchain technology hence offering real solutions to worldwide problems. 
-
-	`Grassroots Economics <http://www.grassrootseconomics.org>`_	
-
- 
 
 
 
@@ -104,77 +91,15 @@ This exciting week at the UN provided a platform to validate how the implementat
 
 
 
- Subscribe on our website to never miss an update!
+`Subscribe <http://www.grassrootseconomics.org>`_ on our website to never miss an update!
 
 
 
- Subscribe on our website to never miss an update!
+`Sign up to identify yourself as an early adoptor and contributor.  <http://grassrootseconomics.org/whitepaper>`_
 
 
-
- Subscribe on our website to never miss an update!
-
-
-
- Subscribe on our website to never miss an update!
-
-	`Subscribe <http://www.grassrootseconomics.org>`_		`Sign up to identify yourself as an early adoptor and contributor.  <http://grassrootseconomics.org/whitepaper>`_	
-
- 
-
-
-
- 
 
 
 
 #LiquidCommunityCurrency #Blockchain #whitepaper #UN #SDG #Bancor #Binance
-
-
-
-#LiquidCommunityCurrency #Blockchain #whitepaper #UN #SDG #Bancor #Binance
-
-
-
-#LiquidCommunityCurrency #Blockchain #whitepaper #UN #SDG #Bancor #Binance
-
-
-
-#LiquidCommunityCurrency #Blockchain #whitepaper #UN #SDG #Bancor #Binance
-
-
-
-#LiquidCommunityCurrency #Blockchain #whitepaper #UN #SDG #Bancor #Binance
-
-
-
-#LiquidCommunityCurrency #Blockchain #whitepaper #UN #SDG #Bancor #Binance
-
-	`#LiquidCommunityCurrency <https://www.grassrootseconomics.org/blog/hashtags/LiquidCommunityCurrency>`_	
-
-#LiquidCommunityCurrency
-
-	`#Blockchain <https://www.grassrootseconomics.org/blog/hashtags/Blockchain>`_	
-
-#Blockchain
-
-	`#whitepaper <https://www.grassrootseconomics.org/blog/hashtags/whitepaper>`_	
-
-#whitepaper
-
-	`#UN <https://www.grassrootseconomics.org/blog/hashtags/UN>`_	
-
-#UN
-
-	`#SDG <https://www.grassrootseconomics.org/blog/hashtags/SDG>`_	
-
-#SDG
-
-	`#Bancor <https://www.grassrootseconomics.org/blog/hashtags/Bancor>`_	
-
-#Bancor
-
-	`#Binance <https://www.grassrootseconomics.org/blog/hashtags/Binance>`_	
-
-#Binance
 

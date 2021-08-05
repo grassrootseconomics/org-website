@@ -1,6 +1,6 @@
 :title: Static vs Bonded Liquidity Pools for CICs
 :author: Will Ruddick
-:date: Jan 16
+:date: Jan 16 2021
 :slug: static-vs
 :modified:  Jan 19
 :summary: As communities create their Community Inclusion Currencies as a credit against their future production, projects and excess capacity,...
@@ -16,15 +16,8 @@ For the blockchain and #defi folks they are probably familiar with the Bonded Po
 
 
 
-For the blockchain and #defi folks they are probably familiar with the Bonded Pool like you can find with Uniswap or in the Bancor Network, but lets start with its sibling the Static Pool - which simply is a contract holding 2 tokens that are exchangeable to each other.
 
-	`#defi <https://www.grassrootseconomics.org/blog/hashtags/defi>`_	
-
-#defi
-
-
-
-.. image:: images/blog/static-vs26.webp
+.. image:: images/blog/static-vs1.webp
 
 
 
@@ -72,22 +65,13 @@ On the contrary with a Static Pool, one side of the pool could simply run out ca
 
 
 
-If communities connect their CICs to a basic income or network token like Sarafu in a 1:1 Static Pool - all such CICs would automatically be exchangeable 1:1 with each other. This is appealing because it creates a well defined common pool of tokens connected through a network token. This method combines the concept of a UBI with a credit system - described briefly here.
 
+If communities connect their CICs to a basic income or network token like Sarafu in a 1:1 Static Pool - all such CICs would automatically be exchangeable 1:1 with each other. This is appealing because it creates a well defined common pool of tokens connected through a network token. This method combines the concept of a UBI with a credit system - described briefly `here <https://www.grassrootseconomics.org/post/dex-multitudes>`_.
 
-
-If communities connect their CICs to a basic income or network token like Sarafu in a 1:1 Static Pool - all such CICs would automatically be exchangeable 1:1 with each other. This is appealing because it creates a well defined common pool of tokens connected through a network token. This method combines the concept of a UBI with a credit system - described briefly here.
-
-	`here <https://www.grassrootseconomics.org/post/dex-multitudes>`_	
 
 Also note that both types of pools could be used to connect a CIC with some other non-CIC token (like Eth or DAI) who's value might be fluctuating or unknown relative to the CICs - in this case having market supply and demand to establish that price over time might be preferable using a Bonded Pool. Note that many such pools can co-exist in the same network, connecting the same tokens. So connecting UBI and CICs on static pools while also connecting to non-CICs via bonded pools could allow for in-network 1:1 exchanges and variable/market rate exchanges against foreign tokens (e.g. Eth or stable coins). 
 
 
 
-We're excited to be building infrastructure - using the open source Bancor DEX contracts - that can accommodate an extremely diverse set of pools - creating really decentralized typologies for common pooling of Community Inclusion Currencies.
+We're excited to be building infrastructure - using the open source `Bancor DEX contracts <https://github.com/bancorprotocol/contracts-solidity>`_ - that can accommodate an extremely diverse set of pools - creating really decentralized typologies for common pooling of Community Inclusion Currencies.
 
-
-
-We're excited to be building infrastructure - using the open source Bancor DEX contracts - that can accommodate an extremely diverse set of pools - creating really decentralized typologies for common pooling of Community Inclusion Currencies.
-
-	`Bancor DEX contracts <https://github.com/bancorprotocol/contracts-solidity>`_	

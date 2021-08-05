@@ -44,28 +44,6 @@ She’s a 49 year-old main provider for a household of 8, including 4 children. 
 
 
 
-Meet Rose Ouma!
-
-She’s a 49 year-old main provider for a household of 8, including 4 children. She was born in Suba, in Western Province of Kenya, but she moved from her home upcountry and now she lives in Ganahola, another one of the communities where we are hoping to spread complementary currencies.
-
-
-
-Meet Rose Ouma!
-
-She’s a 49 year-old main provider for a household of 8, including 4 children. She was born in Suba, in Western Province of Kenya, but she moved from her home upcountry and now she lives in Ganahola, another one of the communities where we are hoping to spread complementary currencies.
-
-
-
-Meet Rose Ouma!
-
-She’s a 49 year-old main provider for a household of 8, including 4 children. She was born in Suba, in Western Province of Kenya, but she moved from her home upcountry and now she lives in Ganahola, another one of the communities where we are hoping to spread complementary currencies.
-
-
-
-Meet Rose Ouma!
-
-She’s a 49 year-old main provider for a household of 8, including 4 children. She was born in Suba, in Western Province of Kenya, but she moved from her home upcountry and now she lives in Ganahola, another one of the communities where we are hoping to spread complementary currencies.
-
 
 
 Rose supports her large family selling “omena” which are small (about the size of a pen cap) dried fish which are a very popular source of protein and iron, often whole eaten deep fried or stewed. She sells one kilogram of omena for less than $2. On good days, she sells around $11 worth of omena. On bad days, she might only have one customer, selling only $2 worth of omena. On those days, Rose doesn’t earn enough money to pay for her families basic needs and some of her stock may rot or be eaten by her family, reducing her earning potential in the future.

@@ -144,7 +144,7 @@ Community Currency usage over time.(Average daily amount of CC usage). We find t
 
 
 
-.. image:: images/blog/preliminary-research120.webp
+.. image:: images/blog/preliminary-research1.webp
 
 
 
@@ -160,21 +160,6 @@ Community Currency usage over time.(Average daily amount of CC usage). We find t
 
 
 
- 
 
-
-
- 
-
-
-
-#survey #sarafu
-
-	`#survey <https://www.grassrootseconomics.org/blog/hashtags/survey>`_	
-
-#survey
-
-	`#sarafu <https://www.grassrootseconomics.org/blog/hashtags/sarafu>`_	
-
-#sarafu
+`#survey <https://www.grassrootseconomics.org/blog/hashtags/survey>`_		`#sarafu <https://www.grassrootseconomics.org/blog/hashtags/sarafu>`_
 

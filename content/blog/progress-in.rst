@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/progress-in18.webp
+.. image:: images/blog/progress-in1.webp
 
 
 
@@ -34,12 +34,6 @@ One of our partner programs in South Africa was recently featured on the news.
 
 Click here to read the full story: http://www.news24.com/SouthAfrica/Local/East-Griqualand-Fever/Kokstad-cu...
 
-	` http://www.news24.com/SouthAfrica/Local/East-Griqualand-Fever/Kokstad-cu... <http://www.news24.com/SouthAfrica/Local/East-Griqualand-Fever/Kokstad-currency-proposed-20150429>`_	
-
- 
-
-
 
 Click here for the follow-up story after a visit from our team: http://www.news24.com/SouthAfrica/Local/East-Griqualand-Fever/Community-...
 
-	` http://www.news24.com/SouthAfrica/Local/East-Griqualand-Fever/Community-... <http://www.news24.com/SouthAfrica/Local/East-Griqualand-Fever/Community-currency-pioneer-talks-to-business-owners-20150521>`_	

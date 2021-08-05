@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/tiwi-orphans18.webp
+.. image:: images/blog/tiwi-orphans1.webp
 
 
 
@@ -59,26 +59,4 @@ Community Service is a central part of our work. This is the time to listen to s
 #kenya #coast #orphans #communityservice
 
 
-
-#kenya #coast #orphans #communityservice
-
-
-
-#kenya #coast #orphans #communityservice
-
-	`#kenya <https://www.grassrootseconomics.org/blog/hashtags/kenya>`_	
-
-#kenya
-
-	`#coast <https://www.grassrootseconomics.org/blog/hashtags/coast>`_	
-
-#coast
-
-	`#orphans <https://www.grassrootseconomics.org/blog/hashtags/orphans>`_	
-
-#orphans
-
-	`#communityservice <https://www.grassrootseconomics.org/blog/hashtags/communityservice>`_	
-
-#communityservice
 

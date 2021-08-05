@@ -7,7 +7,9 @@
  
 
 
+.. raw:: html
 
+    <iframe width="740" height="416" src="https://www.youtube.com/embed/z4l3-_yub5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 
@@ -36,13 +38,8 @@ Community Currencies bring together networks of mainly women-run small businesse
 
 
 
-Please consider making a donation or connecting us with people that can help spread these programs to places like Katwe.
+Please consider making a 	`donation <https://www.grassrootseconomics.org/get-involved>`_ or connecting us with people that can help spread these programs to places like Katwe.
 
-
-
-Please consider making a donation or connecting us with people that can help spread these programs to places like Katwe.
-
-	`donation <https://www.grassrootseconomics.org/get-involved>`_	
 
  
 

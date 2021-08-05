@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/universal-basic18.webp
+.. image:: images/blog/universal-basic1.webp
 
 
 
@@ -94,35 +94,4 @@ While studies are currently underway on Universal Basic Income it is important t
 
 #UBI #communitycurrencies #research #cashtransfers #donations
 
-
-
-#UBI #communitycurrencies #research #cashtransfers #donations
-
-
-
-#UBI #communitycurrencies #research #cashtransfers #donations
-
-
-
-#UBI #communitycurrencies #research #cashtransfers #donations
-
-	`#UBI <https://www.grassrootseconomics.org/blog/hashtags/UBI>`_	
-
-#UBI
-
-	`#communitycurrencies <https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies>`_	
-
-#communitycurrencies
-
-	`#research <https://www.grassrootseconomics.org/blog/hashtags/research>`_	
-
-#research
-
-	`#cashtransfers <https://www.grassrootseconomics.org/blog/hashtags/cashtransfers>`_	
-
-#cashtransfers
-
-	`#donations <https://www.grassrootseconomics.org/blog/hashtags/donations>`_	
-
-#donations
 

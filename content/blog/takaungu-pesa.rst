@@ -12,7 +12,7 @@ The Vindakala Youth Bunge’s motto “Coming Together is Just The Beginning.”
 
 
 
-.. image:: images/blog/takaungu-pesa21.webp
+.. image:: images/blog/takaungu-pesa1.webp
 
 
 
@@ -66,43 +66,4 @@ After using the paper voucher versions of TK-Pesa for the next month we will int
 
 #Takaungu #Rural #Kenya #Kilifi #FoodSecurity #Fishing
 
-
-
-#Takaungu #Rural #Kenya #Kilifi #FoodSecurity #Fishing
-
-
-
-#Takaungu #Rural #Kenya #Kilifi #FoodSecurity #Fishing
-
-
-
-#Takaungu #Rural #Kenya #Kilifi #FoodSecurity #Fishing
-
-
-
-#Takaungu #Rural #Kenya #Kilifi #FoodSecurity #Fishing
-
-	`#Takaungu <https://www.grassrootseconomics.org/blog/hashtags/Takaungu>`_	
-
-#Takaungu
-
-	`#Rural <https://www.grassrootseconomics.org/blog/hashtags/Rural>`_	
-
-#Rural
-
-	`#Kenya <https://www.grassrootseconomics.org/blog/hashtags/Kenya>`_	
-
-#Kenya
-
-	`#Kilifi <https://www.grassrootseconomics.org/blog/hashtags/Kilifi>`_	
-
-#Kilifi
-
-	`#FoodSecurity <https://www.grassrootseconomics.org/blog/hashtags/FoodSecurity>`_	
-
-#FoodSecurity
-
-	`#Fishing <https://www.grassrootseconomics.org/blog/hashtags/Fishing>`_	
-
-#Fishing
 

@@ -1,24 +1,22 @@
+:title: When a woman saves the community wins
+:date: Jun 20 2019
+:slug: when-a
+:author: rebeccamqamelo
 
 
-Community-based savings and loans are often what keep under-resourced economies afloat. In Kenya, these savings groups or chamas, as they are locally known, are an important source of funds in times of scarcity. We zone in on some of the women who use Sarafu to show how the community currency has enabled them to increase their savings.
 
-	*Community-based savings and loans are often what keep under-resourced economies afloat. In Kenya, these savings groups or chamas, as they are locally known, are an important source of funds in times of scarcity. We zone in on some of the women who use Sarafu to show how the community currency has enabled them to increase their savings.*
+Community-based savings and loans are often what keep under-resourced economies afloat. In Kenya, these savings groups or *chamas*, as they are locally known, are an important source of funds in times of scarcity. We zone in on some of the women who use Sarafu to show how the community currency has enabled them to increase their savings.
 
 
-Community-based savings and loans are often what keep under-resourced economies afloat. In Kenya, these savings groups or chamas, as they are locally known, are an important source of funds in times of scarcity. We zone in on some of the women who use Sarafu to show how the community currency has enabled them to increase their savings.
 
+**How it works: Reba's story**
 
 
  
 
-	**How it works: Reba's story**	
 
 
- 
-
-
-
-.. image:: images/blog/when-a32.webp
+.. image:: images/blog/when-a1.webp
 
 
 
@@ -44,7 +42,7 @@ Reba believes in the power of collective saving. Since using Sarafu, she has not
 
  
 
-	**A new financial savings tool**	
+**A new financial savings tool**
 
 
  
@@ -107,56 +105,7 @@ Before using Sarafu, Kuzumi Katuma used to save between 1,000 and 2,000 Kenyan s
 
 
 
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
 Grace Dzidza lives in Miyani and sells paraffin. She says using Sarafu helped her grow her customer base and she can now save about 600 Kenyan shillings more per month than she was able to before. She uses most of this money to pay for one of her daughter’s high school fees.
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
 
 
  
@@ -170,18 +119,4 @@ Community currencies are a multi-dimensional development tool. These women’s s
 #saving #sustainabledevelopment #women
 
 
-
-#saving #sustainabledevelopment #women
-
-	`#saving <https://www.grassrootseconomics.org/blog/hashtags/saving>`_	
-
-#saving
-
-	`#sustainabledevelopment <https://www.grassrootseconomics.org/blog/hashtags/sustainabledevelopment>`_	
-
-#sustainabledevelopment
-
-	`#women <https://www.grassrootseconomics.org/blog/hashtags/women>`_	
-
-#women
 

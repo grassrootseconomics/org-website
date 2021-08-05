@@ -3,12 +3,14 @@
 :date: Jun 29, 2014
 :slug: panty-distribution
  
-:summary: In May, we told you about an incredible synergy of Star Wars (http://www.501st.com/), Roller Derby (http://www.okcbankedtrackrollerderby....
+:summary: In May, we told you about an incredible synergy of Star Wars (http://www.501st.com/), Roller Derby
  
 
 
 
- 
+.. raw:: html
+
+    <iframe width="740" height="416" src="https://www.youtube.com/embed/Phd5lBxF-3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -19,14 +21,6 @@
 In May, we told you about an incredible synergy of Star Wars (http://www.501st.com/), Roller Derby (http://www.okcbankedtrackrollerderby.com/), and amazing, concerned, generous people that generated more than $1300 and 363 pairs of panties. Thanks to all of you who made this a reality!
 
 
-
-In May, we told you about an incredible synergy of Star Wars (http://www.501st.com/), Roller Derby (http://www.okcbankedtrackrollerderby.com/), and amazing, concerned, generous people that generated more than $1300 and 363 pairs of panties. Thanks to all of you who made this a reality!
-
-
-
-In May, we told you about an incredible synergy of Star Wars (http://www.501st.com/), Roller Derby (http://www.okcbankedtrackrollerderby.com/), and amazing, concerned, generous people that generated more than $1300 and 363 pairs of panties. Thanks to all of you who made this a reality!
-
-	`http://www.501st.com/ <http://www.501st.com/>`_		`http://www.okcbankedtrackrollerderby.com/ <http://www.okcbankedtrackrollerderby.com/>`_	
 
 In June, we put that money and those panties to use. Given Koru-Kenya’s strong ties to Bangladesh, Kenya and the great need there, we were able to reach out to 363 girls in the informal settlement. It’s difficult to properly convey the challenges faced by these schools, their administration, teachers, and students. Two schools rest on a cliff side overlooking what remains of a gorgeous mangrove forest on a salt water creek. Unfortunately for them, erosion is a constant threat to the integrity of the school, which could be washed away by a strong rain.
 

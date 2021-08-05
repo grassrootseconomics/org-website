@@ -16,7 +16,7 @@ Communities can support each other and keep vital food systems and trade alive u
 
 
 
-.. image:: images/blog/rural-villages24.webp
+.. image:: images/blog/rural-villages1.webp
 
 
 
@@ -29,23 +29,6 @@ Tsuma Njirai  is a cereal seller at Makobeni village has been selling cow peas a
 
 
  
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
 
 
 Jowa Omari has a barber shop in Vikolani village. He has been accepting Sarafu anytime someone comes to shave his head. Because of the pandemic, he is aware that most people are doing self quarantine hence he has decided to accept more Sarafu in his business of which he will later use the Sarafu to purchase goods from the same clients and also contribute to a community support group.
@@ -68,37 +51,6 @@ Omar Katana is a tailor from Katundani Village. She has been accepting Sarafu in
 
 
 
- 
 
-
-
- 
-
-
-
-#foodsecurity #covid19 #coronavirus #rural
-
-
-
-#foodsecurity #covid19 #coronavirus #rural
-
-
-
-#foodsecurity #covid19 #coronavirus #rural
-
-	`#foodsecurity <https://www.grassrootseconomics.org/blog/hashtags/foodsecurity>`_	
-
-#foodsecurity
-
-	`#covid19 <https://www.grassrootseconomics.org/blog/hashtags/covid19>`_	
-
-#covid19
-
-	`#coronavirus <https://www.grassrootseconomics.org/blog/hashtags/coronavirus>`_	
-
-#coronavirus
-
-	`#rural <https://www.grassrootseconomics.org/blog/hashtags/rural>`_	
-
-#rural
+`#foodsecurity <https://www.grassrootseconomics.org/blog/hashtags/foodsecurity>`_		`#covid19 <https://www.grassrootseconomics.org/blog/hashtags/covid19>`_ 	`#rural <https://www.grassrootseconomics.org/blog/hashtags/rural>`_
 

@@ -9,7 +9,7 @@
 
 
  
-
+.. image:: images/blog/rural-community1.webp
 
 
 The Miyani area in Kenya has been identified by Red Cross and the World Food Program as food insecure for over 5 years. Red Cross along with WFP have been providing cash to the community and promoting agroforestry along with Green World Campaign. These programs have been wonderful but there has been little to no introduction of new businesses or jobs to really allow that cash to circulate in the community. Instead injections of cash into these areas quickly funnel back out of the area to do things like milling maize.
@@ -52,21 +52,9 @@ Environmental Service Credits: In addition to creating a credit that moves throu
 
 
 
-#communitycurrencies #foodsecurity #miyani
+
+`#communitycurrencies <https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies>`_		`#foodsecurity <https://www.grassrootseconomics.org/blog/hashtags/foodsecurity>`_	`#miyani <https://www.grassrootseconomics.org/blog/hashtags/miyani>`_
 
 
 
-#communitycurrencies #foodsecurity #miyani
-
-	`#communitycurrencies <https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies>`_	
-
-#communitycurrencies
-
-	`#foodsecurity <https://www.grassrootseconomics.org/blog/hashtags/foodsecurity>`_	
-
-#foodsecurity
-
-	`#miyani <https://www.grassrootseconomics.org/blog/hashtags/miyani>`_	
-
-#miyani
 

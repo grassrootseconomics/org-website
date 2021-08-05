@@ -62,17 +62,3 @@ Wanjala's school in Nairobi (Sifa Children's Home) is one of three (including Ka
 
 
 
-#education #schoolfees #bangla
-
-	`#education <https://www.grassrootseconomics.org/blog/hashtags/education>`_	
-
-#education
-
-	`#schoolfees <https://www.grassrootseconomics.org/blog/hashtags/schoolfees>`_	
-
-#schoolfees
-
-	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	
-
-#bangla
-

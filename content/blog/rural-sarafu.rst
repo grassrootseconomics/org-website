@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/rural-sarafu18.webp
+.. image:: images/blog/rural-sarafu1.webp
 
 
 
@@ -17,6 +17,11 @@ Rosemary Owino is a widow from Siaya village in Siaya County. She has wanted des
 
 
 She was able to join a women's group (chama) called Kwe Kende - A group that trades and supports each other using Sarafu (a Community Inclusion Currency (CIC) which is created and traded on a blockchain using simple feature phones with no internet). Through this chama, Rosemary has been able to find support within the network and she has been able to sell her fish in both Sarafu and Kenyan Shillings.
+
+
+.. raw:: html
+
+    <iframe width="740" height="416" src="https://www.youtube.com/embed/fUZQGGlKZeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -28,13 +33,9 @@ Rosemary is grateful to use Sarafu and says "It helps me practice the sharing ou
 
 
 
-Overall the Sarafu Network of CIC users in Kenya is comprised primarily of 40,000 users in both urban and rural areas. Roughly 50% of the network is rural and has traded over 100Million Sarafu tokens this year (valued locally at roughly 1 Million USD of goods and services) between each other to offer basic support and trade goods and services. The majority of the trade is for contributions to chamas and church groups, food stuffs, farming and other labor. In October 2020 rural users traded over 8Million Sarafu among each other for food stuffs alone.
+Overall the `Sarafu Network <https://www.grassrootseconomics.org/sarafu-network>`_ of CIC users in Kenya is comprised primarily of 40,000 users in both urban and rural areas. Roughly 50% of the network is rural and has traded over 100Million Sarafu tokens this year (valued locally at roughly 1 Million USD of goods and services) between each other to offer basic support and trade goods and services. The majority of the trade is for contributions to chamas and church groups, food stuffs, farming and other labor. In October 2020 rural users traded over 8Million Sarafu among each other for food stuffs alone.
 
 
-
-Overall the Sarafu Network of CIC users in Kenya is comprised primarily of 40,000 users in both urban and rural areas. Roughly 50% of the network is rural and has traded over 100Million Sarafu tokens this year (valued locally at roughly 1 Million USD of goods and services) between each other to offer basic support and trade goods and services. The majority of the trade is for contributions to chamas and church groups, food stuffs, farming and other labor. In October 2020 rural users traded over 8Million Sarafu among each other for food stuffs alone.
-
-	`Sarafu Network <https://www.grassrootseconomics.org/sarafu-network>`_	
 
 The economic outlook in rural Kenya is not good right now; as less and less Kenyan Shillings reach rural areas markets have began to collapse. CICs like Sarafu help keep markets moving and communities together.
 

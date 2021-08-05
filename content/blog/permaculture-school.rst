@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/permaculture-school18.webp
+.. image:: images/blog/permaculture-school1.webp
 
 
 

@@ -47,26 +47,3 @@ This year, the program saw around 90 street children and youth, like Amfrey, Oma
 #motomoto #performingarts #poi #burnerswithoutborders
 
 
-
-#motomoto #performingarts #poi #burnerswithoutborders
-
-
-
-#motomoto #performingarts #poi #burnerswithoutborders
-
-	`#motomoto <https://www.grassrootseconomics.org/blog/hashtags/motomoto>`_	
-
-#motomoto
-
-	`#performingarts <https://www.grassrootseconomics.org/blog/hashtags/performingarts>`_	
-
-#performingarts
-
-	`#poi <https://www.grassrootseconomics.org/blog/hashtags/poi>`_	
-
-#poi
-
-	`#burnerswithoutborders <https://www.grassrootseconomics.org/blog/hashtags/burnerswithoutborders>`_	
-
-#burnerswithoutborders
-

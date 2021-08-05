@@ -24,7 +24,7 @@ This way parents can pay for part of their childrens' education with their own g
 
 
 
-.. image:: images/blog/school-fees30.webp
+.. image:: images/blog/school-fees1.webp
 
 
 
@@ -32,17 +32,7 @@ This way parents can pay for part of their childrens' education with their own g
 
 
 
- 
+`#schoolfees <https://www.grassrootseconomics.org/blog/hashtags/schoolfees>`_		`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_
 
 
-
-#schoolfees #bangla
-
-	`#schoolfees <https://www.grassrootseconomics.org/blog/hashtags/schoolfees>`_	
-
-#schoolfees
-
-	`#bangla <https://www.grassrootseconomics.org/blog/hashtags/bangla>`_	
-
-#bangla
 

@@ -12,16 +12,6 @@ Last Sunday marked the culmination of partnerships with an unexpected collection
 
 
 
-Last Sunday marked the culmination of partnerships with an unexpected collection of people who came together to support the education and reproductive health of school-aged girls in Kenya. The Oklahoma City Outlaws Roller Derby team (http://www.okcbankedtrackrollerderby.com/), and the 501st Legion (http://www.501st.com/), a Star Wars fan club and charity/volunteer organization, can together for PANTY WARS.
-
-
-
-Last Sunday marked the culmination of partnerships with an unexpected collection of people who came together to support the education and reproductive health of school-aged girls in Kenya. The Oklahoma City Outlaws Roller Derby team (http://www.okcbankedtrackrollerderby.com/), and the 501st Legion (http://www.501st.com/), a Star Wars fan club and charity/volunteer organization, can together for PANTY WARS.
-
-	`http://www.okcbankedtrackrollerderby.com/ <http://www.okcbankedtrackrollerderby.com/>`_		`http://www.501st.com/ <http://www.501st.com/>`_	
-
- 
-
 
 
 Panty Wars was a special roller derby bout dedicated to collecting panties and funds for school girls in Kenya. While many school girls receive sanitary pads through the Government of Kenya, poor and vulnerable girls frequently lack panties in which to place sanitary pads. As a result, they miss about a week of school each month during their periods (read more here link). Derby Girls and the Star Wars fans alike objected to this unnecessary barrier to girls’ education, and they decided to do something about it.

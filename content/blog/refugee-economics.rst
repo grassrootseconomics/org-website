@@ -1,6 +1,6 @@
 :title: Refugee Economics in Kakuma Kenya
 :author: Marcelin Munga Petro
-:date: Feb 13
+:date: Feb 13 2021
 :slug: refugee-economics
  
 :summary: Short description of FHE community based organization. dear sir/madam Greetings, I'm MARCELIN MUNGA PETRO a Congolese by nationality...
@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/refugee-economics18.webp
+.. image:: images/blog/refugee-economics1.webp
 
 
 

@@ -1,6 +1,6 @@
 :title: Recycling Debt (Kusaga Deni, Kubali Sarafu)
 :author: Isavary Khabuqwi
-:date: Mar 13
+:date: Mar 13 2021
 :slug: recycling-debt
  
 :summary: Imagine having to endure constant reminders and threatening messages from predatory lenders your entire life. Imagine going out of...
@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/recycling-debt18.webp
+.. image:: images/blog/recycling-debt1.webp
 
 
 
@@ -22,19 +22,11 @@ Imagine going out of business because you’ve loaned out too many of your produ
 
 This is daily life here in Kenya
 
-	**Debtors suffer: People are taking on debts from payment apps, banks, shops, friends and family at a break-neck speed, because they see no other option. This is why we have millions Kenyans listed as loan defaulters by the Central Bank of Kenya (CBK) and increasing suicide rates of debtors.**	
-
-
-Debtors suffer: People are taking on debts from payment apps, banks, shops, friends and family at a break-neck speed, because they see no other option. This is why we have millions Kenyans listed as loan defaulters by the Central Bank of Kenya (CBK) and increasing suicide rates of debtors. 
+**Debtors suffer:** People are taking on debts from payment apps, banks, shops, friends and family at a break-neck speed, because they see no other option. This is why we have millions Kenyans listed as loan defaulters by the Central Bank of Kenya (CBK) and increasing `suicide <https://www.kenyans.co.ke/news/49839-cbk-steps-suicide-rates-rise-over-debts>`_ rates of debtors.
 
 
 
-Debtors suffer: People are taking on debts from payment apps, banks, shops, friends and family at a break-neck speed, because they see no other option. This is why we have millions Kenyans listed as loan defaulters by the Central Bank of Kenya (CBK) and increasing suicide rates of debtors. 
-
-	`suicide <https://www.kenyans.co.ke/news/49839-cbk-steps-suicide-rates-rise-over-debts>`_		**Lenders suffer: Not all lenders are predatory. When small businesses lend out their products they often never get paid back. They end up holding the debts of so many friends, family, neighbors that they go out of business. How much debt are you willing to hold for a friend, family, neighbor, colleague, acquaintance until they pay you back?**	
-
-
-Lenders suffer: Not all lenders are predatory. When small businesses lend out their products they often never get paid back. They end up holding the debts of so many friends, family, neighbors that they go out of business. How much debt are you willing to hold for a friend, family, neighbor, colleague, acquaintance until they pay you back?
+**Lenders suffer:** Not all lenders are predatory. When small businesses lend out their products they often never get paid back. They end up holding the debts of so many friends, family, neighbors that they go out of business. How much debt are you willing to hold for a friend, family, neighbor, colleague, acquaintance until they pay you back?
 
 
 
@@ -42,41 +34,25 @@ This situation creates what is known as economic gridlock (see video), strife an
 
 
 
-As a woman in her thirties and a single mother by choice, I’ve endured poverty because my urgency for money makes me vulnerable to borrowing - but I would have never thought I would have found help from the Red Cross. I always thought the Kenya Red Cross Society helped with disasters only - but it turns, out they are helping fix the disaster of our economy as well, by building a public free infrastructure for sharing our collective value called Community Inclusion Currencies (Sarafu in Kenya). Sarafu is a community driven basic income that helps individuals and small businesses achieve a debt recycling lifestyle - ending economic gridlock. Call Kenya Red Cross toll free 0800-720-577 to learn more.
-
-	*As a woman in her thirties and a single mother by choice, I’ve endured poverty because my urgency for money makes me vulnerable to borrowing - but I would have never thought I would have found help from the Red Cross. I always thought the Kenya Red Cross Society helped with disasters only - but it turns, out they are helping fix the disaster of our economy as well, by building a public free infrastructure for sharing our collective value called Community Inclusion Currencies (Sarafu in Kenya). Sarafu is a community driven basic income that helps individuals and small businesses achieve a debt recycling lifestyle - ending economic gridlock. Call Kenya Red Cross toll free 0800-720-577 to learn more.*
-	**The fact is 2020 was a tough year! We discovered how to incorporate hunger into our food diet in order to achieve our dreams. After the debt streak most of us have suffered, are we still willing to come together to help each other escape the debt gridlock and the “rat race”?**	
+As a woman in her thirties and a single mother by choice, I’ve endured poverty because my urgency for money makes me vulnerable to borrowing - but I would have never thought I would have found help from the Red Cross. I always thought the Kenya Red Cross Society helped with disasters only - but it turns, out they are helping fix the disaster of our economy as well, by building a public free infrastructure for sharing our collective value called Community Inclusion Currencies (Sarafu in Kenya). Sarafu is a community driven basic income that helps individuals and small businesses achieve a debt recycling lifestyle - ending economic gridlock. *Call Kenya Red Cross toll free 0800-720-577 to learn more.*
 
 
-The fact is 2020 was a tough year! We discovered how to incorporate hunger into our food diet in order to achieve our dreams. After the debt streak most of us have suffered, are we still willing to come together to help each other escape the debt gridlock and the “rat race”?
-
-	**Recycle Debt - accepting and using community driven basic income is a solution we can all get behind. Sarafu are created for each and every Kenyan that registers using any phone by dialing *384*96# Safaricom with no charges or *483*46# on other networks.**	
-
-
-Recycle Debt - accepting and using community driven basic income is a solution we can all get behind. Sarafu are created for each and every Kenyan that registers using any phone by dialing *384*96# Safaricom with no charges or *483*46# on other networks. 
-
-	**Lenders are Heroes: When someone comes to you asking for a loan of money or product, ask them for Sarafu in return. Ensure that you hold a level that does not affect your business’ or personal financial flow and before you accept anymore, seek out your friends, families and debtors to help you spend it. This protects lenders form accruing too much debt and gives them away to spend their debt (kusaga deni).**	
-
-
-Lenders are Heroes: When someone comes to you asking for a loan of money or product, ask them for Sarafu in return. Ensure that you hold a level that does not affect your business’ or personal financial flow and before you accept anymore, seek out your friends, families and debtors to help you spend it. This protects lenders form accruing too much debt and gives them away to spend their debt (kusaga deni).
-
-	**Debtors support Lenders: Rather than keep asking for loans you can create your own Sarafu, which will help you purchase goods and services when you’re short of cash. Reach out to people that are generously holding Sarafu for work and accept it for your work and spend it among a network of your peers like is the case with Kilifi Kulture.**	
-
-
-Debtors support Lenders: Rather than keep asking for loans you can create your own Sarafu, which will help you purchase goods and services when you’re short of cash. Reach out to people that are generously holding Sarafu for work and accept it for your work and spend it among a network of your peers like is the case with Kilifi Kulture. 
+**The fact is 2020 was a tough year!** We discovered how to incorporate hunger into our food diet in order to achieve our dreams. After the debt streak most of us have suffered, are we still willing to come together to help each other escape the debt gridlock and the “rat race”?
 
 
 
-Debtors support Lenders: Rather than keep asking for loans you can create your own Sarafu, which will help you purchase goods and services when you’re short of cash. Reach out to people that are generously holding Sarafu for work and accept it for your work and spend it among a network of your peers like is the case with Kilifi Kulture. 
+**Recycle Debt** - accepting and using community driven basic income is a solution we can all get behind. Sarafu are created for each and every Kenyan that registers using any phone by dialing  x384x96# Safaricom with no charges or x483x46# on other networks.
 
-	`Kilifi Kulture <https://www.instagram.com/kilifikulture/>`_	
+
+**Lenders are Heroes:** When someone comes to you asking for a loan of money or product, ask them for Sarafu in return. Ensure that you hold a level that does not affect your business’ or personal financial flow and before you accept anymore, seek out your friends, families and debtors to help you spend it. This protects lenders form accruing too much debt and gives them away to spend their debt (kusaga deni).
+
+
+**Debtors support Lenders:** Rather than keep asking for loans you can create your own Sarafu, which will help you purchase goods and services when you’re short of cash. Reach out to people that are generously holding Sarafu for work and accept it for your work and spend it among a network of your peers like is the case with `Kilifi Kulture <https://www.instagram.com/kilifikulture/>`_
 
 .. image:: images/blog/recycling-debt129.webp
 
-	**Kusaga deni, kubali Sarafu! Refusing our old notion of debt and accepting the use of a basic income (Sarafu) is a viable solution in promoting circular trade to help the economy thrive. It’s quite easy to see a useful tool when you need it.**	
 
-
-Kusaga deni, kubali Sarafu! Refusing our old notion of debt and accepting the use of a basic income (Sarafu) is a viable solution in promoting circular trade to help the economy thrive. It’s quite easy to see a useful tool when you need it. 
+**Kusaga deni, kubali Sarafu!** Refusing our old notion of debt and accepting the use of a basic income (Sarafu) is a viable solution in promoting circular trade to help the economy thrive. It’s quite easy to see a useful tool when you need it.
 
 
 
@@ -84,6 +60,6 @@ As someone who has suffered from financial depression, I maintained a routine th
 
 
 
-Contact us to join a group of economic heroes in Kenya. 
 
-	`Contact us to join a group of economic heroes in Kenya. <https://www.grassrootseconomics.org/contact>`_	
+
+`Contact us to join a group of economic heroes in Kenya. <https://www.grassrootseconomics.org/contact>`_

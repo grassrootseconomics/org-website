@@ -8,7 +8,7 @@
 
 
 
- 
+.. image:: images/blog/post-election1.webp
 
 
 

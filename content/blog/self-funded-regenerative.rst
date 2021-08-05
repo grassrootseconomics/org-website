@@ -1,6 +1,6 @@
 :title: Self-Funded Regenerative Agriculture Kwale Site January Visit
 :author: James Thiong’o
-:date: Jan 14
+:date: Jan 14 2021
 :slug: self-funded-regenerative
  
 :summary: Based on the design found in the Kwale Sites the above poster was created by W.Ruddick On 11th January 2021, I visited Miyani Demo Plot...
@@ -8,9 +8,10 @@
 
 
 
-.. image:: images/blog/self-funded-regenerative18.webp
+.. image:: images/blog/self-funded-regenerative1.webp
 
-	*Based on the design found in the Kwale Sites the above poster was created by W.Ruddick*
+
+*Based on the design found in the Kwale Sites the above poster was created by W.Ruddick*
 
 
 On 11th January 2021, I visited Miyani Demo Plot to monitor the progress made a month later after my visit in December. It had rained the previous day therefore crops looked healthy while the temperature was cool. For the past one month, maize had already been harvested and maize stalks used to mulch on the beds. Some vegetables such as capsicum/sweet pepper had been planted in the mid rows of the beds. In the nursery a variety of indigenous vegetables including amaranth and night shade were sprouting and will be ready for transplanting in a few weeks.
@@ -34,10 +35,11 @@ However, a few challenges exist including pests and disease. Aphids have attacke
 
 
 Topics covered.
+*********************
 
 
 
-1. Planting succession.
+**1. Planting succession.**
 
 
 
@@ -65,7 +67,7 @@ Use of local, organic and indigenous seeds is encouraged. These seeds are adapte
 
 
 
-2. Mulching.
+**2. Mulching.**
 
 
 
@@ -77,7 +79,7 @@ Various plant matter can be used including grasses, weeds and crop residues. We 
 
 
 
-3. Organic Pest Control.
+**3. Organic Pest Control.**
 
 	* We covered Integrated Pest Management which is a holistic method for solving pest and disease problems.
 	* Using Biological methods by creating habitats for beneficial insects and organisms, growing diverse crops and planting repellents such as onions, lemon grass and chillies.

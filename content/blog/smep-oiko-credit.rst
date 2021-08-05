@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/smep-oiko-credit18.webp
+.. image:: images/blog/smep-oiko-credit1.webp
 
 
 
@@ -42,7 +42,7 @@ The kind of package SMEP is offering is indeed a group loan but being issued to 
 
 In other news - Francis Wanjala reports: the Gatina Business Organization (GBO) has issued loans to 5 members using Community Currency (Gatina-Pesa) of roughly 30k. In their previous meeting the members started paying back the loans and the GBO has so far received Ksh.9500 in repayment, which is quite exciting. These members reported that the money has helped to boost stock.
 
-	`#kangemi <https://www.grassrootseconomics.org/blog/hashtags/kangemi>`_	
+`#kangemi <https://www.grassrootseconomics.org/blog/hashtags/kangemi>`_
 
-#kangemi
+
 

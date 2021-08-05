@@ -8,13 +8,12 @@
 
 
 
-.. image:: images/blog/white-house18.webp
+.. image:: images/blog/white-house1.webp
 
 
 
- Grassroots Economics Director, Caroline Dama, visited the White House on Wednesday as a finalist in the WomensConnect USAID program 
 
-	*Grassroots Economics Director, Caroline Dama, visited the White House on Wednesday as a finalist in the WomensConnect USAID program*
+*Grassroots Economics Director, Caroline Dama, visited the White House on Wednesday as a finalist in the WomensConnect USAID program*
 
 
  
@@ -55,43 +54,4 @@ This revolutionary program will be piloted in partnership with Bancor Foundation
 
 #usaid #white #house #usa #bancor #blockchain
 
-
-
-#usaid #white #house #usa #bancor #blockchain
-
-
-
-#usaid #white #house #usa #bancor #blockchain
-
-
-
-#usaid #white #house #usa #bancor #blockchain
-
-
-
-#usaid #white #house #usa #bancor #blockchain
-
-	`#usaid <https://www.grassrootseconomics.org/blog/hashtags/usaid>`_	
-
-#usaid
-
-	`#white <https://www.grassrootseconomics.org/blog/hashtags/white>`_	
-
-#white
-
-	`#house <https://www.grassrootseconomics.org/blog/hashtags/house>`_	
-
-#house
-
-	`#usa <https://www.grassrootseconomics.org/blog/hashtags/usa>`_	
-
-#usa
-
-	`#bancor <https://www.grassrootseconomics.org/blog/hashtags/bancor>`_	
-
-#bancor
-
-	`#blockchain <https://www.grassrootseconomics.org/blog/hashtags/blockchain>`_	
-
-#blockchain
 

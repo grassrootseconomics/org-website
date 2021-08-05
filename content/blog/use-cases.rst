@@ -52,12 +52,8 @@ In Kibera, Razao Kivinza (pictured above) who sells clothes by the roadside deli
 
 
 
- 
 
-	*'Braiding the Rope' is the term we use for the process of bringing people into the network. People in the community learn from each other and begin to trade with each-other and bring in other traders from their daily life which causes the network to organically grow. Witnessing this organic growth recorded on the blockchain is amazing.*
-
-
-'Braiding the Rope' is the term we use for the process of bringing people into the network. People in the community learn from each other and begin to trade with each-other and bring in other traders from their daily life which causes the network to organically grow. Witnessing this organic growth recorded on the blockchain is amazing.
+**'Braiding the Rope'** is the term we use for the process of bringing people into the network. People in the community learn from each other and begin to trade with each-other and bring in other traders from their daily life which causes the network to organically grow. Witnessing this organic growth recorded on the blockchain is amazing.
 
 
 
@@ -83,43 +79,4 @@ These examples highlight the proof of impact Community Currency continues to mak
 
 #cryptocurrency #blockchain #impact #sustainabledevelopment #Kenya #communitycurrency
 
-
-
-#cryptocurrency #blockchain #impact #sustainabledevelopment #Kenya #communitycurrency
-
-
-
-#cryptocurrency #blockchain #impact #sustainabledevelopment #Kenya #communitycurrency
-
-
-
-#cryptocurrency #blockchain #impact #sustainabledevelopment #Kenya #communitycurrency
-
-
-
-#cryptocurrency #blockchain #impact #sustainabledevelopment #Kenya #communitycurrency
-
-	`#cryptocurrency <https://www.grassrootseconomics.org/blog/hashtags/cryptocurrency>`_	
-
-#cryptocurrency
-
-	`#blockchain <https://www.grassrootseconomics.org/blog/hashtags/blockchain>`_	
-
-#blockchain
-
-	`#impact <https://www.grassrootseconomics.org/blog/hashtags/impact>`_	
-
-#impact
-
-	`#sustainabledevelopment <https://www.grassrootseconomics.org/blog/hashtags/sustainabledevelopment>`_	
-
-#sustainabledevelopment
-
-	`#Kenya <https://www.grassrootseconomics.org/blog/hashtags/Kenya>`_	
-
-#Kenya
-
-	`#communitycurrency <https://www.grassrootseconomics.org/blog/hashtags/communitycurrency>`_	
-
-#communitycurrency
 

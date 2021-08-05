@@ -12,7 +12,7 @@
 
 
 
-.. image:: images/blog/retreat-and21.webp
+.. image:: images/blog/retreat-and1.webp
 
 
 
@@ -35,25 +35,16 @@ At the renewal event each active member could return up to 400 expired Bangla-Pe
  
 
 
-
 Also in September was our first formal retreat/workshop with three Community Currency Trading Networks in Nairobi. The workshop had 30 attendees from the committees and key members and stakeholders from networks in Kibera (Lindi-Pesa), Kangemi (Kangemi-Pesa) and Kawangware (Gatina-Pesa) including Nyendo-lernen a program focused on schools in the area. The retreat covered: 
 
-
-
-Also in September was our first formal retreat/workshop with three Community Currency Trading Networks in Nairobi. The workshop had 30 attendees from the committees and key members and stakeholders from networks in Kibera (Lindi-Pesa), Kangemi (Kangemi-Pesa) and Kawangware (Gatina-Pesa) including Nyendo-lernen a program focused on schools in the area. The retreat covered: 
-
-
-
-Also in September was our first formal retreat/workshop with three Community Currency Trading Networks in Nairobi. The workshop had 30 attendees from the committees and key members and stakeholders from networks in Kibera (Lindi-Pesa), Kangemi (Kangemi-Pesa) and Kawangware (Gatina-Pesa) including Nyendo-lernen a program focused on schools in the area. The retreat covered: 
-
-	* The current situation of Complementary and Community Currencies world wide 
-	* Strategies for new business creation including permaculture based school gardens. 
-	* Challenges and Discussion around Community Currency usage 
-	* Sharing and examples from members and school groups on how Community Currency is being used effectively. 
-	* Study of the user guide, field guide and directories 
-	* Roles and responsibilities of Business Network Committees 
-	* Savings and Loan programs 
-	* Planning until the end of the year. 
+* The current situation of Complementary and Community Currencies world wide
+* Strategies for new business creation including permaculture based school gardens.
+* Challenges and Discussion around Community Currency usage
+* Sharing and examples from members and school groups on how Community Currency is being used effectively.
+* Study of the user guide, field guide and directories
+* Roles and responsibilities of Business Network Committees
+* Savings and Loan programs
+* Planning until the end of the year.
 
 
 Thanks for our guest speakers Guida Santos, Tristan Dissaux, Robin Gerbaux and Irmgard Wutte.

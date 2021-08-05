@@ -12,19 +12,11 @@
 
 
 
-.. image:: images/blog/supporting-covid-1921.webp
+.. image:: images/blog/supporting-covid-191.webp
 
 
 
- Community Health Volunteers (CHV), Clinics and doctors are daily working tirelessly with communities to teach them to cope with COVID-19. They are, out of their own pockets, supporting needy families and themselves working often with no pay. Health care workers using CICs have a way to help support the community and care for themselves as national currency runs out.
-
-
-
- Community Health Volunteers (CHV), Clinics and doctors are daily working tirelessly with communities to teach them to cope with COVID-19. They are, out of their own pockets, supporting needy families and themselves working often with no pay. Health care workers using CICs have a way to help support the community and care for themselves as national currency runs out.
-
-
-
- Community Health Volunteers (CHV), Clinics and doctors are daily working tirelessly with communities to teach them to cope with COVID-19. They are, out of their own pockets, supporting needy families and themselves working often with no pay. Health care workers using CICs have a way to help support the community and care for themselves as national currency runs out.
+Community Health Volunteers (CHV), Clinics and doctors are daily working tirelessly with communities to teach them to cope with COVID-19. They are, out of their own pockets, supporting needy families and themselves working often with no pay. Health care workers using CICs have a way to help support the community and care for themselves as national currency runs out.
 
 
 
@@ -56,17 +48,6 @@ This is Bernard Okoth and Grace Hellen the chairlady of CHVs in Mukuru (right) t
 
 
 
-
-Please leverage your support to health workers by contributing. 
-
-
-
-
-Please leverage your support to health workers by contributing. 
-
-
-
-
 Please leverage your support to health workers by contributing. 
 
 
@@ -95,10 +76,6 @@ To double (for next 90 days) your money or donate send mpesa to paybill (631685)
 
 
 
-If you are not in Kenya you can support here.
+If you are not in Kenya you can support `here <http://gitcoin.co/grants/541/cic-covid-19-kenyan-crisis-aid>`_.
 
 
-
-If you are not in Kenya you can support here.
-
-	`here <http://gitcoin.co/grants/541/cic-covid-19-kenyan-crisis-aid>`_	

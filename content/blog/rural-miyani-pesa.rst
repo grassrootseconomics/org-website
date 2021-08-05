@@ -7,7 +7,7 @@
  
 
 
-
+.. image:: images/blog/rural-miyani-pesa1.webp
  
 
 
@@ -40,29 +40,8 @@ Environmental Service Credits: In addition to creating a credit that moves throu
 
 
 
-#rural #maizebacked #miyani #communitycurrencies
 
 
+`#rural <https://www.grassrootseconomics.org/blog/hashtags/rural>`_		`#maizebacked <https://www.grassrootseconomics.org/blog/hashtags/maizebacked>`_	`#miyani <https://www.grassrootseconomics.org/blog/hashtags/miyani>`_	`#communitycurrencies <https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies>`_
 
-#rural #maizebacked #miyani #communitycurrencies
-
-
-
-#rural #maizebacked #miyani #communitycurrencies
-
-	`#rural <https://www.grassrootseconomics.org/blog/hashtags/rural>`_	
-
-#rural
-
-	`#maizebacked <https://www.grassrootseconomics.org/blog/hashtags/maizebacked>`_	
-
-#maizebacked
-
-	`#miyani <https://www.grassrootseconomics.org/blog/hashtags/miyani>`_	
-
-#miyani
-
-	`#communitycurrencies <https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies>`_	
-
-#communitycurrencies
 

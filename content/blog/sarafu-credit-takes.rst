@@ -6,7 +6,7 @@
 :summary: We began the year by looking at our successes and challenges with five Kenyan community currencies in 2015. Out of this came the...
  
 
-
+.. image:: images/blog/sarafu-credit-takes1.webp
 
  
 
@@ -32,13 +32,7 @@ Permaculture Gardens in the schools of Bangladesh's Bangla-Pesa program near Mom
 
 
 
-#permaculture #communitycurrencies
 
-	`#permaculture <https://www.grassrootseconomics.org/blog/hashtags/permaculture>`_	
+`#permaculture <https://www.grassrootseconomics.org/blog/hashtags/permaculture>`_		`#communitycurrencies <https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies>`_
 
-#permaculture
-
-	`#communitycurrencies <https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies>`_	
-
-#communitycurrencies
 

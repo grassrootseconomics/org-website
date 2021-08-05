@@ -24,7 +24,7 @@ We started these 3 groups back in 2015 in Kibera, Kangemi and Kawangware, and we
 
 
 
-.. image:: images/blog/sarafu-cooperative30.webp
+.. image:: images/blog/sarafu-cooperative1.webp
 
 
 

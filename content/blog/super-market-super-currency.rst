@@ -8,7 +8,7 @@
 
 
 
-.. image:: images/blog/super-market-super-currency18.webp
+.. image:: images/blog/super-market-super-currency1.webp
 
 
 
@@ -50,11 +50,4 @@ The official opening of the supermarket is set for mid-March!
 
 #supermarket #nairobi
 
-	`#supermarket <https://www.grassrootseconomics.org/blog/hashtags/supermarket>`_	
-
-#supermarket
-
-	`#nairobi <https://www.grassrootseconomics.org/blog/hashtags/nairobi>`_	
-
-#nairobi
 
