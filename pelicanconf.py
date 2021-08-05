@@ -31,11 +31,15 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
+DISPLAY_PAGES_ON_MENU = True
+
 LOAD_CONTENT_CACHE = False
 
 THEME = "ge-theme"
 
-DISPLAY_PAGES_ON_MENU = True
+PAGE_ORDER_BY = 'page-order'
+
+
 
 THEME_STATIC_PATHS = ['static']
 

@@ -14,15 +14,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="./theme/css/style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<!--    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"-->
-<!--            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"-->
-<!--            crossorigin="anonymous"></script>-->
-    <!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>-->
-    <!--    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>-->
     <script src="https://use.fontawesome.com/5932321f98.js"></script>
 
 
-<link rel="stylesheet" type="text/css" href="./theme/css/index-styles.css">
+<link rel="stylesheet" type="text/css" href="./theme/css/home-styles.css">
 
 </head>
 
@@ -38,301 +33,123 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item" ><a class="nav-link" href="./pages/about-us.html">about-us</a></li>
-                <li class="nav-item" ><a class="nav-link" href="./pages/contact-us.html">Contact us</a></li>
-                <li class="nav-item" ><a class="nav-link" href="./pages/dashboard.html">Dashboard</a></li>
-                <li class="nav-item" ><a class="nav-link" href="./pages/food-forests.html">Food Forests</a></li>
-                <li class="nav-item" ><a class="nav-link" href="./pages/get-involved.html">Get Involved</a></li>
-                <li class="nav-item" ><a class="nav-link" href="./pages/home.html">Home</a></li>
-                <li class="nav-item" ><a class="nav-link" href="./pages/how-it-works.html">How It Works</a></li>
-                <li class="nav-item" ><a class="nav-link" href="./pages/media.html">Media</a></li>
+                <li class="nav-item"  ><a class="nav-link" href="./">Home</a></li>
                 <li class="nav-item" ><a class="nav-link" href="./pages/mooc.html">MOOC</a></li>
-                <li class="nav-item" ><a class="nav-link" href="./pages/research.html">Research</a></li>
+                <li class="nav-item" ><a class="nav-link" href="./pages/contact-us.html">Contact us</a></li>
+                <li class="nav-item" ><a class="nav-link" href="./pages/about-us.html">about-us</a></li>
+                <li class="nav-item" ><a class="nav-link" href="./pages/how-it-works.html">How It Works</a></li>
+                <li class="nav-item" ><a class="nav-link" href="./pages/food-forests.html">Food Forests</a></li>
                 <li class="nav-item" ><a class="nav-link" href="./pages/sarafu-network.html">Sarafu Network</a></li>
+                <li class="nav-item" ><a class="nav-link" href="./pages/research.html">Research</a></li>
+                <li class="nav-item" ><a class="nav-link" href="./pages/get-involved.html">Get Involved</a></li>
+                <li class="nav-item" ><a class="nav-link" href="./pages/media.html">Media</a></li>
+                <li class="nav-item" ><a class="nav-link" href="./pages/dashboard.html">Dashboard</a></li>
                 <li class="nav-item" ><a class="nav-link"
                                                                             href="./category/blog.html">blog</a></li>
 
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                       data-bs-toggle="dropdown" aria-expanded="false">
-                        More
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="./pages/mooc.html">MOOC</a></li>
-                        <li><a class="dropdown-item" href="./pages/contact-us.html">Contact-us</a></li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
-                </li>
+
+<!--                <li class="nav-item dropdown">-->
+<!--                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"-->
+<!--                       data-bs-toggle="dropdown" aria-expanded="false">-->
+<!--                        More-->
+<!--                    </a>-->
+<!--                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">-->
+<!--                        <li><a class="dropdown-item" href="./pages/mooc.html">MOOC</a></li>-->
+<!--                        <li><a class="dropdown-item" href="./pages/contact-us.html">Contact-us</a></li>-->
+<!--                        <li>-->
+<!--                            <hr class="dropdown-divider">-->
+<!--                        </li>-->
+<!--                        <li><a class="dropdown-item" href="#">Something else here</a></li>-->
+<!--                    </ul>-->
+<!--                </li>-->
             </ul>
         </div>
     </div>
 </nav>
 
-<div class="container container-margins">
-<section id="content">
-<!--<h2 class="try">All articles</h2>-->
-
-<ul class="ul-style" id="post-list">
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./taxation-community.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/taxation-community1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/will-ruddick.html">Will Ruddick</a><br>
-                                <time class="published" datetime="2021-08-01T00:00:00+03:00"> Sun 01 August 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./taxation-community.html" rel="bookmark" title="Permalink to Taxation & Community Currencies">Taxation & Community Currencies</a></h2>
-                        <div class="entry-content"> <p class="first last">Taxation of &amp; in Community Currencies could be the largest and most stable tax source for governments.</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
+<div class="container-fluid overflow-hidden">
+    <div class="row row-margin h-80">
+        <div class="col-lg-6 col-md-12 col-sm-12">
+            <img src="./theme/images/home-imgs/home-img1.gif" class=" img-fluid img-style" alt="img-gif" >
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12">
+            <div class="wrapper-col">
+                <p class="row-one-words">Prospering economies built by thriving communities</p>
+                <img class="img-fluid mx-auto d-block row-one-img" src="./theme/images/home-imgs/home-logo.webp">
             </div>
-        </article></li>
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./gre-for.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/gre-for1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/grace-rachmany.html">Grace Rachmany</a><br>
-                                <time class="published" datetime="2021-07-16T00:00:00+03:00"> Fri 16 July 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./gre-for.html" rel="bookmark" title="Permalink to GRE for ME">GRE for ME</a></h2>
-                        <div class="entry-content"> <p class="first last">Thank you for doing the sacred and life-preserving work of creating financial opportunity and elevating people’s dignity</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
+        </div>
+    </div>
+    <div class="row row-margin">
+        <div class="col-lg-6 col-md-12 col-sm-12">
+            <div class="words-col-wrapper">
+                <h2 class="h2-title">Ending poverty lies in building communities</h2>
+                <p class="row-2-words">Through Community Inclusion Currencies people have a way to exchange goods and services and incubate projects and businesses, without relying on scarce national currency and volatile markets.</p>
+                <a href="./pages/how-it-works.html" class="butt-style">How it works</a>
             </div>
-        </article></li>
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./claims-currencies.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/claims-currencies1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/will-ruddick.html">Will Ruddick</a><br>
-                                <time class="published" datetime="2021-06-22T00:00:00+03:00"> Tue 22 June 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./claims-currencies.html" rel="bookmark" title="Permalink to Claims, Currencies and Cryptography">Claims, Currencies and Cryptography</a></h2>
-                        <div class="entry-content"> <p class="first last">We need frameworks and protocols for various types of endorsed claims that can be held self-sovereignty by individuals and groups.</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12">
+            <img class="img-fluid style-img" src="./theme/images/home-imgs/home-img2.webp">
+        </div>
+    </div>
+    <div class="row flex-column-reverse flex-lg-row row-margin">
+<!--        flex-column-reverse flex-lg-row reverses order of column on md and sm screens-->
+        <div class="col-lg-6 col-md-12 col-sm-12">
+            <img class="img-fluid style-img" src="./theme/images/home-imgs/home-img3.webp">
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12">
+            <div class="words-col-wrapper">
+                <h2 class="h2-title">We envision prospering economies built by thriving communities</h2>
+                <p class="row-2-words">Grassroots Economics is a non-profit foundation that has been seeking to empower marginalized communities to take charge of their own livelihoods and economic future since 2010.</p>
+                <a href="./pages/about-us.html" class="butt-style">About us</a>
             </div>
-        </article></li>
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./emmas-duka.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/emmas-duka1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/will-ruddick.html">Will Ruddick</a><br>
-                                <time class="published" datetime="2021-05-21T00:00:00+03:00"> Fri 21 May 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./emmas-duka.html" rel="bookmark" title="Permalink to Emma's Duka Community Currency Movement">Emma's Duka Community Currency Movement</a></h2>
-                        <div class="entry-content"> <p class="first last">Emma's Duka Community Currency Movement - in support of those seeking to free themselves from poorly designed monetary systems.</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
+        </div>
+    </div>
+    <div class="row row-margin">
+        <div class="col-lg-6 col-md-12 col-sm-12">
+            <div class="words-col-wrapper">
+                <h2 class="h2-title">Get involved</h2>
+                <p class="row-2-words">Communities should be afforded the same privileges as nations and be empowered to develop their own prospering economies with the stability of their own currencies.</p>
+                <a href="./pages/get-involved.html" class="butt-style">Support us</a>
             </div>
-        </article></li>
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./smes-the.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/smes-the1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/shaila-agha.html">Shaila Agha</a><br>
-                                <time class="published" datetime="2021-05-18T00:00:00+03:00"> Tue 18 May 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./smes-the.html" rel="bookmark" title="Permalink to SMEs the missing link in Circular Economies">SMEs the missing link in Circular Economies</a></h2>
-                        <div class="entry-content"> <p class="first last">Organizations merely have to choose whether to help their local community, or pay taxes to a government whose reach is never felt in these s</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </article></li>
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./2021-mid.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/2021-mid1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/will-ruddick.html">Will Ruddick</a><br>
-                                <time class="published" datetime="2021-05-11T00:00:00+03:00"> Tue 11 May 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./2021-mid.html" rel="bookmark" title="Permalink to 2021 Mid Year CIC Update">2021 Mid Year CIC Update</a></h2>
-                        <div class="entry-content"> <p class="first last">We grew from a few thousands users to over 50,000 and have seen roughly 3 Million USD worth of trade between users for basic needs.</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </article></li>
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./faith-based.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/faith-based1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/janet-akinyi.html">Janet Akinyi</a><br>
-                                <time class="published" datetime="2021-05-11T00:00:00+03:00"> Tue 11 May 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./faith-based.html" rel="bookmark" title="Permalink to Faith Based Community Inclusion Currencies">Faith Based Community Inclusion Currencies</a></h2>
-                        <div class="entry-content"> <p class="first last">Local churches and faith based organizations have begun to develop their own community currencies (Sarafu)</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </article></li>
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./from-mustard.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/from-mustard1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/shaila-agha.html">Shaila Agha</a><br>
-                                <time class="published" datetime="2021-05-04T00:00:00+03:00"> Tue 04 May 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./from-mustard.html" rel="bookmark" title="Permalink to From Mustard Seeds to Food Forests: A Regenerative Journey">From Mustard Seeds to Food Forests: A Regenerative Journey</a></h2>
-                        <div class="entry-content"> <p class="first last">We are learning from 50 community groups that use a community currency to sell produce and pay for the labor with community currency</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </article></li>
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./red-cross.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/red-cross1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/will-ruddick.html">Will Ruddick</a><br>
-                                <time class="published" datetime="2021-04-25T00:00:00+03:00"> Sun 25 April 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./red-cross.html" rel="bookmark" title="Permalink to Red Cross brings Community Currency to Kisauni">Red Cross brings Community Currency to Kisauni</a></h2>
-                        <div class="entry-content"> <p class="first last">The results of an introduction to community currency have changed economies and lives.</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </article></li>
-        <li class="li-style"><article class="article-display">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="set-height">
-                        <a href="./grassroots-economics.html" rel="bookmark"><img class="img-fluid img-resize" src="./images/blog/grassroots-economics1.webp"/></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="post-wrap">
-                        <div class="post-info">
-                            <address class="vcard-author">By
-                                <a class="author-url" href="./author/shaila-agha.html">Shaila Agha</a><br>
-                                <time class="published" datetime="2021-04-08T00:00:00+03:00"> Thu 08 April 2021 </time>
-                            </address>
-                        </div>
-                        <h2 class="entry-title"><a href="./grassroots-economics.html" rel="bookmark" title="Permalink to Grassroots Economics has a New Director: Shaila Agha">Grassroots Economics has a New Director: Shaila Agha</a></h2>
-                        <div class="entry-content"> <p class="first last">It is an honor to work as a Director along with Will Ruddick and the Grassroots Economics team in their endeavor to rebalance the inequaliti</p>
- </div><!-- /.entry-content -->
-                        <div class="article-display-footer">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </article></li>
-</ul><!-- /#posts-list -->
-<p class="paginator">
-    Page 1 / 18
-        <a href="./index2.html">&raquo;</a>
-        <a href="./index18.html">&#8649;</a>
-</p>
-</section><!-- /#content -->
+        </div>
+        <div class="col-lg-6 col-md-12 col-md-12">
+            <img class="img-fluid style-img" src="./theme/images/home-imgs/home-img4.webp">
+        </div>
+    </div>
+    <div class="row home-last-row">
+        <div class="justify-content-center text-center a-feat">
+            <a href="./pages/media.html">As featured in media</a>
+        </div>
+        <div class="inline-block">
+            <a class="a-center" href="https://qz.com/86618/introducing-the-bangla-pesa-kenyas-beautiful-new-complementary-currency/">
+                <img  class="img-fluid" src="./theme/images/home-imgs/quartz.webp">
+            </a>
+            <a class="a-center" href="https://www.youtube.com/watch?v=1awCx-eJB0I">
+                <img  class="img-fluid" src="./theme/images/home-imgs/ktb.webp">
+            </a>
+            <a class="a-center" href="https://www.bloomberg.com/news/features/2018-10-31/closing-the-cash-gap-with-cryptocurrency">
+                <img  class="img-fluid" src="./theme/images/home-imgs/bloomberg.webp">
+            </a>
+            <a class="a-center" href="http://bbc.co.uk/programmes/p05zw020">
+                <img  class="img-fluid" src="./theme/images/home-imgs/bbc.webp">
+            </a>
+            <a class="a-center" href="https://www.youtube.com/watch?v=UpCr8-3K05E">
+                <img  class="img-fluid" src="./theme/images/home-imgs/aljazeera.webp">
+            </a>
+            <a class="a-center" href="http://www.yesmagazine.org/commonomics/alternative-currencies-bigger-than-bitcoin-bangla-pesa-brixton">
+                <img  class="img-fluid" src="./theme/images/home-imgs/yes.webp">
+            </a>
+            <a class="a-center" href="https://vimeo.com/album/2637039/video/84658423">
+                <img  class="img-fluid" src="./theme/images/home-imgs/afd.webp">
+            </a>
+            <a class="a-center" href="https://www.huffingtonpost.com/ellen-brown/the-crime-of-alleviating-_b_3519858.html">
+                <img  class="img-fluid" src="./theme/images/home-imgs/huffpost.webp">
+            </a>
+            <a class="a-center" href="https://www.kateraworth.com/doughnut/">
+                <img  class="img-fluid" src="./theme/images/home-imgs/doughnut.webp">
+            </a>
+        </div>
+    </div>
 </div>
 <div class="row">
     <div class="col-lg-12 base-footer">

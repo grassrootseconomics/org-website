@@ -149,6 +149,9 @@
 .cute-imgs{
     gap: 5px;
 }
+.img-full {
+    width: 100%;
+}
 .long-drawings-wrap{
     margin-left: 200px;
     margin-right: 200px;
