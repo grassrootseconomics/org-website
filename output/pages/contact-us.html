@@ -80,23 +80,23 @@
             </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-            <form class="pt-5" action="/cgi-bin/sendemail.py" method="post">
+            <form class="pt-5" action="https://getform.io/f/a6936429-16b0-403b-b368-f2303e4dfef3" method="post">
                 <div class="mb-3">
                     <label for="email" class="form-label">Email address</label>
-                    <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp">
+                    <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" required>
                     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                 </div>
                 <div class="mb-3">
                     <label for="name-contact" class="form-label">Name</label>
-                    <input type="text" class="form-control" id="name-contact" name="name">
+                    <input type="text" class="form-control" id="name-contact" name="name" required>
                 </div>
                 <div class="mb-3">
                     <label for="subject" class="form-label">Subject</label>
-                    <input type="text" class="form-control" id="subject" name="subject">
+                    <input type="text" class="form-control" id="subject" name="subject" required>
                 </div>
                 <div class="mb-3">
                     <label for="exampleFormControlTextarea1" class="form-label">Message</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" name="message"></textarea>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" name="message" required></textarea>
                 </div>
                 <button type="submit" class="btn btn-custom btn-block">Send us a message!</button>
             </form>
