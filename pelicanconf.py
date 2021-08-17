@@ -39,6 +39,15 @@ THEME = "ge-theme"
 
 PAGE_ORDER_BY = 'page-order'
 
+STATIC_PATHS = [
+    'images',
+    'extra'
+]
+
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/robots.txt': {'path': 'robots.txt'},
+}
 
 
 THEME_STATIC_PATHS = ['static']
