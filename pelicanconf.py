@@ -41,7 +41,7 @@ PAGE_ORDER_BY = 'page-order'
 
 STATIC_PATHS = [
     'images',
-    'extra'
+    'extra',
 ]
 
 EXTRA_PATH_METADATA = {
@@ -52,7 +52,7 @@ EXTRA_PATH_METADATA = {
 
 THEME_STATIC_PATHS = ['static']
 
-CSS_FILE = ['style.css']
+# CSS_FILE = ['style.css']
 
 OUTPUT_RETENTION = [".hg",".git","CNAME"]
 
