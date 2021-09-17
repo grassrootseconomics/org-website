@@ -4,3 +4,4 @@ __pycache__
 *.o
 output/
 node_modules/
+.venv/
