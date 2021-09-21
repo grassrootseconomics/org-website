@@ -1,0 +1,7 @@
+pelican
+__pycache__
+*.pyc
+*.o
+output/
+node_modules/
+.venv/

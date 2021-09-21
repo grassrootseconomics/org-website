@@ -1,0 +1,15 @@
+stages:
+  - build
+  - test
+  - deploy
+
+image: docker:19.03.12
+
+before_script:
+  - docker info
+
+build:
+  stage: build
+  script:
+    - docker build -t $CI_REGISTRY_IMAGE:${TAG:-latest} . 
+    - docker push $CI_REGISTRY_IMAGE:${TAG:-latest}

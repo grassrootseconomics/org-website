@@ -10,5 +10,10 @@ source env/bin/activate
 pip install -r requirements.txt
 make devserver
 ```
+## With Docker
+
+docker build -t ge-blog .
+
+docker run -p 8000:80 ge-blog 
 
 
