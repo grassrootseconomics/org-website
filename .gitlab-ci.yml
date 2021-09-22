@@ -1,0 +1,18 @@
+stages:
+  - build
+  - test
+  - deploy
+
+image: docker:19.03.12
+
+before_script:
+  - docker info
+  - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+
+build:
+  stage: build
+  tags:
+    - integration
+  script:
+    - docker build -t $CI_REGISTRY_IMAGE:${TAG:-latest} . 
+    - docker push $CI_REGISTRY_IMAGE:${TAG:-latest}
