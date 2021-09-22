@@ -1,6 +1,6 @@
 :title: 2020 Kenyan CICs in Review
 :author: Will Ruddick
-:date: Jan 2
+:date: Jan 2 2021
 :slug: 2020-kenyan
  
 :summary: We’re extremely excited about using CICs for developing support networks for vulnerable communities and households, and especially food syst

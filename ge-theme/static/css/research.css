@@ -78,6 +78,14 @@
 .re-small-font{
     font-size: 20px;
 }
+.re-small-font-link{
+    color: black;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.re-small-font-link:hover{
+    color: black;
+}
 .re-articles{
     padding-top: 30px;
 }
