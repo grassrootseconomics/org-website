@@ -1,3 +1,3 @@
-:title: Contact us
+:title: Contact Us
 :template: contactpage
 :page-order: 11
