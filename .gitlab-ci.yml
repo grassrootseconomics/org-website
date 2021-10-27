@@ -1,9 +1,7 @@
 stages:
   - build
-  - test
-  - deploy
 
-image: docker:19.03.12
+image: docker:latest
 
 before_script:
   - docker info
@@ -14,5 +12,5 @@ build:
   tags:
     - integration
   script:
-    - docker build -t $CI_REGISTRY_IMAGE:${TAG:-latest} . 
-    - docker push $CI_REGISTRY_IMAGE:${TAG:-latest}
+    - docker build -t $CI_REGISTRY_IMAGE:latest -t $CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA -f standalone-deploy/Dockerfile . 
+    - docker push $CI_REGISTRY_IMAGE --all-tags

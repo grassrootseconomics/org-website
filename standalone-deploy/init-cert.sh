@@ -5,10 +5,10 @@ if ! [ -x "$(command -v docker-compose)" ]; then
   exit 1
 fi
 
-domains=(grassrootseconomics.org)
+domains=(grassecon.net)
 rsa_key_size=4096
 data_path="./data/certbot"
-email="sohailsameja@gmail.com"
+email="sohailazim@riseup.net"
 staging=0
 
 if [ -d "$data_path" ]; then
