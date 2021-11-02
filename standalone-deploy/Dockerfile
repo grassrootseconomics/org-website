@@ -18,4 +18,5 @@ COPY --from=build /app/output /var/www/pelican/output/
 
 EXPOSE 80
 
-COPY nginx.conf /etc/nginx/conf.d/default.conf
+COPY standalone-deploy/data/nginx.conf /etc/nginx/conf.d/default.conf
+
