@@ -13,7 +13,7 @@ Loads of questions coming up these days around the themes of open source, free s
 
 
 
-.. image:: images/blog/license-comp.webp
+.. image:: images/blog/open-tech-questions-answers1.webp
 
 
 	   
