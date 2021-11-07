@@ -10,6 +10,10 @@ A static website built with pelican.
 
 `git clone https://gitlab.com/grassrootseconomics/pelican-website-ge.git`
 
+* Navigate into the folder
+
+`cp pelican-website-ge`
+
 * Create Your own branch off the master branch
 
 `git checkout -b <name_of_your_branch> master`
@@ -34,6 +38,7 @@ The site will be at `127.0.0.1:8000` in the browser
 
 * Create a new file and name it. The name should preferably be the first 3 words of your title separated by a hyphen. For example if your title is ‘Introducting  grassroots NFTS’ your filename should be introducing-grassroots-nfts.rst. No special characters or capital letters in the filename.
 
+* Pelecan Markup Cheatsheet: https://elfnor.com/pelican-and-markdown-styling-cheat-sheet.html
 * Your file must  have the title, author or authors, date and slug. For example:
 
 ```
