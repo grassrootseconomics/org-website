@@ -1,5 +1,5 @@
 :title: Open Tech Questions & Answers
-:author: Will Ruddick and Shaila Agha
+:authors: Will Ruddick, Shaila Agha
 :date: Oct 16 2021
 :modified: Oct 16 2021
 :slug: open-tech-questions-answers
