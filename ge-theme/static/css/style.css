@@ -29,3 +29,6 @@
 #terms-conditions:hover{
     text-decoration: underline;
 }
+.row {
+    --bs-gutter-x: 0;
+}
