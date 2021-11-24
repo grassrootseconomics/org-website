@@ -137,7 +137,7 @@ git pull origin master
 
 
 
-### Standalone Deploy
+### Standalone Deploy (Devops)
  
 __On a new or existing droplet (requires docker and docker-compose)__
 
