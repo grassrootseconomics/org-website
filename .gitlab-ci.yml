@@ -1,16 +1,22 @@
-stages:
-  - build
+image: python:3.8-alpine
 
-image: docker:latest
-
-before_script:
-  - docker info
-  - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-
-build:
-  stage: build
-  tags:
-    - integration
+pages:
+  stage: deploy
   script:
-    - docker build -t $CI_REGISTRY_IMAGE:latest -t $CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA -f standalone-deploy/Dockerfile . 
-    - docker push $CI_REGISTRY_IMAGE --all-tags
+  - apk add --update --no-cache make subversion
+  - pip install -r requirements.txt
+  - make publish
+  artifacts:
+    paths:
+    - public/
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "master"'
+
+test:
+  stage: test
+  script:
+  - apk update && apk add make
+  - pip install -r requirements.txt
+  - make publish
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "master"'
