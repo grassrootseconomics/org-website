@@ -31,13 +31,31 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
+
+DISPLAY_CATEGORIES_ON_MENU = False
+
+MENUITEMS = (
+    ('Home', '/'),
+    ('About Us', '/pages/about-us.html'),
+    ('Sarafu Network', '/pages/sarafu-network.html'),
+    ('How It Works', '/pages/how-it-works.html'),
+    ('Blog', '/category/blog.html'),
+    ('Food Forests', '/pages/food-forests.html'),
+    ('Research', '/pages/research.html'),
+    ('Get Involved', '/pages/get-involved.html'),
+    ('Media', '/pages/media.html'),
+    ('Dashboard', '/pages/dashboard.html'),
+    ('Contact us', '/pages/contact-us.html'),
+    ('MOOC', '/pages/mooc.html')
+
+)
 
 LOAD_CONTENT_CACHE = False
 
 THEME = "ge-theme"
 
-PAGE_ORDER_BY = 'page-order'
+
 
 STATIC_PATHS = [
     'images',
