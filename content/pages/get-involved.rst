@@ -1,3 +1,3 @@
 :title: Get Involved
 :template: getInvolved
-:page-order: 7
+:page-order: 07

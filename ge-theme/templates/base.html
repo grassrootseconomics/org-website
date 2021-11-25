@@ -63,22 +63,11 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                {% for title, link in MENUITEMS %}-->
-                <li class="nav-item"><a href="{{ link }}">{{ title }}</a></li>
+                {% for title, link in MENUITEMS %}
+                <li class="nav-item"><a class="nav-link" href="{{ link }}">{{ title }}</a></li>
                 {% endfor %}
-                {% if DISPLAY_PAGES_ON_MENU %}
-                {% for p in pages %}
-                <li class="nav-item" {% if p== page %} {% endif %}><a class="nav-link" href="{{ SITEURL }}/{{ p.url }}">{{
-                    p.title }}</a></li>
-                {% endfor %}
-                {% endif %}
-                {% if DISPLAY_CATEGORIES_ON_MENU %}
-                {% for cat, null in categories %}
-                <li class="nav-item" {% if cat== category %} {% endif %}><a class="nav-link"
-                                                                            href="{{ SITEURL }}/{{ cat.url }}">{{ cat
-                    }}</a></li>
-                {% endfor %}
-                {% endif %}
+
+
 
             </ul>
         </div>

@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="563a9716-121d-4bd3-ad7b-f60129d8f031" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/content/Blog/open-tech-questions-answers.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/open-tech-questions-answers.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/AboutUs.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/AboutUs.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/contact-us.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/contact-us.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/dashboard.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/dashboard.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/food-forests.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/food-forests.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/get-involved.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/get-involved.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/home.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/home.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/how-it-works.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/how-it-works.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/media.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/media.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/mooc.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/mooc.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/research.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/research.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/sarafu-network.rst" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/sarafu-network.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ge-theme/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +230,11 @@
       <workItem from="1635783135858" duration="8007000" />
       <workItem from="1635844202726" duration="3518000" />
       <workItem from="1636401633643" duration="2996000" />
-      <workItem from="1636482197323" duration="635000" />
+      <workItem from="1636482197323" duration="1481000" />
+      <workItem from="1636560051137" duration="1291000" />
+      <workItem from="1637070490570" duration="527000" />
+      <workItem from="1637786887830" duration="727000" />
+      <workItem from="1637878418174" duration="3172000" />
     </task>
     <servers />
   </component>

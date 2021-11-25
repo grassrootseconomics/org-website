@@ -1,3 +1,3 @@
 :title: Media
 :template: media
-:page-order: 8
+:page-order: 08

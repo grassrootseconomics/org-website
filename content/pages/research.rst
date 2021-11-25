@@ -1,3 +1,3 @@
 :title: Research
 :template: research-page
-:page-order: 6
+:page-order: 06

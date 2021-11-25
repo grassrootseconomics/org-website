@@ -1,3 +1,3 @@
 :title: Dashboard
 :template: dash-page
-:page-order: 9
+:page-order: 09
