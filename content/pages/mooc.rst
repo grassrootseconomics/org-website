@@ -1,3 +1,3 @@
 :title: MOOC
 :template: moocpage
-:page-order: 10
+:page-order: 11
