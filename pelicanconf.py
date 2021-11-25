@@ -55,7 +55,7 @@ LOAD_CONTENT_CACHE = False
 
 THEME = "ge-theme"
 
-# PAGE_ORDER_BY = 'page-order'
+
 
 STATIC_PATHS = [
     'images',
