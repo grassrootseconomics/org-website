@@ -12,7 +12,7 @@ A static website built with pelican.
 
 * Navigate into the folder
 
-`cp pelican-website-ge`
+`cd pelican-website-ge`
 
 * Create Your own branch off the master branch
 
