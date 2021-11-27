@@ -2,9 +2,7 @@ Title: Sarafu Cooperative is born!
 Author: Will Ruddick
 Date: May 10, 2018
 Slug: sarafu-cooperative
-Summary: We are very happy to announce that today, for the first time in our
-organizational history, the community currency members of the
-Nairobi...
+Summary: We are very happy to announce that today, for the first time in our organizational history, the community currency members of the Nairobi...
 
 We are very happy to announce that today, for the first time in our
 organizational history, the community currency members of the Nairobi

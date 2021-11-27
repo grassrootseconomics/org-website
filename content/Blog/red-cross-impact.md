@@ -2,8 +2,7 @@ Title: Red Cross' Impact Continues Post Cash
 Author: Caroline Dama
 Date: Aug 10, 2019
 Slug: red-cross-impact
-Summary: "Community Currencies have enabled food insecure communities to
-sustainably feed themselves post Red Cross support" - Mwanamuna Sw
+Summary: "Community Currencies have enabled food insecure communities to sustainably feed themselves post Red Cross support" - Mwanamuna Sw
 
 ![image](images/blog/red-cross-impact1.webp)
 

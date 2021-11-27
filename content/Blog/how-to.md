@@ -2,13 +2,8 @@ Title: How to Build a Vulnerable Household Support Network
 Author: Will Ruddick
 Date: Dec 11, 2020
 Slug: how-to
-Summary: Utilizing and developing Community Currencies can support,
-strengthen and identify a social safety nets around vulnerable
-households.
-
-tags
-
-: support,network,community,vulnerable
+Summary: Utilizing and developing Community Currencies can support, strengthen and identify a social safety nets around vulnerable households.
+Tags: support,network,community,vulnerable
 
 ![image](images/blog/how-to1.webp)
 

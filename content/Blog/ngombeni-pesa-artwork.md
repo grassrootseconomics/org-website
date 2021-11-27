@@ -2,9 +2,7 @@ Title: Ng'ombeni-Pesa Artwork
 Author: Will Ruddick
 Date: Apr 20, 2015
 Slug: ngombeni-pesa-artwork
-Summary: The Ng'ombeni-Pesa Community Based Organization has been formed.
-They are a neighboring slum to Bangladesh in Mombasa County and live
-in...
+Summary: The Ng'ombeni-Pesa Community Based Organization has been formed. They are a neighboring slum to Bangladesh in Mombasa County and live in...
 
 ![image](images/blog/ngombeni-pesa-artwork1.webp)
 

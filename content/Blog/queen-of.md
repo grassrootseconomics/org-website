@@ -2,9 +2,7 @@ Title: Queen of Katwe
 Author: Will Ruddick
 Date: Jan 31, 2017
 Slug: queen-of
-Summary: If there is one movie this year that captures the life we see here
-in East Africa each day it is the Queen of Katwe. There is so
-much...
+Summary: If there is one movie this year that captures the life we see here in East Africa each day it is the Queen of Katwe. There is so much...
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/z4l3-_yub5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 If there is one movie this year that captures the life we see here in

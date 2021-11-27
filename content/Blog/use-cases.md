@@ -2,9 +2,7 @@ Title: Use Cases - Honoring 2018
 Author: Lynda Chalker
 Date: Dec 21, 2018
 Slug: use-cases
-Summary: Closing 2018 with a bang! We mark the end of 2018 and the beginning
-of this festive season by honoring schools, clinics, micro and
-small...
+Summary: Closing 2018 with a bang! We mark the end of 2018 and the beginning of this festive season by honoring schools, clinics, micro and small...
 
 Closing 2018 with a bang! We mark the end of 2018 and the beginning of
 this festive season by honoring schools, clinics, micro and small

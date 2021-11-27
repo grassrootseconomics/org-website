@@ -2,9 +2,7 @@ Title: New Bills for a New Economy
 Author: Will Ruddick
 Date: Mar 31, 2017
 Slug: new-bills
-Summary: We attended a meeting on DOEN's New Economy program, where our
-newest version of community currency bills were unveiled in
-Amsterdam. The...
+Summary: We attended a meeting on DOEN's New Economy program, where our newest version of community currency bills were unveiled in Amsterdam. The...
 
 ![image](images/blog/new-bills1.webp)
 

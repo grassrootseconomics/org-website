@@ -2,9 +2,7 @@ Title: Mangroves and the Eco-nomy
 Author: Caroline Dama
 Date: Mar 9, 2016
 Slug: mangroves-and
-Summary: We've been working to replace the need for Mombasa's Bangladesh
-residents to import food and conserve their environment. Two schools
-near...
+Summary: We've been working to replace the need for Mombasa's Bangladesh residents to import food and conserve their environment. Two schools near...
 
 ![image](images/blog/mangroves-and1.webp)
 

@@ -2,8 +2,7 @@ Title: Why Robinson Crusoe Gives a Loan Interest-Free
 Author: Will Ruddick
 Date: Jan 29, 2019
 Slug: why-robinson
-Summary: S: How long have you been on this island? R.C.: Thirty years. S: and
-you still appeal to the theory of value?!?! .....
+Summary: S: How long have you been on this island? R.C.: Thirty years. S: and you still appeal to the theory of value?!?! .....
 
 ![image](images/blog/why-robinson1.webp)
 

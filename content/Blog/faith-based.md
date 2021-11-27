@@ -2,12 +2,8 @@ Title: Faith Based Community Inclusion Currencies
 Author: Janet Akinyi
 Date: May 11 2021
 Slug: faith-based
-Summary: Local churches and faith based organizations have begun to develop
-their own community currencies (Sarafu)
-
-tags
-
-: Faith,church
+Summary: Local churches and faith based organizations have begun to develop their own community currencies (Sarafu)
+Tags: faith, church
 
 ![image](images/blog/faith-based1.webp)
 

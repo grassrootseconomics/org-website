@@ -2,8 +2,7 @@ Title: Trading the First Tomatoes on the Blockchain
 Author: Will Ruddick
 Date: Aug 8, 2018
 Slug: trading-the
-Summary: Caption: Mama Evelin (right) in Bangladesh, Mombasa learns to trade
-her Bangla-Pesa using the Bancor Wallet; taught by Ruth Ngau of...
+Summary: Caption: Mama Evelin (right) in Bangladesh, Mombasa learns to trade her Bangla-Pesa using the Bancor Wallet; taught by Ruth Ngau of...
 
 ![image](images/blog/trading-the1.webp)
 

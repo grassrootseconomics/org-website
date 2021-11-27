@@ -2,8 +2,7 @@ Title: Universal Basic Income via Community Currencies
 Author: Will Ruddick
 Date: Aug 21, 2017
 Slug: universal-basic
-Summary: Universal Basic Income (UBI), as currently under trial in Kenya by
-GiveDirectly, gives regular donations to individuals in selected...
+Summary: Universal Basic Income (UBI), as currently under trial in Kenya by GiveDirectly, gives regular donations to individuals in selected...
 
 ![image](images/blog/universal-basic1.webp)
 

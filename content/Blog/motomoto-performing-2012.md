@@ -2,9 +2,7 @@ Title: Motomoto Performing Arts
 Author: Will Ruddick
 Date: Nov 25, 2012
 Slug: motomoto-performing-2012
-Summary: Martin Kimani is still spinning it up since 2009! The MotoMoto
-Circus programhas been working to reach street living youth
-through...
+Summary: Martin Kimani is still spinning it up since 2009! The MotoMoto Circus programhas been working to reach street living youth through...
 
 Martin Kimani is still spinning it up since 2009! The MotoMoto Circus
 programhas been working to reach street living youth through performing

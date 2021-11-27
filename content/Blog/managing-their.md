@@ -2,8 +2,7 @@ Title: Managing their Own Economy during Crisis
 Author: Ruth Njau &amp; Antony Ngoka
 Date: May 23, 2020
 Slug: managing-their
-Summary: She is a powerhouse making her community thrive during crisis and
-charting a path toward a resilient economic recovery.
+Summary: She is a powerhouse making her community thrive during crisis and charting a path toward a resilient economic recovery.
 
 ![image](images/blog/managing-their1.webp)
 

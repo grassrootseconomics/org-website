@@ -2,9 +2,7 @@ Title: White House Visit with WomensConnect
 Author: Caroline Dama
 Date: Jun 25, 2018
 Slug: white-house
-Summary: Grassroots Economics Director, Caroline Dama, visited the White
-House on Wednesday as a finalist in the WomensConnect USAID program
-Our...
+Summary: Grassroots Economics Director, Caroline Dama, visited the White House on Wednesday as a finalist in the WomensConnect USAID program Our...
 
 ![image](images/blog/white-house1.webp)
 

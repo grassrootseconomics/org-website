@@ -2,9 +2,7 @@ Title: Bangla-Pesa Market, Shoes and Permaculture
 Author: Lydia Anyango
 Date: Dec 8, 2015
 Slug: bangla-pesa-market
-Summary: Finally! The Bangladesh Business Network Market Day was a big
-success. Bangla-Pesa members gathered together to sell their goods
-and...
+Summary: Finally! The Bangladesh Business Network Market Day was a big success. Bangla-Pesa members gathered together to sell their goods and...
 
 ![image](images/blog/bangla-pesa-market1.webp)
 

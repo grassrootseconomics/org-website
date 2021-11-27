@@ -2,9 +2,7 @@ Title: Nairobi Bangla-Pesa Making Strides
 Author: Will Ruddick
 Date: Jul 21, 2014
 Slug: nairobi-bangla-pesa
-Summary: Two settlements in Nairobi are racing to create their own
-Bangla-Pesa exchange networks. Kawangware and Kangemi groups are
-already near...
+Summary: Two settlements in Nairobi are racing to create their own Bangla-Pesa exchange networks. Kawangware and Kangemi groups are already near...
 
 Two settlements in Nairobi are racing to create their own Bangla-Pesa
 exchange networks. Kawangware and Kangemi groups are already near the

@@ -2,9 +2,7 @@ Title: Rural Miyani-Pesa Launched
 Author: Lydia Anyango
 Date: Aug 18, 2017
 Slug: rural-miyani-pesa
-Summary: Today we launched our first rural community currency! The event went
-well to initiate and train the first 20 members and set up a
-local...
+Summary: Today we launched our first rural community currency! The event went well to initiate and train the first 20 members and set up a local...
 
 ![image](images/blog/rural-miyani-pesa1.webp)
 

@@ -2,17 +2,9 @@ Title: From Mustard Seeds to Food Forests: A Regenerative Journey
 Author: Shaila Agha
 Date: May 4 2021
 Slug: from-mustard
-
-modified
-
-: May 5
-Summary: We are learning from 50 community groups that use a community
-currency to sell produce and pay for the labor with community
-currency
-
-tags
-
-: agroforestry,syntropic,community currency
+Modified: May 5
+Summary: We are learning from 50 community groups that use a community currency to sell produce and pay for the labor with community currency
+Tags: agroforestry,syntropic,community currency
 
 We've been blessed by an opportunity from [Mustard Seed
 Trust](https://www.mustardseedtrust.org/) to support 50 acres of

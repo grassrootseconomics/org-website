@@ -2,8 +2,7 @@ Title: Super-Market Super-Currency
 Author: Ruth Mwangi
 Date: Mar 8, 2016
 Slug: super-market-super-currency
-Summary: Hundreds and hundreds of settlers in Nairobi's Kawangware informal
-settlement will soon benefit from access to low priced goods...
+Summary: Hundreds and hundreds of settlers in Nairobi's Kawangware informal settlement will soon benefit from access to low priced goods...
 
 ![image](images/blog/super-market-super-currency1.webp)
 

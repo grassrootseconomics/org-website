@@ -2,9 +2,7 @@ Title: Roller Derby + Star Wars = Panties
 Author: Morgan Richards
 Date: May 19, 2014
 Slug: roller-derby
-Summary: Last Sunday marked the culmination of partnerships with an
-unexpected collection of people who came together to support the
-education and...
+Summary: Last Sunday marked the culmination of partnerships with an unexpected collection of people who came together to support the education and...
 
 Last Sunday marked the culmination of partnerships with an unexpected
 collection of people who came together to support the education and

@@ -2,17 +2,9 @@ Title: Static vs Bonded Liquidity Pools for CICs
 Author: Will Ruddick
 Date: Jan 16 2021
 Slug: static-vs
-
-modified
-
-: Jan 19
-Summary: As communities create their Community Inclusion Currencies as a
-credit against their future production, projects and excess
-capacity,...
-
-tags
-
-: liquidity,pools,defi
+Modified: Jan 19
+Summary: As communities create their Community Inclusion Currencies as a credit against their future production, projects and excess capacity,...
+Tags: liquidity,pools,defi
 
 As communities create their Community Inclusion Currencies as a credit
 against their future production, projects and excess capacity,

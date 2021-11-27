@@ -2,8 +2,7 @@ Title: Emma's Duka Community Currency Movement
 Author: Will Ruddick
 Date: May 21 2021
 Slug: emmas-duka
-Summary: Emma's Duka Community Currency Movement - in support of those
-seeking to free themselves from poorly designed monetary systems.
+Summary: Emma's Duka Community Currency Movement - in support of those seeking to free themselves from poorly designed monetary systems.
 
 [Click for recording.](https://youtu.be/BiArnG8jv9g). (not exactly what
 was recorded - but close enough)

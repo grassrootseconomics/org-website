@@ -2,9 +2,7 @@ Title: Investment Modelling in Community Inclusion Currencies
 Author: Will Ruddick
 Date: Jan 12, 2020
 Slug: investment-modelling
-Summary: While Community Inclusion Currencies (CICs) have been shown to
-increase local trade they can also be a vehicle for collective
-share...
+Summary: While Community Inclusion Currencies (CICs) have been shown to increase local trade they can also be a vehicle for collective share...
 
 While Community Inclusion Currencies (CICs) have been shown to increase
 local trade they can also be a vehicle for collective share holding and

@@ -2,9 +2,7 @@ Title: Refugee Inclusive Community Currencies (RICCs)
 Author: Will Ruddick
 Date: Jun 27, 2019
 Slug: refugee-inclusive
-Summary: Responding to Refugee Crisis This is the current and biggest
-humanitarian global crisis in our lifetimes and we all need to play
-a part....
+Summary: Responding to Refugee Crisis This is the current and biggest humanitarian global crisis in our lifetimes and we all need to play a part....
 
 ![image](images/blog/refugee-inclusive1.webp)
 

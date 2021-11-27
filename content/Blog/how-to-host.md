@@ -2,8 +2,7 @@ Title: How to Host a Currency Potluck
 Author: Will Ruddick
 Date: Aug 1, 2020
 Slug: how-to-host
-Summary: Let's get the potlucks started! Here is a short introduction to the
-methods we use for Community Inclusion Currencies (CICs) potlucks!
+Summary: Let's get the potlucks started! Here is a short introduction to the methods we use for Community Inclusion Currencies (CICs) potlucks!
 
 ![image](images/blog/how-to-host1.webp)
 

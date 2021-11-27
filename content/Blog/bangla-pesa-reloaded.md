@@ -2,8 +2,7 @@ Title: Bangla-Pesa Reloaded
 Author: Will Ruddick
 Date: Dec 10, 2013
 Slug: bangla-pesa-reloaded
-Summary: We've been waiting since May 29th 2013 for this and it is finally
-here. Bangla-Pesa is back moving through the community. We've...
+Summary: We've been waiting since May 29th 2013 for this and it is finally here. Bangla-Pesa is back moving through the community. We've...
 
 We've been waiting since May 29th 2013 for this and it is finally here.
 Bangla-Pesa is back moving through the community. We've re-registered

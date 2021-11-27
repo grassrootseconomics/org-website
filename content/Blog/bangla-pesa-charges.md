@@ -2,9 +2,7 @@ Title: Bangla-Pesa Charges Dropped!
 Author: Will Ruddick
 Date: Aug 23, 2013
 Slug: bangla-pesa-charges
-Summary: THE CASE IS OVER! Today the Director of Public Prosecutions
-announced that all charges against Bangla-Pesa are hereby dropped!
-This is a...
+Summary: THE CASE IS OVER! Today the Director of Public Prosecutions announced that all charges against Bangla-Pesa are hereby dropped! This is a...
 
 THE CASE IS OVER! Today the Director of Public Prosecutions
 [announced](http://grassrootseconomics.org/files/Bangla-Pesa-DPP-statement-1024.jpg)

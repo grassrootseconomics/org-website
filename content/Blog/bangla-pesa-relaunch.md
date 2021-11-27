@@ -2,8 +2,7 @@ Title: Bangla-Pesa Relaunch
 Author: Will Ruddick
 Date: Nov 23, 2013
 Slug: bangla-pesa-relaunch
-Summary: Bangla-Pesa was officially relaunched today in partnership with the
-Kenyan Government. Represented by Hon. Badi Twalib Minister of...
+Summary: Bangla-Pesa was officially relaunched today in partnership with the Kenyan Government. Represented by Hon. Badi Twalib Minister of...
 
 Bangla-Pesa was officially relaunched today in partnership with the
 Kenyan Government. Represented by Hon. Badi Twalib Minister of

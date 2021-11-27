@@ -2,13 +2,8 @@ Title: Self-Funded Regenerative Agriculture Kwale Site January Visit
 Author: James Thiong'o
 Date: Jan 14 2021
 Slug: self-funded-regenerative
-Summary: Based on the design found in the Kwale Sites the above poster was
-created by W.Ruddick On 11th January 2021, I visited Miyani Demo
-Plot...
-
-tags
-
-: syntropic,agroforestry,regen,food forest
+Summary: Based on the design found in the Kwale Sites the above poster was created by W.Ruddick On 11th January 2021, I visited Miyani Demo Plot...
+Tags: syntropic,agroforestry,regen,food forest
 
 ![image](images/blog/self-funded-regenerative1.webp)
 

@@ -2,9 +2,7 @@ Title: Kibera's Lindi-Pesa Gaining Momentum
 Author: Robin Gerbaux
 Date: Jun 10, 2015
 Slug: kiberas-lindi-pesa
-Summary: June 6th 2015 was bound to be a typical morning in Kibera - but
-Saturday morning, the inhabitants of Kibera, the biggest slum of
-Nairobi,...
+Summary: June 6th 2015 was bound to be a typical morning in Kibera - but Saturday morning, the inhabitants of Kibera, the biggest slum of Nairobi,...
 
 ![image](images/blog/kiberas-lindi-pesa1.webp)
 

@@ -2,9 +2,7 @@ Title: Blockchain without Internet
 Author: Lynda Chalker
 Date: Dec 3, 2018
 Slug: blockchain-without
-Summary: We can't print enough paper notes for everyone who needs them. But
-nearly everyone has a phone (without internet). In order to reach
-a...
+Summary: We can't print enough paper notes for everyone who needs them. But nearly everyone has a phone (without internet). In order to reach a...
 
 <iframe width="360" height="203" src="https://www.youtube.com/embed/UqobcADSUTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 We can't print enough paper notes for everyone who needs them. But

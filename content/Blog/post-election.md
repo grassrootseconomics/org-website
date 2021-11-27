@@ -2,8 +2,7 @@ Title: Post Election 'Syndrome' and New Economies
 Author: Lydia Anyango
 Date: Nov 10, 2017
 Slug: post-election
-Summary: Election violence broke out in areas across Kenya this year and was
-concentrate in the lowest income areas. There is still a lot of...
+Summary: Election violence broke out in areas across Kenya this year and was concentrate in the lowest income areas. There is still a lot of...
 
 ![image](images/blog/post-election1.webp)
 

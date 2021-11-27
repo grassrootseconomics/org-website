@@ -2,13 +2,8 @@ Title: COVID-19 Blockchain Crisis Response - CICs at 500% Growth
 Author: Will Ruddick
 Date: May 11, 2020
 Slug: covid-19-blockchain
-
-modified
-
-: May 12, 2020
-Summary: Since we started using blockchain for CICs in September 2018 we have
-seen nearly half a million dollars (482k USD) worth of trade via
-154k t
+Modified: May 12, 2020
+Summary: Since we started using blockchain for CICs in September 2018 we have seen nearly half a million dollars (482k USD) worth of trade via 154k transactions
 
 ![image](images/blog/covid-19-blockchain1.webp)
 

@@ -2,9 +2,7 @@ Title: Kwaheri 2015 - Community Service and Results
 Author: Will Ruddick
 Date: Dec 16, 2015
 Slug: kwaheri-2015
-Summary: Five Community Currency (CC) trading business networks in Kenya have
-started their end of the year activities, using collected
-membership...
+Summary: Five Community Currency (CC) trading business networks in Kenya have started their end of the year activities, using collected membership...
 
 ![image](images/blog/kwaheri-20151.webp)
 

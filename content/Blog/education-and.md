@@ -2,9 +2,7 @@ Title: Education and Business Cycles
 Author: Ruth Mwangi
 Date: Oct 19, 2016
 Slug: education-and
-Summary: A lot has been said about the education system in Kenya. The
-introduction of free primary education in 2003 was received with
-mixed...
+Summary: A lot has been said about the education system in Kenya. The introduction of free primary education in 2003 was received with mixed...
 
 ![image](images/blog/education-and1.webp)
 

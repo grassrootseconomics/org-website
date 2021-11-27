@@ -2,9 +2,7 @@ Title: Blockchain Powered Village Checkers Tournament
 Author: Will Ruddick
 Date: Jan 19, 2020
 Slug: blockchain-powered
-Summary: How do you have a proper checkers tournament when no one can pay the
-entry fees? Jacob the organizer saw an opportunity. His neighbors
-in...
+Summary: How do you have a proper checkers tournament when no one can pay the entry fees? Jacob the organizer saw an opportunity. His neighbors in...
 
 ![image](images/blog/blockchain-powered1.webp)
 

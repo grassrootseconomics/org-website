@@ -2,12 +2,8 @@ Title: Recycling Debt (Kusaga Deni, Kubali Sarafu)
 Author: Isavary Khabuqwi
 Date: Mar 13 2021
 Slug: recycling-debt
-Summary: Imagine having to endure constant reminders and threatening messages
-from predatory lenders your entire life. Imagine going out of...
-
-tags
-
-: debt,defaulters,lenders,debtors
+Summary: Imagine having to endure constant reminders and threatening messages from predatory lenders your entire life. Imagine going out of...
+Tags: debt,defaulters,lenders,debtors
 
 ![image](images/blog/recycling-debt1.webp)
 

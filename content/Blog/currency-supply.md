@@ -3,10 +3,7 @@ Author: Will Ruddick
 Date: Dec 6, 2020
 Slug: currency-supply
 Summary: What does a decentralized economic system look like?
-
-tags
-
-: algorithm,supply,tax,redistribution,modeling
+Tags: algorithm,supply,tax,redistribution,modeling
 
 # Tax Redistribution Algorithms
 

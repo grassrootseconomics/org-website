@@ -2,9 +2,7 @@ Title: Berg Rand Launches in South Africa
 Author: Will Ruddick
 Date: May 30, 2015
 Slug: berg-rand
-Summary: The Berg Rand or BRAND - which means 'Fire' Money in Afrikaans,
-had an amazing launch today! The FlowAfrica team lead by John
-Ziniades...
+Summary: The Berg Rand or BRAND - which means 'Fire' Money in Afrikaans, had an amazing launch today! The FlowAfrica team lead by John Ziniades...
 
 The Berg Rand or BRAND - which means 'Fire' Money in Afrikaans, had an
 amazing launch today! The FlowAfrica team lead by John Ziniades and Anna

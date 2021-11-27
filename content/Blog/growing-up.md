@@ -2,9 +2,7 @@ Title: Growing Up is Hard
 Author: Morgan Richards
 Date: May 28, 2014
 Slug: growing-up
-Summary: Growing up is hard. It's especially hard if you're living on the
-streets in Mombasa, or if your misbehavior in your community led to
-your...
+Summary: Growing up is hard. It's especially hard if you're living on the streets in Mombasa, or if your misbehavior in your community led to your...
 
 Growing up is hard. It's especially hard if you're living on the streets
 in Mombasa, or if your misbehavior in your community led to your

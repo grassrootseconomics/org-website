@@ -2,9 +2,7 @@ Title: Gatina-Pesa and South Africa
 Author: Will Ruddick
 Date: Aug 21, 2014
 Slug: gatina-pesa-and
-Summary: Gatina-Pesa in Nairobi (a sister currency to Bangla-Pesa) is set to
-launch in early October! Initial designs of the Gatina-Pesa have
-been...
+Summary: Gatina-Pesa in Nairobi (a sister currency to Bangla-Pesa) is set to launch in early October! Initial designs of the Gatina-Pesa have been...
 
 Gatina-Pesa in Nairobi (a sister currency to Bangla-Pesa) is set to
 launch in early October!

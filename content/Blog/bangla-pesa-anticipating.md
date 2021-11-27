@@ -2,18 +2,16 @@ Title: Bangla-Pesa Anticipating November
 Author: Will Ruddick
 Date: Oct 20, 2013
 Slug: bangla-pesa-anticipating
-Summary: On May 29th 2013 we were arrested and charged with forgery. On
-August 23rd 2013 the case against Bangla-Pesa was dropped. A month
-after...
+Summary: On May 29th 2013 we were arrested and charged with forgery. On August 23rd 2013 the case against Bangla-Pesa was dropped. A month after...
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/UaspBGmsdLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 On May 29th 2013 we were arrested and charged with forgery. On August
 23rd 2013 the case against Bangla-Pesa was dropped. A month after
 acquittal, the Central Bank of Kenya's Currency Department had finally
 made contact with us to ask us for information about the program (which
 they received). After nearly two months of misplaced court files, this
-last week of October we were finally given an [official
-copy](http://grassrootseconomics.org/sites/koru.or.ke/files/field/image/Bangla-Pesa-Court-Ruling_scan-800.jpg)
+last week of October we were finally given an [official copy](http://grassrootseconomics.org/sites/koru.or.ke/files/field/image/Bangla-Pesa-Court-Ruling_scan-800.jpg)
 of the court order to drop the case against us. Receiving this court
 order signifies the end to prosecution and continuing the program under
 the guidance, if any, from local authorities and the Central Bank.

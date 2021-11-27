@@ -2,9 +2,7 @@ Title: Kenyan Women - Ahead of the IMF
 Author: Will Ruddick
 Date: Feb 9, 2020
 Slug: kenyan-women
-Summary: Could the IMF and Commercial banks learn from women in rural Kenya
-how to create a decentralized and de-risked (transparently 100%
-backed)
+Summary: Could the IMF and Commercial banks learn from women in rural Kenya how to create a decentralized and de-risked (transparently 100% backed)
 
 ![image](images/blog/kenyan-women1.webp)
 

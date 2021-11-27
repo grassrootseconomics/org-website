@@ -2,9 +2,7 @@ Title: No Nonsense Bangla-Pesa Crew Getting Ready
 Author: Will Ruddick
 Date: Nov 13, 2013
 Slug: no-nonsense
-Summary: The Bangla-Pesa crew is getting ready for our November 23rd
-re-launch. We have confirmed guests from parliament, the governors
-office,...
+Summary: The Bangla-Pesa crew is getting ready for our November 23rd re-launch. We have confirmed guests from parliament, the governors office,...
 
 The Bangla-Pesa crew is getting ready for our November 23rd re-launch.
 We have confirmed guests from parliament, the governors office, police,

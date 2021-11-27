@@ -2,13 +2,8 @@ Title: Supporting Supply Chains in Crisis
 Author: Will Ruddick
 Date: Apr 18, 2020
 Slug: supporting-supply
-
-modified
-
-: Apr 19, 2020
-Summary: In 30 days we have seen that by injecting a medium of exchange
-(CICs) nearly 100,000 USD have been traded in over 1,600 daily
-transactions
+Modified: Apr 19, 2020
+Summary: In 30 days we have seen that by injecting a medium of exchange (CICs) nearly 100,000 USD have been traded in over 1,600 daily transactions
 
 <https://dashboard.sarafu.network>
 

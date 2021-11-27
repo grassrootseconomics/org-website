@@ -2,9 +2,7 @@ Title: Banking on the SILC Road
 Author: Will Ruddick
 Date: Sep 11, 2019
 Slug: banking-on
-Summary: Rarely in development work do you see an intervention that sprouts
-its own two legs and starts running across the country without donor
-fund
+Summary: Rarely in development work do you see an intervention that sprouts its own two legs and starts running across the country without donor fund
 
 ![image](images/blog/banking-on1.webp)
 

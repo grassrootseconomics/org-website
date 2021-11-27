@@ -2,9 +2,7 @@ Title: Foundational Member Passes
 Author: Lydia Anyango
 Date: Jun 5, 2017
 Slug: foundational-member
-Summary: It is sad to announce the sudden death of Dominic Okello (in the
-middle) who passed on early May 2017. He is a resident of
-Bangladesh...
+Summary: It is sad to announce the sudden death of Dominic Okello (in the middle) who passed on early May 2017. He is a resident of Bangladesh...
 
 ![image](images/blog/foundational-member1.webp)
 

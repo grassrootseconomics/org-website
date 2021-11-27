@@ -2,9 +2,7 @@ Title: Permaculture School Farm Via Bangla-Pesa
 Author: Caroline Dama
 Date: Nov 25, 2015
 Slug: permaculture-school
-Summary: Two neighboring schools St. Peter's & Paul's and St. Angeline are
-being trained and equipped to design, build and maintain a
-community...
+Summary: Two neighboring schools St. Peter's & Paul's and St. Angeline are being trained and equipped to design, build and maintain a community...
 
 ![image](images/blog/permaculture-school1.webp)
 

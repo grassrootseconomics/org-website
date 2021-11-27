@@ -2,9 +2,7 @@ Title: Complementary Currency: Business Network Creation
 Author: Will Ruddick
 Date: Nov 27, 2012
 Slug: complementary-currency
-Summary: With our partners, Koru works with small community businesses of
-Bangladesh, Kenya, in order to implement a complementary
-currency...
+Summary: With our partners, Koru works with small community businesses of Bangladesh, Kenya, in order to implement a complementary currency...
 
 With our partners, Koru works with small community businesses of
 Bangladesh, Kenya, in order to implement a complementary currency

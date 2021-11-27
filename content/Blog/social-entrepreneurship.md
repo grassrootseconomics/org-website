@@ -2,8 +2,7 @@ Title: Social Entrepreneurship through Blockchain Technology
 Author: Lynda Chalker
 Date: Oct 19, 2018
 Slug: social-entrepreneurship
-Summary: Africa's 2nd largest Social Entrepreneurship Conference was held at
-Tangaza University College in Nairobi. The two day conference...
+Summary: Africa's 2nd largest Social Entrepreneurship Conference was held at Tangaza University College in Nairobi. The two day conference...
 
 Africa's 2nd largest Social Entrepreneurship Conference was held at
 Tangaza University College in Nairobi. The two day conference

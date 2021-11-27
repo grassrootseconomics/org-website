@@ -2,9 +2,7 @@ Title: Menstrual Cycles: Barriers to Education
 Author: Morgan Richards
 Date: Jan 13, 2014
 Slug: menstrual-cycles
-Summary: Why Should Reproductive Health Be a Barrier for Education? All over
-Kenya girls are missing school today (for many the first day
-back...
+Summary: Why Should Reproductive Health Be a Barrier for Education? All over Kenya girls are missing school today (for many the first day back...
 
 Why Should Reproductive Health Be a Barrier for Education?
 

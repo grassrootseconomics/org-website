@@ -2,13 +2,8 @@ Title: Regenerative Agriculture - Field Visit Report
 Author: James Thiong'o
 Date: Dec 20, 2020
 Slug: regenerative-agriculture
-Summary: The motivation given by accepting community currency will eventually
-be repaid with their ability to use it to purchase food from the
-farm.
-
-tags
-
-: regen,agroforestry,syntropic,kwale,food security,food forest
+Summary: The motivation given by accepting community currency will eventually be repaid with their ability to use it to purchase food from the farm.
+Tags: regen,agroforestry,syntropic,kwale,food security,food forest
 
 ![image](images/blog/regenerative-agriculture1.webp)
 

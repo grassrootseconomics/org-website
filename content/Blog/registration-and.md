@@ -2,11 +2,9 @@ Title: Registration and Exchange Visits
 Author: Will Ruddick
 Date: May 10, 2014
 Slug: registration-and
-Summary: Registration Last week the Bangladesh Business Network was
-'finally' given it's official registration papers with the Kenyan
-Government...
+Summary: Registration Last week the Bangladesh Business Network was 'finally' given it's official registration papers with the Kenyan Government...
 
-Registration
+### Registration
 
 Last week the Bangladesh Business Network was 'finally' given it's
 official registration papers with the Kenyan Government as a community
@@ -20,7 +18,7 @@ conditions) using roughly 10,000 Bangla-Pesa daily. The community of
 Bangladesh has opened the doors for many many other communities to take
 part.
 
-Exchange Visit
+### Exchange Visit
 
 A community group of 10 people from the town of Bungoma traveled over 20
 hours by bus, all the way across Kenya, to reach Bangladesh. After they
@@ -33,7 +31,7 @@ programs. So what is stopping them? The initial costs of printing bills
 with security features. With your help we can kick start these programs
 all over Kenya. Please consider supporting our campaign.
 
-Meet Rose Ouma!
+### Meet Rose Ouma!
 
 She's a 49 year-old main provider for a household of 8, including 4
 children. She was born in Suba, in Western Province of Kenya, but she

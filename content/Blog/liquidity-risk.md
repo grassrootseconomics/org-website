@@ -2,11 +2,10 @@ Title: Liquidity Risk in Community Currency
 Author: Will Ruddick
 Date: Jan 17, 2017
 Slug: liquidity-risk
-Summary: We're very happy to start the year with a visit from our Director
-of Risk Management Jimmy Heyns from Belgium with over 18 years
-of...
+Summary: We're very happy to start the year with a visit from our Director of Risk Management Jimmy Heyns from Belgium with over 18 years of...
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/lBorhuLuzek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We're very happy to start the year with a visit from our Director of
 Risk Management Jimmy Heyns from Belgium with over 18 years of
 international experience in the Financial Industry. As our community

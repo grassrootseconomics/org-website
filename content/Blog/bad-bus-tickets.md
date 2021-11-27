@@ -67,11 +67,9 @@ groups / companies promoting them.
 
 ![image](images/blog/bad-bus-tickets2.webp)
 
-[Markets alone are not
-enough](https://twitter.com/wor/status/1431961684541911043)
+[Markets alone are not enough](https://twitter.com/wor/status/1431961684541911043)
 
-Ask the questions: > "Are there any guarantees behind these tokens?" >
-& "Who regulates that the issuers must not break their guarantees?"
+Ask the questions: > "Are there any guarantees behind these tokens?" > & "Who regulates that the issuers must not break their guarantees?"
 
 If you are not-comfortable buying stocks on a stock market -- knowing
 that there is some marginal regulation to companies listed there. Why

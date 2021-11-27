@@ -2,9 +2,7 @@ Title: UN Announcement of Liquid Community Currencies
 Author: Lynda Chalker
 Date: Nov 5, 2018
 Slug: un-announcement
-Summary: On October 25th Will Ruddick along with Galia Bernartzi from Bancor
-addressed the UN regarding the potential impacts of blockchain
-technology
+Summary: On October 25th Will Ruddick along with Galia Bernartzi from Bancor addressed the UN regarding the potential impacts of blockchain technology
 
 On October 25th, Will Ruddick along with Galia Bernartzi from Bancor
 addressed a packed audience at the UN regarding the potential impacts of

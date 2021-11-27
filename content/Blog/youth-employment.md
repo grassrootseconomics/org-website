@@ -2,12 +2,8 @@ Title: Youth Employment via Elderly/Vulnerable Support
 Author: Will Ruddick
 Date: Jan 28 2021
 Slug: youth-employment
-Summary: Using a basic income (Sarafu in Kenya) youth can support their
-elderly and vulnerable by giving them their Sarafu. Then those...
-
-tags
-
-: elderly,youth,Basic Income
+Summary: Using a basic income (Sarafu in Kenya) youth can support their elderly and vulnerable by giving them their Sarafu. Then those...
+Tags: elderly,youth,Basic Income
 
 ![image](images/blog/youth-employment1.webp)
 

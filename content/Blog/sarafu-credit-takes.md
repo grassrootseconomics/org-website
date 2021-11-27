@@ -2,8 +2,7 @@ Title: Sarafu-Credit Takes Shape
 Author: Will Ruddick
 Date: Jan 21, 2016
 Slug: sarafu-credit-takes
-Summary: We began the year by looking at our successes and challenges with
-five Kenyan community currencies in 2015. Out of this came the...
+Summary: We began the year by looking at our successes and challenges with five Kenyan community currencies in 2015. Out of this came the...
 
 ![image](images/blog/sarafu-credit-takes1.webp)
 

@@ -2,8 +2,7 @@ Title: Update from Kangemi-Pesa Nairobi
 Author: Robin Gerbaux
 Date: Jun 8, 2015
 Slug: update-from
-Summary: It has been only 2 months since the members of Kangemi Business
-Network launched their community currency and received their 400...
+Summary: It has been only 2 months since the members of Kangemi Business Network launched their community currency and received their 400...
 
 ![image](images/blog/update-from1.webp)
 

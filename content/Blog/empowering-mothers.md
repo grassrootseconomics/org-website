@@ -2,9 +2,7 @@ Title: Empowering Mothers
 Author: tatiana.rubiano.goubert
 Date: Mar 1, 2018
 Slug: empowering-mothers
-Summary: Sarafu-Credit: empowering strong women who never stop fighting for
-their families wellbeing We are joining together to celebrate
-mothers'...
+Summary: Sarafu-Credit: empowering strong women who never stop fighting for their families wellbeing We are joining together to celebrate mothers'...
 
 **Sarafu-Credit: empowering strong women who never stop fighting for
 their families wellbeing**

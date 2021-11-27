@@ -2,9 +2,7 @@ Title: Shrimp Fishing Builds an Economy
 Author: Will Ruddick
 Date: Jun 16, 2019
 Slug: shrimp-fishing
-Summary: Fishermen pay for their children's school fees by selling shrimp to
-a cooperative with a freezer for storage. Women buy the shrimp and
-cook
+Summary: Fishermen pay for their children's school fees by selling shrimp to a cooperative with a freezer for storage. Women buy the shrimp and cook
 
 ![image](images/blog/shrimp-fishing1.webp)
 

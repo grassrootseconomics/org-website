@@ -2,9 +2,7 @@ Title: Tiwi Orphans Visit
 Author: Jacky Kowa
 Date: Dec 26, 2012
 Slug: tiwi-orphans
-Summary: This visit is different, we sat down to eat together and had a frank
-chat. Am grateful The Koru team visited a village in Tiwi, which
-had...
+Summary: This visit is different, we sat down to eat together and had a frank chat. Am grateful The Koru team visited a village in Tiwi, which had...
 
 ![image](images/blog/tiwi-orphans1.webp)
 

@@ -2,9 +2,7 @@ Title: Happy Mother's Day!
 Author: Daniel Mukosia
 Date: Mar 13, 2018
 Slug: happy-mothers
-Summary: As a way to celebrate we are happy to share two stories from our
-network members! Bevelyne Ombayo is a single mother, who lives in
-Lindi...
+Summary: As a way to celebrate we are happy to share two stories from our network members! Bevelyne Ombayo is a single mother, who lives in Lindi...
 
 As a way to celebrate we are happy to share two stories from our network
 members!

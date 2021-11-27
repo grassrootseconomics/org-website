@@ -2,9 +2,7 @@ Title: Borstal Boys: Poi and Life Skills Behind Bars
 Author: Morgan Richards
 Date: Mar 18, 2014
 Slug: borstal-boys
-Summary: The MotoMoto Program is helping make a difference at the Shimo La
-Tewa Borstal Institution which houses 313 boys from all over
-Kenya....
+Summary: The MotoMoto Program is helping make a difference at the Shimo La Tewa Borstal Institution which houses 313 boys from all over Kenya....
 
 The MotoMoto Program is helping make a difference at the Shimo La Tewa
 Borstal Institution which houses 313 boys from all over Kenya. It's one

@@ -2,9 +2,7 @@ Title: Help Support Community Currencies
 Author: Will Ruddick
 Date: May 1, 2014
 Slug: help-support
-Summary: Dear Friends and Colleagues, We are happy to announce that we have
-won a precedent-setting court victory which legitimates
-community...
+Summary: Dear Friends and Colleagues, We are happy to announce that we have won a precedent-setting court victory which legitimates community...
 
 Dear Friends and Colleagues,
 

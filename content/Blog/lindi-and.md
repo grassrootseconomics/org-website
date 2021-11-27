@@ -2,8 +2,7 @@ Title: Lindi and Ng'ombeni Pesa Launched
 Author: Will Ruddick
 Date: Aug 19, 2015
 Slug: lindi-and
-Summary: The 4th and 5th Kenyan Community Currencies were launched last week
-within a span of 7 days. We now have our 3rd Nairobi Currency in...
+Summary: The 4th and 5th Kenyan Community Currencies were launched last week within a span of 7 days. We now have our 3rd Nairobi Currency in...
 
 ![image](images/blog/lindi-and1.webp)
 

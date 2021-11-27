@@ -2,9 +2,7 @@ Title: Community Currency Design Course Opening
 Author: Will Ruddick
 Date: Dec 3, 2017
 Slug: community-currency
-Summary: Grassroots Economics has opened up its archives of design and
-implementation to students world wide through a hands-on, practical
-course...
+Summary: Grassroots Economics has opened up its archives of design and implementation to students world wide through a hands-on, practical course...
 
 ![image](images/blog/community-currency1.webp)
 

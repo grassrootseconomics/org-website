@@ -2,9 +2,7 @@ Title: Looking Towards 2015
 Author: Will Ruddick
 Date: Dec 19, 2014
 Slug: looking-towards
-Summary: 2014 has been an intense year developing the structures to allow
-community currency programs to one day become accessible across
-Africa....
+Summary: 2014 has been an intense year developing the structures to allow community currency programs to one day become accessible across Africa....
 
 2014 has been an intense year developing the structures to allow
 community currency programs to one day become accessible across Africa.

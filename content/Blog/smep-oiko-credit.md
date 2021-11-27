@@ -2,9 +2,7 @@ Title: Smep Oiko-Credit Loans in Kangemi
 Author: Ruth Mwangi
 Date: Aug 30, 2015
 Slug: smep-oiko-credit
-Summary: SMEP a local OIKO-Credit partner is offering Loans and Training to
-Community Currency users in Kangemi and Kawangware. They have
-started...
+Summary: SMEP a local OIKO-Credit partner is offering Loans and Training to Community Currency users in Kangemi and Kawangware. They have started...
 
 ![image](images/blog/smep-oiko-credit1.webp)
 

@@ -2,17 +2,9 @@ Title: Rural Sarafu Network - CIC Impacts
 Author: Janet Akinyi
 Date: Nov 25, 2020
 Slug: rural-sarafu
-
-modified
-
-: Nov 26, 2020
-Summary: Rosemary Owino is a widow from Siaya village in Siaya County. She
-has wanted desperately to curb her own poverty and make ends meet
-for...
-
-tags
-
-: rural,food security,blockchain,fish
+Modified: Nov 26, 2020
+Summary: Rosemary Owino is a widow from Siaya village in Siaya County. She has wanted desperately to curb her own poverty and make ends meet for...
+Tags: rural,food security,blockchain,fish
 
 ![image](images/blog/rural-sarafu1.webp)
 

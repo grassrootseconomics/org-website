@@ -2,9 +2,7 @@ Title: Takaungu Pesa is here!
 Author: Caroline Dama
 Date: Nov 9, 2018
 Slug: takaungu-pesa
-Summary: The Vindakala Youth Bunge's motto "Coming Together is Just The
-Beginning." mirrors this excitement we have after the launch of
-Takaungu...
+Summary: The Vindakala Youth Bunge's motto "Coming Together is Just The Beginning." mirrors this excitement we have after the launch of Takaungu...
 
 The Vindakala Youth Bunge's motto "Coming Together is Just The
 Beginning." mirrors this excitement we have after the launch of Takaungu

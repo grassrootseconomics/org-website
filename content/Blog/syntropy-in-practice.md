@@ -3,8 +3,7 @@ Authors: Shaila Agha and Janet Treezer
 Date: 12 Aug 2021
 Slug: syntropy-in-practice
 Tags: syntropic, agroforestry
-Summary: It was simple, when they saw first hand what a food forest could do
-for not only their plates, but their pockets.
+Summary: It was simple, when they saw first hand what a food forest could do for not only their plates, but their pockets.
 
 ![image](images/blog/syntropy-in-practice1.webp)
 

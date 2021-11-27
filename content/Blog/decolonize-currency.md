@@ -2,12 +2,8 @@ Title: Decolonize Currency
 Author: Shaila Agha and Will Ruddick
 Date: Aug 27 2021
 Slug: decolonize-currency
-Summary: We recognize the struggle of people forced to use monopolistic
-currencies
-
-tags
-
-: human rights, colonialism, economic sovereignity
+Summary: We recognize the struggle of people forced to use monopolistic currencies
+Tags: human rights, colonialism, economic sovereignity
 
 ![image](images/blog/decolonize-currency1.webp)
 

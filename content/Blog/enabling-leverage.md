@@ -2,9 +2,7 @@ Title: Enabling Leverage
 Author: Will Ruddick
 Date: Dec 6, 2019
 Slug: enabling-leverage
-Summary: By exploring this space and enabling leverage we can open the door
-to truly decentralized financial services. If credit can be safely
-issued
+Summary: By exploring this space and enabling leverage we can open the door to truly decentralized financial services. If credit can be safely issued
 
 ![image](images/blog/enabling-leverage1.webp)
 

@@ -2,9 +2,7 @@ Title: The people behind the transactions: a peek into the data of Kenya's most 
 Author: Paulina June
 Date: Aug 29, 2019
 Slug: the-people
-Summary: Sarafu stands at the fore-front of digital community currencies
-offering novel ways to learn about the inner workings of local
-exchange syst
+Summary: Sarafu stands at the fore-front of digital community currencies offering novel ways to learn about the inner workings of local exchange system
 
 ![image](images/blog/the-people1.webp)
 

@@ -2,9 +2,7 @@ Title: Kangemi-Pesa Launched
 Author: Will Ruddick
 Date: Apr 4, 2015
 Slug: kangemi-pesa-launched
-Summary: Overcoming many obstacles in a shaken Kenya, we had an amazing
-launch today of the third community currency in Kenya! Kangemi-Pesa
-is...
+Summary: Overcoming many obstacles in a shaken Kenya, we had an amazing launch today of the third community currency in Kenya! Kangemi-Pesa is...
 
 ![image](images/blog/kangemi-pesa-launched1.webp)
 

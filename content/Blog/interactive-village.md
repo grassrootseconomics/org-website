@@ -2,14 +2,14 @@ Title: Interactive Village Market Simulator!
 Author: Will Ruddick
 Date: May 25, 2018
 Slug: interactive-village
-Summary: The 5th installment of the Village Market Simulator series is now
-online! You can find it on YouTube or in the 'Simulations' section
-of...
+Summary: The 5th installment of the Village Market Simulator series is now online! You can find it on YouTube or in the 'Simulations' section of...
 
 **The 5th installment of the Village Market Simulator series is now
 online! You can find it on**
+
 [YouTube](http://www.youtube.com/watch?v=AyYkJsFGjHg) **or in the
 'Simulations' section of our**
+
 [MOOC](http://www.grassrootseconomics.org/mooc).
 
 This episode goes through the basic premises of community currencies and

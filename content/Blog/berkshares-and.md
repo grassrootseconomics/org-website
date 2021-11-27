@@ -2,9 +2,7 @@ Title: Berkshares and Bangla-Pesa
 Author: Will Ruddick
 Date: Oct 21, 2017
 Slug: berkshares-and
-Summary: The Schumacher Center for a New Economics has supported us with
-inspiration and advice since we began with Eco-Pesa in 2010.
-Before...
+Summary: The Schumacher Center for a New Economics has supported us with inspiration and advice since we began with Eco-Pesa in 2010. Before...
 
 ![image](images/blog/berkshares-and1.webp)
 

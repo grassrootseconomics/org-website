@@ -2,9 +2,7 @@ Title: Gatina-Pesa Starting Circulation
 Author: Will Ruddick
 Date: Oct 24, 2014
 Slug: gatina-pesa-starting
-Summary: Nairobi's first community currency Gatina-Pesa, following
-Bangla-Pesa's success has started circulation with vigor. Due to
-its dense...
+Summary: Nairobi's first community currency Gatina-Pesa, following Bangla-Pesa's success has started circulation with vigor. Due to its dense...
 
 Nairobi's first community currency Gatina-Pesa, following
 Bangla-Pesa's success has started circulation with vigor. Due to its

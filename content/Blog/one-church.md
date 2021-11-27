@@ -2,8 +2,7 @@ Title: One Church building a Value driven Economy
 Author: Ruth Njau
 Date: Jun 26, 2020
 Slug: one-church
-Summary: CIC (Sarafu) has taught people the power of circular trade and
-sharing and they will never go back to struggling for cash.
+Summary: CIC (Sarafu) has taught people the power of circular trade and sharing and they will never go back to struggling for cash.
 
 ![image](images/blog/one-church1.webp)
 

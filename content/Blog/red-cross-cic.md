@@ -2,16 +2,9 @@ Title: Red Cross CIC Pilot Survey - Mukuru Kenya
 Author: Will Ruddick
 Date: Sep 27, 2020
 Slug: red-cross-cic
-
-modified
-
-: Sep 28, 2020
-Summary: Staggering Impact: 169,270,038 Sarafu traded between 39,217 users in
-267,479 transactions on a blockchain during stagnate markets.
-
-tags
-
-: results,survey,Red Cross
+Modified: Sep 28, 2020
+Summary: Staggering Impact: 169,270,038 Sarafu traded between 39,217 users in 267,479 transactions on a blockchain during stagnate markets.
+Tags: results,survey,Red Cross
 
 After several years of Community Inclusion Currencies (CICs) being used
 independently in post Red Cross and WFP intervention sites and a year of

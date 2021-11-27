@@ -2,8 +2,7 @@ Title: Tree of Knowledge and Pit of Ignorance: Aid vs. Development
 Author: Crystal Kigoni
 Date: Feb 8, 2018
 Slug: tree-of
-Summary: Since beginning in the field of "development" over 10 years ago
-every time I visit a new community I find there is a lack of...
+Summary: Since beginning in the field of "development" over 10 years ago every time I visit a new community I find there is a lack of...
 
 ![image](images/blog/tree-of1.webp)
 

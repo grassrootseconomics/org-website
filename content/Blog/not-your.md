@@ -2,9 +2,7 @@ Title: Not Your Typical Vegetable Kiosk
 Author: Lydia Anyango
 Date: Mar 10, 2017
 Slug: not-your
-Summary: This is Julius Odhiambo. He owns a vegetable kibanda and has been
-using Community Currency called Bangla-Pesa, which is part of
-the...
+Summary: This is Julius Odhiambo. He owns a vegetable kibanda and has been using Community Currency called Bangla-Pesa, which is part of the...
 
 ![image](images/blog/not-your1.webp)
 

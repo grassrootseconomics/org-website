@@ -2,13 +2,8 @@ Title: Community Inclusion Currencies are Now Open Source
 Author: Will Ruddick
 Date: Jan 27, 2020
 Slug: community-inclusion
-
-modified
-
-: Jan 13
-Summary: These may sound like small improvements, but because of them our
-current, 8000+ and growing, users will be able to trade and create
-CICs to
+Modified: Jan 13
+Summary: These may sound like small improvements, but because of them our current, 8000+ and growing, users will be able to trade and create CICs to
 
 ![image](images/blog/community-inclusion1.webp)
 

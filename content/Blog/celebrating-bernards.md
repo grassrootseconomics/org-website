@@ -2,9 +2,7 @@ Title: Celebrating Bernard's Inspiration
 Author: Will Ruddick
 Date: Feb 4, 2019
 Slug: celebrating-bernards
-Summary: Bernard's vision of diverse monetary eco-systems that support
-communities and the environment rather than extract from them, as
-they...
+Summary: Bernard's vision of diverse monetary eco-systems that support communities and the environment rather than extract from them, as they...
 
 ![image](images/blog/celebrating-bernards1.webp)
 

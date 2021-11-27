@@ -2,9 +2,7 @@ Title: Collateral Bonded Gas for Block Validation
 Author: Will Ruddick
 Date: Jun 14, 2020
 Slug: collateral-bonded
-Summary: In order to spread adoption of a new economic models that heal
-economic trauma and use blockchain as a source of truth that
-connects us...
+Summary: In order to spread adoption of a new economic models that heal economic trauma and use blockchain as a source of truth that connects us...
 
 ![image](images/blog/collateral-bonded1.webp)
 

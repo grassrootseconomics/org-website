@@ -2,8 +2,7 @@ Title: Progress in South Africa
 Author: Will Ruddick
 Date: May 9, 2015
 Slug: progress-in
-Summary: One of our partner programs in South Africa was recently featured on
-the news. "An exciting new era may be dawning for the Kokstad...
+Summary: One of our partner programs in South Africa was recently featured on the news. "An exciting new era may be dawning for the Kokstad...
 
 ![image](images/blog/progress-in1.webp)
 

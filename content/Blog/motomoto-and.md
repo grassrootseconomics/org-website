@@ -2,9 +2,7 @@ Title: Motomoto and the Dream Catchers
 Author: Morgan Richards
 Date: Nov 27, 2013
 Slug: motomoto-and
-Summary: Koru-Kenya's MotoMoto program has been paired with Wema Centre for
-the past few months, joining our Poi and Life Skills program
-with...
+Summary: Koru-Kenya's MotoMoto program has been paired with Wema Centre for the past few months, joining our Poi and Life Skills program with...
 
 Koru-Kenya's MotoMoto program has been paired with Wema Centre for the
 past few months, joining our Poi and Life Skills program with their
