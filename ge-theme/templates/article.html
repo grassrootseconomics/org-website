@@ -5,6 +5,25 @@
 
 {% block head %}
   {{ super() }}
+  <!-- Social Meta Tags -->
+  <meta name="description" content="{{ article.description }}">
+  
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ SITENAME }} - {{article.title}}">
+  <meta property="og:description" content="{{article.summary|striptags}}">
+  <meta property="og:image" content="{{ SITEURL}}/images/blog/{{ article.slug}}1.webp">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="{{ SITEURL}}/images/blog/{{ article.slug}}1.webp">
+  <meta property="twitter:domain" content="grassrootseconomics.org">
+  <meta property="twitter:url" content="{{ SITEURL }}/{{ article.url }}">
+  <meta name="twitter:title" content="{{ SITENAME }} - {{article.title}}">
+  <meta name="twitter:description" content="{{article.summary|striptags}}">
+  <meta name="twitter:image" content="{{ SITEURL}}/images/blog/{{ article.slug}}1.webp">
+  <!-- End Social Meta Tags -->
+
 
   <link rel="stylesheet" type="text/css" href="{{SITEURL}}/theme/css/article-styles.css">
   {% import 'translations.html' as translations with context %}
