@@ -9,7 +9,7 @@
 
 Loads of questions coming up these days around the themes of open source, free software, blockchain and growth. Below are a list of recent questions and my take on them.
 
-##Motivation to use open source. Personal philosophy, funders requirement, other..?##
+**Motivation to use open source. Personal philosophy, funders requirement, other..?**
 
 .. image:: images/blog/open-tech-questions-answers1.webp
 
@@ -21,7 +21,7 @@ Further to this I want to point out that there is a industry of *peek-a-boo open
 
 Being born into this world with parents able to provide a good education, healthy food and security is sadly and simply luck. I would like to see the chances of children living in and co-creating a cooperative and harmonious world grow and to acknowledge the luck I've had. Here is a (work in progress) `charter <https://gitlab.com/grassrootseconomics/cic-docs/-/blob/master/cic-charter.md>`_ on our open source repo.	   
 
-##Funding (in terms of tech & code). Principal funding source? Additional funding sources? Do some of your funders explicitly request you use certain technologies? Business model/sustainability? Are contributors to your codebase paid or volunteers?##
+**Funding (in terms of tech & code). Principal funding source? Additional funding sources? Do some of your funders explicitly request you use certain technologies? Business model/sustainability? Are contributors to your codebase paid or volunteers?**
 
 
 Our funding has come mainly from donations from family members and humanitarian organizations that have seen the effectiveness of our work. More and more so, Grassroots Economics Foundation is finding groups that want to consult us on the creation and management of community currency programs and technology. Note that our budgets for technology are never funded for the sake of tech, but rather for specific humanitarian applications.
@@ -30,7 +30,7 @@ Albeit we've had a lot of requests from tech companies; we will not work with fu
 
 The community that has put in the work to build Grassroots Economics is 90% volunteer and about 10% paid. I really appreciate the the team and those no matter how much they need national currencies.
 
-##Stakeholders. Who are the core authors/ contributors/ partners? What is their main motivation to contribute? (volunteer, hobby, prestige, money, passion, philanthropy, availability of time) What are barriers to participation?##
+**Stakeholders. Who are the core authors/ contributors/ partners? What is their main motivation to contribute? (volunteer, hobby, prestige, money, passion, philanthropy, availability of time) What are barriers to participation?**
 
 
 The main contributors to the open source documentation and software we create are people like myself who believe we need these tools to build more cooperative and inclusive societies. Many are lucky enough not to want or need large salaries. 
@@ -39,7 +39,7 @@ We're seeing external companies beginning to utilize our software and techniques
 
 The largest barrier to participation is lack of understanding. Community Currencies - while not new, are a still very much niche. I hope that as more educational materials are created and more examples are shown around the world, a new generation of currency designers will emerge. 
 
-##Infrastructure and hosting. Any specific reason you’re hosting your repositories on GitLab and not GitHub? Any challenges with scalability and/or adding new features?##
+**Infrastructure and hosting. Any specific reason you’re hosting your repositories on GitLab and not GitHub? Any challenges with scalability and/or adding new features?**
 
 Here is an excellent comparison of GitLab and GitHub. GitHub is not Open Source!? .... Strange right?
 
@@ -47,7 +47,7 @@ GitLab is freely available and open is source for community edition. We have not
 
 I want to point out here that we are seeing to NOT be dependent on GitLab. Please not that Git is neither GitLab or GitHub. Git itself, is Open Source Software that handles source code versioning, letting you make and track local file changes and share changes with a remote repository. You can run it on any server and you don't have to use GitLab or GitHub. Note that we've moved off of AWS for similar reasons and are seekign to localize as much as we possibly can.
 
-##Are there any similar projects? What makes this project African? (In your specific case, why are most of your contributors non African? this might go back to 'barriers to participation') What does/ doesn’t work? Wishlist? Anything else?##
+**Are there any similar projects? What makes this project African? (In your specific case, why are most of your contributors non African? this might go back to 'barriers to participation') What does/ doesn’t work? Wishlist? Anything else?**
 
 
 We're seeing more and more community currency projects getting started around the world and it is great! I don't know of any that focus on rural Kenya, or that utilize all open source tech.
@@ -56,14 +56,14 @@ Our code base for USSD interfaces and backend systems started with Kibet Yegon i
 
 One thing that makes this project uniquely Kenyan - is that its main users are people without internet living in rural Kenya. Using feature phones to access and create their own currencies (connected to blockchains) has been an amazing effort and taught us so much. We are not looking for commercial adoption, but to help these communities that we love so much and share those tools with the world.
 
-##What are the main challenges you have to deploy your solution and grow the user base? (other than funding, looking particularly on technical challenges or challenges for users growth)##
+**What are the main challenges you have to deploy your solution and grow the user base? (other than funding, looking particularly on technical challenges or challenges for users growth)**
 
 
 USSD/SMS: A challenge is our scalability in rural areas due to telecom costs. Currently we pay for each USSD session and SMS received by beneficiaries and our service provider will not discount charges as we scale up. We're working on systems that are less reliant on telecoms but that means it is harder to work with people without internet.
 
 Regulation: The world governments don't make it easy for people to choose to create or use their own credit systems. Integration with local tax systems is a big area of research and focus with systems like demurrage.
 
-##Explain in detail how is your blockchain application better than non-blockchain alternatives? Why do you need to use blockchain?##
+**Explain in detail how is your blockchain application better than non-blockchain alternatives? Why do you need to use blockchain?**
 
 We don't want to lock users into a particular platform to access their accounts. When people create currencies they should be free to use them on any interface and even transfer them to other ledgers. A public ledger system can give this freedom to ensure there isn't just one interface to your accounts or information. Utilizing various aspects of blockchain fits very well with our belief in open source and free software, especially in regard to avoiding vendor lock-in. 
 
@@ -73,7 +73,7 @@ All of these requirements has led us toward using small side-chains run by unive
 
 A huge part of why we use blockchain is the ability to have cryptographically signed proofs - so that a user claiming to be a health worker can be validated by someone else. Finally we are also very focused on connecting CICs together and to other tokens via liquidity pools (Decentralized Exchanges). This allows a local credit system to find liquidity among a market of other such systems - forming a decentralized economic system.
 
-##You reported to have had users mainly farmers, community leaders, teachers, shop-owners. Is that still the number and the kind of users you’d describe? What is the engagement those users have had with your platform? (eg. they are building a building a credit, accessing digital payments, etc). Any other metrics you can share that show the impact of your app? (Eg. alternative credit achieved)##
+**You reported to have had users mainly farmers, community leaders, teachers, shop-owners. Is that still the number and the kind of users you’d describe? What is the engagement those users have had with your platform? (eg. they are building a building a credit, accessing digital payments, etc). Any other metrics you can share that show the impact of your app? (Eg. alternative credit achieved)**
 
 
 Our beneficiaries have increased exponentially to 58,400 users, farmers and laborers make up the largest portion of trade volumes at 1.74m, followed by savings groups who are second with 1.27m and followed by food/water at 651k. We are working on giving users the ability to create their own community tokens as the current system only allows one token (Sarafu).
@@ -82,7 +82,7 @@ The beneficiaries register, receive a UBI token amounting to $1, then use it to 
 
 The intervention has a 5x more increase in trade volume than traditional aid within 2 months. This is because the CIC remains in the community moving from household to household. Not only does it improve livelihoods, it empowers a community by giving them the tools needed to accomplish their dreams. 
 
-##Can you explain how your app and the CIC are working exactly for the users above? Please explain how the credit is created (note that we are particularly interested not in the theory of the model but in understanding what is already working and what role blockchain plays in that)##
+**Can you explain how your app and the CIC are working exactly for the users above? Please explain how the credit is created (note that we are particularly interested not in the theory of the model but in understanding what is already working and what role blockchain plays in that)**
 
 
 We're in the process of releasing a completely new version of our software which is a custodial key management system that allows community groups to create their own Community Inclusion Currency (CIC). In this case a group of users comes together and after a training they fill out a CIC creation application, in which they specify the goods and services they wish to be redeemable for their own CIC (voucher). They are creating a credit against their future production, which is endorsed by local authorities. In example a group of 28 women may create 50,000 vouchers redeemable for 50,000 Kenyan shillings worth of their goods and services. These vouchers are shared in the group and circulate both internally and externally in the community. The vouchers also have a gradual expiration rate (aka demurrage). The CICs are created via deployment of a contract on a EVM blockchain. The contract stores the information about the token issuer and determines the expiration rate. Our USSD interface enables a users to access their blockchain wallet and transfer tokens.
