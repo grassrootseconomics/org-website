@@ -2,9 +2,7 @@ Title: Preliminary Research Results 2017
 Author: Thibaud Dezyn
 Date: Jun 17, 2017
 Slug: preliminary-research
-Summary: Grassroots Economics currently facilitates Community Currency
-programs for 1140 businesses across 5 communities which report both
-social...
+Summary: Grassroots Economics currently facilitates Community Currency programs for 1140 businesses across 5 communities which report both social...
 
 Grassroots Economics currently facilitates Community Currency programs
 for 1140 businesses across 5 communities which report both social and

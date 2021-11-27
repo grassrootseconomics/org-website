@@ -2,9 +2,7 @@ Title: Who could like this life? - Motomoto
 Author: Morgan Richards
 Date: Oct 2, 2013
 Slug: who-could
-Summary: Yesterday, we sat down with some boys from the streets of Mombasa
-(survivors, as they prefer to be called) in a shady patch of
-grass...
+Summary: Yesterday, we sat down with some boys from the streets of Mombasa (survivors, as they prefer to be called) in a shady patch of grass...
 
 Yesterday, we sat down with some boys from the streets of Mombasa
 (survivors, as they prefer to be called) in a shady patch of grass where

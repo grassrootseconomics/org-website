@@ -2,9 +2,7 @@ Title: Elections, Service, Mapping and Nairobi
 Author: Will Ruddick
 Date: Mar 20, 2014
 Slug: elections-service
-Summary: New Board and Community Service Contributions On April 19th the
-Bangladesh Business Network had their first official board elections
-and...
+Summary: New Board and Community Service Contributions On April 19th the Bangladesh Business Network had their first official board elections and...
 
 New Board and Community Service Contributions
 

@@ -2,13 +2,8 @@ Title: Grassroots Economics has a New Director: Shaila Agha
 Author: Shaila Agha
 Date: Apr 8 2021
 Slug: grassroots-economics
-Summary: It is an honor to work as a Director along with Will Ruddick and the
-Grassroots Economics team in their endeavor to rebalance the
-inequaliti
-
-tags
-
-: organization,directors,staff,mission
+Summary: It is an honor to work as a Director along with Will Ruddick and the Grassroots Economics team in their endeavor to rebalance the inequality
+Tags: organization,directors,staff,mission
 
 ![image](images/blog/grassroots-economics1.webp)
 

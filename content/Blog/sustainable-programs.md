@@ -2,9 +2,7 @@ Title: Sustainable Programs and Complementary Currencies
 Author: Will Ruddick
 Date: Jan 12, 2014
 Slug: sustainable-programs
-Summary: In 1982, the late Dr. Margrit Kennedy's work on ecological
-architecture led her to the conclusion that it is "virtually
-impossible to...
+Summary: In 1982, the late Dr. Margrit Kennedy's work on ecological architecture led her to the conclusion that it is "virtually impossible to...
 
 In 1982, the late Dr. Margrit Kennedy's work on ecological architecture
 led her to the conclusion that it is "virtually impossible to carry out

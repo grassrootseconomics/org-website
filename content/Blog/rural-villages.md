@@ -2,8 +2,7 @@ Title: Rural Villages Coping with COVID-19
 Author: WIlfred Chibwara
 Date: Mar 25, 2020
 Slug: rural-villages
-Summary: Communities can support each other and keep vital food systems and
-trade alive using a blockchain based vouchers system (Community...
+Summary: Communities can support each other and keep vital food systems and trade alive using a blockchain based vouchers system (Community...
 
 Communities can support each other and keep vital food systems and trade
 alive using a blockchain based vouchers system (Community Inclusion

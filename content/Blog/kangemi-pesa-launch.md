@@ -2,9 +2,7 @@ Title: Kangemi-Pesa Launch Prep and More Currency News
 Author: Will Ruddick
 Date: Mar 27, 2015
 Slug: kangemi-pesa-launch
-Summary: Kangemi-Pesa is launching on April 4th 2015! After six months of
-preparation the Kangemi Businessness Network has reached over
-100...
+Summary: Kangemi-Pesa is launching on April 4th 2015! After six months of preparation the Kangemi Businessness Network has reached over 100...
 
 ![image](images/blog/kangemi-pesa-launch1.webp)
 

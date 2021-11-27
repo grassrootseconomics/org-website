@@ -2,9 +2,7 @@ Title: Community Currencies: Cash Transfer 2.0
 Author: rebeccamqamelo
 Date: May 28, 2019
 Slug: community-currencies-cash
-Summary: A few decades ago, the idea of giving money to poor people instead
-of food packages and healthcare was almost scandalous. Free
-money?...
+Summary: A few decades ago, the idea of giving money to poor people instead of food packages and healthcare was almost scandalous. Free money?...
 
 ![image](images/blog/community-currencies-cash1.webp)
 

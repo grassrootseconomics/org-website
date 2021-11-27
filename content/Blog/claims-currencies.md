@@ -2,16 +2,9 @@ Title: Claims, Currencies and Cryptography
 Author: Will Ruddick
 Date: Jun 22 2021
 Slug: claims-currencies
-
-modified
-
-: Jun 29
-Summary: We need frameworks and protocols for various types of endorsed
-claims that can be held self-sovereignty by individuals and groups.
-
-tags
-
-: impact claims,data,CIC,claim
+Modified: Jun 29 2021
+Summary: We need frameworks and protocols for various types of endorsed claims that can be held self-sovereignty by individuals and groups.
+Tags: impact claims,data,CIC,claim
 
 Global financial systems as well as humanitarian relief is based on
 claims, but the current infrastructure especially in vulnerable

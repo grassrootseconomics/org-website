@@ -2,17 +2,9 @@ Title: Municipal Basic Income (MBI) via CIC
 Author: Will Ruddick
 Date: Jan 23 2021
 Slug: municipal-basic
-
-modified
-
-: Jan 24 2021
-Summary: Consider the value in decentralized, municipally supported economies
-(networks of MBIs) - building and supporting local as well as
-regional
-
-tags
-
-: UBI,Basic Income,municiple,MBI
+Modified: Jan 24 2021
+Summary: Consider the value in decentralized, municipally supported economies (networks of MBIs) - building and supporting local as well as regional
+Tags: UBI,Basic Income,municiple,MBI
 
 ![image](images/blog/municipal-basic1.webp)
 

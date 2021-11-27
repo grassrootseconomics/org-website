@@ -2,9 +2,7 @@ Title: Bangla-Pesa - Can we do it again?
 Author: Will Ruddick
 Date: Mar 25, 2014
 Slug: bangla-pesa
-Summary: After winning court battles, relaunching the program, hearing heart
-breaking stories and finding amazing results the local
-government...
+Summary: After winning court battles, relaunching the program, hearing heart breaking stories and finding amazing results the local government...
 
 After winning court battles, relaunching the program, hearing heart
 breaking stories and finding amazing results the local government

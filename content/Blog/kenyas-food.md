@@ -2,9 +2,7 @@ Title: Kenya's Food Exports vs Food Aids
 Author: Will Ruddick
 Date: Jan 8, 2013
 Slug: kenyas-food
-Summary: Amazing as it may sound Kenya exports over 3 billion dollars worth
-of food! The World Food Program says that Kenya has a yearly need
-of...
+Summary: Amazing as it may sound Kenya exports over 3 billion dollars worth of food! The World Food Program says that Kenya has a yearly need of...
 
 ![image](images/blog/kenyas-food1.webp)
 

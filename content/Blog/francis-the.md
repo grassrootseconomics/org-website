@@ -2,9 +2,7 @@ Title: Francis the Millionaire
 Author: Robin Gerbaux
 Date: May 16, 2015
 Slug: francis-the
-Summary: Since several generations the family of Francis has been living in
-the same neighborhood of Nairobi, Gatina (Part of Kwangware).
-Gatina,...
+Summary: Since several generations the family of Francis has been living in the same neighborhood of Nairobi, Gatina (Part of Kwangware). Gatina,...
 
 ![image](images/blog/francis-the1.webp)
 

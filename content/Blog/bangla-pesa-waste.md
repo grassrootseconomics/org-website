@@ -2,9 +2,7 @@ Title: Bangla-Pesa Waste, Volleyball and Nairobi
 Author: Will Ruddick
 Date: Jun 8, 2014
 Slug: bangla-pesa-waste
-Summary: Community Waste Collection This weekend the Bangladesh Business
-Network, the more than 180 people who trade their goods and services
-with...
+Summary: Community Waste Collection This weekend the Bangladesh Business Network, the more than 180 people who trade their goods and services with...
 
 **Community Waste Collection**
 

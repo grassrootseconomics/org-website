@@ -2,12 +2,8 @@ Title: GRE for ME
 Author: Grace Rachmany
 Date: Jul 16 2021
 Slug: gre-for
-Summary: Thank you for doing the sacred and life-preserving work of creating
-financial opportunity and elevating people's dignity
-
-tags
-
-: testimonial
+Summary: Thank you for doing the sacred and life-preserving work of creating financial opportunity and elevating people's dignity
+Tags: testimonial
 
 ![image](images/blog/gre-for1.webp)
 

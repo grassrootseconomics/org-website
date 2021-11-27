@@ -2,14 +2,8 @@ Title: Network Integrity is Priceless
 Author: Will Ruddick
 Date: Nov 7, 2020
 Slug: network-integrity
-Summary: It is well know that - In a world where you can buy or sell
-anything - integrity is priceless. This is just as true when
-everything can...
-
-tags
-
-: trust,network token,sarafu,currency death cycle,state of trust on
-state,CDC,SOTOS
+Summary: It is well know that - In a world where you can buy or sell anything - integrity is priceless. This is just as true when everything can...
+Tags: trust,network token,sarafu,currency death cycle,state of trust on state,CDC,SOTOS
 
 ![image](images/blog/network-integrity1.webp)
 
@@ -23,8 +17,7 @@ _What you are asking people to adopt with a community currency, really?_
 
 At the core of community currency is the golden rule:
 
-**You offer your goods and services as you would have others offer
-theirs.** **aka Pay it forward... aka Trust starts with you....**
+**You offer your goods and services as you would have others offer theirs.** **aka Pay it forward... aka Trust starts with you....**
 **Wait, what?!**
 
 That alone sounds completely doomed to fail and here is why.....

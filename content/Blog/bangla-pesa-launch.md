@@ -2,9 +2,7 @@ Title: Bangla-Pesa Launch
 Author: Will Ruddick
 Date: May 11, 2013
 Slug: bangla-pesa-launch
-Summary: Today's launch of Bangla-Pesa was a great start to an empowering
-community process! 137 local business owners attended. Of the 137
-local...
+Summary: Today's launch of Bangla-Pesa was a great start to an empowering community process! 137 local business owners attended. Of the 137 local...
 
 ![image](images/blog/bangla-pesa-launch1.webp)
 

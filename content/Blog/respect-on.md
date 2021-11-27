@@ -2,9 +2,7 @@ Title: Respect on the streets
 Author: Morgan Richards
 Date: Apr 16, 2014
 Slug: respect-on
-Summary: Friday, April 11th, Koru-Kenya hosted a dialogue on street
-harassment. The original event was intended to be a rally, held on
-the 4th in...
+Summary: Friday, April 11th, Koru-Kenya hosted a dialogue on street harassment. The original event was intended to be a rally, held on the 4th in...
 
 Friday, April 11th, Koru-Kenya hosted a dialogue on street harassment.
 

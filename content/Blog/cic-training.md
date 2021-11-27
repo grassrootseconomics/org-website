@@ -2,13 +2,8 @@ Title: CIC Training from Response to Recovery
 Author: Will Ruddick
 Date: Jul 11, 2020
 Slug: cic-training
-
-modified
-
-: Jul 13, 2020
-Summary: The end effect is that communities have a way to create their own
-credit systems for supporting themselves responsibly with both
-social and
+Modified: Jul 13, 2020
+Summary: The end effect is that communities have a way to create their own credit systems for supporting themselves responsibly with both social and
 
 **Response:**
 

@@ -2,9 +2,7 @@ Title: Here We Are - Kenya 2016
 Author: Will Ruddick
 Date: Dec 21, 2016
 Slug: here-we
-Summary: Happy holidays! We're seeing the power of community currencies in
-developing thriving communities and prospering economies. This year
-has...
+Summary: Happy holidays! We're seeing the power of community currencies in developing thriving communities and prospering economies. This year has...
 
 ![image](images/blog/here-we1.webp)
 

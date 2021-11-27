@@ -2,9 +2,7 @@ Title: Church Offerings (Sadaka) in Bangla-Pesa
 Author: Will Ruddick
 Date: Dec 15, 2013
 Slug: church-offerings
-Summary: Faith based organizations (FBOs) are beginning to step up their
-usage of Bangla-Pesa to increase community services. FBOs act as
-a...
+Summary: Faith based organizations (FBOs) are beginning to step up their usage of Bangla-Pesa to increase community services. FBOs act as a...
 
 Faith based organizations (FBOs) are beginning to step up their usage of
 Bangla-Pesa to increase community services. FBOs act as a conduit for

@@ -2,8 +2,7 @@ Title: Margrit Kennedy - Thank You
 Author: Will Ruddick
 Date: Dec 30, 2013
 Slug: margrit-kennedy
-Summary: One of our largest supporters and inspirations has passed on. Our
-whole team and the community of Bangladesh, Kenya wish to offer...
+Summary: One of our largest supporters and inspirations has passed on. Our whole team and the community of Bangladesh, Kenya wish to offer...
 
 One of our largest supporters and inspirations has passed on. Our whole
 team and the community of Bangladesh, Kenya wish to offer condolences to

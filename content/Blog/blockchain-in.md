@@ -2,9 +2,7 @@ Title: Blockchain in Clinics, Vegetables, Cafes and Shops
 Author: Ruth Njau &amp; Antony Ngoka
 Date: Jan 18, 2019
 Slug: blockchain-in
-Summary: While the rest of the world wonders how blockchain will impact lives
-these people are using it daily to bring their community out of
-poverty
+Summary: While the rest of the world wonders how blockchain will impact lives these people are using it daily to bring their community out of poverty
 
 While the rest of the world wonders how blockchain will impact lives
 these people are using it daily to bring their community out of poverty.

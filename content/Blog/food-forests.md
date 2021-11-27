@@ -2,16 +2,9 @@ Title: Food Forests and Syntropic Currencies
 Author: Will Ruddick
 Date: Oct 25, 2020
 Slug: food-forests
-
-modified
-
-: Jan 15
-Summary: Regenerating soil while practically providing crops and long term
-food forests is actually possible!
-
-tags
-
-: agroforestry,syntropic,food forest,curadao
+Modified: Jan 15
+Summary: Regenerating soil while practically providing crops and long term food forests is actually possible!
+Tags: agroforestry,syntropic,food forest,curadao
 
 ![image](images/blog/food-forests1.webp)
 

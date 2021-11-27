@@ -2,9 +2,7 @@ Title: Rural Community Currencies for Food Security
 Author: Will Ruddick
 Date: Feb 8, 2018
 Slug: rural-community
-Summary: The Miyani area in Kenya has been identified by Red Cross and the
-World Food Program as food insecure for over 5 years. Red Cross
-along...
+Summary: The Miyani area in Kenya has been identified by Red Cross and the World Food Program as food insecure for over 5 years. Red Cross along...
 
 ![image](images/blog/rural-community1.webp)
 

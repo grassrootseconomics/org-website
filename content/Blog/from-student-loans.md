@@ -2,13 +2,8 @@ Title: From student loans to Student Currencies
 Author: Will Ruddick
 Date: Aug 21 2021
 Slug: from-student-loans
-Summary: Creating credit against future production is what built our
-industries and nations. This power should be used to support
-students, apprentic
-
-tags
-
-: student loans, education, artists
+Summary: Creating credit against future production is what built our industries and nations. This power should be used to support students, apprentic
+Tags: student loans, education, artists
 
 ![image](images/blog/from-student-loans1.webp)
 

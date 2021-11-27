@@ -2,9 +2,7 @@ Title: Detergent Accelerator
 Author: Daniel Mukosia
 Date: Mar 13, 2017
 Slug: detergent-accelerator
-Summary: Julius Nyelele has been a member of Lindi Business Network for more
-than one year. He is a roadside seller of washing detergents and
-body...
+Summary: Julius Nyelele has been a member of Lindi Business Network for more than one year. He is a roadside seller of washing detergents and body...
 
 ![image](images/blog/detergent-accelerator1.webp)
 

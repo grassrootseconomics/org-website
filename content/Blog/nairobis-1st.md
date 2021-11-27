@@ -2,9 +2,7 @@ Title: Nairobi's 1st Community Currency Anniversary
 Author: Ruth Mwangi
 Date: Oct 15, 2015
 Slug: nairobis-1st
-Summary: Gatina-Pesa is the first group of 3 Community Currencies in Nairobi
-to Celebrate their 1st Anniversary on October 10th. With now over
-120...
+Summary: Gatina-Pesa is the first group of 3 Community Currencies in Nairobi to Celebrate their 1st Anniversary on October 10th. With now over 120...
 
 Gatina-Pesa is the first group of 3 Community Currencies in Nairobi to
 Celebrate their 1st Anniversary on October 10th. With now over 120 small

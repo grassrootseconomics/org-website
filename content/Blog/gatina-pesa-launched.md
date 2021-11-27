@@ -2,9 +2,7 @@ Title: Gatina-Pesa Launched
 Author: Will Ruddick
 Date: Oct 11, 2014
 Slug: gatina-pesa-launched
-Summary: With an amazing march through the slum, starting from Congo and
-ending at Gatina Primary School the entire community has been
-mobilized...
+Summary: With an amazing march through the slum, starting from Congo and ending at Gatina Primary School the entire community has been mobilized...
 
 ![image](images/blog/gatina-pesa-launched1.webp)
 

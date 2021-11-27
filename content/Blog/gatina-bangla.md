@@ -2,11 +2,10 @@ Title: Gatina & Bangla Pesa Nov Updates
 Author: Will Ruddick
 Date: Nov 18, 2014
 Slug: gatina-bangla
-Summary: After more than a year of trading Bangla-Pesa, with millions of
-shillings worth of bills changing hands, the program is running
-strong....
+Summary: After more than a year of trading Bangla-Pesa, with millions of shillings worth of bills changing hands, the program is running strong....
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/Xe5d8SwwpOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 After more than a year of trading Bangla-Pesa, with millions of
 shillings worth of bills changing hands, the program is running strong.
 The community had an Annual General Meeting, followed by a volleyball

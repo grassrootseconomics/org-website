@@ -2,9 +2,7 @@ Title: Mikindani Community Currency Market Day
 Author: Lydia Anyango
 Date: Oct 25, 2015
 Slug: mikindani-community
-Summary: The Kwa Ng'ombe Business Network held their 1st Market day on the
-24th October 2015. Members came to sell and trade their goods at
-the...
+Summary: The Kwa Ng'ombe Business Network held their 1st Market day on the 24th October 2015. Members came to sell and trade their goods at the...
 
 ![image](images/blog/mikindani-community1.webp)
 

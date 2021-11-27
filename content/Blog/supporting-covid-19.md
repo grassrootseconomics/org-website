@@ -2,9 +2,7 @@ Title: Supporting COVID-19 Community Health Volunteers
 Author: Antony Ngoka
 Date: Mar 26, 2020
 Slug: supporting-covid-19
-Summary: 400 Sarafu (about 4 USD) will feed a CHVs and her family for a day
-and enable her to support the community more. Sarafu can also be
-used for
+Summary: 400 Sarafu (about 4 USD) will feed a CHVs and her family for a day and enable her to support the community more. Sarafu can also be used for
 
 ![image](images/blog/supporting-covid-191.webp)
 

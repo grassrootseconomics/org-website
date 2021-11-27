@@ -2,9 +2,7 @@ Title: Economies into Ecosystems
 Author: Will Ruddick
 Date: Dec 25, 2019
 Slug: economies-into
-Summary: The reserve behind these tokens, the actual aid funding, was about
-$2.5k USD).This means that $2,500 USD of Aid funds created 10,000
-tokens
+Summary: The reserve behind these tokens, the actual aid funding, was about $2.5k USD).This means that $2,500 USD of Aid funds created 10,000 tokens
 
 ![image](images/blog/economies-into1.webp)
 

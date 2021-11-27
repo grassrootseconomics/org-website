@@ -2,8 +2,7 @@ Title: Gatina-Pesa Launch Prep
 Author: Will Ruddick
 Date: Sep 25, 2014
 Slug: gatina-pesa-launch
-Summary: The Gatina Business Organization is busy preparing for the community
-currency's official launch on October 11th. Children from the...
+Summary: The Gatina Business Organization is busy preparing for the community currency's official launch on October 11th. Children from the...
 
 The Gatina Business Organization is busy preparing for the community
 currency's official launch on October 11th. Children from the community

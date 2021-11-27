@@ -2,9 +2,7 @@ Title: CIC (COVID-19 Crisis) Cash Aid
 Author: Will Ruddick
 Date: Mar 23, 2020
 Slug: cic-covid-19
-Summary: With unstable food systems and deteriorating markets and supply
-chains, knowing how to target aid is crucial to providing relief and
-buildin
+Summary: With unstable food systems and deteriorating markets and supply chains, knowing how to target aid is crucial to providing relief and buildin
 
 ![image](images/blog/cic-covid-191.webp)
 

@@ -2,12 +2,8 @@ Title: Taxation & Community Currencies
 Author: Will Ruddick
 Date: Aug 1 2021
 Slug: taxation-community
-Summary: Taxation of & in Community Currencies could be the largest and most
-stable tax source for governments.
-
-tags
-
-: tax,taxation,demurrage,holding fees
+Summary: Taxation of & in Community Currencies could be the largest and most stable tax source for governments.
+Tags: tax,taxation,demurrage,holding fees
 
 ![image](images/blog/taxation-community1.webp)
 

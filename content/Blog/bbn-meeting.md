@@ -2,9 +2,7 @@ Title: BBN Meeting
 Author: Will Ruddick
 Date: Feb 15, 2013
 Slug: bbn-meeting
-Summary: After two small business meetings and several focus group sessions,
-the Bangla Business Network (BBN) had it's first large group
-meeting...
+Summary: After two small business meetings and several focus group sessions, the Bangla Business Network (BBN) had it's first large group meeting...
 
 After two small business meetings and several focus group sessions, the
 Bangla Business Network (BBN) had it's first large group meeting on

@@ -2,8 +2,7 @@ Title: Motomoto Performing Arts
 Author: Will Ruddick
 Date: Mar 3, 2013
 Slug: motomoto-performing
-Summary: We've started off the year with two new MotoMoto classes on Tuesday
-and Thursdays in Mombasa thanks to Burners without Borders. Each...
+Summary: We've started off the year with two new MotoMoto classes on Tuesday and Thursdays in Mombasa thanks to Burners without Borders. Each...
 
 We've started off the year with two new MotoMoto classes on Tuesday and
 Thursdays in Mombasa thanks to Burners without Borders. Each class

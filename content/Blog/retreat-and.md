@@ -2,9 +2,7 @@ Title: Retreat and Renewal
 Author: Will Ruddick
 Date: Sep 27, 2015
 Slug: retreat-and
-Summary: September marked the first official renewal event for Bangla-Pesa
-after more than 2+ years in circulation (Starting in May 2013).
-The...
+Summary: September marked the first official renewal event for Bangla-Pesa after more than 2+ years in circulation (Starting in May 2013). The...
 
 ![image](images/blog/retreat-and1.webp)
 

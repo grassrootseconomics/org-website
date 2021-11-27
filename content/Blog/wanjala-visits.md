@@ -2,8 +2,7 @@ Title: Wanjala Visits Bangladesh
 Author: Francis Wanjala
 Date: Jul 29, 2014
 Slug: wanjala-visits
-Summary: Francis Wanjala is the headmaster at Sifa Childrens Home in Nairobi.
-After making his first trip to Mombasa he shared with us his...
+Summary: Francis Wanjala is the headmaster at Sifa Childrens Home in Nairobi. After making his first trip to Mombasa he shared with us his...
 
 Francis Wanjala is the headmaster at Sifa Childrens Home in Nairobi.
 After making his first trip to Mombasa he shared with us his experiences

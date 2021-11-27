@@ -2,8 +2,7 @@ Title: Lindi Business Network Gumbaru Trainings
 Author: Daniel Mukosia
 Date: Mar 4, 2018
 Slug: lindi-business
-Summary: Empowering women is a great ways to boast our economy . This however
-doesn't come without facing challenges of Illitracy among most...
+Summary: Empowering women is a great ways to boast our economy . This however doesn't come without facing challenges of Illitracy among most...
 
 ![image](images/blog/lindi-business1.webp)
 

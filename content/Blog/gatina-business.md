@@ -2,9 +2,7 @@ Title: Gatina Business Organization and the Love School Success Story
 Author: Daniel Mukosia
 Date: Mar 9, 2018
 Slug: gatina-business
-Summary: Love School is one of the schools that has enabled children to
-acquire education by allowing them to pay part of their school fees
-and...
+Summary: Love School is one of the schools that has enabled children to acquire education by allowing them to pay part of their school fees and...
 
 ![image](images/blog/gatina-business1.webp)
 

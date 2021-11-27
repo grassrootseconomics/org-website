@@ -2,9 +2,7 @@ Title: Comparative Analysis of eMoney and Community Currency
 Author: Sowelu Avanzo
 Date: Feb 7, 2020
 Slug: comparative-analysis
-Summary: This shows us that the presence of Sarafu stabilizes the economic
-system, working as a buffer in the months when the national currency
-is sc
+Summary: This shows us that the presence of Sarafu stabilizes the economic system, working as a buffer in the months when the national currency is sc
 
 **Introduction**
 

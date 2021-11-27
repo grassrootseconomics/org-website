@@ -2,13 +2,8 @@ Title: Strong Communities - Strong Currencies
 Author: Janet Akinyi
 Date: Nov 27, 2020
 Slug: strong-communities
-Summary: I had the pleasure to visit Kwe Kende in Nyalgunga, Siaya County one
-of the strongest groups (chamas) in the Sarafu Network across
-Kenya,...
-
-tags
-
-: Nyanza,Siaya,Commons,markets,rural
+Summary: I had the pleasure to visit Kwe Kende in Nyalgunga, Siaya County one of the strongest groups (chamas) in the Sarafu Network across Kenya,...
+Tags: Nyanza,Siaya,Commons,markets,rural
 
 ![image](images/blog/strong-communities1.webp)
 

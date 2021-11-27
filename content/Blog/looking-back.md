@@ -2,8 +2,7 @@ Title: Looking Back at 40,000 Blockchain Transactions
 Author: Caroline Dama
 Date: Jul 12, 2019
 Slug: looking-back
-Summary: So far, after roughly 6 months of piloting we've witnessed 40,000
-blockchain transactions! So what does that actually mean?
+Summary: So far, after roughly 6 months of piloting we've witnessed 40,000 blockchain transactions! So what does that actually mean?
 
 So far, after roughly 6 months of piloting we've witnessed 40,000
 blockchain transactions! So what does that actually mean?

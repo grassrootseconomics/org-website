@@ -2,8 +2,7 @@ Title: Building a Public Registry for Community Currencies(DeFi)
 Author: Will Ruddick
 Date: Mar 21, 2020
 Slug: building-a
-Summary: Even when you have no money you are not poor. Building a Public
-Registry for Community Currencies.
+Summary: Even when you have no money you are not poor. Building a Public Registry for Community Currencies.
 
 ![image](images/blog/building-a1.webp)
 

@@ -2,13 +2,8 @@ Title: Demystifying Currency Creation and Backing
 Author: Will Ruddick
 Date: Apr 18, 2020
 Slug: demystifying-currency
-
-modified
-
-: Apr 21, 2020
-Summary: Once upon a time a goat herder counted his herd and found 100 goats
-(some old and some young). That was a nice surprise. He estimated
-a...
+Modified: Apr 21, 2020
+Summary: Once upon a time a goat herder counted his herd and found 100 goats (some old and some young). That was a nice surprise. He estimated a...
 
 ![image](images/blog/demystifying-currency1.webp)
 

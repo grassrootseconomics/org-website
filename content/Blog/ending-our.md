@@ -2,9 +2,7 @@ Title: Ending Our 2017
 Author: Will Ruddick
 Date: Dec 8, 2017
 Slug: ending-our
-Summary: Dear Friends and Stakeholders, In just three years, Grassroots
-Economics grew from a community group working to help improve
-living...
+Summary: Dear Friends and Stakeholders, In just three years, Grassroots Economics grew from a community group working to help improve living...
 
 Dear Friends and Stakeholders,
 

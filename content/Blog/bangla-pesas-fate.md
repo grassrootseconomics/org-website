@@ -2,8 +2,7 @@ Title: Bangla-Pesa's Fate in the hands of the DPP
 Author: Will Ruddick
 Date: Jul 22, 2013
 Slug: bangla-pesas-fate
-Summary: We are still being charged with forgery under penal code 367(e). For
-Kenyan Laws see page 121. On July 15th - the Kenyan Dirctor of...
+Summary: We are still being charged with forgery under penal code 367(e). For Kenyan Laws see page 121. On July 15th - the Kenyan Dirctor of...
 
 We are still being charged with forgery under penal code 367(e). For
 Kenyan Laws see [page

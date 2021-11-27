@@ -2,17 +2,9 @@ Title: Kilifi Kenya - a hub for Community Driven Basic Income
 Author: Isavary Khabuqwi
 Date: Feb 10
 Slug: kilifi-kenya
-
-modified
-
-: Feb 12 2021
-Summary: The current reality is that following Covid-19 many have fallen
-deeper and deeper into debt. However, most individuals would still
-not...
-
-tags
-
-: Kilifi,Kenya,debt,Basic Income,community currency
+Modified: Feb 12 2021
+Summary: The current reality is that following Covid-19 many have fallen deeper and deeper into debt. However, most individuals would still not...
+Tags: kilifi,kenya,debt,basic income,community currency
 
 The current reality is that following Covid-19 many have fallen deeper
 and deeper into debt. However, most individuals would still not openly

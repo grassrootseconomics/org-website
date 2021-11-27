@@ -2,13 +2,8 @@ Title: Currency 123 (Back, Guarantee, Open)
 Author: Will Ruddick
 Date: May 2, 2020
 Slug: currency-123
-
-modified
-
-: May 5, 2020
-Summary: A Community Inclusion Currency (CIC) is way to transparently
-establish a credit system to enable local markets to thrive and
-link...
+Modified: May 5, 2020
+Summary: A Community Inclusion Currency (CIC) is way to transparently establish a credit system to enable local markets to thrive and link...
 
 A Community Inclusion Currency (CIC) is way to transparently establish a
 credit system to enable local markets to thrive and link together,

@@ -2,9 +2,7 @@ Title: New Business in Kawangware
 Author: Robin Gerbaux
 Date: Apr 21, 2015
 Slug: new-business
-Summary: Since its implementation, 8 months ago, Gatina-Pesa in Nairobi's
-Kawangware slum has had various benefits to its members. Some of
-them...
+Summary: Since its implementation, 8 months ago, Gatina-Pesa in Nairobi's Kawangware slum has had various benefits to its members. Some of them...
 
 ![image](images/blog/new-business1.webp)
 

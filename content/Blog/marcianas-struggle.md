@@ -2,9 +2,7 @@ Title: Marciana's Struggle, Porridge and Bangla-Pesa
 Author: Morgan Richards
 Date: Feb 4, 2014
 Slug: marcianas-struggle
-Summary: Marciana's husband died a long time ago, leaving her with 5
-children to care for alone. Even though she is 64 now, and most of
-her...
+Summary: Marciana's husband died a long time ago, leaving her with 5 children to care for alone. Even though she is 64 now, and most of her...
 
 ![image](images/blog/marcianas-struggle1.webp)
 

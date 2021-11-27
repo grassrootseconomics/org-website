@@ -2,9 +2,7 @@ Title: Bangla-Pesa Survey Results February 2014
 Author: Morgan Richards
 Date: Feb 14, 2014
 Slug: bangla-pesa-survey
-Summary: Bangla-Pesa Follow-up Survey - February 2014 Results Two months
-since our re-launch in late November. Bangla-Pesa
-Re-IntroducedResilience...
+Summary: Bangla-Pesa Follow-up Survey - February 2014 Results Two months since our re-launch in late November. Bangla-Pesa Re-Introduced Resilience...
 
 Bangla-Pesa Follow-up Survey - February 2014 Results Two months since
 our re-launch in late November. Bangla-Pesa Re-IntroducedResilience and

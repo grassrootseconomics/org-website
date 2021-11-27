@@ -2,9 +2,7 @@ Title: School Fees with Bangla-Pesa
 Author: Will Ruddick
 Date: Jul 16, 2014
 Slug: school-fees
-Summary: July has seen the Bangla-Pesa program surpass 200 accepting
-businesses and the introduction of three primary schools into
-the...
+Summary: July has seen the Bangla-Pesa program surpass 200 accepting businesses and the introduction of three primary schools into the...
 
 July has seen the Bangla-Pesa program surpass 200 accepting businesses
 and the introduction of three primary schools into the mutual-credit

@@ -2,13 +2,8 @@ Title: The Emperor Has No Clothes
 Author: Will Ruddick
 Date: Sep 1 2021
 Slug: the-emperor-has
-Summary: A middle path toward salvaging credit money from the ruin of
-politicians and downright bad actors without creating commodity
-whales.
-
-tags
-
-: commodity, credit, monopoly, community
+Summary: A middle path toward salvaging credit money from the ruin of politicians and downright bad actors without creating commodity whales.
+Tags: commodity, credit, monopoly, community
 
 ![image](images/blog/the-emperor-has1.webp)
 

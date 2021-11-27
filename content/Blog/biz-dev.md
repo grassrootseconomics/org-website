@@ -2,9 +2,7 @@ Title: Biz Dev - Inspired
 Author: Steve Okuku
 Date: Sep 17, 2017
 Slug: biz-dev
-Summary: Business development using community currency Being a business
-development coordinator whose main objective is to see communities'
-assets...
+Summary: Business development using community currency Being a business development coordinator whose main objective is to see communities' assets...
 
 ![image](images/blog/biz-dev1.webp)
 

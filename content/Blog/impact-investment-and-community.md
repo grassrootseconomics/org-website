@@ -1,17 +1,10 @@
 Title: Impact Investment and Community Currencies
 Author: Will Ruddick
 Date: Sept 17 2021
-
-modified
-
-: Sept 22 2021
+Modified: Sept 22 2021
 Slug: impact-investment-and-community
-Summary: Enable social enterprises and communities to issue credit against
-their production as an impact investment opportunity
-
-tags
-
-: impact investment ,social enterprise
+Summary: Enable social enterprises and communities to issue credit against their production as an impact investment opportunity
+Tags: impact investment ,social enterprise
 
 Communities creating their own medium of exchange has began to enter the
 humanitarian space yet impact investors especially in the cryptocurrency

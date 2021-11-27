@@ -2,9 +2,7 @@ Title: Sarafu Network Kenya Mid-Year CIC Update
 Author: Will Ruddick
 Date: Aug 7, 2020
 Slug: sarafu-network
-Summary: We've reached nearly 90Million worth (~900,000 USD) of Community
-Inclusion Currency trading between 30,0000 users in Kenya for basic
-needs.
+Summary: We've reached nearly 90Million worth (~900,000 USD) of Community Inclusion Currency trading between 30,0000 users in Kenya for basic needs.
 
 This year started off intense then became insane starting in April and
 through it all the Grassroots Economics team, community groups and

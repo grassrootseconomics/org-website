@@ -2,9 +2,7 @@ Title: Disrupting Currencies
 Author: Lynda Chalker
 Date: Oct 3, 2018
 Slug: disrupting-currencies
-Summary: Grassroots Economics Foundation has been at the forefront of
-empowering bottom-of-the-pyramid communities in Kenya by use of
-Sarafu...
+Summary: Grassroots Economics Foundation has been at the forefront of empowering bottom-of-the-pyramid communities in Kenya by use of Sarafu...
 
 Grassroots Economics Foundation has been at the forefront of empowering
 bottom-of-the-pyramid communities in Kenya by use of Sarafu Network; a

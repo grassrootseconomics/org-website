@@ -2,9 +2,7 @@ Title: Skylife School and Community Currency
 Author: Daniel Mukosia
 Date: Oct 10, 2017
 Slug: skylife-school
-Summary: Grassroots Economics works with communities across Kenya to develop
-systems that allow parents to pay for their children's
-education...
+Summary: Grassroots Economics works with communities across Kenya to develop systems that allow parents to pay for their children's education...
 
 ![image](images/blog/skylife-school1.webp)
 

@@ -2,12 +2,8 @@ Title: PAY IT FORWARD
 Author: Marco Bonfanti
 Date: 11 Aug 2021
 Slug: pay-it-forward
-
-tags
-
-: syntropic, agroforestry
-Summary: Community Inclusion Currencies are an important step in the
-transition towards the re-appropriation of the value of a bond
+Tags: syntropic, agroforestry
+Summary: Community Inclusion Currencies are an important step in the transition towards the re-appropriation of the value of a bond
 
 ![image](images/blog/pay-it-forward1.webp)
 

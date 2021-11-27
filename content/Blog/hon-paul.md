@@ -2,9 +2,7 @@ Title: Hon. Paul Simba Arati MP Dagoretti - North
 Author: Will Ruddick
 Date: Aug 29, 2014
 Slug: hon-paul
-Summary: Nairobi's Dagoretti North MP. Hon. Paul Simba Arati will be
-attending the launch of Gatina-Pesa in October. Besides support from
-local...
+Summary: Nairobi's Dagoretti North MP. Hon. Paul Simba Arati will be attending the launch of Gatina-Pesa in October. Besides support from local...
 
 Nairobi's Dagoretti North MP. Hon. Paul Simba Arati will be attending
 the launch of Gatina-Pesa in October. Besides support from local chiefs,

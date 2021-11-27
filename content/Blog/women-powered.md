@@ -2,8 +2,7 @@ Title: Women Powered Currencies
 Author: Ruth Njau &amp; Antony Ngoka &amp; Will Ruddick
 Date: Mar 7, 2019
 Slug: women-powered
-Summary: It is Women who make up as much as 90% of these networks and are the
-foundation of the real economy. Enjoy reading about people...
+Summary: It is Women who make up as much as 90% of these networks and are the foundation of the real economy. Enjoy reading about people...
 
 _It is Women who make up as much as 90% of these networks and are the
 foundation of the real economy. Enjoy reading about people supporting

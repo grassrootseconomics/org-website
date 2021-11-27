@@ -2,12 +2,8 @@ Title: Red Cross brings Community Currency to Kisauni
 Author: Will Ruddick
 Date: Apr 25 2021
 Slug: red-cross
-Summary: The results of an introduction to community currency have changed
-economies and lives.
-
-tags
-
-: Red Cross,Kisauni,covid
+Summary: The results of an introduction to community currency have changed economies and lives.
+Tags: Red Cross,Kisauni,covid
 
 Below are a compilation of Community Inclusion Currency (CIC) user
 stories from Grassroots Economics Field Support Engineers (_Emmanuel

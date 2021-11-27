@@ -2,8 +2,7 @@ Title: Bangla Committee Meeting
 Author: Will Ruddick
 Date: Mar 16, 2013
 Slug: bangla-committee
-Summary: Koru Kenya is working to capacity build the the Bangladesh Business
-Network (BBN) to create it's own complementary currency. The...
+Summary: Koru Kenya is working to capacity build the the Bangladesh Business Network (BBN) to create it's own complementary currency. The...
 
 Koru Kenya is working to capacity build the the Bangladesh Business
 Network (BBN) to create it's own complementary currency. The committee

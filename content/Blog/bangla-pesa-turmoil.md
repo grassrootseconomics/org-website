@@ -2,8 +2,7 @@ Title: Bangla-Pesa Turmoil
 Author: Will Ruddick
 Date: Jun 3, 2013
 Slug: bangla-pesa-turmoil
-Summary: The Bangla-Pesa, a complementary currency created and backed by a
-local business network, offers a glimpse of true sustainable...
+Summary: The Bangla-Pesa, a complementary currency created and backed by a local business network, offers a glimpse of true sustainable...
 
 The Bangla-Pesa, a complementary currency created and backed by a local
 business network, offers a glimpse of true sustainable development.

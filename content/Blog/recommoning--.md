@@ -2,8 +2,7 @@ Title: ReCommoning - Chama Cycles for Governance & Debt Reboot
 Author: Will Ruddick
 Date: Jul 25, 2020
 Slug: recommoning--
-Summary: We are learning together about this absolutely virtuous cycle of
-ReCommoning.
+Summary: We are learning together about this absolutely virtuous cycle of ReCommoning.
 
 ![image](images/blog/recommoning--1.webp)
 
@@ -118,6 +117,6 @@ connect community currencies? _ What other reserves or baskets of
 reserves could communites hold for their CICs? _These are a few of the
 many questions we are trying to find out together. Join us._
 
-Contact us: info(@)grassecon.org
+Contact us: info@grassecon.org
 
 Or visit us on Telegram: <https://t.me/CICBlockchain>

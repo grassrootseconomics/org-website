@@ -2,12 +2,9 @@ Title: Kakuma Refugee Testimonial
 Author: Amina Godana and Janet Akinyi Otieno
 Date: Mar 28 2021
 Slug: kakuma-refugee
-Summary: Nyota explains below how after living in the refugee camp for 10
-years, Sarafu has helped her to maintain trade with her community
-and grow
+Summary: Nyota explains below how after living in the refugee camp for 10 years, Sarafu has helped her to maintain trade with her community and grow
 
-After [hearing about
-Sarafu](https://www.grassrootseconomics.org/post/refugee-economics-in-kakuma-kenya)
+After [hearing about Sarafu](https://www.grassrootseconomics.org/post/refugee-economics-in-kakuma-kenya)
 local leaders of a small community group started building a support
 network in their community. Nyota explains below how after living in the
 refugee camp for 10 years, Sarafu has helped her to maintain trade with
@@ -15,12 +12,10 @@ her community and grow their collective farming even when there are no
 shillings available.
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/9F71cGmPfbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-|
 
 ![image](images/blog/kakuma-refugee1.webp)
 
-Here the [FHE group in
-Kakuma](https://www.grassrootseconomics.org/post/refugee-economics-in-kakuma-kenya)
+Here the [FHE group in Kakuma](https://www.grassrootseconomics.org/post/refugee-economics-in-kakuma-kenya)
 are meeting to talk about community farming and community inclusion
 currencies which they learned more about after a trip to Siaya Kenya..
 

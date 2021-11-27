@@ -2,9 +2,7 @@ Title: University of Nairobi Research Visit
 Author: Muthoni Kiguru
 Date: Jul 31, 2014
 Slug: university-of
-Summary: "...I no longer sleep hungry. Even without the Kenyan money, I still
-have Bangla Pesa. I will survive one more day. This money never
-ends..."...
+Summary: "...I no longer sleep hungry. Even without the Kenyan money, I still have Bangla Pesa. I will survive one more day. This money never ends..."...
 
 "...I no longer sleep hungry. Even without the Kenyan money, I still
 have Bangla Pesa. I will survive one more day. This money never ends..."

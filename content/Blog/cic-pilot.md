@@ -2,9 +2,7 @@ Title: CIC Pilot Impacts and Plans
 Author: Will Ruddick
 Date: Mar 1, 2020
 Slug: cic-pilot
-Summary: In the last 30 days we have had 3015 users making at least 1 trade.
-For a volume of 2,336,655 Tokens (~23k USD equivalent of goods
-and...
+Summary: In the last 30 days we have had 3015 users making at least 1 trade. For a volume of 2,336,655 Tokens (~23k USD equivalent of goods and...
 
 ![image](images/blog/cic-pilot1.webp)
 

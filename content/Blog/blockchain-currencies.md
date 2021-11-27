@@ -2,8 +2,7 @@ Title: Blockchain Currencies Fighting COVID-19 - Mukuru, Kenya
 Author: Antony Ngoka
 Date: Mar 20, 2020
 Slug: blockchain-currencies
-Summary: Giving people a medium of exchange can save lives. With blockchain
-based Community Inclusion Currencies communities can support...
+Summary: Giving people a medium of exchange can save lives. With blockchain based Community Inclusion Currencies communities can support...
 
 ![image](images/blog/blockchain-currencies1.webp)
 
