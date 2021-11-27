@@ -1,0 +1,33 @@
+/*.container{*/
+/*    font-family: 'Open Sans Condensed', sans-serif;*/
+/*}*/
+
+.container-terms{
+    width: 50%;
+}
+.terms-center{
+    text-align: center;
+}
+.bold-terms{
+    font-weight: bold;
+}
+.subt{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.the-terms{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+@media only screen and (max-width: 480px){
+    .container-terms{
+        width: 100%;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1024px){
+    .container-terms{
+        width: 80%;
+    }
+
+}

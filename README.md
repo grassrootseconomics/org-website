@@ -16,7 +16,7 @@ A static website built with pelican.
 
 * Create Your own branch off the master branch
 
-`git checkout -b <name_of_your_branch> master`
+`git checkout -b <name_of_your_branch> origin/master`
 
 * Create a virtual environment and install requirements
 
