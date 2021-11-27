@@ -1,0 +1,232 @@
+.box-wrap{
+    box-sizing: border-box;
+    margin: auto;
+    border-style: solid;
+    border-color: #ffffff;
+    max-height: 900px;
+    max-width: 400px;
+}
+.box-title{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+    font-size: 40px;
+}
+.box-title1{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 80px;
+    font-size: 40px;
+}
+.box-words{
+    padding-top: 20px;
+    text-align: center;
+}
+.box-words1{
+    padding-top: 40px;
+}
+.inline-buttons{
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*flex-wrap: wrap;*/
+}
+.a-button{
+    background: #ffffff;
+    border: 1px solid black;
+    color: black;
+    padding: 0.5em;
+    /*padding: 12px 6px;*/
+    text-decoration: none;
+    width: 150px;
+    border-radius: 25px;
+}
+.a-button:hover{
+    background-color: #3E3F45;
+    color: #b3e6ff;
+}
+.wrapper-carousel{
+    box-sizing: border-box;
+    margin: auto;
+    border: solid 2px #ffffff;
+    max-height: 600px;
+    max-width: 500px;
+}
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+
+}
+.carousel-indicators{
+    bottom: -50px;
+    /*padding-top: 50px;*/
+}
+.iframe-container{
+   position: relative;
+   width: 100%;
+   padding-bottom: 56.25%;
+   height: 0;
+}
+.iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.font-big{
+    font-size: 30px;
+}
+.leaf-style{
+    background-color: #ffffff;
+}
+.img-wrap{
+    text-align: center;
+    padding-bottom: 10px;
+    background-color: #ffffff;
+}
+.carousel-inner{
+   margin-bottom: 100px;
+}
+.row-carousel{
+    margin-left: 100px;
+    margin-right: 100px;
+    /*margin-right: 60px;*/
+}
+.rounded-img{
+    border-radius: 5px;
+    border: 1px solid #a3a3c2;
+    padding: 3px;
+}
+.pad-bott{
+    padding-bottom: 20px;
+}
+.pesa-items{
+    padding-top: 150px;
+}
+.pesa {
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.cert-link{
+    text-decoration: none;
+}
+.line-between{
+    padding-top: 10px;
+    /*padding-bottom: 10px;*/
+    width: 50px;
+    border-bottom: 2px solid black;
+}
+.carousel-titles{
+    font-weight: bold;
+    padding-top: 10px;
+}
+/*.mx-6{*/
+/*    margin-left: 20rem !important;*/
+/*    margin-right: 20rem  !important;*/
+/*}*/
+.grid-color-wrap{
+    background-color: #EFF0F0;
+}
+.grid-wrapper{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.first-row{
+    padding-top: 50px;
+}
+.meet-title{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.meet-title h2{
+    font-weight: bold;
+}
+.big-line-between{
+    padding-top: 10px;
+    /*padding-bottom: 20px;*/
+    width: 50px;
+    border-bottom: 4px solid black;
+    margin: auto;
+}
+.circle-img{
+    padding-top: 10px;
+    border-radius: 50%;
+}
+.grid-img-text{
+    padding-top: 20px;
+    /*padding-left: 40px;*/
+}
+.name{
+    font-size: 20px;
+}
+.read-more{
+    color: black;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+}
+.read-more:hover{
+    color: black;
+}
+.sponsors-wrapper{
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-top: 40px;
+}
+.sponsor-imgs{
+    gap: 50px;
+}
+.sponsor-text{
+    font-size: 40px;
+}
+.special-title{
+    font-weight: bold;
+    padding-top: 40px;
+}
+.small-text{
+    font-size: 15px;
+}
+.last-line{
+    color: #A1A1A1;
+}
+@media only screen and (max-width: 480px){
+    .grid-wrapper{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .sponsors-wrapper{
+    margin-right: 10px;
+    margin-left: 10px;
+    }
+    .box-title1{
+        padding-top: 20px;
+    }
+    .pesa-items{
+        padding-top: 20px;
+    }
+
+}
+
+@media (min-width: 600px) and (max-width: 1024px){
+    .grid-wrapper{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .sponsors-wrapper{
+    margin-right: 10px;
+    margin-left: 10px;
+    }
+    .box-title1{
+        padding-top: 20px;
+    }
+    .pesa-items{
+        padding-top: 20px;
+    }
+
+}
