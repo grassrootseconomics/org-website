@@ -3,6 +3,7 @@
 {% block head %}
 {{ super() }}
 <link rel="stylesheet" type="text/css" href="{{SITEURL}}/theme/css/contactpage.css">
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 {% endblock %}
 
 {% block content %}
@@ -21,6 +22,7 @@
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
             <form class="pt-5" action="https://getform.io/f/a6936429-16b0-403b-b368-f2303e4dfef3" method="post">
+
                 <div class="mb-3">
                     <label for="email" class="form-label">Email address</label>
                     <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" required>
@@ -38,6 +40,7 @@
                     <label for="exampleFormControlTextarea1" class="form-label">Message</label>
                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" name="message" required></textarea>
                 </div>
+                <div class="g-recaptcha pb-3" data-sitekey="6Lc8T2odAAAAAIp2gSwZSsnwo77C8uPYKd6A3uD7"></div>
                 <button type="submit" class="btn btn-custom btn-block">Send us a message!</button>
             </form>
         </div>
