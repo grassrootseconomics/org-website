@@ -4,6 +4,9 @@
 .contact-center{
     text-align: center;
 }
+.contact-padding{
+    padding-top: 100px;
+}
 .contact-link{
     color: black;
     text-decoration-line: underline;
@@ -26,10 +29,16 @@
 .btn-custom:hover{
     color: white;
 }
+/*.back-color{*/
+/*    background-color: #D2F4FF;*/
+/*}*/
 
 @media only screen and (max-width: 480px){
     .container-contact{
         width: 100%
+    }
+    .contact-padding{
+        padding-top: 30px;
     }
 
 }
