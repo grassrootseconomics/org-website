@@ -40,14 +40,16 @@ MENUITEMS = (
     ('About Us', '/pages/about-us.html'),
     ('Sarafu Network', '/pages/sarafu-network.html'),
     ('How It Works', '/pages/how-it-works.html'),
+    ('Docs', 'https://docs.grassecon.org'),
     ('Blog', '/category/blog.html'),
     ('Food Forests', '/pages/food-forests.html'),
     ('Research', '/pages/research.html'),
     ('Get Involved', '/pages/get-involved.html'),
     ('Media', '/pages/media.html'),
     ('Dashboard', '/pages/dashboard.html'),
-    ('Contact us', '/pages/contact-us.html'),
-    ('MOOC', '/pages/mooc.html')
+    ('MOOC', '/pages/mooc.html'),
+    ('Contact us', '/pages/contact-us.html')
+
 
 )
 
