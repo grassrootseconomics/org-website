@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="47620737-7e85-46a4-af29-17b3e9d0e807" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Blog/from-mustard.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/from-mustard.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Blog/taxation-community.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/taxation-community.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ge-theme/static/css/contactpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/static/css/contactpage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ge-theme/templates/contactpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/contactpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ge-theme/templates/terms-and-conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/terms-and-conditions.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +27,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,6 +42,8 @@
       <option name="presentableId" value="Default" />
       <updated>1638251306722</updated>
       <workItem from="1638251309584" duration="1547000" />
+      <workItem from="1638430686360" duration="3647000" />
+      <workItem from="1638771920593" duration="4181000" />
     </task>
     <servers />
   </component>
