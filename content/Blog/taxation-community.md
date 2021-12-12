@@ -89,7 +89,7 @@ automated demurrage it could pay for roads, schools, health services and
 even basic income to support those in need.**
 
 For policy makers wanting to understand more [contact
-us](http://grassrootseconomics.org/contact-us).
+us](https://www.grassrootseconomics.org/pages/contact-us.html).
 
 For developers - wanting to see a blockchain implementation of
 [demurrage please check out our ERC20 contracts
