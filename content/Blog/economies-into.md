@@ -66,10 +66,3 @@ platform](http://github.com/teamsempo) platform and could be available
 via Red Cross worldwide in the next few years. This means a lot for
 humanitarian aid, for poverty and for humanity.
 
-[#RedCross](https://www.grassrootseconomics.org/blog/hashtags/RedCross)
-[#Sempo](https://www.grassrootseconomics.org/blog/hashtags/Sempo)
-[#CICs](https://www.grassrootseconomics.org/blog/hashtags/CICs)
-[#HimanitarianAid](https://www.grassrootseconomics.org/blog/hashtags/HimanitarianAid)
-[#Kenya](https://www.grassrootseconomics.org/blog/hashtags/Kenya)
-[#Economies](https://www.grassrootseconomics.org/blog/hashtags/Economies)
-[#Ecosystems](https://www.grassrootseconomics.org/blog/hashtags/Ecosystems)

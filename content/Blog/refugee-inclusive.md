@@ -73,6 +73,5 @@ food security and other needs. The Miyani FDP (Food Distribution Point).
 to do Cash For Work is the only one remaining in the entire county still
 doing their communal activities due.**
 
-[#refugee](https://www.grassrootseconomics.org/blog/hashtags/refugee)
-[#redcross](https://www.grassrootseconomics.org/blog/hashtags/redcross)
-[#refugeecrisis](https://www.grassrootseconomics.org/blog/hashtags/refugeecrisis)
+
+

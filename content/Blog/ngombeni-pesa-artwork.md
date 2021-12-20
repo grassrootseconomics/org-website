@@ -27,4 +27,4 @@ community currency ties them all together to improve livelihoods.
 
 ![image](images/blog/ngombeni-pesa-artwork41.webp)
 
-[#ngombeni](https://www.grassrootseconomics.org/blog/hashtags/ngombeni)
+

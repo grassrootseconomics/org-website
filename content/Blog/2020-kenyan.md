@@ -40,7 +40,7 @@ token called Sarafu as a stop-gap while we continued technology
 development.
 
 Due to [COVID and Red Cross
-involvement](https://www.grassrootseconomics.org/post/covid-19-cic-response-500x)
+involvement](https://www.grassrootseconomics.org/cic-covid-19.html)
 the usage of Sarafu bloomed from around 1,000 users to reach over 41,700
 users and 263 Million Sarafu (roughly 2.5 Million USD equivalent) have
 traded hands in over 335,000 transactions between users with feature
@@ -52,9 +52,9 @@ currency. In 2021 communities will be creating again their own CICs and
 can choose to use Sarafu as a way to connect their CICs to others. Note
 that Sarafu and CIC circulation data is anonymous and used to target
 humanitarian support such as cash transfer programs. Read more about
-[Sarafu Network](https://www.grassrootseconomics.org/sarafu-network) and
+[Sarafu Network](https://www.grassrootseconomics.org/pages/sarafu-network.html) and
 check out the [data dashboard](https://dashboard.sarafu.network/) and
-research [here](https://www.grassrootseconomics.org/research).
+research [here](https://www.grassrootseconomics.org/pages/research.html).
 
 ![image](images/blog/2020-kenyan88.webp)
 

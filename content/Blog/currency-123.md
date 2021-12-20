@@ -183,7 +183,7 @@ blockchain gives a lot of insight to a CIC backing, volatility and
 uptake. Check out <https://dashboard.sarafu.network> for an overview of
 a CIC being used in Kenya right now by the Red Cross to support
 thousands in vulnerable communities and build resilient economies. See
-our [white paper](http://grassecon.org/whitepaper) as well as the open
+our white paper as well as the open
 source Bancor smart [contract
 suite](https://docs.bancor.network/network-architecture/ethereum) we are
 using.

@@ -39,7 +39,7 @@ neighboring villages!
 ![image](images/blog/red-cross67.webp)
 
 Today there are over [2000
-users](http://www.grassrootseconomics.org/single-post/Looking-Back-at-40000-Blockchain-Transactions)
+users](https://www.grassrootseconomics.org/looking-back.html)
 in the Kinango area using community currencies to trade with eachother
 for their basic needs. Users like Kwekwe (see photo), who runs her
 family business selling chapatis and the okra that her husband grows on

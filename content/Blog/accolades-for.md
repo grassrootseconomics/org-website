@@ -65,5 +65,4 @@ usable within the network. With over 1000 businesses in these networks,
 these credits enable a vast amount of underutilized trade to take place
 by allowing people to back a credit with their goods and services.
 
-[#sarafu](https://www.grassrootseconomics.org/blog/hashtags/sarafu)
-[#obama](https://www.grassrootseconomics.org/blog/hashtags/obama)
+

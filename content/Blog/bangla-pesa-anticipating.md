@@ -11,7 +11,7 @@ On May 29th 2013 we were arrested and charged with forgery. On August
 acquittal, the Central Bank of Kenya's Currency Department had finally
 made contact with us to ask us for information about the program (which
 they received). After nearly two months of misplaced court files, this
-last week of October we were finally given an [official copy](http://grassrootseconomics.org/sites/koru.or.ke/files/field/image/Bangla-Pesa-Court-Ruling_scan-800.jpg)
+last week of October we were finally given an official copy
 of the court order to drop the case against us. Receiving this court
 order signifies the end to prosecution and continuing the program under
 the guidance, if any, from local authorities and the Central Bank.

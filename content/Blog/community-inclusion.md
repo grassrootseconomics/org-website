@@ -59,6 +59,4 @@ system in 2021.
 
 ![image](images/blog/community-inclusion121.webp)
 
-[#opensource](https://www.grassrootseconomics.org/blog/hashtags/opensource)
-[#RedCross](https://www.grassrootseconomics.org/blog/hashtags/RedCross)
-[#CIC](https://www.grassrootseconomics.org/blog/hashtags/CIC)
+

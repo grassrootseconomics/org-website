@@ -5,7 +5,7 @@ Slug: bangla-pesa-charges
 Summary: THE CASE IS OVER! Today the Director of Public Prosecutions announced that all charges against Bangla-Pesa are hereby dropped! This is a...
 
 THE CASE IS OVER! Today the Director of Public Prosecutions
-[announced](http://grassrootseconomics.org/files/Bangla-Pesa-DPP-statement-1024.jpg)
+announced
 that all charges against Bangla-Pesa are hereby dropped! This is a huge
 success for Bangladesh and for poverty reduction programs in Kenya. We
 are incredibly grateful for the huge amount of support in Kenya and
@@ -39,19 +39,3 @@ gives those living in dire conditions the ability to create their own
 means of exchange and stabilize their own economy.
 
 ![image](images/blog/bangla-pesa-charges64.webp)
-
-[Watch News coverage on
-YouTube](http://www.youtube.com/watch?v=J_agUT3PvNI&list=PLPUExzwZAUpZgrTqH55aAV2tjlohT_qlD&index=6)
-
-[Read in English
-News](http://www.businessdailyafrica.com/Opinion+and+Analysis/Move+on+Bangla+Pesa+unwise/-/539548/1968688/-/71gdv1/-/index.html)
-
-[Read in Swahili
-News](http://www.swahilihub.com/habari/HABARI+ZA+MAHAKAMANI/-/1333066/1965446/-/p2stju/-/index.html)
-
-[Read the letter from the
-DPP.](http://grassrootseconomics.org/files/Bangla-Pesa-DPP-statement-1024.jpg)
-
-[#complementary
-currencies](https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies)
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)

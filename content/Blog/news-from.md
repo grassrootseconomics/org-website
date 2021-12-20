@@ -11,6 +11,3 @@ is a wonderful blog that details some things happening there.
 <http://www.reconomy.org/community-currencies-in-brazil-interview/> The
 team hopes to be going there in October, sharing and bringing back a lot
 of new ideas!
-
-[#brazil](https://www.grassrootseconomics.org/blog/hashtags/brazil)
-[#communitycurrencies](https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies)

@@ -38,9 +38,7 @@ The Agenda included:
 - Welcome and introductions
 - Warm-ups.
 - Brief Introduction to the program.
-- Reading of an information sheet. ([Here in swahili
-  .pdf](http://grassrootseconomics.org/sites/koru.or.ke/files/BBN-meeting-flyer-swahili.pdf)
-  )
+- Reading of an information sheet.
 - Discussing design of vouchers.
 - Open for initial thoughts and questions.
 
@@ -85,5 +83,3 @@ the following functions:
 - Security printing of the vouchers for businesses will take place in
   March 2013, and distributed publicly at the Launch event.
 
-[#complementarycurrencies](https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies)
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)

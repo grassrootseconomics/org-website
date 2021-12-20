@@ -25,6 +25,3 @@ Dancing.Chief of Police (OCS) that once arrested us - now endorsing the
 Bangla-Pesa.Registration for the program will being afresh next week.
 Thanks for everyone's help making this event happen!
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
-[#relaunch](https://www.grassrootseconomics.org/blog/hashtags/relaunch)
-[#complementarycurrencies](https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies)

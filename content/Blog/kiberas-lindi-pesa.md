@@ -54,5 +54,3 @@ living in Nairobi.
 Many thanks to our partners Nyendo-lernen, Lush Cosmetics and DOEN for
 making this a reality.
 
-[#kibera](https://www.grassrootseconomics.org/blog/hashtags/kibera)
-[#nairobi](https://www.grassrootseconomics.org/blog/hashtags/nairobi)

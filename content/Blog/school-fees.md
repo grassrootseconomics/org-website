@@ -31,5 +31,4 @@ more.
 
 ![image](images/blog/school-fees1.webp)
 
-[#schoolfees](https://www.grassrootseconomics.org/blog/hashtags/schoolfees)
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
+
