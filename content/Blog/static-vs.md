@@ -81,7 +81,7 @@ exchangeable 1:1 with each other. This is appealing because it creates a
 well defined common pool of tokens connected through a network token.
 This method combines the concept of a UBI with a credit system -
 described briefly
-[here](https://www.grassrootseconomics.org/post/dex-multitudes).
+here.
 
 Also note that both types of pools could be used to connect a CIC with
 some other non-CIC token (like Eth or DAI) who's value might be

@@ -70,8 +70,4 @@ you'd like to get involved reach out to us. Here's to the next 40,000
 
 - 80,000 - 100,000!
 
-[#quarterlyupdate](https://www.grassrootseconomics.org/blog/hashtags/quarterlyupdate)
-[#blockchain](https://www.grassrootseconomics.org/blog/hashtags/blockchain)
-[#transactions](https://www.grassrootseconomics.org/blog/hashtags/transactions)
-[#Kenya](https://www.grassrootseconomics.org/blog/hashtags/Kenya)
-[#impacts](https://www.grassrootseconomics.org/blog/hashtags/impacts)
+

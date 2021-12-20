@@ -20,6 +20,4 @@ Nyendo-lernen as well as the Cheimgauer in Germany the Gatina-Pesa have
 been printed and are on their way to Kenya. Hopes are high and there is
 a strong commitment to seeing this program take off.
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
-[#gatina](https://www.grassrootseconomics.org/blog/hashtags/gatina)
-[#nairobi](https://www.grassrootseconomics.org/blog/hashtags/nairobi)
+

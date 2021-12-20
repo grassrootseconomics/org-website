@@ -22,7 +22,4 @@ schools in the area. Students from these schools are working on drawing
 four themes that will be on the community currency, Community,
 Environment, Education and Economy.
 
-[#nairobi](https://www.grassrootseconomics.org/blog/hashtags/nairobi)
-[#kawangware](https://www.grassrootseconomics.org/blog/hashtags/kawangware)
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
-[#gatina](https://www.grassrootseconomics.org/blog/hashtags/gatina)
+

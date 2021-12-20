@@ -38,7 +38,7 @@ USD (DAI) going into reserve (which creates ~4x (leverage to) the
 number of CIC tokens to reserve based on risk/ size of reserve) -- then
 cashing out from that (burning CICs) and adding back to it (minting
 CICs). See equations here:
-<https://www.grassrootseconomics.org/single-post/Enabling-Leverage>
+<https://www.grassrootseconomics.org/enabling-leverage.html>
 
 - Near Target → Trade / Cost = (~23k usd) / (~1.1k USD Cashed our
   minus cashed in) is about 20x impact.
@@ -84,7 +84,3 @@ participatory budgeting).
 Trade data can now be found here: <http://grassecon.org/research> Please
 bear with us. We are working on a new dashboard and faster live updates!
 
-[#pilot](https://www.grassrootseconomics.org/blog/hashtags/pilot)
-[#reserve](https://www.grassrootseconomics.org/blog/hashtags/reserve)
-[#donation](https://www.grassrootseconomics.org/blog/hashtags/donation)
-[#impact](https://www.grassrootseconomics.org/blog/hashtags/impact)

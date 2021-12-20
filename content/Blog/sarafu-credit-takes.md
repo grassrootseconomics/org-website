@@ -25,5 +25,3 @@ are excited to have a source of local produce. We've just installed a
 rain water catchment system which will help in providing a more
 continuous water supply.
 
-[#permaculture](https://www.grassrootseconomics.org/blog/hashtags/permaculture)
-[#communitycurrencies](https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies)

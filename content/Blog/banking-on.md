@@ -56,11 +56,4 @@ We're so appreciative of CRS for bringing this to Kenya and really
 excited to see how these groups take Community Currencies as a tool in
 their already thriving kit.
 
-[#Catholicreliefservices](https://www.grassrootseconomics.org/blog/hashtags/Catholicreliefservices)
-[#CRS](https://www.grassrootseconomics.org/blog/hashtags/CRS)
-[#SILC](https://www.grassrootseconomics.org/blog/hashtags/SILC)
-[#banking](https://www.grassrootseconomics.org/blog/hashtags/banking)
-[#lending](https://www.grassrootseconomics.org/blog/hashtags/lending)
-[#savings](https://www.grassrootseconomics.org/blog/hashtags/savings)
-[#credit](https://www.grassrootseconomics.org/blog/hashtags/credit)
-[#leverage](https://www.grassrootseconomics.org/blog/hashtags/leverage)
+

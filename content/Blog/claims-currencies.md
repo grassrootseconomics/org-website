@@ -95,7 +95,7 @@ collateral. Finally, as someone looking to accept these tokens, I could
 look at the claim they are issued against as well as the entire supply
 and circulation history of those tokens on a ledger -- as a form of peer
 to peer endorsement. These tokens could also be held in [liquidity
-pools](https://www.grassrootseconomics.org/post/static-vs-bonded-liquidity-pools-for-cics)
+pools](https://www.grassrootseconomics.org/static-vs.html)
 connecting them to other tokens and claims, meaning that even if the
 token issuer fails to redeem them there are other avenues for spending
 the tokens. We can even look at how these tokens circulate to get a lot
@@ -150,7 +150,7 @@ investors to seek out verified impacts. The same could also give people
 positive incentives for running servers (nodes) in order to validate
 data in order to mine impact rewards.
 
-> [UNICEF](https://www.unicefinnovationfund.org/portfolio?theme=blockchain) > [SDGs](https://www.grassrootseconomics.org/post/cic-indices-for-sdgs)
+> [UNICEF](https://www.unicefinnovationfund.org/portfolio?theme=blockchain) > [SDGs](https://www.grassrootseconomics.org/cic-indices.html)
 
 While Grassroots Economics is working to implement these concepts, the
 creation of open source frameworks and protocols for claim endorsement

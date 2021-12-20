@@ -206,7 +206,4 @@ really needs reserve (dollars), they can get them (at a small premium
 which they can afford). All the equations and graphs here can be found
 on [GitHub here.](http://github.com/GrassrootsEconomics/CIC-Docs).
 
-[#investment](https://www.grassrootseconomics.org/blog/hashtags/investment)
-[#modeling](https://www.grassrootseconomics.org/blog/hashtags/modeling)
-[#bondingcurves](https://www.grassrootseconomics.org/blog/hashtags/bondingcurves)
-[#CIC](https://www.grassrootseconomics.org/blog/hashtags/CIC)
+

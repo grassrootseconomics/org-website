@@ -9,9 +9,9 @@ Financing...
 ![image](images/blog/municipal-bonds1.webp)
 
 A Concept Paper based on observations during the FMDV inspired
-conference: [Conference Resolutions Africa / Marrakesh 2014: Financing
+conference: Conference Resolutions Africa / Marrakesh 2014: Financing
 African Cities: agenda, alliances and
-solutions](http://resolutionstofundcities.org/en/resolutionsafrica/marrakesh-2014)
+solutions
 
 Why is this interesting?
 
@@ -170,6 +170,3 @@ CC. With the incentive for the Network being that community service is
 taken care of in CC and the Municipality must also accept enough CC
 (through taxes or other purchases) to pay back the loan in CC.
 
-[#municipalbonds](https://www.grassrootseconomics.org/blog/hashtags/municipalbonds)
-[#bonds](https://www.grassrootseconomics.org/blog/hashtags/bonds)
-[#communitycurrencies](https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies)

@@ -4,7 +4,7 @@ Date: Mar 28 2021
 Slug: kakuma-refugee
 Summary: Nyota explains below how after living in the refugee camp for 10 years, Sarafu has helped her to maintain trade with her community and grow
 
-After [hearing about Sarafu](https://www.grassrootseconomics.org/post/refugee-economics-in-kakuma-kenya)
+After [hearing about Sarafu](https://www.grassrootseconomics.org/refugee-economics.html)
 local leaders of a small community group started building a support
 network in their community. Nyota explains below how after living in the
 refugee camp for 10 years, Sarafu has helped her to maintain trade with

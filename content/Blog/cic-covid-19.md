@@ -100,9 +100,3 @@ would normally have been the hardest month of the year.
 **Frequently asked Questions can be found**
 [here](http://docs.google.com/document/d/1FUPAM1dRY9TFP0c-LAh3WRP4NiBtDGBSlDF3GzFjRe0/edit?usp=sharing)
 
-[#covid18](https://www.grassrootseconomics.org/blog/hashtags/covid18)
-[#corona](https://www.grassrootseconomics.org/blog/hashtags/corona)
-[#virus](https://www.grassrootseconomics.org/blog/hashtags/virus)
-[#cashaid](https://www.grassrootseconomics.org/blog/hashtags/cashaid)
-[#aid](https://www.grassrootseconomics.org/blog/hashtags/aid)
-[#Kenya](https://www.grassrootseconomics.org/blog/hashtags/Kenya)

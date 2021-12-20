@@ -123,8 +123,3 @@ We need all manner of volunteers, programmers, community managers, tech support,
 
 **Here is to a wonderful 2019!**
 
-[#proofofimpact](https://www.grassrootseconomics.org/blog/hashtags/proofofimpact)
-[#blockchain](https://www.grassrootseconomics.org/blog/hashtags/blockchain)
-[#communitycurrency](https://www.grassrootseconomics.org/blog/hashtags/communitycurrency)
-[#donate](https://www.grassrootseconomics.org/blog/hashtags/donate)
-[#volunteer](https://www.grassrootseconomics.org/blog/hashtags/volunteer)
