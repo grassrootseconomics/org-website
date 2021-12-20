@@ -56,7 +56,7 @@ exponentially.
 On a weekly basis we can test this out on the current Kenyan trading
 data by asking are the users with a higher pTNACC actually important
 nodes in the network? It would seem so. Looking at the current data
-<http://grassecon.org/research>-- users would be in the 90th percentile
+<https://www.grassrootseconomics.org/pages/research.html> -- users would be in the 90th percentile
 
 - highest ranking pTNACC scores end up being key nodes hubs or chamas
   (groups) in the [Sarafu trading
@@ -202,7 +202,7 @@ custodial systems - non custodial systems can have a lot more freedom..
 
 All these concept and conjectures could use a lot of testing, modeling
 and token engineering. If interested please
-[contact](https://www.grassrootseconomics.org/contact) us wherever you
+[contact](https://www.grassrootseconomics.org/pages/contact-us.html) us wherever you
 are!
 
 - A very sadly unfinished cadCAD model was created by

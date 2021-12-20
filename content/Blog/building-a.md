@@ -171,10 +171,3 @@ get 400 Sarafu and Chamas (saving groups) can register to convert a
 limited amount of Sarafu to Mpesa. If you are in, or know, a chama
 please let us know.
 
-[#decentralized](https://www.grassrootseconomics.org/blog/hashtags/decentralized)
-[#defi](https://www.grassrootseconomics.org/blog/hashtags/defi)
-[#currency](https://www.grassrootseconomics.org/blog/hashtags/currency)
-[#economics](https://www.grassrootseconomics.org/blog/hashtags/economics)
-[#covid19](https://www.grassrootseconomics.org/blog/hashtags/covid19)
-[#corona](https://www.grassrootseconomics.org/blog/hashtags/corona)
-[#virus](https://www.grassrootseconomics.org/blog/hashtags/virus)

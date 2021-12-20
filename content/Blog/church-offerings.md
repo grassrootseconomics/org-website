@@ -32,5 +32,3 @@ network. This circular flow is one that both strengthens the local
 economy and provides a means for the community to help meet their own
 needs.
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
-[#church](https://www.grassrootseconomics.org/blog/hashtags/church)

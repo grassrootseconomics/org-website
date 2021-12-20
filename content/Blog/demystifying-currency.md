@@ -176,9 +176,9 @@ economy, which is more resilient to crisis. This is what Grassroots
 Economics is doing with partners like the Red Cross.
 
 The technology is now open source and we encourage replication and
-development. You can see more of the impact in Kenya [here with nearly
+development. You can see more of the impact in Kenya here with nearly
 100K USD trading on the networks
-monthly](https://www.grassrootseconomics.org/post/crisis-supply-chains)
+monthly
 trading on the networks monthly. We hope to open this secondary market
 up for anyone to contribute in the next two months.\*\*
 
@@ -192,10 +192,6 @@ At a time when international and national markets are collapsing, tools
 that allow people at the local level to trade needed goods and services
 without national currency is critical.
 
-**How can I do it?** <https://katanapools.com/> is a site where you can
-use the Bancor protocol to create a goat token or any other and add one
-or multiple reserves to it on the Ethereum blockchain. More in this
-Medium article.
 
 All the code to create and trade these types of tokens is open source.
 To understand the bonding curves we use,read the open source Bancor

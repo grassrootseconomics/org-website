@@ -109,4 +109,4 @@ through international CCD student fees and consulting programs. In order
 to do this we need your
 [support](https://www.grassrootseconomics.org/get-involved).
 
-[#endyear](https://www.grassrootseconomics.org/blog/hashtags/endyear)
+

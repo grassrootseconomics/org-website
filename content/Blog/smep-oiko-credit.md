@@ -38,4 +38,4 @@ members started paying back the loans and the GBO has so far received
 Ksh.9500 in repayment, which is quite exciting. These members reported
 that the money has helped to boost stock.
 
-[#kangemi](https://www.grassrootseconomics.org/blog/hashtags/kangemi)
+

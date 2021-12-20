@@ -127,6 +127,3 @@ Sarafu-Credit and at a subsidized rate than they would get at the Market
 and have the schools in turn purchase goods or services from the
 Business community on normal days and especially during market days.
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
-[#environment](https://www.grassrootseconomics.org/blog/hashtags/environment)
-[#mombasa](https://www.grassrootseconomics.org/blog/hashtags/mombasa)

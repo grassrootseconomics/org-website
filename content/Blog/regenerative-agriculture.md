@@ -91,5 +91,4 @@ Kind regards,
 
 James Thiong'o
 
-[Permaculture Design, Organic Farming and Regenerative Agriculture
-Consultant](https://www.linkedin.com/in/james-thiong-o-a206b3100/)
+

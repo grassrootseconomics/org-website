@@ -60,7 +60,7 @@ their own credit systems - just as they have done for countless
 generations throughout history prior to colonization.Nation states are
 encouraged to support regulation of these local economic systems and
 impose
-[taxation](https://www.grassrootseconomics.org/post/taxation-community-currencies/)
+[taxation](https://www.grassrootseconomics.org/taxation-community.html)
 mechanisms - but they must enable people to freely develop their own
 credit and means of exchange and not be forced into systems that are
 predatory and that they hold no say or control over.

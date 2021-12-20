@@ -254,39 +254,3 @@ Red Cross Cash Transfer Programming even when there are little Kenyan
 Shillings and ongoing insecure conditions.
 
 > **We're so proud to support this community driven development!**
-
-We're so proud to support this community driven development!
-
-#RedCross #Kenya #Cash #CashTransferProgram #CTP #WFP
-
-#RedCross #Kenya #Cash #CashTransferProgram #CTP #WFP
-
-#RedCross #Kenya #Cash #CashTransferProgram #CTP #WFP
-
-#RedCross #Kenya #Cash #CashTransferProgram #CTP #WFP
-
-#RedCross #Kenya #Cash #CashTransferProgram #CTP #WFP
-
-> [#RedCross](https://www.grassrootseconomics.org/blog/hashtags/RedCross)
-
-#RedCross
-
-> [#Kenya](https://www.grassrootseconomics.org/blog/hashtags/Kenya)
-
-#Kenya
-
-> [#Cash](https://www.grassrootseconomics.org/blog/hashtags/Cash)
-
-#Cash
-
-> [#CashTransferProgram](https://www.grassrootseconomics.org/blog/hashtags/CashTransferProgram)
-
-#CashTransferProgram
-
-> [#CTP](https://www.grassrootseconomics.org/blog/hashtags/CTP)
-
-#CTP
-
-> [#WFP](https://www.grassrootseconomics.org/blog/hashtags/WFP)
-
-#WFP

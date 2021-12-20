@@ -116,8 +116,3 @@ collected by Sowelu Avanzo, a student of the University of Torino, while
 he was conducting the fieldwork for his research on the Sarafu network
 in Miyani from October to December 2019. For more information on this
 ongoing research contact_ <sowelu94@gmail.com>.
-
-[#research](https://www.grassrootseconomics.org/blog/hashtags/research)
-[#eMoney](https://www.grassrootseconomics.org/blog/hashtags/eMoney)
-[#mpesa](https://www.grassrootseconomics.org/blog/hashtags/mpesa)
-[#communitycurrency](https://www.grassrootseconomics.org/blog/hashtags/communitycurrency)
