@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47620737-7e85-46a4-af29-17b3e9d0e807" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Blog/berkshares-and.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/berkshares-and.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Blog/borstal-boys.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/borstal-boys.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Blog/cic-indices.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/cic-indices.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Blog/claims-currencies.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/claims-currencies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Blog/elections-service.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/elections-service.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Blog/ending-our.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/ending-our.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Blog/kakuma-refugee.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/kakuma-refugee.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Blog/looking-towards.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/looking-towards.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Blog/network-integrity.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/network-integrity.md" afterDir="false" />
-    </list>
+    <list default="true" id="47620737-7e85-46a4-af29-17b3e9d0e807" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +38,7 @@
       <workItem from="1638430686360" duration="3647000" />
       <workItem from="1638771920593" duration="4181000" />
       <workItem from="1639729899329" duration="9039000" />
-      <workItem from="1640006732571" duration="7496000" />
+      <workItem from="1640006732571" duration="8238000" />
     </task>
     <servers />
   </component>

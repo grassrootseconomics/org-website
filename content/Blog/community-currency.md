@@ -13,14 +13,14 @@ great results, we are excited to open up enrollment to students across
 Africa and abroad.
 
 Become a [certified Community Currency
-designer](https://www.grassrootseconomics.org/get-involved).
+designer](https://www.grassrootseconomics.org/pages/get-involved.html).
 
 After understanding how to tap into the abundance of communities and
 build resilient thriving local economies you will never look at money in
 the same way.
 
 [Click here to inquire about the
-course](https://www.grassrootseconomics.org/get-involved)
+course](https://www.grassrootseconomics.org/pages/get-involved.html)
 
 This course will immerse you into the world of Community Currencies as a
 tool for economic and community development. We will cover why and how
