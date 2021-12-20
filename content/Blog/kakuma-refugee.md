@@ -15,7 +15,7 @@ shillings available.
 
 ![image](images/blog/kakuma-refugee1.webp)
 
-Here the [FHE group in Kakuma](https://www.grassrootseconomics.org/post/refugee-economics-in-kakuma-kenya)
+Here the [FHE group in Kakuma](https://www.grassrootseconomics.org/refugee-economics.html)
 are meeting to talk about community farming and community inclusion
 currencies which they learned more about after a trip to Siaya Kenya..
 
