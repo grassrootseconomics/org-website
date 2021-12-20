@@ -52,7 +52,6 @@ and services).
 - Future Target → Continuous Trade / (Once time cost + minimal support
   cost) = +100x
 - Preliminary studies
-  (<https://www.grassrootseconomics.org/single-post/eMoney-vs-CIC>)
   using eMoney suggest that if you compare 15k USD worth of CICs
   entering the network of ~3000 traders vs 15k USD worth of eMoney
   (MPESA) injected you get comparable trade volume (23k USD). The

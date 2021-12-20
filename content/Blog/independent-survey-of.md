@@ -99,7 +99,7 @@ provides Economic Liberty
 ; enabling people to choose and create any medium of change they want.
 
 We're really excited about the leanings and the path forward and
-appreciate [DOEN.nl](https://www.doen.nl//) and the [60
+appreciate DOEN.nl and the [60
 Decibels](https://60decibels.com/) team for this study and welcome many
 more such independent studies. [Read the full study
 here!](https://www.grassrootseconomics.org/pages/research.html)

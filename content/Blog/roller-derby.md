@@ -7,7 +7,7 @@ Summary: Last Sunday marked the culmination of partnerships with an unexpected c
 Last Sunday marked the culmination of partnerships with an unexpected
 collection of people who came together to support the education and
 reproductive health of school-aged girls in Kenya. The Oklahoma City
-Outlaws Roller Derby team (<http://www.okcbankedtrackrollerderby.com/>),
+Outlaws Roller Derby team ,
 and the 501st Legion (<http://www.501st.com/>), a Star Wars fan club and
 charity/volunteer organization, can together for PANTY WARS.
 

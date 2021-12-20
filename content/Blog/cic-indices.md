@@ -31,7 +31,7 @@ National Currency is not available, builds trust and local resilience.
 In the [CIC Whitepaper](https://gitlab.com/grassrootseconomics/cic-docs)
 section 4.2.1 Proof of Impact for the UN Sustainable Development Goals
 (SDGs) there are ways to add information to nearly all the SDGs using
-this [data](https://www.grassrootseconomics.org/research).
+this [data](https://www.grassrootseconomics.org/pages/research.html).
 
 Based on this evidence of need (increased CIC trade volumes per capita
 ~ lack of national currency) as well as specific usages (commodities)
