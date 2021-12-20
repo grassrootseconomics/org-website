@@ -109,7 +109,6 @@ period. Due to the scarcity of data, however, the conclusions achieved
 are only partial, and, therefore, further research should confirm the
 findings.\*\*
 
-<https://github.com/GrassrootsEconomics/TransactionDatasets>
 
 _The transaction data relative to the traditional forms of E-money were
 collected by Sowelu Avanzo, a student of the University of Torino, while
