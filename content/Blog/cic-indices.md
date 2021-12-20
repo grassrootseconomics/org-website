@@ -25,7 +25,7 @@ increase of CIC volume per capita. Beyond that, CIC circulation meta
 data (the goods and services being bought and sold) tells us what
 commodities are in need due to the lack of National Currency in
 circulation. According to
-[studies](https://www.grassrootseconomics.org/research), CIC usage also
+[studies](https://www.grassrootseconomics.org/pages/research.html), CIC usage also
 shows people interacting by trading their goods and services when
 National Currency is not available, builds trust and local resilience.
 In the [CIC Whitepaper](https://gitlab.com/grassrootseconomics/cic-docs)

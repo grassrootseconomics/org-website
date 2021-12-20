@@ -128,7 +128,7 @@ by themselves -- in-order to scale without suffering from CDC -- they
 need to be bounded in supply and convertible without a middle man to
 other vouchers . If we were to apply this binding to [syntropic
 principals for
-currencies](https://www.grassrootseconomics.org/post/food-forests-and-syntropic-currencies),
+currencies](https://www.grassrootseconomics.org/food-forests.html),
 it would fit under **Management:** Ensure that the growth of a Community
 Currency is clearly bounded and its supply and value can't keep growing
 forever.
