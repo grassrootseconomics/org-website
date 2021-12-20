@@ -80,6 +80,6 @@ community, using a users connectivity to the network in different trade
 categories (I.e.. supporting social services with democratic
 participatory budgeting).
 
-Trade data can now be found here: <http://grassecon.org/research> Please
+Trade data can now be found here: <https://www.grassrootseconomics.org/pages/research.html> Please
 bear with us. We are working on a new dashboard and faster live updates!
 

@@ -55,5 +55,5 @@ Support for goes specifically to:
 - Training leaders across Africa that communities have an alternative
   to debt-based finance.
 
-Please [contact](https://www.grassrootseconomics.org/contact) us to tell
+Please [contact](https://www.grassrootseconomics.org/pages/contact-us.html) us to tell
 us about yourself.

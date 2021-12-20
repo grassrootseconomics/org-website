@@ -139,7 +139,7 @@ Consumers of endorsed claims (organization that need trustworthy data)
 could include the
 [UNICEF](https://www.unicefinnovationfund.org/portfolio?theme=blockchain)
 supporting
-[SDGs](https://www.grassrootseconomics.org/post/cic-indices-for-sdgs) ,
+[SDGs](https://www.grassrootseconomics.org/cic-indices.html) ,
 carbon offset purchasers, impact investors, loan and insurance providers
 and so on. Rewards or payment related to such claims also need to
 support the system of endorsements, (such as peer endorsements, web of
