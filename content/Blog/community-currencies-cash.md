@@ -71,8 +71,3 @@ value where there previously was none.
 This is how you build prospering economies powered by thriving
 communities. For more information on our work in Kenya, visit our blog.
 
-[#sarafu](https://www.grassrootseconomics.org/blog/hashtags/sarafu)
-[#sustainabledevelopment](https://www.grassrootseconomics.org/blog/hashtags/sustainabledevelopment)
-[#blockchain](https://www.grassrootseconomics.org/blog/hashtags/blockchain)
-[#Bancor](https://www.grassrootseconomics.org/blog/hashtags/Bancor)
-[#SDG](https://www.grassrootseconomics.org/blog/hashtags/SDG)

@@ -30,15 +30,10 @@ The purpose of these sessions was to:
 
 For a full report on the first two meetings visit:
 
-| [Meeting 1](http://communityforge.net/Bangladesh_Kenya_1st_Meeting)
-| [Meeting 2](http://communityforge.net/Bangladesh_Kenya_2nd_Meeting)
 
-|
 
 These meetings will continue in January and help lead the way for base
 line data collection, community ownership and implementation.
 
 ![image](images/blog/complementary-currency1.webp)
 
-[#complementarycurrencies](https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies)
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)

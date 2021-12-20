@@ -67,8 +67,8 @@ and gives them away to spend their debt (kusaga deni).
 create your own Sarafu, which will help you purchase goods and services
 when you're short of cash. Reach out to people that are generously
 holding Sarafu for work and accept it for your work and spend it among a
-network of your peers like is the case with [Kilifi
-Kulture](https://www.instagram.com/kilifikulture/)
+network of your peers like is the case with Kilifi
+Kulture
 
 ![image](images/blog/recycling-debt129.webp)
 
@@ -84,4 +84,4 @@ If you're willing to share your strength with those around you, then
 you're a hero.
 
 [Contact us to join a group of economic heroes in
-Kenya.](https://www.grassrootseconomics.org/contact)
+Kenya.](https://www.grassrootseconomics.org/pages/contact-us.html)

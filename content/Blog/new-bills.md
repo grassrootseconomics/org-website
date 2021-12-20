@@ -28,7 +28,4 @@ Other news: In the Kawangware slum this month, more than 100 Dollars
 worth of Community Currency circulated among three schools providing
 schools fees for over 400 students.
 
-[#sarafu](https://www.grassrootseconomics.org/blog/hashtags/sarafu)
-[#newbills](https://www.grassrootseconomics.org/blog/hashtags/newbills)
-[#doen](https://www.grassrootseconomics.org/blog/hashtags/doen)
-[#stro](https://www.grassrootseconomics.org/blog/hashtags/stro)
+

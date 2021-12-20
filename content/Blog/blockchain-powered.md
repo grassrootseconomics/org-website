@@ -39,10 +39,3 @@ exchange and removing money scarcity.
 
 That is me loosing horribly to Mr. Chibwara ..... till next time.
 
-[#checkers](https://www.grassrootseconomics.org/blog/hashtags/checkers)
-[#blockchain](https://www.grassrootseconomics.org/blog/hashtags/blockchain)
-[#draft](https://www.grassrootseconomics.org/blog/hashtags/draft)
-[#draughts](https://www.grassrootseconomics.org/blog/hashtags/draughts)
-[#CIC](https://www.grassrootseconomics.org/blog/hashtags/CIC)
-[#Kenya](https://www.grassrootseconomics.org/blog/hashtags/Kenya)
-[#Zerosumgame](https://www.grassrootseconomics.org/blog/hashtags/Zerosumgame)

@@ -111,12 +111,3 @@ paper](https://www.grassrootseconomics.org/whitepaper) ). If credit can
 be safely issued by the people using that credit, we can truly change
 our world.
 
-[#leverage](https://www.grassrootseconomics.org/blog/hashtags/leverage)
-[#fsp](https://www.grassrootseconomics.org/blog/hashtags/fsp)
-[#banking](https://www.grassrootseconomics.org/blog/hashtags/banking)
-[#credit](https://www.grassrootseconomics.org/blog/hashtags/credit)
-[#microfinance](https://www.grassrootseconomics.org/blog/hashtags/microfinance)
-[#Yunnis](https://www.grassrootseconomics.org/blog/hashtags/Yunnis)
-[#CIC](https://www.grassrootseconomics.org/blog/hashtags/CIC)
-[#redcross](https://www.grassrootseconomics.org/blog/hashtags/redcross)
-[#sempo](https://www.grassrootseconomics.org/blog/hashtags/sempo)

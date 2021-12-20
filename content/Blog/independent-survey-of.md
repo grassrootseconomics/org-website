@@ -95,11 +95,11 @@ between frequent and on-users, it was clear that there really was no
 viable alternative to trade among each other without national currency
 other than Sarafu (and we hope their own CICs quite soon). We believe
 that this points to the need for infrastructure (Like CICs) that
-provides [Economic Liberty](https://www.grassrootseconomics.org/post/decolonize-currency/)
+provides Economic Liberty
 ; enabling people to choose and create any medium of change they want.
 
 We're really excited about the leanings and the path forward and
 appreciate [DOEN.nl](https://www.doen.nl//) and the [60
 Decibels](https://60decibels.com/) team for this study and welcome many
 more such independent studies. [Read the full study
-here!](https://www.grassrootseconomics.org/research/)
+here!](https://www.grassrootseconomics.org/pages/research.html)

@@ -7,8 +7,7 @@ Summary: In May, we told you about an incredible synergy of Star Wars
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/Phd5lBxF-3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 In May, we told you about an incredible synergy of Star Wars
-(<http://www.501st.com/>), Roller Derby
-(<http://www.okcbankedtrackrollerderby.com/>), and amazing, concerned,
+(<http://www.501st.com/>), Roller Derby, and amazing, concerned,
 generous people that generated more than $1300 and 363 pairs of
 panties. Thanks to all of you who made this a reality!
 

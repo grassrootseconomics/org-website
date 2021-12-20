@@ -34,7 +34,3 @@ community members to support one another in times of need begins to grow
 What is perhaps most exciting right now is the usage of Community
 Currencies in Savings and Lending groups ... coming soon.
 
-[#fishing](https://www.grassrootseconomics.org/blog/hashtags/fishing)
-[#economics](https://www.grassrootseconomics.org/blog/hashtags/economics)
-[#Miyani](https://www.grassrootseconomics.org/blog/hashtags/Miyani)
-[#Mombasa](https://www.grassrootseconomics.org/blog/hashtags/Mombasa)

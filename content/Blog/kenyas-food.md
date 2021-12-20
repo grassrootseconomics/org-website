@@ -10,7 +10,7 @@ Amazing as it may sound Kenya exports over 3 billion dollars worth of
 food!
 
 The World Food Program
-[says](http://www.wfp.org/countries/kenya/operations) that Kenya has a
+says that Kenya has a
 yearly need of $300 million USD to pay for food aid, while exporters
 [brag](http://www.indexmundi.com/trade/exports/?country=ke) that Kenya
 exported roughly $3 billion USD in food products in 2010.
@@ -22,8 +22,7 @@ of food! How can this be?
   [scarce](http://en.worldstat.info/Asia/Kenya/Land) (less than 10%
   arable land) and over 1 million people in the country are receiving
   food aid each year?
-- In a country experiencing [mass
-  poverty](http://www.unicef.org/kenya/overview_4616.html) , where
+- In a country experiencing mass poverty, where
   does this $3 billion USD go?
 - If Kenya can produce that much food and EXPORT it ... (The
   cultivation of fruits, vegetables and flowers alone earned
@@ -49,7 +48,7 @@ jobs and are unable to save money.
 Is Kenya becoming more and more of a [Banana
 Republic](http://en.wikipedia.org/wiki/Banana_republic) and following
 the poor example of countries like
-[Guatemala](http://www.commondreams.org/headline/2013/01/09-6) ?
+Guatemala ?
 
 How does the Kenyan political class allow this? [Ministers of
 Agriculture](<http://en.wikipedia.org/wiki/Ministry_of_Agriculture_(Kenya)>)
@@ -72,12 +71,10 @@ Kenyata, the son of the first president and owner of at least 500,000
 acres. (Currently running for president while also facing charges at the
 ICC).
 
-[Price Waterhouse
-Coopers](http://www.pwc.com/gx/en/economic-crime-survey/download-economic-crime-people-culture-controls.jhtml)
+Price Waterhouse
 found Kenya to be the most financially corrupt country in the world;
 yes, above Nigeria and Mexico. Transparency International lists Kenya
-among the worst countries for corruption. [UN
-reports](http://hdrstats.undp.org/en/countries/profiles/ken.html) also
+among the worst countries for corruption. UN reports also
 list Kenya as having the biggest inequalities in Africa.
 
 Regardless of how we got here, current solutions, like food aid, are not
@@ -108,7 +105,3 @@ So what are some solutions?
 Lets put a stop to all this nonsense that is causing more and more
 people to suffer!
 
-[#environment](https://www.grassrootseconomics.org/blog/hashtags/environment)
-[#agriculture](https://www.grassrootseconomics.org/blog/hashtags/agriculture)
-[#corruption](https://www.grassrootseconomics.org/blog/hashtags/corruption)
-[#aid](https://www.grassrootseconomics.org/blog/hashtags/aid)

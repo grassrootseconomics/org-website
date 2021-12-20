@@ -19,8 +19,4 @@ For more information about the MotoMoto Circus program and how we work
 with street living youth in Kenya click
 [here.](http://koru.or.ke/motomoto-circus).
 
-[#motomoto](https://www.grassrootseconomics.org/blog/hashtags/motomoto)
-[#performingarts](https://www.grassrootseconomics.org/blog/hashtags/performingarts)
-[#firedance](https://www.grassrootseconomics.org/blog/hashtags/firedance)
-[#burnerswithoutborders](https://www.grassrootseconomics.org/blog/hashtags/burnerswithoutborders)
-[#poi](https://www.grassrootseconomics.org/blog/hashtags/poi)
+
