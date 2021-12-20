@@ -18,7 +18,7 @@ these open source solutions as far as possible.
 Check out the Community Inclusion Currency [(CIC)
 Dashboard](https://dashboard.sarafu.network) build by an amazing team at
 Accenture for even more data views and also see our [research
-page](https://grassecon.org/research).
+page](https://www.grassrootseconomics.org/pages/research.html).
 
 In 30 days we have seen that by injecting a medium of exchange in the
 form of CICs nearly 100,000 USD have been traded (with over 1,600 daily
