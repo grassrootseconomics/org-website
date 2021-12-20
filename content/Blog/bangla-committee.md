@@ -22,4 +22,4 @@ The Committee also decided on a second community for control group data
 collection to compare to their own called Gana Hola roughly 30 minutes
 away by foot.
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
+

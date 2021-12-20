@@ -72,7 +72,7 @@ support.
 - On the tech side we are extremely excited about
   [bloxberg.org](http://bloxberg.org) and looking at bridging all
   kinds of potential reserve tokens like
-  [XCHF](https://www.swisscryptotokens.ch/buy-sell-xchf/).
+  XCHF.
 - Expanding on and helping the greater world in understanding the
   basic
   [Potluck](https://www.grassrootseconomics.org/how-to-host.html)

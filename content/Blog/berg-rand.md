@@ -51,4 +51,4 @@ community currencies across Africa - to build a truly grassroots
 economy.
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/YoEkNgXVQgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[#SouthAfrica](https://www.grassrootseconomics.org/blog/hashtags/SouthAfrica)
+

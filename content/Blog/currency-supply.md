@@ -215,4 +215,4 @@ are!
 - Our [open source
   code](https://gitlab.com/grassrootseconomics/cic-docs) is all on
   GitLab is here.
-- Field Datasets can be found [here](http://grassecon.org/research).
+- Field Datasets can be found [here](https://www.grassrootseconomics.org/pages/research.html).
