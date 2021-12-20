@@ -34,5 +34,3 @@ to the printers in Germany and with a little bit more push for awareness
 we're looking forward to a powerful launch. As Morgan Richards would
 say - we're cautiously optimistic.
 
-[#gatina](https://www.grassrootseconomics.org/blog/hashtags/gatina)
-[#nairobi](https://www.grassrootseconomics.org/blog/hashtags/nairobi)

@@ -79,7 +79,7 @@ which will go back into circulation when more wood is sold.
 The core example you will find from Community Currencies working -- is
 some form of dedicated backing and or collateral (be it time, products
 or services or National Currency). For more on paper currencies see our
-[MOOC](https://www.grassrootseconomics.org/mooc).
+[MOOC](https://www.grassrootseconomics.org/pages/mooc.html).
 
 With the blockchain we can have a contract that monitors this collateral
 or reserve transaction by transaction. The reserve need not be a stable
@@ -89,8 +89,8 @@ have that we can all agree on.
 **Now I'm going to get a little bit technical:**
 
 What we do is take xDAI a USD backed stable coin and leverage it to make
-a local credit ([read more
-here](http://www.grassrootseconomics.org/single-post/Enabling-Leverage)).
+a local credit [read more
+here](https://www.grassrootseconomics.org/enabling-leverage.html).
 The National Currency forms our collateral but the primary backing is
 the communities that use and accept the tokens we call Community
 Inclusion Currencies (CICs). The main example of this right now is
