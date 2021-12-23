@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47620737-7e85-46a4-af29-17b3e9d0e807" name="Default Changelist" comment="" />
+    <list default="true" id="47620737-7e85-46a4-af29-17b3e9d0e807" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ge-theme/static/css/home-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/static/css/home-styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ge-theme/templates/Food forests.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/Food forests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ge-theme/templates/home-template.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/home-template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ge-theme/templates/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ge-theme/templates/research-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/research-page.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +27,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ge-theme/static/pdfs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ge-theme/static/pdfs" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +51,9 @@
       <workItem from="1638430686360" duration="3647000" />
       <workItem from="1638771920593" duration="4181000" />
       <workItem from="1639729899329" duration="9039000" />
-      <workItem from="1640006732571" duration="8238000" />
+      <workItem from="1640006732571" duration="9050000" />
+      <workItem from="1640089329701" duration="2806000" />
+      <workItem from="1640179429159" duration="7693000" />
     </task>
     <servers />
   </component>
