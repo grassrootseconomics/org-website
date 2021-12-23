@@ -4,10 +4,7 @@
     <list default="true" id="47620737-7e85-46a4-af29-17b3e9d0e807" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ge-theme/static/css/home-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/static/css/home-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ge-theme/templates/Food forests.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/Food forests.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ge-theme/templates/home-template.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/home-template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ge-theme/templates/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/media.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ge-theme/templates/research-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/ge-theme/templates/research-page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <workItem from="1639729899329" duration="9039000" />
       <workItem from="1640006732571" duration="9050000" />
       <workItem from="1640089329701" duration="2806000" />
-      <workItem from="1640179429159" duration="7693000" />
+      <workItem from="1640179429159" duration="10131000" />
     </task>
     <servers />
   </component>
