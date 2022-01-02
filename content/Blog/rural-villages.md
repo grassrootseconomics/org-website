@@ -40,6 +40,4 @@ have no ksh to pay for the service offered. She also sells cloth
 material both in Ksh and Sarafu at the end of the month she contributes
 Sarafu to a local chama (savings group).
 
-[#foodsecurity](https://www.grassrootseconomics.org/blog/hashtags/foodsecurity)
-[#covid19](https://www.grassrootseconomics.org/blog/hashtags/covid19)
-[#rural](https://www.grassrootseconomics.org/blog/hashtags/rural)
+

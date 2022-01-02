@@ -106,17 +106,7 @@ the Red Cross and [Sempo.ai](http://Sempo.ai) in 2020 using Community
 Inclusion Currencies ([see recent
 news](http://news.trust.org/item/20191126123058-xtxvz/)). By exploring
 this space and **enabling leverage** we can open the door to truly
-decentralized financial services ( [see white
-paper](https://www.grassrootseconomics.org/whitepaper) ). If credit can
+decentralized financial service. If credit can
 be safely issued by the people using that credit, we can truly change
 our world.
 
-[#leverage](https://www.grassrootseconomics.org/blog/hashtags/leverage)
-[#fsp](https://www.grassrootseconomics.org/blog/hashtags/fsp)
-[#banking](https://www.grassrootseconomics.org/blog/hashtags/banking)
-[#credit](https://www.grassrootseconomics.org/blog/hashtags/credit)
-[#microfinance](https://www.grassrootseconomics.org/blog/hashtags/microfinance)
-[#Yunnis](https://www.grassrootseconomics.org/blog/hashtags/Yunnis)
-[#CIC](https://www.grassrootseconomics.org/blog/hashtags/CIC)
-[#redcross](https://www.grassrootseconomics.org/blog/hashtags/redcross)
-[#sempo](https://www.grassrootseconomics.org/blog/hashtags/sempo)

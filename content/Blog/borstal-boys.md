@@ -63,4 +63,4 @@ setbacks by giving the boys something to be proud of, their poi skills,
 and providing them with life skills to cope with the heavier challenges
 of their lives now and in the future.
 
-[#poi](https://www.grassrootseconomics.org/blog/hashtags/poi)
+

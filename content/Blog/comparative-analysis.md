@@ -109,15 +109,9 @@ period. Due to the scarcity of data, however, the conclusions achieved
 are only partial, and, therefore, further research should confirm the
 findings.\*\*
 
-<https://github.com/GrassrootsEconomics/TransactionDatasets>
 
 _The transaction data relative to the traditional forms of E-money were
 collected by Sowelu Avanzo, a student of the University of Torino, while
 he was conducting the fieldwork for his research on the Sarafu network
 in Miyani from October to December 2019. For more information on this
 ongoing research contact_ <sowelu94@gmail.com>.
-
-[#research](https://www.grassrootseconomics.org/blog/hashtags/research)
-[#eMoney](https://www.grassrootseconomics.org/blog/hashtags/eMoney)
-[#mpesa](https://www.grassrootseconomics.org/blog/hashtags/mpesa)
-[#communitycurrency](https://www.grassrootseconomics.org/blog/hashtags/communitycurrency)

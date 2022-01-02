@@ -25,6 +25,3 @@ program.
 [Bangla-Pesa was featured on Public Radio International
 today.](http://www.pri.org/stories/2013-11-13/african-slum-lacked-cash-so-people-made-their-own)
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
-[#complementarycurrencies](https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies)
-[#grassrootseconomicsnews](https://www.grassrootseconomics.org/blog/hashtags/grassrootseconomicsnews)

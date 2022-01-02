@@ -45,6 +45,3 @@ John Ziniades from Meshfield and Will Ruddick also got to meet with Tim
 Jenkin the founder of CES and a global leader in the Complementary
 Currency movement.
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangl)
-[#gatina](https://www.grassrootseconomics.org/blog/hashtags/gatina)
-[#SouthAfrica](https://www.grassrootseconomics.org/blog/hashtags/SouthAfrica)

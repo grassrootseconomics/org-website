@@ -29,4 +29,4 @@ We are also happy to congratulate Caroline Dama and welcome her back
 home after representing the team and winning the top innovations in
 Africa award in Paris last week.
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
+

@@ -3,6 +3,9 @@
     font-size: 40px;
     padding-top: 50px;
 }
+.center-home{
+    text-align: center;
+}
 /*.row-one-img{*/
 /*    padding: 20px;*/
 /*}*/
@@ -10,10 +13,10 @@
     height: 80%;
 }
 .img-style{
-    padding-left: 180px;
-    padding-top: 60px;
-    max-height: 700px;
-    max-width: 700px;
+    /*padding-left: 180px;*/
+    /*padding-top: 60px;*/
+    /*max-height: 700px;*/
+    /*max-width: 700px;*/
 
 }
 .wrapper-col{
@@ -91,10 +94,10 @@
 
 @media only screen and (max-width: 480px){
     .img-style{
-        padding-left: 20px;
-        padding-top: 10px;
-        max-height: 400px;
-        max-width: 400px;
+        /*padding-left: 20px;*/
+        /*padding-top: 10px;*/
+        /*max-height: 400px;*/
+        /*max-width: 400px;*/
     }
     .row-one-words{
         padding-top: 10px;

@@ -46,4 +46,4 @@ themselves to issue and manage their own community currency. We are also
 happy to be talking with professors of economics from the University of
 Nairobi on studying these programs.
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
+

@@ -10,7 +10,7 @@ online! You can find it on**
 [YouTube](http://www.youtube.com/watch?v=AyYkJsFGjHg) **or in the
 'Simulations' section of our**
 
-[MOOC](http://www.grassrootseconomics.org/mooc).
+[MOOC](https://www.grassrootseconomics.org/pages/mooc.html).
 
 This episode goes through the basic premises of community currencies and
 how they affect economies. The simulator takes an agent based approach

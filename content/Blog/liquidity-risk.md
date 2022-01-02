@@ -60,4 +60,4 @@ So what do we recommend?
   board that can set our standards higher than those of the banking
   industry.
 
-[#liquidityrisk](https://www.grassrootseconomics.org/blog/hashtags/liquidityrisk)
+

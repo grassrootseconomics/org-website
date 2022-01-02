@@ -52,9 +52,3 @@ us to heal our planet and ourselves.
 Sincerely with Love, Inspiration and Celebration of a life well lived,
 
 Will Ruddick
-
-[#Bernard](https://www.grassrootseconomics.org/blog/hashtags/Bernard)
-[#Lietaer](https://www.grassrootseconomics.org/blog/hashtags/Lietaer)
-[#BernardLietaer](https://www.grassrootseconomics.org/blog/hashtags/BernardLietaer)
-[#communitycurrency](https://www.grassrootseconomics.org/blog/hashtags/communitycurrency)
-[#communitycurrency](https://www.grassrootseconomics.org/blog/hashtags/communitycurrency)

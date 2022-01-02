@@ -38,7 +38,7 @@ USD (DAI) going into reserve (which creates ~4x (leverage to) the
 number of CIC tokens to reserve based on risk/ size of reserve) -- then
 cashing out from that (burning CICs) and adding back to it (minting
 CICs). See equations here:
-<https://www.grassrootseconomics.org/single-post/Enabling-Leverage>
+<https://www.grassrootseconomics.org/enabling-leverage.html>
 
 - Near Target → Trade / Cost = (~23k usd) / (~1.1k USD Cashed our
   minus cashed in) is about 20x impact.
@@ -52,7 +52,6 @@ and services).
 - Future Target → Continuous Trade / (Once time cost + minimal support
   cost) = +100x
 - Preliminary studies
-  (<https://www.grassrootseconomics.org/single-post/eMoney-vs-CIC>)
   using eMoney suggest that if you compare 15k USD worth of CICs
   entering the network of ~3000 traders vs 15k USD worth of eMoney
   (MPESA) injected you get comparable trade volume (23k USD). The
@@ -81,10 +80,6 @@ community, using a users connectivity to the network in different trade
 categories (I.e.. supporting social services with democratic
 participatory budgeting).
 
-Trade data can now be found here: <http://grassecon.org/research> Please
+Trade data can now be found here: <https://www.grassrootseconomics.org/pages/research.html> Please
 bear with us. We are working on a new dashboard and faster live updates!
 
-[#pilot](https://www.grassrootseconomics.org/blog/hashtags/pilot)
-[#reserve](https://www.grassrootseconomics.org/blog/hashtags/reserve)
-[#donation](https://www.grassrootseconomics.org/blog/hashtags/donation)
-[#impact](https://www.grassrootseconomics.org/blog/hashtags/impact)

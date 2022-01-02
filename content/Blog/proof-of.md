@@ -111,7 +111,7 @@ duplicate and expand on this work. While we are standing on the
 shoulders of giants of generosity to get this far, we still very much
 need support.
 
-Please [support](https://www.grassrootseconomics.org/get-involved)
+Please [support](https://www.grassrootseconomics.org/pages/get-involved.html)
 Grassroots Economics Foundation.
 
 Beyond making a donation -- no matter how small -- please also consider
@@ -119,12 +119,7 @@ supporting in other ways:
 
 We need all manner of volunteers, programmers, community managers, tech support, data analysts, field support, educational videos and materials and so on.
 
-: [Contact us.](https://www.grassrootseconomics.org/contact).
+: [Contact us.](https://www.grassrootseconomics.org/pages/contact-us.html).
 
 **Here is to a wonderful 2019!**
 
-[#proofofimpact](https://www.grassrootseconomics.org/blog/hashtags/proofofimpact)
-[#blockchain](https://www.grassrootseconomics.org/blog/hashtags/blockchain)
-[#communitycurrency](https://www.grassrootseconomics.org/blog/hashtags/communitycurrency)
-[#donate](https://www.grassrootseconomics.org/blog/hashtags/donate)
-[#volunteer](https://www.grassrootseconomics.org/blog/hashtags/volunteer)

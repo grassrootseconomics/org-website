@@ -55,12 +55,6 @@ Resources below:
 - [Note on the program by Hamish Jenkins, of United Nations
   Non-Governmental Liaison
   Service.](http://koru.or.ke/sites/koru.or.ke/files/UN-NGLS-note-on-the-Banglapesa-vouchers.pdf)
-- For media coverage please see: Kenyan Television Network and also
-  read [Kenyan
-  News.](http://www.the-star.co.ke/news/article-123201/bangla-pesa-use-alternative-currency-kenya).
-- For an understanding of Bangladesh and informal settlements [read
-  this piece by Father Gabriel
-  Dolan.](http://www.nation.co.ke/oped/Opinion/Of-the-Pattni-billions-and-Bangla-Pesa-/-/440808/1875002/-/hedr6hz/-/index.html)
 - For more up to date news check Twitter #banglapesa and see our
   Facebook page:
   [https://www.facebook.com/KoruKenya](http://www.facebook.com/KoruKenya)

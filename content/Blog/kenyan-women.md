@@ -17,8 +17,8 @@ echoing a the IMF's wish for a _Revised_ Chicago Plan.
 "This is a starting point to explain the systemic flaw of our monetary
 system, and recurring economic crises pattern." - Vincentius Arnold
 
-[Community Inclusion
-Currencies](https://www.grassrootseconomics.org/whitepaper) built on
+Community Inclusion
+Currencies built on
 Central Bank Digital Currency reserves would de-risk and
 decentralization the commercial banking system. If Central Banks were
 required to hold 100% reserve in CDBC and issue their own inter-operable
