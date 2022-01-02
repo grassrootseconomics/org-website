@@ -184,9 +184,9 @@ We were joined this year by several humanitarian organizations like:
 * [Red Cross ](https://www.innovasjonnorge.no/no/subsites/hipnorway/innovation-projects2/red-cross-sparks-development-with-blockchain-community-currencies/)Where we have finished a second pilot and developed a Program Quality Toolkit
 * [UNICEF ](https://www.unicefinnovationfund.org/broadcast/updates/grassroots-economics-integrating-emergency-response-platform-stakeholders-access)Where we are developing open source software.
 * [GIZ ](https://www.giz.de/en/worldwide/98057.html)Where we are planning with on Cameroon together with the Red Cross
-* AFD - Development of a CIC Taskforce for legal and governmental integrations
+* AFD - Development of a CIC Taskforce for legal and governmental integration
 
-We are working non-stop to empower communities and service providers to take CICs to the world by issuing their own Economic Commons and Intruments like Vouchers and helping them circulate as Community Inclusion Currencies. First stop in 2022, after finalizing a randomized control trial, is Cameroon where we will partner up with 3 initiatives to help Cameroonians make their own systems.
+We are working non-stop to empower communities and service providers to take CICs to the world by issuing their own Economic Commons and Instruments like Vouchers and helping them circulate as Community Inclusion Currencies. First stop in 2022, after finalizing a randomized control trial, is Cameroon where we will partner up with 3 initiatives to help Cameroonians make their own systems.
 
 ![image](images/blog/2021-recap1.webp)
 
