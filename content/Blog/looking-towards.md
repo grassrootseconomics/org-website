@@ -51,5 +51,3 @@ In 2015 we will:
 - We hope - find the support to create an office for East Africa
   promoting community currency programs.
 
-[#gatina](https://www.grassrootseconomics.org/blog/hashtags/gatina)
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)

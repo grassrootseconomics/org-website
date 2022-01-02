@@ -29,8 +29,3 @@ other poi stuff that would be great!
 We are also looking for volunteers in 2013. If you can teach poi or want
 to learn poi - think about doing it in Kenya!
 
-[#motomoto](https://www.grassrootseconomics.org/blog/hashtags/motomoto)
-[#performingarts](https://www.grassrootseconomics.org/blog/hashtags/performingarts)
-[#firedance](https://www.grassrootseconomics.org/blog/hashtags/firedance)
-[#burnerswithoutborders](https://www.grassrootseconomics.org/blog/hashtags/burnerswithoutborders)
-[#poi](https://www.grassrootseconomics.org/blog/hashtags/poi)

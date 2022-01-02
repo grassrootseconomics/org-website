@@ -12,7 +12,7 @@ Syntropic Agriculture paired with Community Currencies in Kenya. We are
 learning from 50 community groups that use a community currency to sell
 produce and pay for the labor intensive setup, inputs and maintenance of
 one acre community farms (Shamba ya Jamii). The Shamba ya Jamii design
-was imported from [Curadao](https://curadao.io/) (thanks to Curadao) and
+was imported from Curadao (thanks to Curadao) and
 contextualized by Roland Van Reenen and James Thiong'o and hundreds of
 local farmers.
 

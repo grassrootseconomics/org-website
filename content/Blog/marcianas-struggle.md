@@ -70,7 +70,3 @@ truly excited to hear more from Marciana and others about how their
 community currency is helping them raise their standard of living
 together.
 
-[#bangla](https://www.grassrootseconomics.org/blog/hashtags/bangla)
-[#women](https://www.grassrootseconomics.org/blog/hashtags/women)
-[#complementarycurrencies](https://www.grassrootseconomics.org/blog/hashtags/complementarycurrencies)
-[#businesswomen](https://www.grassrootseconomics.org/blog/hashtags/businesswomen)

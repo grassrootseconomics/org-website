@@ -22,4 +22,4 @@ Will Ruddick can be seen on the right giving a seminar at the University
 of Nairobi, with the hope that more research will focus on these
 alternative financial programs.
 
-[#gatina](https://www.grassrootseconomics.org/blog/hashtags/gatina)
+

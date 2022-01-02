@@ -33,7 +33,7 @@ businesses like kiosks, hotels (kibanda), tailor shops, shoes, clothes
 among others. They are equally excited about Sarafu and are happy that
 Sarafu has been of great help to them in both their businesses and in
 providing for their basic needs. Read about one of the users
-[here](https://www.grassrootseconomics.org/post/rural-sarafu-cic-impacts)
+[here](https://www.grassrootseconomics.org/rural-sarafu.html)
 in more detail.
 
 Based on these discussions the group agreed that what makes Sarafu work

@@ -26,7 +26,7 @@ Of these transactions we see primarily food being traded. This is only
 the very beginning, as more and more schools and clinics as well as
 environmental organizations enroll we expect to see these proportions
 change. This data is updated live for every single blockchain
-transaction on <http://www.sarafu.cc>
+transaction.
 
 Our formula, _so far_ ,for Blockchain Based Community Currencies:
 

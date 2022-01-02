@@ -107,6 +107,6 @@ consulting, training, certification and cooperative business
 development. In 2018 we are seeking to sustainability cover our costs
 through international CCD student fees and consulting programs. In order
 to do this we need your
-[support](https://www.grassrootseconomics.org/get-involved).
+[support](https://www.grassrootseconomics.org/pages/get-involved.html).
 
-[#endyear](https://www.grassrootseconomics.org/blog/hashtags/endyear)
+

@@ -38,5 +38,4 @@ forward!
 
 Have a wonderful holiday and healthy 2017!
 
-[#kenya](https://www.grassrootseconomics.org/blog/hashtags/kenya)
-[#yearlyreport](https://www.grassrootseconomics.org/blog/hashtags/yearlyreport)
+

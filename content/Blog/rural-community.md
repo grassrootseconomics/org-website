@@ -45,6 +45,4 @@ tend to indegenious trees and also farming groups that promote water
 conservation and agroforesty. This creates not only a sustainable market
 economy also importantly a green one.
 
-[#communitycurrencies](https://www.grassrootseconomics.org/blog/hashtags/communitycurrencies)
-[#foodsecurity](https://www.grassrootseconomics.org/blog/hashtags/foodsecurity)
-[#miyani](https://www.grassrootseconomics.org/blog/hashtags/miyani)
+

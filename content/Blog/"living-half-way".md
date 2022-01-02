@@ -151,5 +151,4 @@ going on and have real alternatives in place. I don't kid myself that
 any of this is easy, but this is my life's work to be there to help
 women just like myself.
 
-> [#femalesexworker](https://www.grassrootseconomics.org/blog/hashtags/femalesexworker)
 

@@ -20,7 +20,7 @@ The basic Community Inclusion Currency (CIC) contract (shown above) is a
 token that holds a real world claim against redemption of goods and
 services - such as the harvest created by a group of women managing a
 communal [Food
-Forest](https://www.grassrootseconomics.org/post/food-forests-and-syntropic-currencies)
+Forest](https://www.grassrootseconomics.org/food-forests.html)
 . In 2018 our CIC's were pool tokens that were additionally bonded to a
 on-chain reserve called Sarafu upon deployment. But connecting a CIC's
 full supply to be convertible (even on a bonding curve) to a reserve

@@ -13,7 +13,7 @@ support setup and maintenance and will be redeemed for food as harvest
 begin. Thanks to initial trainings by
 [Roland](https://www.facebook.com/roland.vanreenen) they have come a
 long way from when they
-[started](https://www.grassrootseconomics.org/post/food-forests-and-syntropic-currencies).
+[started](https://www.grassrootseconomics.org/food-forests.html).
 Special thanks to Mwanaidi Ibrahim, Naduwa Mwero and Jacob Mwatumbi for
 all their hard work! Here are my observations and recommendations:
 
@@ -91,5 +91,4 @@ Kind regards,
 
 James Thiong'o
 
-[Permaculture Design, Organic Farming and Regenerative Agriculture
-Consultant](https://www.linkedin.com/in/james-thiong-o-a206b3100/)
+

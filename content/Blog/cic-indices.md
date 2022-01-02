@@ -25,13 +25,13 @@ increase of CIC volume per capita. Beyond that, CIC circulation meta
 data (the goods and services being bought and sold) tells us what
 commodities are in need due to the lack of National Currency in
 circulation. According to
-[studies](https://www.grassrootseconomics.org/research), CIC usage also
+[studies](https://www.grassrootseconomics.org/pages/research.html), CIC usage also
 shows people interacting by trading their goods and services when
 National Currency is not available, builds trust and local resilience.
 In the [CIC Whitepaper](https://gitlab.com/grassrootseconomics/cic-docs)
 section 4.2.1 Proof of Impact for the UN Sustainable Development Goals
 (SDGs) there are ways to add information to nearly all the SDGs using
-this [data](https://www.grassrootseconomics.org/research).
+this [data](https://www.grassrootseconomics.org/pages/research.html).
 
 Based on this evidence of need (increased CIC trade volumes per capita
 ~ lack of national currency) as well as specific usages (commodities)

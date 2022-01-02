@@ -72,10 +72,10 @@ support.
 - On the tech side we are extremely excited about
   [bloxberg.org](http://bloxberg.org) and looking at bridging all
   kinds of potential reserve tokens like
-  [XCHF](https://www.swisscryptotokens.ch/buy-sell-xchf/).
+  XCHF.
 - Expanding on and helping the greater world in understanding the
   basic
-  [Potluck](https://www.grassrootseconomics.org/post/how-to-host-a-currency-potluck)
+  [Potluck](https://www.grassrootseconomics.org/how-to-host.html)
   model of CIC creation as it is used in Kenyan villages and
   potentially far beyond.
 
@@ -96,7 +96,7 @@ support.
 - Direct Community Support - You, Donors and Impact investors can give
   directly to people in dire need either through CICs or via Mpesa
   right to their telephone in Kenya.
-- [Contact us to get more involved!](http://grassecon.org/contact) to
+- [Contact us to get more involved!](https://www.grassrootseconomics.org/pages/contact-us.html) to
   get more involved!
 - Visit us on [Visit us on Telegram](https://t.me/CICBlockchain) for
   discussions
