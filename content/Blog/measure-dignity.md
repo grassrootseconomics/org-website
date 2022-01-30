@@ -5,9 +5,9 @@ Modified: January 29 2022
 Slug: measure-dignity
 Summary: How do you measure dignity?
 
-Tags: dignity, dessertification, impact, trust
+Tags: dignity, desertification, impact, trust
 
-Although I spend most of my days in meetings with field tems, tech staff and lots of whiteboard strategizing, I love the opportunity to visit communities using their own Community Inclusion Currencies (CICs).
+Although I spend most of my days in meetings with field teams, tech staff and lots of whiteboard strategizing, I love the opportunity to visit communities using their own Community Inclusion Currencies (CICs).
 
 Last week I had the pleasure of accompanying a CIC veteran, Nadzua, to Kinango in Kwale County. We have registered over 30 community groups (Chamas) in the region who underwent training for Regenerative syntropic Agroforestry. Kinango, pictured below in the time we have been there, has gone from a semi-arid to fully arid. In 2021, they received less than 25mm of rainfall. With scattered drizzles here and there, the rivers ran dry and even the most drought resistant crops failed. 
 
@@ -40,4 +40,4 @@ Although the impact and outcomes outlined in our Monitoring & Evaluation framewo
 
 Leaders and entrepreneurs like Nadzua (shown above) have used Sarafu since its inception to trade goods and services in their community to their benefit. Since we launched digitally (and were able to measure trade volumes) in 2020, her total trade using Sarafu is valued at Ksh. 1,429,513 (USD. 12,585.43). She is living proof that all it takes is the right mindset to make Economic Commons a success. With approx Ksh. 59,563 (USD 524) in total trade monthly, Nadzua has unlocked goods and services that she otherwise wouldn’t have been able to afford and supported her whole community in the process. 
 
-How do we measure the impact we have had in Kinango when our key metrics of agroforestry show little change to the plant density, only 20% increased yields? It's clear the quality of life has improved for Nadzua and her neighbors. They no longer have bad-blood due to uncleared debts but most importantly, they have hope and trust more in eachother. A seed was planted in this community. New agricultural practices facilitated by CICs help groups pay for and value their own labor and grow food in areas they had given up on. The lack of water can be curbed by water catchment, mulching and growing grasses in the system to ensure even the morning dew can be collected on the blades of grass. Most importantly, there is a cushion in times when the little money they do have, isn't enough because of the trust they are building in eachother. 
+How do we measure the impact we have had in Kinango when our key metrics of agroforestry show little change to the plant density, only 20% increased yields? It's clear the quality of life has improved for Nadzua and her neighbors. They no longer have bad-blood due to uncleared debts but most importantly, they have hope and trust more in each other. A seed was planted in this community. New agricultural practices facilitated by CICs help groups pay for and value their own labor and grow food in areas they had given up on. The lack of water can be curbed by water catchment, mulching and growing grasses in the system to ensure even the morning dew can be collected on the blades of grass. Most importantly, there is a cushion in times when the little money they do have, isn't enough because of the trust they are building in each other. 
