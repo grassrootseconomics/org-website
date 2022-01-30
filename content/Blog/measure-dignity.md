@@ -1,9 +1,9 @@
-Title: Measuring Dignity
+Title: How do you measure dignity?
 Author: Shaila Agha
 Date: January 29 2022
 Modified: January 29 2022
 Slug: measure-dignity
-Summary: How do you measure dignity?
+Summary: "[Sarafu] gives us our confidence back, because now you have dignity in your community. You can walk into a shop and no longer have to cower and beg the shopkeeper to give you credit."
 
 Tags: dignity, desertification, impact, trust
 
