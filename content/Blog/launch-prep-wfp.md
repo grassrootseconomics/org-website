@@ -32,7 +32,7 @@ Above is a photo of the Great vision group with samples of goods they carried to
 These groups are practicing and developing ways similar to ancient practices in order to share and trade their resources among each other fairly even when the national currency is  scarce. They are currently in the process of creating their own vouchers which will be backed by goods and services each member commits. We are really excited to learn how people in Kitui East will own and utilize these tools.
 
 
-![image](images/blog/launch-prep-wfp2.webp)
+![image](images/blog/launch-prep-wfp3.webp)
 
 Another success story is from Mr Richard Matibo, posho mill owner and a member of the Great Vision group. He is happy to have attended two Sarafu-Network training sessions and gained lots of knowledge. As part of the training period, currently Mr Richard’s milling charges are 10 Sarafu for 1kg millet and 5 Sarafu for 1kg of maize; the rest of the balance can be paid in KSH.
 
