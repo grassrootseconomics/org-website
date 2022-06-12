@@ -37,3 +37,5 @@ Moving from credit scarcity to locally created credit abundance. Is something we
 Myself with my mentor and friend Mwalimu Musheshe
 
 For more information on Mwalimu Musheshe and Uganda Rural Development & Training visit [URDT](https://urdt.net/). We're grateful for [Mustardseed Trust](https://www.mustardseedtrust.org/) for bringing together this match made in heaven.
+
+I'm really excited about further collaboration between Grassroots Economics and URDT in developing a shared vision toward community driven regenerative economics.
