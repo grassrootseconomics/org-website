@@ -11,23 +11,23 @@ Tags: vision, mutual credit, abundance
 
 Inspired by Mwalimu Musheshe after a visit to his community in Uganda, I've remembered this week to not focus on problems or problem solving. Instead focus on and describe our vision - then the structural tension between the current situation and that vision.
 
-In Kagadi Uganda I witnessed communities surrounded by lush green hills, plantains, cassava, and maize close to harvest. I could see clearly a vision of each community as a mountain of wealth, producing: food, soil, shelter, care, ideas, training, art, joy... now and for generations to come.
+In Kagadi Uganda I witnessed communities surrounded by lush green hills, plantains, cassava, and maize close to harvest. I could see clearly a vision of each community as a mountain of wealth, producing layer opton layer of food, soil, shelter, care, ideas, training, art, joy... now and for generations to come.
 
-I could see these mountains not in isolation, but in a vast mountain range all connected to each other.
+I could see these mountains of service, not in isolation, but in a vast mountain range all connected to each other.
 
-In this vision communities are empowered to collectively measure and manifest the value of these etheric mountains of service provided by people and communities into the future – tapping into their abundance of vast expansive regenerative wealth.
+In this vision communities are empowered to collectively measure and manifest the value of these etheric mountains of service provided by people and communities into the future – tapping into their abundance of vast expansive regenerative wealth. 
 
-Trust in this value, denominated in teaching and farming hours, plantains, eggs, etc., is witnessed and accredited by local stakeholders and recorded into a ledger  so that credit can be shared. This shared trust is the basis for a caring economy for generations to come. 
+Trust in this value, denominated in teaching and farming hours, plantains, eggs, etc., rather than shillings, is witnessed and accredited by local stakeholders and recorded into a ledger so that credit can be shared. This shared trust is the basis for a caring economy for generations to come. 
 
 ![image](images/blog/musheshe-vision2.webp)
 
-The current reality is that people's value is only measured based on how much they can sell their daily services in national currency. Which is extremely limited - rarely will anyone be given credit against their future and communities have to struggle often against each other.
+The current reality is that people's value is only measured based on how much they can sell their daily services in national currency. Which is extremely limited - rarely will anyone be given credit against their future and communities have to struggle often against each other. Traditional markets have existed since befor we had written history - since these traditional societies were forced to only use national currency to both value their services and trade - cash-poor community markets often stagnate.
 
-The structural tension between our current reality and this vision, involves communities able to collectively value, record and certify their mountains of future service. 
+The structural tension between our current reality and this vision, involves communities able to collectively value, record and certify their mountains of future service without dependency. 
 
 Rather than only saving scarce national currency and being rejected by banks to receive credit, can a family with 1 acre of land and services they offer be accredited by their community as trust worthy and develop a credit among their their neighbors, local schools and clinics? 
 
-Yes they can.
+**Yes they can.**
 
 ![image](images/blog/musheshe-vision3.webp)
 
