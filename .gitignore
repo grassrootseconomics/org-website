@@ -8,3 +8,4 @@ node_modules/
 standalone-deploy/data/certbot
 .idea/
 public/
+*~
