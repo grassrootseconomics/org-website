@@ -70,10 +70,11 @@ CICs are a form of collective organization (aka DAO), where a group creates an [
 
 ## Curriculum development
 
-While we’ve started to fill-out our documentation site, we’re developing and compiling a certification course together with Mustard Seed Stust, URDT/ARU and Alison Malisa - that people around the world can take to become Grassroots Economists.
+While we’ve started to fill-out our documentation site, we’re developing and compiling a certification course together with Mustard Seed Trust, URDT/ARU and Alison Malisa - that people around the world can take to become Grassroots Economists.
 
 ### Watch this space!!!!
 
 * Join our [Discord chat server!](https://discord.gg/s27jcbP3)
+* Read recent [research papers](https://grassecon.org/pages/research.html) 
 * Check out a recent [video](https://www.youtube.com/watch?v=zNfJWXvezIk) of our work!
 * Special thanks to the whole team and greater community that's made this year awesome so far!
