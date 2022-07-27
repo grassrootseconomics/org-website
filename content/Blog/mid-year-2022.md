@@ -40,7 +40,7 @@ Baraka group’s introduction and use of their Baraka vouchers has created a mul
 ![image](images/blog/31currencies5.webp)
 *Above: Baraka Group going through training on how to fill financial journals.*
 
-We also came across Francis in Zombe, Kitui. Francis was so happy about the impact we are creating in his community. Francis’ mother is a member of a group in Voo town. He stated that his mother can now get basic needs met easily and she no longer has to go through debt stress (economic trauma) as she can easily exchange her goods and services with her network using their voucher. Francis joined us in one of our field visits and is hoping to join Grassroots Economics Foundation as a Grassroots Economics to help in creating more impacts in Kitui and other communities in Kenya.
+We also came across Francis in Zombe, Kitui. Francis was so happy about the impact we are creating in his community. Francis’ mother is a member of a group in Voo town. He stated that his mother can now get basic needs met easily and she no longer has to go through debt stress (economic trauma) as she can easily exchange her goods and services with her network using their voucher. Francis joined us in one of our field visits and is hoping to join Grassroots Economics Foundation as a Grassroots Economist to help in creating more impacts in Kitui and other communities in Kenya.
 
 We have since seen a tremendous increase in trades in all the 14 groups and this is credited to chama members owning the vouchers and sharing their abundance as a group and externally to their communities at large.
 
@@ -49,9 +49,13 @@ We have since seen a tremendous increase in trades in all the 14 groups and this
 
 The use of vouchers has also restored trust in groups that had fallen off due to group dynamics and differences like Umisyo in Endau chama where members have been pulled back together through the support that they get from using their vouchers together. 
 
-We had a few groups like Umisyo, Mumo and Great Vision that took a long time to master the use of the digital system (USSD) or lagged behind due to lack of trust and weekly meetups. The field team therefore introduced an exchange programme where top performing groups visited the struggling ones to share their best practices which included;
-Use of vouchers on a daily basis without being supervised.
-Having weekly market days where they trade in their goods and services using their vouchers.
+We had a few groups like Umisyo, Mumo and Great Vision that took a long time to master the use of the digital system (USSD) or lagged behind due to lack of trust and weekly meetups. The field team therefore introduced an exchange programme where top performing groups visited the struggling ones to share their best practices which included:
+
+* Use of vouchers on a daily basis.
+* Having weekly market days where they trade in their goods and services using their vouchers.
+* Settlement of voucher balances. Helping those with high balances reduce them and those with low balances increase them.
+* Working with community outside the issuing group to accept and trade their vouchers as a medium of exchange.
+ 
 They have explained and trained other members of their community on CIC usage and have registered at least 5 new users per person therefore expanding their networks.
 They’ve owned the project and take it seriously.
 This has led to a great improvement in the groups that were lagging behind and they've since improved their local market stability. The groups also received training on filling financial journals and Regenerative Agriculture.
@@ -70,6 +74,6 @@ While we’ve started to fill-out our documentation site, we’re developing and
 
 ### Watch this space!!!!
 
-*. Join our [Discord chat server!](https://discord.gg/s27jcbP3)
-*. Check out a recent [video](https://www.youtube.com/watch?v=zNfJWXvezIk) of our work!
-*. Special thanks to the whole team and greater community that's made this year awesome so far!
+* Join our [Discord chat server!](https://discord.gg/s27jcbP3)
+* Check out a recent [video](https://www.youtube.com/watch?v=zNfJWXvezIk) of our work!
+* Special thanks to the whole team and greater community that's made this year awesome so far!
