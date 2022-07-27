@@ -46,7 +46,7 @@ MENUITEMS = (
     ('Research', '/pages/research.html'),
     ('Get Involved', '/pages/get-involved.html'),
     ('Media', '/pages/media.html'),
-    ('Dashboard', '/pages/dashboard.html'),
+    ('Dashboard', 'https://dashboard.sarafu.network'),
     ('MOOC', '/pages/mooc.html'),
     ('Contact us', '/pages/contact-us.html')
 
