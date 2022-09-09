@@ -42,4 +42,4 @@ Join the unSafari!
 1. Please RSVP and mention your interest for each day, so we can plan for local transport and boxed lunches. unsafari@grassecon.org
 2. Transport to our Grassroot Economics headquarters (HQ) - near Supreme Petrol Station, south of Kilifi bridge. Call us for directions +254757628885
 2. Please get a Safaricom sim card - this will be used to access blockchain based vouchers.
-4. While these events will be free of charge we recommend donations via crypto to [support the cause](https://giveth.io/project/grassroots-economics-community-currency)
+4. While these events will be free of charge we recommend donations via crypto to [support the cause](https://giveth.io/project/grassroots-economics-community-currency) (Note that lunches at Food Movement are not free!)
