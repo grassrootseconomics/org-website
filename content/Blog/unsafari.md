@@ -11,8 +11,9 @@ Tags: ethsafari, safari, Kilifi, unsafari, community
 ![image](images/blog/unsafari1.webp)
 
 Sadly a Safari in Kenya is generally an elite activity to see wildlife which often ignores communities on the ground. The cost for a tourist’s ticket and travel represents months to years worth of income for most people living here in Kenya. We aim to unSafari [ETHSafari](https://ethsafari.xyz/) so they do not make the mistake of ignoring local communities and their efforts toward blockchain integration of economic commons.
-We would love to encourage attendees to participate in learning from and supporting local blockchain based economies by experiencing how members of different communities here in Kilifi are implementing digital tokens to make an economic difference. unSafari participants can interact with local blockchain vouchers from community members.
-Join the unSafari! 
+We would love to encourage attendees to participate in learning from and supporting local blockchain based economies by experiencing how members of different communities here in Kilifi are implementing digital tokens to make an economic difference. unSafari participants can interact with local blockchain vouchers from community members. Watch this [short video](https://youtu.be/BNJoBpHxTjA) about it!
+
+**Join the unSafari!**
 
 
 ![image](images/blog/unsafari2.webp)
