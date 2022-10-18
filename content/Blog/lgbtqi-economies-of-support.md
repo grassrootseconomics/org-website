@@ -1,5 +1,5 @@
 Title: LGBTQI+ Economies of Support
-Author: IsavaryIsavary Khabuqwi
+Author: Isavary Khabuqwi
 Date: Oct 18 2022
 Modified: Oct 18 2022
 Slug: lgbtqi
