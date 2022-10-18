@@ -12,3 +12,4 @@ six==1.15.0
 smartypants==2.0.1
 typogrify==2.0.7
 Unidecode==1.2.0
+importlib-metadata==4.13.0
