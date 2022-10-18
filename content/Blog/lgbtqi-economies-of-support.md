@@ -3,7 +3,7 @@ Author: IsavaryIsavary Khabuqwi
 Date: Oct 18 2022
 Modified: Oct 18 2022
 Slug: lgbtqi
-Summary: A long time ago - before there was ‘money’ in the form of national currencies, there was *credit*. Specifically promises, commitments, agreements, vouchers, IOUs, and in general trust. These older forms of credit are still all around us! We interact with credit in so many ways in our life – they might as well be the invisible air we are breathing. But once you start learning to spot credit you will seeeeee it everywhere.
+Summary: **The LGBTQI+ Community is Abundant** but cash is not. How can we create economies of support?
 
 Tags: trust, credit, baskets
 
@@ -14,7 +14,7 @@ The gap between those who openly seek healthcare services and those who don’t 
 
 **Answer**: By educating ourselves and empowering each other on the reality of creating a supportive and inclusive Economic Commons, as is the case with Malindi Desire Initiative's voucher (MDI). The Malindi Desire Initiative community created digital voucher on a blockchain called MDI redeemable for their collective goods and services. They have understood the concept of mutual commitment and support enough to integrate the acceptance of their MDI Vouchers inorder to encourage those infected and affected by HIV to actively and openly seek healthcare services. 
 
-**THE LGBTQI+ Community is Abundant** but cash is not.
+**The LGBTQI+ Community is Abundant** but cash is not.
 
 **Integration of CIC-Vouchers into Healthcare Provision**
 
