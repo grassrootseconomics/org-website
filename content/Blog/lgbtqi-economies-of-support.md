@@ -5,7 +5,7 @@ Modified: Oct 18 2022
 Slug: lgbtqi
 Summary: **The LGBTQI+ Community is Abundant** but cash is not. How can we create economies of support?
 
-Tags: trust, credit, baskets
+Tags: LGBTQIA, Queer, HIV
 
 
 The gap between those who openly seek healthcare services and those who don’t due to fear of stigamisation and discrimination keeps increasing. These forms of disparities cause communities of people living below the poverty line to remain at most risk of contracting HIV based on practices of sex exchange for money and/or food, adding to HIV prevalence. This is especially true given the economic challenges faced by individuals following the Covid-19 period. So how can we utilise on the model of a sharing economy or Economic Commons, as presented by blockchain technology and community building, to mitigate the serious consequences of sexual abuse and exploitation?
