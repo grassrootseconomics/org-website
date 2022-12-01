@@ -5,7 +5,7 @@ Modified: Dec 1 2022
 Slug: celo-ge
 Summary:  There is no other EVM chain (on which our software stack is built) that has agreed to let us be part of the infrastructure or has the last mile solutions, community and liquidity Celo offers.
 
-Tags: Celo, blockchain, EVM, Ethereum, humanitarian, guarentees, validation node, gas fees, liquidity, comunity, migration
+Tags: Celo, blockchain, EVM, Ethereum, humanitarian, validation node, gas fees, liquidity, community, migration
 
 ![image](images/blog/celo-ge1.webp)
 
@@ -18,7 +18,7 @@ As a non-profit foundation with the vision of supporting communities in developi
 * 2015 - We then started going digital in 2015 using USSD/SMS and a SQL database in order to save costs on printing and handling large amounts of paper bills and also to build more accountability for the voucher systems. 
 * 2018 - Rather than depend on our own database - we moved in 2018 to the POA blockchain. We wanted to have a network of servers that would provide immutable accounting and resilience. 
 * 2019 - We moved to xDAI (now Gnosis chain)  because the gas prices on POA were too volatile.
-* 2021 - We moved to Kitabu  (Our own PoA EVM sidechain built on OpenEthereum) because xDAI moved to a POS system and we could not afford to run a validation node inorder to guarantee fees.
+* 2021 - We moved to Kitabu  (Our own PoA EVM sidechain built on OpenEthereum) because xDAI moved to a POS system and we could not afford to run a validation node in order to guarantee fees.
 * 2022 - We are currently working on a move to Celo. **Why?**
 
 **Why Celo?**
@@ -29,7 +29,7 @@ As a non-profit foundation with the vision of supporting communities in developi
 2. **Validator node.** Running a validation node allows GE to be part of the Celo infrastructure and to cover gas costs for the foreseeable future while benefiting from the security and decentralization of a large public chain i.e. Celo as compared to our existing self hosted private chain. We’ve been asking chains to help us with running and/or staking on a validation node, for years, so that we can guarantee gas to users. This is the first time a public chain has accepted our request to become part of their infrastructure and offer free services to marginalized communities as a humanitarian solution and means that we can be part of the Celo community of service providers.
 3. **On chain liquidity** that aligns with our future roadmap of liquidity pools. Meaning we can research how to help voucher issuing communities connect safely to larger markets, and other products.
 4. **EVM ready.** Less time relearning a new Blockchain tech as we can apply our existing experience in quickly porting our stack to Celo. Our open source code base is based on Ethereum Virtual Machine (EVM) which can easily be used on Celo.
-5. **Eco-system dApp and partners.** Groups like Kolectivo, Ethics Hub and many more have built products on Celo that we can use now. 
+5. **Eco-system dApp and partners.** Groups like [Kolektivo](https://kolektivo.network/), [Ethics Hub](https://www.ethichub.com/en/) and many more have built products on Celo that we can use now. 
 6. **OpenEthereum is no longer supported** and we are not ready to run our tech stack on Cosmos or other non-EVM protocols immediately.
 7. **Cosmos Compatibility.** Latest fork of Celo is compatible with the Cosmos cross blockchain layer, which allows us to continue to leverage and support the relationships we have there
 
