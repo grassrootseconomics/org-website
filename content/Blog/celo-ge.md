@@ -1,7 +1,6 @@
 Title: Why we’ve chosen Celo as a Humanitarian Blockchain
 Author: Will Ruddick
 Date: Dec 1 2022
-Modified: Dec 1 2022
 Slug: celo-ge
 Summary:  There is no other EVM chain (on which our software stack is built) that has agreed to let us be part of the infrastructure or has the last mile solutions, community and liquidity Celo offers.
 
