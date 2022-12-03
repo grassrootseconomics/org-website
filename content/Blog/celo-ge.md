@@ -1,4 +1,4 @@
-Title: Why we’ve chosen Celo as a Humanitarian Blockchain
+Title: Why Celo
 Author: Will Ruddick
 Date: Dec 1 2022
 Slug: celo-ge
