@@ -22,7 +22,7 @@ If we think of mutual aid as a form of social contract or *promise* that is re-a
 
 Experimenting with digital forms of *Mweria* is what thousands of Kenyans are doing right now. Groups can also have a Mweria among groups! Where different villages can support one another and track reciprocity. We’ve seen 3,958 transaction among and between groups last week and they look like this https://viz.sarafu.network:
 
-![image](images/blog/mweria2.webp)
+![image](images/blog/mweria3.webp)
 
 So rather than purely a merry-go-round cycle that depends on national currency groups in Kenya using voucher/CICs are able to account for mutual aid without scarce Kenyan money while also using these vouchers as both a medium of exchange and crowd-funding tool. For instance groups are using vouchers a way to track who from the chama is working on communal farms (as in the first image). 
 
