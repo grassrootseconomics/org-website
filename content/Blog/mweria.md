@@ -20,7 +20,7 @@ This integrates the modern money-based merry-go-round with the older *Mweria* an
 
 If we think of mutual aid as a form of social contract or *promise* that is re-assignable (meaning that the voucher issuers are still liable for redeeming it but anyone can hold it as an asset) – then the *Mweria* becomes a form of group-promise which can be used for both crowd funding and a medium of exchange. When incorporating demurrage (holding taxes) into the social contract, groups also have a way to ensure that no one person accumulates too many vouchers – since a percentage of voucher holdings come back to a community fund over time. Note that the usage of promisses (social contracts or vouchers) which can be made, accepted create a trust based economic system which we often call an economic commons.
 
-Experimenting with digital forms of *Mweria* is what thousands of Kenyans are doing right now. Groups can also have a Mweria among groups! Where different villages can support one another and track reciprocity. We’ve seen 3,958 transaction among and between groups last week and they look like this https://viz.sarafu.network:
+Experimenting with digital forms of *Mweria* is what thousands of Kenyans are doing right now. Groups can also have a Mweria among groups! Where different villages can support one another and track reciprocity. We’ve seen 3,958 transaction among and between groups last week and they look like [this](https://viz.sarafu.network):
 
 ![image](images/blog/mweria3.webp)
 
