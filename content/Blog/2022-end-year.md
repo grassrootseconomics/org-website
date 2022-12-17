@@ -12,7 +12,7 @@ This year has been amazing – Rising up out of extreme challenges in 2020 and 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BNJoBpHxTjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In April we got up and running on Kitabu-Blockchain – and are currently preparing for a long migration to Celo next year.  After 520 code commits and 58,368 lines of code, our open source repos (among other things like dashboards) enable people without internet to access a blockchain and create and trade credit obligations (vouchers/CICs). User interact with their accounts via a USSD system (similar to SMS) and this year we’ve seen 204,598 USSD sessions! These sessions include, balance checks, changing pins, setting names, making transactions and so on.
+In April we got up and running on Kitabu-Blockchain – and are currently preparing for a long term migration to [Celo](https://grassecon.org/celo-ge) next year.  After 520 code commits and 58,368 lines of code, our open source repos (among other things like dashboards) enable people without internet to access a blockchain and create and trade credit obligations (vouchers/CICs). User interact with their accounts via a USSD system (similar to SMS) and this year we’ve seen 204,598 USSD sessions! These sessions include, balance checks, changing pins, setting names, making transactions and so on.
 
 Using this technology as well as legal and implementation frameworks, we’ve helped marginalized communities launch 61 unique CICs since April – among 5,221 users who traded 66,291 times a volume of 62,000 USD worth of vouchers between each other for [traditional practices](https://www.grassrootseconomics.org/mweria), mutual support, commerce and financing. These 61 CICs were issued primarily by women’s savings groups, but also churches, queer communities, village elders, youth groups and farmers associations. While we have an amazing admin, tech and field team at Grassroots Economics that are really all pioneering Grassroots Economists - we did not accomplished this alone!
 
@@ -29,7 +29,7 @@ This has been our first non-chama based social enterprise to develop their own v
 
 *Kenya Red Cross - Refugees and IDPs*
 
-Bringing the concept of CICs to [refugees and IDPs](https://twitter.com/icha_krc/status/1598643609770856450) around Kenya. This is our third program with Kenya Red Cross’s innovation team and we’re really moved far together – developing a program quality toolkit that shapes our programs to date.
+Bringing the concept of CICs to [refugees and IDPs](https://twitter.com/icha_krc/status/1598643609770856450) around Kenya. This is our third program with Kenya Red Cross’s innovation team and we’re really moved far together – developing a program quality toolkit that shapes our programs to date. Learnings from our partnership with Kenya Red Cross have convinced us to close any form of airdropping foreign tokens - and simply focus on community groups creating their [own vouchers](https://forms.gle/tFtJDPf4D4x5a3Cd7).
 
 **World Food Program – Kitui RCT**
 
@@ -50,3 +50,9 @@ Together with [Mustard Seed Trust](https://www.mustardseedtrust.org) we worked r
 **OneProject – Traditional wisdom and movement building**
 
 While we’ve developed a framework around Economic Commons utilizing CICs as a collective instrument – [One Project](https://oneproject.org) has encouraged us to look more holistically across many types of community resources: governance, social, human, physical, natural and economic. Together we’ve been learning from local [traditional wisdom](https://www.grassrootseconomics.org/mweria) on the same and working to find more voice for indigenous people and ancient practices. We are looking forward to putting these concept into practice in 2023 as we co-design a next generation of Integral Commons.
+
+**Want to get involved?**
+
+1. Encourage people to create their [own vouchers](https://forms.gle/tFtJDPf4D4x5a3Cd7) in Kenya, Cameroon or Sourth Africa
+2. Join us to discuss, research, code and [chat](https://discord.gg/9VmmyBjYc3).
+3. [Support our work!](https://giveth.io/project/grassroots-economics-community-currency) - This helps us pay for our non-profit staff, technology and research. 
