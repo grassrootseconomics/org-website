@@ -17,8 +17,7 @@ In April we got up and running on Kitabu-Blockchain – and are currently prepar
 Using this technology as well as legal and implementation frameworks, we’ve helped marginalized communities launch 61 unique CICs since April – among 5,221 users who traded 66,291 times a volume of 62,000 USD worth of vouchers between each other for [traditional practices](https://www.grassrootseconomics.org/mweria), mutual support, commerce and financing. These 61 CICs were issued primarily by women’s savings groups, but also churches, queer communities, village elders, youth groups and farmers associations. While we have an amazing admin, tech and field team at Grassroots Economics that are really all pioneering Grassroots Economists - we did not accomplished this alone!
 
 ![image](images/blog/2022recap2.webp)
-
-I’m really proud of how the tech, legal and implementation system have been improved and utilized by some amazing partners:
+Above you can see the number of daily transaction across Kenya, SA and Cameroon. I’m really proud of how the tech, legal and implementation system have been improved and utilized by some amazing partners:
 
 **Koornzaayer Foundation – LGBTQIA+ Economies of Support – Malindi**
 
@@ -50,4 +49,4 @@ Together with [Mustard Seed Trust](https://www.mustardseedtrust.org) we worked r
 
 **OneProject – Traditional wisdom and movement building**
 
-While we’ve developed a framework around Economic Commons utilizing CICs as a collective instrument – [https://oneproject.org](One Project) has encouraged us to look more holistically across many types of community resources: governance, social, human, physical, natural and economic. Together we’ve been learning from local [traditional wisdom](https://www.grassrootseconomics.org/mweria) on the same and working to find more voice for indigenous people and ancient practices. We are looking forward to putting these concept into practice in 2023 as we co-design a next generation of Integral Commons.
+While we’ve developed a framework around Economic Commons utilizing CICs as a collective instrument – [One Project](https://oneproject.org) has encouraged us to look more holistically across many types of community resources: governance, social, human, physical, natural and economic. Together we’ve been learning from local [traditional wisdom](https://www.grassrootseconomics.org/mweria) on the same and working to find more voice for indigenous people and ancient practices. We are looking forward to putting these concept into practice in 2023 as we co-design a next generation of Integral Commons.
