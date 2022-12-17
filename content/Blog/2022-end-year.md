@@ -12,7 +12,7 @@ This year has been amazing – Rising up out of extreme challenges in 2020 and 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BNJoBpHxTjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In April we got up and running on Kitabu-Blockchain – and are currently preparing for a long term migration to [Celo](https://grassecon.org/celo-ge) next year.  After 520 code commits and 58,368 lines of code, our open source repos (among other things like dashboards) enable people without internet to access a blockchain and create and trade credit obligations (vouchers/CICs). User interact with their accounts via a USSD system (similar to SMS) and this year we’ve seen 204,598 USSD sessions! These sessions include, balance checks, changing pins, setting names, making transactions and so on.
+In April we got up and running on Kitabu-Blockchain – and are currently preparing for a long term migration to [Celo](https://grassecon.org/celo-ge) next year. Largley through the support of the [Interchain Foundation](https://interchain.io/), after 520 code commits and 58,368 lines of code, our open source repos (among other things like dashboards) enable people without internet to access a blockchain and create and trade credit obligations (vouchers/CICs). User interact with their accounts via a USSD system (similar to SMS) and this year we’ve seen 204,598 USSD sessions! These sessions include, balance checks, changing pins, setting names, making transactions and so on.
 
 Using this technology as well as legal and implementation frameworks, we’ve helped marginalized communities launch 61 unique CICs since April – among 5,221 users who traded 66,291 times a volume of 62,000 USD worth of vouchers between each other for [traditional practices](https://www.grassrootseconomics.org/mweria), mutual support, commerce and financing. These 61 CICs were issued primarily by women’s savings groups, but also churches, queer communities, village elders, youth groups and farmers associations. While we have an amazing admin, tech and field team at Grassroots Economics that are really all pioneering Grassroots Economists - we did not accomplished this alone!
 
@@ -27,7 +27,7 @@ Focusing on queer communities has been a pleasure. Seeing a group of people able
 
 This has been our first non-chama based social enterprise to develop their own voucher. We’re grateful they took the leap and are starting to strengthen their [Green Heart of Kenya](https://www.greenheartofkenya.com/) community by selling, giving, trading their [FOMO voucher](https://www.instagram.com/the.food.movement/?hl=en).
 
-*Kenya Red Cross - Refugees and IDPs*
+**Kenya Red Cross - Refugees and IDPs**
 
 Bringing the concept of CICs to [refugees and IDPs](https://twitter.com/icha_krc/status/1598643609770856450) around Kenya. This is our third program with Kenya Red Cross’s innovation team and we’re really moved far together – developing a program quality toolkit that shapes our programs to date. Learnings from our partnership with Kenya Red Cross have convinced us to close any form of airdropping foreign tokens - and simply focus on community groups creating their [own vouchers](https://forms.gle/tFtJDPf4D4x5a3Cd7).
 
