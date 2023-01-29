@@ -19,10 +19,13 @@ This modern shillings merry-go-round has over the years also broken or slowed du
 It is due to this that the groups have started to introduce Community Inclusion Currencies (CICs aka Community Vouchers) in chamas as a promise of labor to be used instead of scarse national currency. Several groups in Kenya are currently undergoing detailed training on the same with some leading the way. Three groups in Kinango, Kwale and 1 in Kilifi have already started off their groups in CIC Merry-go-rounds.
 
 CIC Merry-go-rounds are essential in these communities in that;
-*. It is critical for an increase in the production of locally available resources and can be done without national currency. They can build assets, like homes and farms through a mutual credit.
-*. Creates bond between community members and builds trust within the community members as a promise of support from the members.
-*. The [digital system](https://viz.sarafu.network) builds accountability and the vouchers can be used cosmo-locally - both for Merry-go-round and for markets when people miss a cycle. The Merry-Go-Rounds can also connect to eachother as villages combine work on larger tasks.
 
+<ul>
+<li> It is critical for an increase in the production of locally available resources and can be done without national currency. They can build assets, like homes and farms through a mutual credit.
+<li> It creates bond between community members and builds trust within the community members as a promise of support from the members.
+<li> The digital system  builds accountability and the vouchers can be used cosmo-locally - both for Merry-go-round and for markets when people miss a cycle. The Merry-Go-Rounds can also connect to eachother as villages combine work on larger tasks.
+</ul>
+[Sarafu Network Viz](https://viz.sarafu.network)
 
 ![image](images/blog/trad-regen2.webp)
 
