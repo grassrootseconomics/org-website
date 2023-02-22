@@ -38,8 +38,8 @@ For more information about the project or Grassroots Economics Foundation, pleas
 
 Also watch these videos to learn more:
 
-*. [Grassroots Economics CIC explainer](https://youtu.be/P5WZavo468g). (10 Minutes)
-*. [Organic continuation of Trainers of Trainers](https://youtu.be/Q3O6-9MlL_4) (4 Minutes)
+1. [Grassroots Economics CIC explainer](https://youtu.be/P5WZavo468g). (10 Minutes)
+2. [Organic continuation of Trainers of Trainers](https://youtu.be/Q3O6-9MlL_4) (4 Minutes)
 
 **About Grassroots Economics Foundation**
 
