@@ -33,7 +33,7 @@ Two Universities were involved in the RCT design and data analysis - University 
 
 ‘This pilot explored the strong potential of localized, DLT powered community currencies to complement humanitarian and development assistance programs and build resilience of traditionally excluded people from financial systems. I look forward to seeing the continued growth and adoption of such approaches.’ -Sarah Hulbert, WFP Innovation Accelerator
 
-For more information about the project or Grassroots Economics Foundation, please visit our website https://grassecon.org or contact us at info@grassecon.org.
+For more information about the project or Grassroots Economics Foundation, please visit our [website](https://grassecon.org) or contact us at info@grassecon.org.
 
 
 Also watch these videos to learn more:
