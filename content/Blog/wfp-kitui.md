@@ -8,7 +8,7 @@ Tags: WFP, World Food Programme, RCT, Study, Kenya, Food Security
 
 **Grassroots Economics Foundation Study of Community Inclusion Currencies (CIC) in Rural Kenya; pilot conducted in collaboration with the World Food Programme Innovation Accelerator.**
 
-Kilifi, Kenya - Grassroots Economics Foundation is proud to announce the successful implementation of a project evaluating the use of Community Inclusion Currencies (CIC) with Distributed Ledger Technologies (DLT) in rural Kenya. The project aimed to decentralize and empower mutual credit issuance and exchange in Village Savings and Loans Associations (VSLAs). This project was supported through the World Food Programme (WFP) Innovation Accelerator’s Sprint Program and conducted jointly with WFP’s Kenya Country Office.
+Kilifi, Kenya - Grassroots Economics Foundation is proud to announce the successful implementation of a project evaluating the use of Community Inclusion Currencies (CIC) with Distributed Ledger Technologies (DLT) in rural Kenya. The project aimed to decentralize and empower mutual credit issuance and exchange in Village Savings and Loans Associations (VSLAs). This project was supported through the World Food Programme (WFP) Innovation Accelerator’s Sprint Program.
 
 Over eight months, the Foundation worked with three cohorts of VSLAs: control groups, groups that received cash and training, and CIC groups who received cash, CICs, and training. The results of the project showed the CIC cohort reporting a higher overall increase in diet diversity, food consumption, and savings compared to the other cohorts. Additionally, the CIC cohort showed a significant increase in local spending and development of farm assets and were less negatively impacted by chronic drought than the other cohorts.
 
@@ -39,7 +39,7 @@ For more information about the project or Grassroots Economics Foundation, pleas
 Also watch these videos to learn more:
 
 1. [Grassroots Economics CIC explainer](https://youtu.be/P5WZavo468g). (10 Minutes)
-2. [Organic continuation of Trainers of Trainers](https://youtu.be/Q3O6-9MlL_4) (4 Minutes)
+2. [Organic continuation of Trainers of Trainers](https://youtu.be/Q3O6-9MlL_4). (4 Minutes)
 
 **About Grassroots Economics Foundation**
 
