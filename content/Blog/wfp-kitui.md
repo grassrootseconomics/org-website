@@ -1,8 +1,8 @@
-Title: Transforming Economies through Community Inclusion Currencies
+Title: Transforming Rural Economies in Kenya: Grassroots Economics and WFP's Game-Changing Approach to Poverty Alleviation
 Author: Will Ruddick
-Date: Feb 22 2023
+Date: March 2 2023
 Slug: wfp-kitui
-Summary:  ‘This pilot explored the strong potential of localized, DLT powered community currencies to complement humanitarian and development assistance programs and build resilience of traditionally excluded people from financial systems. I look forward to seeing the continued growth and adoption of such approaches.’ -Sarah Hulbert, WFP Innovation Accelerator
+Summary:  **Talib Mutogi**, the Kitui-East area Chief praised the project, saying, *"Mumo vouchers (CIC) have changed the lives of the people in my community. I'm happy to see people meet every week to trade using vouchers, creating trust amongst them. I'm grateful for the project and it's my prayer that it continues for the benefit of this community."*
 
 Tags: WFP, World Food Programme, RCT, Study, Kenya, Food Security
 
@@ -16,7 +16,6 @@ Over eight months, the Foundation worked with three cohorts of VSLAs: control gr
 
 Above are DLT (blockchain) facilitated and recorded transactions with each color representing a different CIC (Also called a Community Asset Voucher and given unique local names by each village) and each dot being a user and each line a volume of transactions. An interactive visualization can be found [here](https://viz.sarafu.network).
 
-
 ![image](images/blog/wfp-kitui2.webp)
 
 
@@ -25,13 +24,11 @@ The CICs were used by groups to pay for labor and inputs on collective farms usi
 
 ![image](images/blog/wfp-kitui3.webp)
 
-Talib Mutogi, the Kitui-East area Chief (pictured above) took part in an economic mapping exercise, praised the project, saying, "Mumo vouchers (CIC) have changed the lives of the people in my community. I'm happy to see people meet every week to trade using vouchers, creating trust amongst them. I'm grateful for the project and it's my prayer that it continues for the benefit of this community."
+**Talib Mutogi**, the Kitui-East area Chief (pictured above) took part in an economic mapping exercise, praised the project, saying, *"Mumo vouchers (CIC) have changed the lives of the people in my community. I'm happy to see people meet every week to trade using vouchers, creating trust amongst them. I'm grateful for the project and it's my prayer that it continues for the benefit of this community."*
 
-Elizabeth Kavutha, from the Baraka Group in Zombe, Kitui, also expressed her appreciation for the project, saying, "I thank Grassroots Economics Foundation for the support they have given us in creating our own voucher (CIC). So many members of my community would go hungry or have one meal a day because of the hardship that we go through. Now that we have our vouchers, things have been easy as we can exchange our goods and services without Shillings. This is a support that is long term and we are looking forward to expanding our networks by registering more members to our network."
+**Elizabeth Kavutha**, from the Baraka Group in Zombe, Kitui, also expressed her appreciation for the project, saying, *"I thank Grassroots Economics Foundation for the support they have given us in creating our own voucher (CIC). So many members of my community would go hungry or have one meal a day because of the hardship that we go through. Now that we have our vouchers, things have been easy as we can exchange our goods and services without Shillings. This is a support that is long term and we are looking forward to expanding our networks by registering more members to our network."*
 
 Two Universities were involved in the RCT design and data analysis - University of Tel Aviv and Central European University. Preliminary results from spending journal analysis shows the CICs spreading from 14 villages to over 700 villages in the region. The Grassroots Economics Foundation is excited to continue working with communities in Kenya and beyond to create sustainable and inclusive economic systems.
-
-‘This pilot explored the strong potential of localized, DLT powered community currencies to complement humanitarian and development assistance programs and build resilience of traditionally excluded people from financial systems. I look forward to seeing the continued growth and adoption of such approaches.’ -Sarah Hulbert, WFP Innovation Accelerator
 
 For more information about the project or Grassroots Economics Foundation, please visit our [website](https://grassecon.org) or contact us at info@grassecon.org.
 
@@ -49,8 +46,8 @@ Grassroots Economics is a non-profit foundation that aims to empower marginalize
 
 The WFP Innovation Accelerator sources, supports, and scales high-impact innovations to achieve Zero Hunger. Through the Accelerator, WFP is leveraging unprecedented advances in digital innovation — such as mobile technology, artificial intelligence, big data, and blockchain — and new business models to transform the way we serve vulnerable communities across the world. WFP was awarded the 2020 Nobel Peace Prize "for its efforts to combat hunger, for its contribution to bettering conditions for peace in conflict-affected areas and for acting as a driving force in efforts to prevent the use of hunger as a weapon of war and conflict." 
 
-Website: https://innovation.wfp.org 
-LinkedIn: https://www.linkedin.com/showcase/wfp-innovation 
-Twitter: @wfpinnovation
+1. Website: [https://innovation.wfp.org](https://innovation.wfp.org)
+2. LinkedIn: [https://www.linkedin.com/showcase/wfp-innovation](https://www.linkedin.com/showcase/wfp-innovation)
+3. Twitter: [@wfpinnovation](https://twitter.com/wfpinnovation)
 
 *For WFP media enquiries, contact Heath Morrell, Communications Consultant, WFP Innovation Accelerator heath.morrell@wfp.org*
