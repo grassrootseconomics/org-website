@@ -1,4 +1,4 @@
-Title: Transforming Rural Economies in Kenya: Grassroots Economics and WFP's Game-Changing Approach to Poverty Alleviation
+Title: Comunity Inclusion Currencies for Food Security: Impacts of Grassroots Economics and WFP's Game-Changing Approach
 Author: Will Ruddick
 Date: March 2 2023
 Slug: wfp-kitui
