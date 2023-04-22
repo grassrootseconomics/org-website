@@ -33,4 +33,5 @@ Grassroots Economics Foundation is dedicated to promoting sustainable agricultur
 
 Mombasa grass offers immense potential for sustainable agriculture, livestock farming, and environmental conservation. By incorporating it into traditional farming practices and leveraging the support of traditional practices like rotational labor and mutual credit communities can reap the benefits of this incredible plant and pave the way for a brighter, greener future.
 
-[Here are some syntropic farm schedules and information about Mombasa Grass that you can download in English and Kiswahili.](https://docs.google.com/presentation/d/1sEMaaYPKj5nHGjdW5oJBlIMH_E_YbT4HUrId5jduZcc/edit?usp=sharing)
+1. [Here are some syntropic farm schedules and information about Mombasa Grass that you can download in English and Kiswahili.](https://docs.google.com/presentation/d/1sEMaaYPKj5nHGjdW5oJBlIMH_E_YbT4HUrId5jduZcc/edit?usp=sharing)
+2. [Check out more about our work on Food Forests](http://grassecon.org/pages/food-forests.html)
