@@ -6,7 +6,7 @@ Summary: Exploring the importance of decolonizing family structures by reconnect
 
 Tags: Family Well-being, Cultural Heritage, Kaya, Mijikenda People, Community Empowerment
 
-![image](images/blog/decolonize.webp)
+![image](images/blog/decolonize-family1.webp)
 
 Economics has its linguistic roots as the management of the household: A group of people creating a commitment toward each other’s well being. When considering the origin of non-market based economics and traditions of resource coordination and mutual aid like Mwerya or Chikola that represent our recent or ancient human heritage, we are led on a journey back to family and toward the concept of Kaya.
 
