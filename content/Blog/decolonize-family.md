@@ -51,8 +51,13 @@ Policy advocacy: Advocate for policies and legislation that promote family well-
 Ending here with "FAMILY" as an acronym to highlight and remind us of the role that it played, plays and can still play, in human wellness, cultural heritage, and optimal well-being.
 
 F - Foundations of Well-being: Emphasizing the importance of physical, mental, emotional, and spiritual health within the family unit.
+
 A - Ancestral Connections: Recognizing and valuing the wisdom, customs, and traditions passed down through generations, connecting family members to their heritage.
+
 M - Mutual Aid: Encouraging a supportive and nurturing environment where family members care for each other and help one another grow and develop.
+
 I - Intergenerational Bonds: Fostering strong relationships between different generations within the family, enabling the sharing of knowledge, experiences, and values.
+
 L - Love and Compassion: Cultivating a loving and compassionate atmosphere within the family, promoting empathy, understanding, and emotional well-being.
+
 Y - Youth Empowerment: Supporting the education, development, and growth of children and young family members, ensuring they are equipped to contribute positively to their community and society.
