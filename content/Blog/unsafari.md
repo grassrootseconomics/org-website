@@ -34,13 +34,15 @@ So, come join us in Kenya this September. Experience the fusion of tradition and
 Come see how Community Inclusion Currencies (CICs) work in urban settings where indigenous practices are being revived using blockchain interoperability, transparency and accountability. Each day will include both training on CICs as well as community visits for traditional work parties.
 
 
-**unSafari Schedule 2023 happening in two locations in Kenya!:**
+**unSafari Schedule 2023 happening in two locations in Kenya!**
 
 September 16th - 27nd:
+
  - Nairobi urban CICs
+ 
  - Kilifi peri-urban and rural CICs
 
-**Requirements **
+**Logistics**
 
 1. Please RSVP and mention your interest for each day, so we can plan for local transport and boxed lunches. unsafari@grassecon.org also WhatsApp us +254757628885
 2. Transport to our Grassroot Economics headquarters (HQ) - near Supreme Petrol Station, south of Kilifi bridge. Call or whatsapp us for directions +254757628885
