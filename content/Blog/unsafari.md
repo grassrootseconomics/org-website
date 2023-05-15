@@ -1,17 +1,26 @@
-Title: unSafari ethSafari
-Author: Will Ruddick
-Date: Sep 9 2022
-Modified: Sep 9 2022
-Slug: unsafari
-Summary: Let's unSafari ETHSafari to learn from and support local communities and their efforts toward blockchain integration of economic commons.
+Title: unSafari 2023
+Author: Njambi Njoroge
+Date: May 15 2023
+Slug: unsafari2023
+Summary: A Journey of Indigenous Innovation. Let's unSafari to learn from and support local communities and their efforts toward blockchain integration into traditional practices.
 
 
-Tags: ethsafari, safari, Kilifi, unsafari, community
+Tags: ethsafari, safari, Nairobi, Kilifi, unsafari, community
 
-![image](images/blog/unsafari1.webp)
+![image](images/blog/unsafari20231.webp)
 
-Sadly a Safari in Kenya is generally an elite activity to see wildlife which often ignores communities on the ground. The cost for a tourist’s ticket and travel represents months to years worth of income for most people living here in Kenya. We aim to unSafari [ETHSafari](https://ethsafari.xyz/) so they do not make the mistake of ignoring local communities and their efforts toward blockchain integration of economic commons.
-We would love to encourage attendees to participate in learning from and supporting local blockchain based economies by experiencing how members of different communities here in Kilifi are implementing digital tokens to make an economic difference. unSafari participants can interact with local blockchain vouchers from community members. Watch this [short video](https://youtu.be/BNJoBpHxTjA) about it!
+Mark your calendars for an unforgettable experience in the heart of Indigenous Mutual Aid practices using blockchain technology: 18-24 September, 2023. This is when the unSafari is set to take place in Kenya, and we wholeheartedly invite you to be part of this unique event.
+
+Traditionally, a Safari in Kenya has been seen as an elite activity, a chance to observe the stunning wildlife of Africa up close. However, the true essence of this region goes far beyond its majestic fauna. The people, the communities, the culture, and now, the innovative technology, all contribute to the heart of Kenya. The cost of a safari trip, while seemingly innocuous for tourists, represents months to years of income for most Kenyans. This stark contrast has often led to the sidelining of local communities and their efforts, something we aim to correct with our unSafari initiative.
+
+The unSafari aims to challenge this elitist perspective by integrating and highlighting the efforts of local communities in Kenya, particularly in the realm of blockchain technology. We want to showcase their pioneering efforts in blockchain integration and economic commons, using the Celo blockchain.
+By joining us, you will gain firsthand experience and knowledge about how these communities are implementing ERC20 blockchain-based digital vouchers using USSD technology to affect economic change and revive indigenous practices. This unSafari is not just about seeing, but about learning, interacting, and making a difference.
+
+This event promises to be more than just a Safari; it's an opportunity to immerse oneself in the vibrant Kenyan culture and community. It's about seeing the power of blockchain technology in action, where it's making real differences in people's lives. You'll have the chance to interact with local blockchain vouchers from community members, participate in indigenous Mwerya (rotational mutual aid), and witness how technology and tradition are intertwined in these communities.
+
+The unSafari is a journey into the heart of community, innovation, and technology. It's about understanding how the power of blockchain is not limited to high-rise offices, unicorn startups or financial districts, but has the potential to reach the grassroots and empower communities.
+
+So, come join us in Kenya this September. Experience the fusion of tradition and technology. Witness the true power of blockchain. Feel the vibrancy of the local communities. And most importantly, be a part of this change. The unSafari is an experience you'll never forget, one where you'll truly feel like you've seen blockchain in use for the first time.
 
 **Join the unSafari!**
 
@@ -20,27 +29,20 @@ We would love to encourage attendees to participate in learning from and support
 
 *An unSafari with OneProject.org with Muugano Elders Community Group*
 
-**Visit real communities using blockchain on a daily basis in urban and rural Kilifi - including mesh networks, community inclusion currencies and economic commons.** 
+**Visit real communities using blockchain on a daily basis in urban and rural Kilifi - including mesh networks, community inclusion currencies and economic commons.**
 
-**unSafari Schedule:**
+Come see how Community Inclusion Currencies (CICs) work in urban settings where indigenous practices are being revived using blockchain interoperability, transparency and accountability. Each day will include both training on CICs as well as community visits for traditional work parties.
 
-1. Thursday September 22nd: **Rural Blockchain Market day**
-10am - 4pm Meet at Grassroots Economics (Safaru-Network) headquarters for an introduction then we’re off by 12 noon to visit Majajani village. A community using blockchain in rural Kilifi.    
-2. Friday September 23rd: **Urban Blockchain Market day**
-10am - 2pm Meet at Grassroots Economics (Safaru-Network) headquarters for an introduction then come attend a market day of Muugano Community Elders Group using blockchain in urban Kilifi. Check out a blockchain based [mesh network](https://youtu.be/dh4VWIopflI)
-3. Saturday September 24th: **Blockchain discussion and Movie night**
-6pm-10pm Meet at Grassroots Economics (Safaru-Network) headquarters for some dinner and discussion as well as a showing of an important movie about Community Currencies.
-4. Sunday September 25th: **LGBTQI+ Economy of Support**
-10am - 4pm community Gathering at the Food Movement in Kilifi involving learning and earning activities; Market Day, CIC training in Swahili and Dev Discussion.
-5. Monday September 26th: **Training Day/Panel Discussion**
-9am - 11am at Grassroots Economics HQ for a CIC training in English and discussion around commitment in an economic commons. 
-12 - 2pm lunch at the Food Movement
-6. Tuesday 27th: **Kilifi Creek Dhow (Boat) Ride**
-4pm - 7pm Final get together and fun day. Meet at Nautilus at 3pm
+
+**unSafari Schedule 2023:**
+
+September 16th - 22nd: Nairobi urban CICs
+
+September 19th - 27th: Kilifi peri-urban and rural CICs
 
 **Requirements **
 
-1. Please RSVP and mention your interest for each day, so we can plan for local transport and boxed lunches. unsafari@grassecon.org
-2. Transport to our Grassroot Economics headquarters (HQ) - near Supreme Petrol Station, south of Kilifi bridge. Call us for directions +254757628885
+1. Please RSVP and mention your interest for each day, so we can plan for local transport and boxed lunches. unsafari@grassecon.org also WhatsApp us +254757628885
+2. Transport to our Grassroot Economics headquarters (HQ) - near Supreme Petrol Station, south of Kilifi bridge. Call or whatsapp us for directions +254757628885
 2. Please get a Safaricom sim card - this will be used to access blockchain based vouchers.
-4. While these events will be free of charge we recommend donations via crypto to [support the cause](https://giveth.io/project/grassroots-economics-community-currency) (Note that lunches at Food Movement are not free!)
+4. While these events will be free of charge we recommend bringing flour from local stores or donations via crypto to [support the cause](https://www.grassrootseconomics.org/pages/get-involved) 
