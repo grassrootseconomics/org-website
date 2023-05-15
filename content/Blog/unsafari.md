@@ -34,11 +34,11 @@ So, come join us in Kenya this September. Experience the fusion of tradition and
 Come see how Community Inclusion Currencies (CICs) work in urban settings where indigenous practices are being revived using blockchain interoperability, transparency and accountability. Each day will include both training on CICs as well as community visits for traditional work parties.
 
 
-**unSafari Schedule 2023:**
+**unSafari Schedule 2023 happening in two locations in Kenya!:**
 
-September 16th - 22nd: Nairobi urban CICs
-
-September 19th - 27th: Kilifi peri-urban and rural CICs
+September 16th - 27nd:
+ - Nairobi urban CICs
+ - Kilifi peri-urban and rural CICs
 
 **Requirements **
 
