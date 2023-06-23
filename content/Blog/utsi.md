@@ -10,6 +10,8 @@ Tags: mweria, mwerya, traditional, indigenous, reciprocal exchange, merry-go-rou
 
 Community groups have catalyzed a remarkable transformation in Kinango, Kwale Kenya, merging ancestral wisdom with modern technology. Reviving Mwerya, a traditional regenerative practice, the Sarafu Network has fostered an ecosystem of mutual aid, weaving together strands of economic empowerment, communal prosperity, and technological innovation.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X9TEqPiQts8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Community Asset Vouchers, underpinned by the transparent and accountable Celo blockchain, serve as symbols of communal commitment to reciprocal upliftment. These vouchers echo the promise of a community united in support, creating a vibrant tapestry of mutual aid that extends to farming, home construction, and resource gathering.
 
 The power of this innovative model shone brightly at Muonano wa Utsi (Meeting of Well-Being), a joyous celebration of the culmination of a full cycle of mutual aid. In this convergence of eleven participating groups, a rich array of cultural traditions – dances, songs, and shared stories – intertwined with a dynamic marketplace, driven by the sharring, settlement and exchange of Community Asset Vouchers.
