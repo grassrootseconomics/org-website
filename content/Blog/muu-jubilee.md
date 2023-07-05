@@ -2,7 +2,7 @@ Title: Muungano's Jubilee
 Author: Joyce Kamau
 Date: Jul 05 2023
 Slug: muu-jubilee
-Summary: Muungano's Jubilee - A celebration of empowerment through mutual aid, community asset vouchers and credit clearing
+Summary: A celebration of empowerment through mutual aid, community asset vouchers and credit clearing
 
 Tags: Kilifi, elders, mweria, mwerya, traditional, indigenous, reciprocal exchange, merry-go-round, non-monetary, mutual aid, social contract, promises, Celo
 
