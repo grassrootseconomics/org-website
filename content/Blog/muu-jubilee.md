@@ -1,8 +1,8 @@
-Title: Muugano's Jubilee
+Title: Muungano's Jubilee
 Author: Joyce Kamau
 Date: Jul 05 2023
 Slug: muu-jubilee
-Summary: Muungano's Jubilee - A Journey of Empowerment through Mutual Aid and Community Asset Vouchers
+Summary: Muungano's Jubilee - A celebration of empowerment through mutual aid, community asset vouchers and credit clearing
 
 Tags: Kilifi, elders, mweria, mwerya, traditional, indigenous, reciprocal exchange, merry-go-round, non-monetary, mutual aid, social contract, promises, Celo
 
@@ -12,7 +12,7 @@ Photo by;Joyce kamau
 
 Faced with the challenges of economic instability and the need to strengthen their collective well-being, the Muungano group which comprises the community elders of Kilifi (Mnarani) came together to create a revolutionary system called Community Asset Vouchers (CAVs). Combining traditional practices, trust-building, and blockchain technology, Muungano has successfully embarked on a journey towards a resilient economy.
 
-Recognizing the power of collaboration and trust, Muungano sought a way to leverage their skills and resources to uplift one another. In the year 2022 the group launched their Community Asset Vouchers  known as the MUU voucher. These vouchers have been serving  as a medium of exchange for goods and services within the community in  situations where members don't have enough KSh to purchase.
+Recognizing the power of collaboration and trust, Muungano sought a way to leverage their skills and resources to uplift one another. In the year 2022 the group launched their Community Asset Vouchers known as the MUU voucher. These vouchers have been serving as a medium of exchange for goods and services within the community in situations where members don't have enough KSh to purchase. 
 
 ![image](images/blog/muu-jubilee2.webp)
 
