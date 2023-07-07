@@ -2,13 +2,13 @@ Title: Kick-starting Sustainable Agriculture - with Socio-Digital Infrastructure
 Author: Will Ruddick
 Date: Jul 7 2023
 Slug: kickstarting
-Summary: 
+Summary: A new socio-digital economic model, leveraging Community Asset Vouchers (CAVs), financier commitments, and a revolving fund to drive sustainable agriculture, linking community-led production with guaranteed demand, thereby fostering environmental responsibility, socio-economic growth, and a self-sustaining cycle of community commerce.
 
-Tags: mweria, mwerya, traditional, indigenous, reciprocal exchange, merry-go-round, non-monetary, mutual aid, social contract, promises, Celo
+Tags: mweriasustianble, aggriculture, agroforestry, finance, mutual-credit
 
 I want to introduce a new model we've been working on here at Grassroots Economics that is designed to foster the growth of sustainable agriculture and ensure socio-economic growth for communities. This initiative is based on creating a unique economic ecosystem using a blend of social commitment, digital tools, and an innovative approach to traditional supply and demand dynamics.
 
-Our model revolves around the concept of Community Asset Vouchers (CAVs) - a kind of bearer instrument representing a community's commitment to providing specific products or services (also usable as a local medium of exchange). Consider a group of farmers pledging to produce sustainable coconut oil through agroforestry. Their commitment materializes in the form of CAVs, a socio-digital IOU, which promises a certain quantity of coconut oil in the future.
+Our model revolves around the concept of Community Asset Vouchers (CAVs) - a kind of bearer instrument representing a community's commitment to providing specific products or services (also usable as a local medium of exchange and for traditional rotational labor accounting). Consider a group of farmers pledging to produce sustainable coconut oil through agroforestry. Their commitment materializes in the form of CAVs, a socio-digital IOU, which promises a certain quantity of coconut oil in the future.
 
 This is where our financiers come in. Whether it's a green-conscious organization, a cooperative, or a group of invested caring individuals, they make a commitment to purchase a certain amount of the product, based on specific impact metrics and their financial capacity. Their commitment offers a safety net of guaranteed demand for the community's products, thus giving the farmers confidence in their venture.
 
