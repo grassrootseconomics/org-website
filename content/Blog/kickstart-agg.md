@@ -1,7 +1,7 @@
 Title: Kick-starting Sustainable Agriculture - with Socio-Digital Infrastructure
 Author: Will Ruddick
 Date: Jul 7 2023
-Slug: kickstarting
+Slug: kickstarter
 Summary: A new socio-digital economic model, leveraging Community Asset Vouchers (CAVs), financier commitments, and a revolving fund to drive sustainable agriculture, linking community-led production with guaranteed demand, thereby fostering environmental responsibility, socio-economic growth, and a self-sustaining cycle of community commerce.
 
 Tags: mweriasustianble, aggriculture, agroforestry, finance, mutual-credit
@@ -29,7 +29,7 @@ Thank you for joining us on this journey. Here's to growing a greener, more equi
 Together we grow.
 
 
-![image](images/blog/kickstarting1.webp)
+![image](images/blog/kickstarter1.webp)
 
 1. Community Commitment: The community (in this case, a group of farmers) pledges to provide certain products or services. In our example, this is the cultivation of coconuts through agroforestry and pressing them into oil. This commitment is formalized as a Community Asset Voucher (CAV), which represents the promise of these products or services and can be traded as a form of currency. The CAV is essentially an IOU issued by the community, a commitment to provide a certain quantity of coconut oil in the future.
 
