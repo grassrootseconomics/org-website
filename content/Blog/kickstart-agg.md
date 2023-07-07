@@ -4,17 +4,17 @@ Date: Jul 7 2023
 Slug: kickstarter
 Summary: A new socio-digital economic model, leveraging Community Asset Vouchers (CAVs), financier commitments, and a revolving fund to drive sustainable agriculture, linking community-led production with guaranteed demand, thereby fostering environmental responsibility, socio-economic growth, and a self-sustaining cycle of community commerce.
 
-Tags: mweriasustianble, aggriculture, agroforestry, finance, mutual-credit
+Tags: sustainable, agriculture, Agroforestry, finance, mutual-credit
 
 I want to introduce a new model we've been working on here at Grassroots Economics that is designed to foster the growth of sustainable agriculture and ensure socio-economic growth for communities. This initiative is based on creating a unique economic ecosystem using a blend of social commitment, digital tools, and an innovative approach to traditional supply and demand dynamics.
 
-Our model revolves around the concept of Community Asset Vouchers (CAVs) - a kind of bearer instrument representing a community's commitment to providing specific products or services (also usable as a local medium of exchange and for traditional rotational labor accounting). Consider a group of farmers pledging to produce sustainable coconut oil through agroforestry. Their commitment materializes in the form of CAVs, a socio-digital IOU, which promises a certain quantity of coconut oil in the future.
+Our model revolves around the concept of Community Asset Vouchers (CAVs) - a kind of bearer instrument representing a community's commitment to providing specific products or services (also usable as a local medium of exchange and for traditional rotational labor accounting). Consider a group of farmers pledging to produce sustainable coconut oil through Agroforestry. Their commitment materializes in the form of CAVs, a socio-digital IOU, which promises a certain quantity of coconut oil in the future.
 
 This is where our financiers come in. Whether it's a green-conscious organization, a cooperative, or a group of invested caring individuals, they make a commitment to purchase a certain amount of the product, based on specific impact metrics and their financial capacity. Their commitment offers a safety net of guaranteed demand for the community's products, thus giving the farmers confidence in their venture.
 
 The third key player in our model is the Kickstarter, a role that manages a revolving fund designed to stimulate and support the community's work. By purchasing CAVs from the community, they provide a crucial influx of capital that can be used for everything from purchasing equipment to enhancing agricultural practices.
 
-The Kickstarter then uses the CAVs to purchase the product - in this case, our sustainable coconut oil - and impact data, which could measure the environmental or social impact of the agroforestry efforts. Once these products are delivered and validated by the financier, the cycle is complete - the CAVs have been fulfilled.
+The Kickstarter then uses the CAVs to purchase the product - in this case, our sustainable coconut oil - and impact data, which could measure the environmental or social impact of the Agroforestry efforts. Once these products are delivered and validated by the financier, the cycle is complete - the CAVs have been fulfilled.
 
 But the cycle doesn't stop there. Upon validation of the products, the financier adds more funds to the Kickstarter's revolving fund, allowing for the purchase of more CAVs and kick-starting the cycle anew. This replenishment ensures the sustainable continuation of the cycle, supporting more community activities, and bolstering the production of coconut oil.
 
