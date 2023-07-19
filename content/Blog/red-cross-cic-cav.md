@@ -2,7 +2,7 @@ Title: A Decade of Community Inclusion Currency Programs with the Red Cross
 Author: Sylvia Karanja
 Date: Jul 19, 2023
 Slug: red-cross-cic-cav
-Summary: Marking a decade of workign with Red Cross on Community Inclusion Currency (CIC) programs.
+Summary: Embracing mutual aid in humanitarian work
 
 Tags: Red Cross, CIC, programming, refugees, CAV
 
