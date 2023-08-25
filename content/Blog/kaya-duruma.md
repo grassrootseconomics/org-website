@@ -1,8 +1,8 @@
-Title: Revitalizing Kaya Traditions
+Title: Revitalizing Kaya Traditions of the Duruma
 Author: Wilfred Chibwara
 Date: Aug 23 2023
 Slug: kaya-duruma
-Summary: 
+Summary: Into the jubilee celebrations of the Kaya Chilumani and Upendo Mkanyeni groups in Kinango, Kenya, highlighting the revitalization of the ancient Mwerya practice, a testament to the enduring power of tradition, community service, and the blend of past and present.
 
 Tags: Kaya, duruma, Mijikenda, Mwerya
 
@@ -10,7 +10,7 @@ Tags: Kaya, duruma, Mijikenda, Mwerya
 
 *A Glorious Mwerya Jubilee Celebration*
 
-In a world where the echoes of tradition often fade, two remarkable groups, Kaya Chilumani and Upendo Mkanyeni in the Kinango area of Kenya, have breathed new life into an ancient practice known as Mwerya. This practice, steeped in community and culture, was the heart of their recent jubilee ceremony that resonated not only with their group members but also with the larger community. Their celebration rekindled the flames of tradition, echoed with joyful songs, inspiring stories, and a renewed sense of unity. In a Mwerya a community create a commitment to service and each member is able to draw on the commitments of others to help farm, fix their house and so on - on a yearly cyclical calender.
+In a world where the echoes of tradition often fade, two remarkable groups, Kaya Chilumani and Upendo Mkanyeni in the Kinango area of Kenya, have breathed new life into an ancient practice known as Mwerya. This practice, steeped in community and culture, was the heart of their recent jubilee ceremony (a clearing of debts) that resonated not only with their group members but also with the larger community. Their celebration rekindled the flames of tradition, echoed with joyful songs, inspiring stories, and a renewed sense of unity. In a Mwerya a community create a commitment to service and each member is able to draw on the commitments of others to help farm, fix their house and so on - on a yearly cyclical calender.
 
 ![image](images/blog/kaya-duruma2.webp)
 
