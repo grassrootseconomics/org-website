@@ -15,7 +15,7 @@ Across Kenya, the spirit of mutual aid is making a non-monetary comeback. In mor
 *. Total Clusters: 150
 *. Unique Nodes: 3,070
 *. Total Edges: 50,000+
-*. Total Weight: 78,845 transactions
+*. Total Weight: 78,845 exchanges (over a three month period)
 
 Community Asset Vouchers are not just digital tokens; they're promises for local goods and services and embodiment of trust and cooperation. Developed uniquely for each village, these CAVs are open-source and can be created by anyone globally via https://Sarafu.Network.
 
