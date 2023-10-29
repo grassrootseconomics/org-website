@@ -12,7 +12,7 @@ Across Kenya, the spirit of mutual aid is making a non-monetary comeback. In mor
 
 ## Trust Graph: The Vital Stats
 
-1. Total Clusters: 150
+1. Total Clusters: 150 (label propagation algorithm)
 2. Unique Nodes: 3,070
 3. Total Edges: 50,000+
 4. Total Weight: 78,845 exchanges (over a three month period)
