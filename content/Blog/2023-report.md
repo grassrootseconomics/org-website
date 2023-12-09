@@ -24,7 +24,7 @@ Follow the infographic above for the steps:
 4. Enjoy fullfilling your commitments.
 5. Divide up any profits or losses and start again. 
 
-See if you can build a house like this group of village elders at Kaya Chilumani!
+See if you can build a house like this group of village elders at [Kaya Chilumani](https://grassecon.org/kaya-chiman)!
 ![image](images/blog/kaya-chiman1.webp)
 
 For the full details and to understand the broader impact of these efforts, you can access the complete report [here](pdfs-downloadable/2023-report.pdf).
