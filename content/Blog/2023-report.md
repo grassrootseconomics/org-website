@@ -16,7 +16,15 @@ Let's keep this momentum going. Together, we can create a world where everyone h
 
 Join us in this journey at sarafu.network. Let's make 2024 even more impactful!
 
-For the full details and to understand the broader impact of these efforts, you can access the complete report [here](pdfs-downloadable/2023-report.webp).
+Follow the infographic above for the steps:
+
+1. Make a voucher - its free and fun.
+2. Combine vouchers with others: come together at a swap meet. (Think scion exchange)
+3. Exchange what you have for what you want.
+4. Enjoy fullfilling your commitments.
+5. Divide up any profits or losses and start again.
+
+For the full details and to understand the broader impact of these efforts, you can access the complete report [here](pdfs-downloadable/2023-report.pdf).
 
 
 With hope and solidarity,
