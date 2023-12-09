@@ -27,7 +27,7 @@ Follow the infographic above for the steps:
 See if you can build a house like this group of village elders at [Kaya Chilumani](https://grassecon.org/kaya-chiman)!
 ![image](images/blog/kaya-chiman1.webp)
 
-For the full details and to understand the broader impact of these efforts, you can access the complete report [here](pdfs-downloadable/GE_2023_Report.pdf).
+For the full details and to understand the broader impact of these efforts, you can access the complete report [here](/pdfs-downloadable/GE_2023_Report.pdf).
 
 
 With hope and solidarity,
