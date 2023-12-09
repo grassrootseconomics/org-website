@@ -18,11 +18,14 @@ Join us in this journey at sarafu.network. Let's make 2024 even more impactful!
 
 Follow the infographic above for the steps:
 
-1. Make a voucher - its free and fun.
-2. Combine vouchers with others: come together at a swap meet. (Think scion exchange)
+1. Make a voucher - it's free and is an expression of your intention. 
+2. Combine vouchers with others: come together and organize a swap meet. (Think scion exchange)
 3. Exchange what you have for what you want.
 4. Enjoy fullfilling your commitments.
-5. Divide up any profits or losses and start again.
+5. Divide up any profits or losses and start again. 
+
+See if you can build a house like this group of village elders at Kaya Chilumani!
+![image](images/blog/kaya-chiman1.webp)
 
 For the full details and to understand the broader impact of these efforts, you can access the complete report [here](pdfs-downloadable/2023-report.pdf).
 
