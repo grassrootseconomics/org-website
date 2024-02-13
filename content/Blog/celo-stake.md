@@ -8,7 +8,7 @@ Tags: staking, celo, rewards, agroforestry, refi, regenerative agriculture
 
 ![image](images/blog/celo-stake1.webp)
 
-Grassroots Economics Foundation is thrilled to announce our this initiative to drive change and foster economic empowerment. As a newly elected validator on the Celo network, we're inviting you to stake your CELO with us and join a transformative journey towards global sustainability and financial inclusion.
+Grassroots Economics Foundation is thrilled to announce this initiative to drive change and foster economic empowerment. As a newly elected validator on the Celo network, we're inviting you to stake your CELO with us and join a transformative journey towards global sustainability and financial inclusion.
 
 By staking your CELO, you'll earn a competitive 3.8% APR *(an additional yearly increased to your stake Celo of 3.8% - for 1 Million Celo you will recieve 38,000 yearly)*, while contributing to our ambitious goal of cultivating 1 million acres of regenerative agriculture and over 10,000 daily peer to peer transactions in the next five years. Your support extends beyond financial growth, directly impacting communities by enabling access to the Celo ecosystem, supporting agro-forestry, and revitalizing and interconnecting indigenous mutual aid practices.
 
@@ -18,7 +18,7 @@ Join us in making a difference. Stake your CELO with Grassroots Economics and be
 
 ![image](images/blog/celo-stake2.webp)
 
-1. Communities creates a commitment toward environmental services as well as other related products (in the form of a CAVs (ERC20 Celo tokens))
+1. Communities create a commitment toward environmental services as well as other related products (in the form of a CAVs (ERC20 Celo tokens))
 1. Validation Block Rewards (cUSD) are deposited into the liquidity pool (revolving fund) (With 3.8% APR for stakers) 
 1. The Liquidity Pool accepts the vouchers of Grassroots Economics accredited agroforestry communities. These CAVs are exchanged for cUSD in the pool. 
 1. Products from the community are verified and made available for purchase using the CAV vouchers. Digital verification data will be pushed to IPFS and certified by Environmental Expert driven certifications.
