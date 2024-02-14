@@ -24,7 +24,7 @@ Join us in making a difference. Stake your CELO with Grassroots Economics and be
 1. Products from the community are verified and made available for purchase using the CAV vouchers. Digital verification data will be pushed to IPFS and certified by Environmental Expert driven certifications.
 1. Anyone can exchange cUSD or Celo for CAVs to support communities and can also exchange the CAVs to receive products. 
 
-For the full details read the proposal <a class="pdf-download" href="https://github.com/grassrootseconomics/org-website/blob/master/content/pdfs-downloadable/Celo_Staking_Proposal-GrassEcon.pdf"> here </a>. 
+For the full details read the proposal <a class="pdf-download" href="https://github.com/grassrootseconomics/org-website/raw/master/content/pdfs-downloadable/Celo_Staking_Proposal-GrassEcon.pdf"> here </a>. 
 
 * Validator group name: GrassrootsEconomics 
 * Group address: 0xd8457a4b949c1b7Bc26538F54743Aa61EEcA38B6 
