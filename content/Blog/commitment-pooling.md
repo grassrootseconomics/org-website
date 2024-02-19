@@ -29,7 +29,7 @@ For a closer look at how the Commitment Pooling Protocol translates into real-wo
 
 The protocol offers a way to not only to finance the production of needed services like Ecosystem Stewardship - it opens a path for networks of service providers to for virtuous cycles of asset development. This merger of liquidity investment, market dynamics and traditional non-monetary economics is a way to divest from unhealthy investments into utility that supports people and planet.
 
-Additionally, delve deeper into the conceptual underpinnings and practical applications of this protocol by reading the paper: <a class="pdf-download" href="https://github.com/grassrootseconomics/org-website/raw/master/content/pdfs-downloadable/Commitment_Pooling.pdf"> reading the paper</a>. 
+Additionally, delve deeper into the conceptual underpinnings and practical applications of this protocol by <a class="pdf-download" href="https://github.com/grassrootseconomics/org-website/raw/master/content/pdfs-downloadable/Commitment_Pooling.pdf"> reading the paper</a>. 
 
 Grassroots Economics continues to explore, innovate, and apply these principles, driven by the belief that the wisdom of the past, when paired with the technology of the present, can pave the way for a sustainable economic future. Join us in this journey, embracing the power of community and commitment to create a world where economics truly serves the well-being of all.
 
