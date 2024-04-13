@@ -64,7 +64,7 @@ Starting as a cashier, my career shifted dramatically when I joined Grassroots E
 **4. Wilfred Chibwara:**
 Over six years at Grassroots Economics, I have engaged deeply with communities in Kinango, Siaya, and Kitui, driving the implementation of syntropic agroforestry and leading various successful grassroots initiatives. Managing a team of community development officers, I developed action plans that guided communities towards sustainable growth and spearheaded the revival of Rotational Labor, enhancing agricultural productivity and community cooperation.
 
-**5. Francisca Onyango:**
+**5. Francisca Achieng:**
 Inspired by my mother's community service, I joined Grassroot Economics in 2021. Working in this role boosted my confidence and allowed me to empower communities through innovative economic solutions like Community Inclusion Currency. My journey has been filled with learning new skills, facing challenges head-on, and building meaningful relationships that have inspired me to continue making a difference.
 
 **6. Emmanuel Mbui:**
