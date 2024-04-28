@@ -1,5 +1,5 @@
 Title: The Journey of a Grassroots Economist
-Author: Njmabi Njoroge
+Author: Njambi Njoroge
 Date: Apr 13 2024
 Slug: grassroots-economists-journey
 Summary: A Grassroots Economist understands that people are key to their own development.
