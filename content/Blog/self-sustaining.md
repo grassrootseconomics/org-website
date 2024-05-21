@@ -7,7 +7,7 @@ Tags: direct giving, financial security, financial freedom
 
 ![image](images/blog/self-sustaining1.webp)
 
-Grassroots Economics Achieves Financial Independence
+Grassroots Economics Achieves Financial Independence from Grants and Donations
 
 It is rare that a non-profit organization in the humanitarian space finds a way to offer services in a sustainable way without the need for continued grants or donations to finance core operations. Yet we did just that!
 
