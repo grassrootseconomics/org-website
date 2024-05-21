@@ -1,4 +1,4 @@
-Title: Grassroots Economics Becomes Self-Sustaining
+Title: We've Become Self-Sustaining
 Author: Will Ruddick
 Date: May 21 2024
 Slug: self-sustaining
