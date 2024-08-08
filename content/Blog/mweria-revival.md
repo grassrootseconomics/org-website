@@ -1,12 +1,12 @@
 Title: Celebrating "Mweria Revival": A Community-Produced Video from Kilifi
 Author: Njmabi Njoroge
 Date: June 21 2024
-Slug: mweria-revivial
+Slug: mweria-revival
 Summary: Watch "Mweria Revival", a compelling community-produced video from Kilifi, Kenya, that celebrates the revival of the ancient Mijikenda tradition of Mweria and showcases the power of collective action and grassroots economics.
 
 Tags: Mweria, Kilifi, Kaya, Dhome, Commitment Pooling
 
-![image](images/blog/mweria-revivial1.webp)
+![image](images/blog/mweria-revival1.webp)
 
 Grassroots Economics Foundation is excited to unveil **"Mweria Revival,"** a Participatory Video created by local Kilifi and Kwale community members Kenya. This video, developed with the training and support of InsightShare, highlights the rich tradition of **Mweria**—a Rotating Labor Association practiced by the Mijikenda people and similar to customs seen in many indigenous cultures worldwide.
 
