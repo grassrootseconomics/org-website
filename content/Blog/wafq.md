@@ -46,11 +46,10 @@ This is the step by step outline of how the Model works:
 
 We invite you to support our mission of building financial resilience in low-income communities. By contributing via:
 
-Purchasing Guarentees: you can exchange national currency for guarentees like [QARD](https://sarafu.network/vouchers/0x5Cb0B17DbFa80D873A161D61a093bAd2B1809b07).
+1. Purchasing Guarentees: you can exchange national currency for guarentees like [QARD](https://sarafu.network/vouchers/0x5Cb0B17DbFa80D873A161D61a093bAd2B1809b07).
+2. Fund an Endowments: you can help expand the Resilient Community Endowments by providing essential financial tools and resources to those who need them most. Join us in fostering sustainable economic growth and community solidarity.
 
-Fund an Endowments: you can help expand the Resilient Community Endowments by providing essential financial tools and resources to those who need them most. Join us in fostering sustainable economic growth and community solidarity.
-
-To do this goto: [Resilient Community Waqfs](https://sarafu.network/pools/0x1e40951d7a28147D8B4A554C60c42766C92e2Fc6) and connect your wallet (such as [Valora](https://valora.xyz/) ) From there you can purchase cUSD
+To purchase guarentees or fund endowments goto: [Resilient Community Waqfs](https://sarafu.network/pools/0x1e40951d7a28147D8B4A554C60c42766C92e2Fc6) and connect your wallet (such as [Valora](https://valora.xyz/) ) From there you can purchase cUSD and exchange or swap it for other assets or endow it. 
 
 For more information on Qard al-Hasan and the Resilient Community Waqfs or Interest-free merchant credit contact:
 
