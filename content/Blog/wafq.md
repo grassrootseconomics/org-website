@@ -39,13 +39,14 @@ This is the step by step outline of how the Model works:
 5.       **Profit is Shared Between Endowers, Channels and the Curator:** The difference between the wholesale and retail price is shared using the following formula: 40% Endower, 30% Channel, 20% Self-sustaining fund and 10% the Curator. This formula allows the endower to obtain a return on the endowment's investment, the channel to earn revenues profits to continue supporting the program, the endowment fund to grow, and the Curator to manage the platform and ensure continued sustainability.
 
 
-![image](images/blog/wafq2.webp)
+![image](images/blog/wafq3.webp)
+*Above is the current network of Channels utilizing [QARD](https://sarafu.network/vouchers/0x5Cb0B17DbFa80D873A161D61a093bAd2B1809b07)*
 
-**Current Uptake** The Resilient Community Endowments Model has shown promising results with the recent introduction of the QARD voucher. The total supply of QARD vouchers stands at 20,000, with a volume of 52,920 and an impressive 26,982 increase. There have been 154 transactions to date, indicating growing acceptance and utilization within the community. This uptake demonstrates the system's potential to enhance financial resilience among low-income households by providing accessible credit solutions.
+**Current Uptake** The Resilient Community Endowments Model has shown promising results with the recent introduction of the [QARD voucher](https://sarafu.network/vouchers/0x5Cb0B17DbFa80D873A161D61a093bAd2B1809b07). The total supply of QARD vouchers stands at 20,000, with a volume of 52,920 and an impressive 26,982 increase. There have been 154 transactions to date, indicating growing acceptance and utilization within the community. This uptake demonstrates the system's potential to enhance financial resilience among low-income households by providing accessible credit solutions.
 
 We invite you to support our mission of building financial resilience in low-income communities. By contributing via:
 
-Purchasing Guarentees: you can exchange national currency for guarentees like QARD.
+Purchasing Guarentees: you can exchange national currency for guarentees like [QARD](https://sarafu.network/vouchers/0x5Cb0B17DbFa80D873A161D61a093bAd2B1809b07).
 
 Fund an Endowments: you can help expand the Resilient Community Endowments by providing essential financial tools and resources to those who need them most. Join us in fostering sustainable economic growth and community solidarity.
 
