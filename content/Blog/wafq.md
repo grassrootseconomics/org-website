@@ -18,7 +18,7 @@ Shopkeeper credit usually works as an interest-free revolving line of credit, al
 The main problem for shopkeepers is usually how to manage cash flows in light of their customers’ irregular and unpredictable incomes. Fortunately, the recent innovation of Community Commitment Pools in Sarafu.Network by the Grassroots Economics team has enabled the design and deployment of the Resilient Community Endowments Model, which is currently being prototyped with the Lola Rako Self Help Group (_chama_), at Mafisini in Kilifi County.
 
 ![image](images/blog/wafq2.webp)
-*Above is the Lolarako community who have created a Voucher to improve the livelihoods in Mafisini village - worth 10ksh of products: coconut oil production, making brooms, coconut products and planting coconut seedlings*
+*Above is the Lolarako community who have created the [LOLA](https://sarafu.network/vouchers/0xe0fDD77e4088af987DbB4fFfAd69349A821d5d3D) Voucher to improve the livelihoods in Mafisini village - worth 10ksh of products: coconut oil production, making brooms, coconut products and planting coconut seedlings*
 
 ** The Resilient Community Endowment Model has the following critical components: **
 
