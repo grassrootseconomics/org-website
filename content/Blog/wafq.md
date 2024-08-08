@@ -1,7 +1,7 @@
 Title: Building Resilient Communities with Shariah-compliant Endowments
 Author: AbdulHakim Ph.D.
 Date: Aug 8 2024
-Slug: mweria-revivial
+Slug: wafq
 Summary: The Resilient Community Endowments Model utilizes Shariah-compliant endowments to offer interest-free shopkeeper credit, enhancing financial resilience and community solidarity among low-income households in rural areas by leveraging community commitment pools and revolving lines of credit.
 
 Tags: waqf, endowment, islamic, finance, muslim
