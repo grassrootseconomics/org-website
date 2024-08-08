@@ -53,7 +53,6 @@ To purchase guarentees or fund endowments goto: [Resilient Community Waqfs](http
 
 For more information on Qard al-Hasan and the Resilient Community Waqfs, Interest-free merchant credit or creating your own Endowments contact:
 
-A Muslim and Arabic scholar might end a letter with phrases that convey respect, blessings, and good wishes. Here are a few examples:
 
 *والسلام عليكم ورحمة الله وبركاته
 
