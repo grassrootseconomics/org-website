@@ -57,7 +57,7 @@ For more information on Qard al-Hasan and the Resilient Community Waqfs, Interes
 
    And peace be upon you, and the mercy of Allah, and His blessings.
    
-<br>AbdulHakim
+<br>AbdulHakim Maina
 
 <br>abdulhmk@gmail.com
 <br>B8, Kilifi, KEN
