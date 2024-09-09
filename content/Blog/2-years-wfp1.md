@@ -18,7 +18,7 @@ In September 2024, the Grassroots Economics (GrE) team embarked on a journey bac
 
 The gathering, hosted by Baraka group members at the homestead of Eliza Kavutha in Kasunguni sublocation, Zombe ward, was more than just a review of progress—it was a celebration of community strength and resilience. The Thome, a traditional council meeting among the Kamba people, provided a perfect platform for this. In attendance were representatives from all 14 groups across Kitui county, local leadership, chiefs and county government officials, and GrE’s team, including Antony Ngoka and William Ruddick.
 
-The day began with an activity central to their ecosystem restoration efforts: digging a 20-meter traditional Hügelkultur style trench filled with buried rotting wood, for water catchment. This simple, yet profound, act of mutual service, or mwethia (the Kamba version of the coastal Mweria), exemplified the strength of community labor and shared goals that the original pilot hoped to cultivate. Under the guidance of Aude Perrone, an ecosystem restoration and stewardship specialist, the group exchanged not only physical labor but valuable knowledge on soil and water conservation.
+The day began with an activity central to their ecosystem restoration efforts: digging a 20-meter traditional Hügelkultur style trench filled with buried rotting wood, for water catchment. This simple, yet profound, act of mutual service, or mwethia (the Kamba version of the coastal Mweria), exemplified the strength of community labor and shared goals that the original pilot hoped to cultivate. Under the guidance of Aude Peronne, an ecosystem restoration and stewardship specialist, the group exchanged not only physical labor but valuable knowledge on soil and water conservation.
 
 ![image](images/blog/2-years-wfp3.webp)
 
@@ -33,12 +33,12 @@ The group's Mwethia as well as local market transactions, are visible on the [Sa
 
 Since starting this pilot with WFP using the Celo Blockchain we've seen:
 
-*. 485 pool swaps (cross exchange between vouchers)
-*. 74 pool deposits (Seeding commitment pools)
-*. 144,558 voucher transfers (User to user exchanges)
-*. 278 mints (These are for creating vouchers)
-*. 5,138 faucet gives (Enabeling anyone to use Celo with no charges via USSD/SMS)
-
+* 485 pool swaps (cross exchange between vouchers)
+* 2872 active user accounts. 
+* 74 pool deposits (Seeding commitment pools)
+* 144,558 voucher transfers (User to user exchanges)
+* 278 mints (These are for creating vouchers)
+* 5,138 Celo faucet gives (Enabeling anyone to use Celo with no charges via USSD/SMS)
 
 ![image](images/blog/2-years-wfp4.webp)
 
