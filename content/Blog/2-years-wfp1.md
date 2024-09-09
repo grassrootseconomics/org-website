@@ -10,7 +10,7 @@ Tags: WFP, Kamba, Kitui, Food Security, Thome
 
 **The Resilience of Mwethia**
 
-In September 2024, the Grassroots Economics (GrE) team embarked on a journey back to Kitui to reconnect with the communities involved in the 2021-2022 pilot program with the World Food Programme (WFP). The project, which focused on Community Inclusion Currencies (CICs) and Syntropic Agroforestry (SAF), was initially designed as a six-month partnership, later extended to ten months. Now, two years after the pilot, it was time to see how the community groups were faring.
+In September 2024, the Grassroots Economics (GrE) team embarked on a journey back to Kitui to reconnect with the communities involved in the 2021-2022 pilot program with the World Food Programme (WFP). The project was a study which focused on Community Inclusion Currencies (CICs) and Syntropic Agroforestry (SAF), was initially designed as a six-month partnership, later extended to ten months. Now, two years after the pilot, it was time to see how the community groups were faring.
 
 Note that the norm in humanitarian projects is that they stop completely after the intervention. We found something different. By focusing on traditional mutual service and rotating labor organizations locally called Mwethia - we found that the communities only needed support in restarting these ancient practices. 
 
@@ -27,7 +27,19 @@ The day began with an activity central to their ecosystem restoration efforts: d
 **Building Strong Foundations for the Future**
 
 During the afternoon session, participants shared their experiences, successes, and challenges. Baraka, one of the most active groups, attributed their success to a strong internal constitution that included fines for late meetings and missed appointments, ensuring accountability among members. The group emphasized how their weekly mwethia gatherings helped them achieve significant milestones—from providing each member with a chicken to starting a brick-making initiative aimed at providing each family with goats.
-The group's Mwethia as well as local market transactions, are visible on the Sarafu.Network, reflect a vibrant community economy where mutual support and resource coordination flourish. This network, made possible through the Commitment Pooling Protocol pioneered by Grassroots Economics, allows communities like Baraka to formalize their commitments through Community Asset Vouchers (CAVs)​ and connect them among each other across the county​. These vouchers serve not only as a medium of exchange but as a testament to the power of collective commitments, a modern evolution of the age-old traditions like Mwethia.
+
+![image](images/blog/2-years-wfp5.webp)
+
+The group's Mwethia as well as local market transactions, are visible on the [Sarafu.Network](https://sarafu.network/vouchers/0x4CAE7279ad92A719Ff2f126B706ee61D85f91eA4), reflect a vibrant community economy where mutual support and resource coordination flourish. This network, made possible through the Commitment Pooling Protocol pioneered by Grassroots Economics, allows communities like Baraka to formalize their commitments through Community Asset Vouchers (CAVs)​ and connect them among each other across the county​. These vouchers serve not only as a medium of exchange but as a testament to the power of collective commitments, a modern evolution of the age-old traditions like Mwethia.
+
+
+Since starting this pilot with WFP using the Celo Blockchain we've seen:
+
+*. 485 pool swaps (cross exchange between vouchers)
+*. 74 pool deposits (Seeding commitment pools)
+*. 144,558 voucher transfers (User to user exchanges)
+*. 278 mints (These are for creating vouchers)
+*. 5,138 faucet gives (Enabeling anyone to use Celo with no charges via USSD/SMS)
 
 
 ![image](images/blog/2-years-wfp4.webp)
@@ -38,14 +50,6 @@ At the heart of this resilience is Mwethia, a traditional labor-sharing practice
 
 The strength of these groups lies in their ability to blend tradition with innovation. While modern tools like Sarafu and CAVs enable greater efficiency and broader reach, it is the ancient practice of Mwethia that continues to unite these communities and drive their success. As the Baraka group looks to expand into goat stewardship, they embody the vision of community-driven growth that the WFP pilot initiatives hoped to inspire.
 
-
-Since starting this pilot with WFP using the Celo Blockchain we've seen:
-
-*. 485 pool swaps (cross exchange between vouchers)
-*. 74 pool deposits (Seeding commitment pools)
-*. 144,558 voucher transfers (User to user exchanges)
-*. 278 mints (These are for creating vouchers)
-*. 5,138 faucet gives (Enabeling anyone to use Celo with no charges via USSD/SMS)
 
 **What’s Next?**
 
