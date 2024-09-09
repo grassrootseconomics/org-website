@@ -12,8 +12,6 @@ Tags: WFP, Kamba, Kitui, Food Security, Thome
 
 In September 2024, the Grassroots Economics (GrE) team embarked on a journey back to Kitui to reconnect with the communities involved in the 2021-2022 pilot program with the World Food Programme (WFP). The project was a study which focused on Community Inclusion Currencies (CICs) and Syntropic Agroforestry (SAF), was initially designed as a six-month partnership, later extended to ten months. Now, two years after the pilot, it was time to see how the community groups were faring.
 
-Note that the norm in humanitarian projects is that they stop completely after the intervention. We found something different. By focusing on traditional mutual service and rotating labor organizations locally called Mwethia - we found that the communities only needed support in restarting these ancient practices. 
-
 ![image](images/blog/2-years-wfp2.webp)
 
 **A Thriving Community Model**
@@ -50,9 +48,10 @@ At the heart of this resilience is Mwethia, a traditional labor-sharing practice
 
 The strength of these groups lies in their ability to blend tradition with innovation. While modern tools like Sarafu and CAVs enable greater efficiency and broader reach, it is the ancient practice of Mwethia that continues to unite these communities and drive their success. As the Baraka group looks to expand into goat stewardship, they embody the vision of community-driven growth that the WFP pilot initiatives hoped to inspire.
 
+Note that the norm in many humanitarian projects is that they stop completely after the intervention. We found something different. By focusing on traditional mutual service and rotating labor organizations locally called Mwethia - we found that the communities only needed support in restarting these ancient practices.This program was originally a study with control groups where there was no intervention, now all these group are following the example of the treatment groups. 
 
 **What’s Next?**
 
-Two years after the pilot, the Kitui groups are thriving. The bonds they have forged through Mwethia and the CIC project are strong, and their future plans—expanding agroforestry, increasing livestock, and enhancing community savings—speak to the sustainability of the model. These communities have demonstrated that when resource coordination is rooted in both tradition and innovation, it can lead to long-term, self-sustaining growth.
+Two years after the pilot, the Kitui groups are thriving and growing. The bonds they have forged through Mwethia are strong, and their future plans—expanding agroforestry, increasing livestock, and enhancing community savings—speak to the sustainability of the model. These communities have demonstrated that when resource coordination is rooted in both tradition, digital accountability and interoperability between groups, it can lead to long-term, self-sustaining growth.
 
-For Grassroots Economics, this visit reaffirmed the power of commitment pooling and the importance of supporting communities as they take ownership of their future. The journey from pilot to permanence is not without its challenges, but the resilience of the Kitui groups provides a clear answer to the question of what happens after the pilot: growth, sustainability, and collective well-being.
+For Grassroots Economics, this visit reaffirmed the power of commitment pooling and the importance of supporting communities as they take ownership of their future. The journey from pilot to long term community practice is not without its challenges, but the resilience of the Kitui groups provides a clear answer to the question of what happens after seeding such pilots: growth, sustainability, and collective well-being.
