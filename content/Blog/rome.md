@@ -1,5 +1,5 @@
 Title: The Enduring Legacy of Rome
-Author: Njmabi Njoroge
+Author: Njambi Njoroge
 Date: Aug 21 2024
 Slug: rome
 Summary: The revitalization of the Mijikenda practice of Rome by integrating ancient traditions with modern technology, community planning, resource pooling, and cultural heritage preservation.
