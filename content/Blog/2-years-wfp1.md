@@ -16,7 +16,7 @@ In September 2024, the Grassroots Economics (GrE) team embarked on a journey bac
 
 **A Thriving Community Model**
 
-The gathering, hosted by Baraka group members at the homestead of Eliza Kavutha in Kasunguni sublocation, Zombe ward, was more than just a review of progress—it was a celebration of community strength and resilience. The Thome, a traditional council meeting among the Kamba people, provided a perfect platform for this. In attendance were representatives from all 14 groups across Kitui county, local leadership, chiefs and county government officials, and GrE’s team, including Antony Ngoka and William Ruddick.
+The gathering, hosted by Baraka group members at the homestead of Eliza Kavutha in Kasunguni sublocation, Zombe ward, was more than just a review of progress—it was a celebration of community strength and resilience. The Thome, a traditional council meeting among the Kamba people, provided a perfect platform for this. In attendance were representatives from all 14 groups across Kitui county, local leadership, chiefs and county government officials, and GrE’s team, including Antony Ngoka, Will and Nia Ruddick.
 
 The day began with an activity central to their ecosystem restoration efforts: digging a 20-meter traditional Hügelkultur style trench filled with buried rotting wood, for water catchment. This simple, yet profound, act of mutual service, or mwethia (the Kamba version of the coastal Mweria), exemplified the strength of community labor and shared goals that the original pilot hoped to cultivate. Under the guidance of Aude Peronne, an ecosystem restoration and stewardship specialist, the group exchanged not only physical labor but valuable knowledge on soil and water conservation.
 
