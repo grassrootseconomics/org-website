@@ -50,8 +50,12 @@ The strength of these groups lies in their ability to blend tradition with innov
 
 Note that the norm in many humanitarian projects is that they stop completely after the intervention. We found something different. By focusing on traditional mutual service and rotating labor organizations locally called Mwethia - we found that the communities only needed support in restarting these ancient practices.This program was originally a study with control groups where there was no intervention, now all these group are following the example of the treatment groups. 
 
+![image](images/blog/2-years-wfp6.webp)
+
 **What’s Next?**
 
 Two years after the pilot, the Kitui groups are thriving and growing. The bonds they have forged through Mwethia are strong, and their future plans—expanding agroforestry, increasing livestock, and enhancing community savings—speak to the sustainability of the model. These communities have demonstrated that when resource coordination is rooted in both tradition, digital accountability and interoperability between groups, it can lead to long-term, self-sustaining growth.
 
 For Grassroots Economics, this visit reaffirmed the power of commitment pooling and the importance of supporting communities as they take ownership of their future. The journey from pilot to long term community practice is not without its challenges, but the resilience of the Kitui groups provides a clear answer to the question of what happens after seeding such pilots: growth, sustainability, and collective well-being.
+
+![image](images/blog/2-years-wfp7.webp)
