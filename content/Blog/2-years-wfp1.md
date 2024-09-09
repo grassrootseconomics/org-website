@@ -197,3 +197,92 @@ They are still helping one another with farm works and together they have set up
   </tr>
 </table>
 
+Here is the updated HTML table with the requested formatting:
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;"><strong>Group Name</strong></td>
+    <td style="border: 1px solid black; vertical-align: top;"><strong>Voucher Symbol</strong></td>
+    <td style="border: 1px solid black; vertical-align: top;"><strong>Progress on Vision</strong></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Great vision</td>
+    <td style="border: 1px solid black; vertical-align: top;">GRTV</td>
+    <td style="border: 1px solid black; vertical-align: top;">Environment restoration by planting trees seedling some given to members and some sold to other people. The group has been setting tree nurseries where they sell and also plant in their farms. The group has also helped with land clearing, planting and also harvesting.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Mwakasi</td>
+    <td style="border: 1px solid black; vertical-align: top;">MWAKA</td>
+    <td style="border: 1px solid black; vertical-align: top;">A community with food security through Syntropic farming and livestock keeping by DEC 2024. The chama has been doing mwethyas on a weekly basis for the first cycle where they have been helping with farm work and digging terraces.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Kyeni</td>
+    <td style="border: 1px solid black; vertical-align: top;">KYN</td>
+    <td style="border: 1px solid black; vertical-align: top;">A community with food security through Syntropic farming and livestock keeping by DEC 2024. Members have been able to buy 2 goats for 6 members so far and they are also doing Mwethyas in their farms.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Makuka</td>
+    <td style="border: 1px solid black; vertical-align: top;">MAKUKA</td>
+    <td style="border: 1px solid black; vertical-align: top;">Makuka group's ambitious goal to boost agricultural production through terraces, agroforestry, and water catchment by December 2025. The group has seen more than 40 terraces on members' farms and two significant water catchment facilities.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Moseyo</td>
+    <td style="border: 1px solid black; vertical-align: top;">MOSEYO</td>
+    <td style="border: 1px solid black; vertical-align: top;">Moseyo group is on a mission to achieve syntropic farming for food security by December 2023. The group determination is evident in their meticulous land selection, fencing, terracing, and preparation for planting. They are awaiting the El Niño rains to start.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Wendo wa makayaa</td>
+    <td style="border: 1px solid black; vertical-align: top;">MBUNI</td>
+    <td style="border: 1px solid black; vertical-align: top;">The group's vision is to have a community with enough food by practicing syntropic agroforestry by December 2025. We have seen them already establish a community farm where they produce and work on a weekly basis. They have also established more than 50 terraces for their members and are working towards recruiting more group members to share in their success.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Bondeni</td>
+    <td style="border: 1px solid black; vertical-align: top;">BONDE</td>
+    <td style="border: 1px solid black; vertical-align: top;">To improve the economic capacity of the community through goat keeping by ensuring every member is keeping five goats in their homesteads by August 2024. The group has saved KSH 50,000 but since the price for goat purchase has gone up, they are waiting for a better season to purchase. They have already bought 2 goats.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Baraka</td>
+    <td style="border: 1px solid black; vertical-align: top;">BARAKA</td>
+    <td style="border: 1px solid black; vertical-align: top;">Improve food security by rearing 22 chickens, vegetable farming on one acre of land by March 2024. They have bought 22 chickens and have prepared the one acre of land, planted vegetables and are already harvesting.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Umiisyo</td>
+    <td style="border: 1px solid black; vertical-align: top;">UMISYO</td>
+    <td style="border: 1px solid black; vertical-align: top;">To improve their economy through rearing of 50 goats by December 2023. The group members stopped meeting 5 months ago. They have internal group wrangles; therefore, there has been no progress on the vision.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Kithito</td>
+    <td style="border: 1px solid black; vertical-align: top;">KITHIO</td>
+    <td style="border: 1px solid black; vertical-align: top;">Promote food security through farming, empower the group through sustainable growth via buying a public address system for the purpose of renting, production and sale of construction bricks as income-generating activities.
+      <p>They have so far acquired 2 manual brick-making machines and have already kickstarted a brick-selling business.</p>
+      <p>They have made 3500 bricks so far and are looking forward to drying them and selling. They have a ready market.</p>
+      <p>Every week they make 250-300 bricks.</p>
+      <p>For the PA system, they usually contribute 20 KSH during every meeting till August next year.</p>
+      <p>They are still working on their farms doing farm work like ploughing, planting, and harvesting. The group has been rotating labor around their visions.</p>
+    </td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Mumo</td>
+    <td style="border: 1px solid black; vertical-align: top;">MUMO</td>
+    <td style="border: 1px solid black; vertical-align: top;">Promote food security through farming and livestock keeping. The group is remaining with 4 people to finish the issuance of goats to members, which happens every month after a contribution of 400 KSH per member every month.
+      <p>They are still helping one another with farm work and together they have set up a group syntropic farm. Some of the work they have been doing in the farms include planting, clearing land for tilling, fencing, and harvesting.</p>
+    </td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Maskalini</td>
+    <td style="border: 1px solid black; vertical-align: top;">MASKA</td>
+    <td style="border: 1px solid black; vertical-align: top;">Promote food security through farming. Members have been in rotation helping one another in tilling land, planting, and harvesting. The group has a 2-acre communal farm donated by one of the members. Right now, the group is putting up poles to fence with a wire donated to them by a well-wisher as they prepare to plow the land once the rains start. Most of the members have terraces which they are unblocking/preparing.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Inguluku</td>
+    <td style="border: 1px solid black; vertical-align: top;">KEMWA</td>
+    <td style="border: 1px solid black; vertical-align
+
+: top;">To improve living standards of members through keeping goats for sale in their local markets by the end of 2024. The group meets on Thursdays to discuss their action plans and steps forward. Currently, they have two goats under the care of two chama members. They also contribute savings and loan it to members. They have adopted the ancient practices of rotational labor, and they have done terracing, fencing, and land preparation for the rainy season.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; vertical-align: top;">Wikwatyo wa kalinga</td>
+    <td style="border: 1px solid black; vertical-align: top;">KPS</td>
+    <td style="border: 1px solid black; vertical-align: top;">To improve the economic capacity of the community through goat keeping by ensuring every member is keeping goats in their homesteads by the end of 2024. The group meets every Wednesday at their central place to talk and plan their action steps. Currently, they have six goats, all given to different members to take care of them. They also do savings and loan to members. The group members have also been helping one another by uniting their efforts and working together in land preparation, tilling the soil, making fences, setting terraces, and helping with harvesting and making granaries.</td>
+  </tr>
+</table>
