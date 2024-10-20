@@ -36,9 +36,8 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
-    ('Home', '/'),
     ('About Us', '/pages/about-us.html'),
-    ('Sarafu Network', '/pages/sarafu-network.html'),
+    ('Sarafu', '/pages/sarafu-network.html'),
     ('How', '/pages/how-it-works.html'),
     ('Docs', 'https://docs.grassecon.org'),
     ('Blog', '/category/blog.html'),
@@ -46,7 +45,6 @@ MENUITEMS = (
     ('Research', '/pages/research.html'),
     ('Support', '/pages/get-involved.html'),
     ('Media', '/pages/media.html'),
-    ('Dashboard', 'https://dashboard.sarafu.network'),
     ('MOOC', '/pages/mooc.html'),
     ('Contact us', '/pages/contact-us.html')
 
