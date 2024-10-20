@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 
 
-AUTHOR = 'idaapayo'
+AUTHOR = 'Will Ruddick'
 SITENAME = 'Grassroots Economics'
-SITEURL = ''
+SITEURL = 'https://grassecon.org'
 
 PATH = 'content'
 
