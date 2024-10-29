@@ -34,14 +34,11 @@ We invite you to join us in this endeavor by offering your services to be exchan
 
 ### **How the Commitment Pool Works**
 
-1. **Create an Account on Sarafu.Network \
-**Begin by creating your account on[ Sarafu.Network](https://sarafu.network) to participate in the voucher system. Either by connecting a wallet or creating a paper wallet. 
-2. **Create a Voucher \
-**Publish a voucher on Sarafu.Network describing your commitment to service. This voucher will represent your contribution and can be redeemed within the pool. Instructions can be found [here](https://www.youtube.com/playlist?list=PLPUExzwZAUpbHaJU7TIku7vpZ6q_yggQZ).
-3. **Inform Us \
+1. **Create an Account on Sarafu.Network** Begin by creating your account on[ Sarafu.Network](https://sarafu.network) to participate in the voucher system. Either by connecting a wallet or creating a paper wallet. 
+2. **Create a Voucher** Publish a voucher on Sarafu.Network describing your commitment to service. This voucher will represent your contribution and can be redeemed within the pool. Instructions can be found [here](https://www.youtube.com/playlist?list=PLPUExzwZAUpbHaJU7TIku7vpZ6q_yggQZ).
+3. **Inform Us
 **Notify us by emailing [info@grassecon.org](mailto:info@grassecon.org) with the name and link to your voucher for verification and addition to the Commitment Pool.
-4. **Utilize the Pool \
-**Once your voucher is approved, it will have access to the [Land Regenerators Commitment Pool](https://sarafu.network/pools/0x8322691F378022e18F9D1f346f217118AA861831), allowing you to exchange/swap your vouchers for funding, services or resources from other projects in the pool.
+4. **Utilize the Pool** Once your voucher is approved, it will have access to the [Land Regenerators Commitment Pool](https://sarafu.network/pools/0x8322691F378022e18F9D1f346f217118AA861831), allowing you to exchange/swap your vouchers for funding, services or resources from other projects in the pool.
 
 
 ### **Expanding the Pool and Network of Pools**
@@ -63,4 +60,3 @@ Will Ruddick
 
 [will@grassecon.org](mailto:will@grassecon.org) 
 **Founder - Grassroots Economics**
-
