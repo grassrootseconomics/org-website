@@ -2,9 +2,9 @@ Title: One Year of Impacts 2024
 Author: Njambi Njoroge
 Date: October 31 2024
 Slug: impacts-2024
-Summary: 
+Summary: Grassroots Economics’ transition to the Celo blockchain has empowered over 3,000 users across 33 commitment pools, fostering resilient, community-driven economies through shared resources, regenerative practices, and decentralized credit access.
 
-Tags: impact, ecosystem, commitment pooling, scaling
+Tags: impact, ecosystem, commitment pooling, scaling, Celo
 
 ![image](images/blog/impacts-20241.webp)
 
