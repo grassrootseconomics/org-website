@@ -10,8 +10,6 @@ Tags: impact, ecosystem, commitment pooling, scaling, Celo
 
 Since transitioning our technology onto the Celo blockchain in July 2023, Grassroots Economics has scaled its Commitment Pooling Protocol, transforming community-driven economic models across multiple regions. This protocol enables communities to issue **Community Asset Vouchers (CAVs)** and engage in **Rotational Labor (Mweria)**, where individuals and groups pool commitments to facilitate trade, access credit, and foster business collaboration. 
 
-![image](images/blog/impacts-20241.webp)
-
 As of September 2024:
 - Groups have established **33 commitment pools** on Sarafu.Network, creating new channels for capital seeding, credit and local trade.
 - These pools support localized rotations of labor, resulting in tangible outcomes such as agroforestry improvements, water conservation, and community infrastructure.
@@ -26,7 +24,6 @@ Sarafu.Network is revolutionizing how communities collaborate, access credit, an
 * **Unique Vouchers**: 239 vouchers issued by individuals, groups, and businesses globally
 * **Total Mweria Cycles** (since July 2023): 1,504 across 50+ community groups
 
-![Celo Blockchain Impact](images/image1.png "One Year on Celo Blockchain")
 
 ## Summary of Impacts:
 
@@ -110,7 +107,6 @@ GOOB initiative achievements in Refugee Camps:
 * 19 fences constructed
 * 15 households assisted with curtain or blanket fixing
 
-![Dadaab Impact](images/image2.png "Dadaab Community Impact")
 
 ![image](images/blog/impacts-20244.webp)
 
@@ -119,8 +115,6 @@ GOOB initiative achievements in Refugee Camps:
 Esale project impacts:
 * La Paix: 4 fences, 3 farms supported
 * Mavuno: 1 farm, 3 fences completed
-
-![Kalobeyei Impact](images/image3.png "Kalobeyei Agricultural Impact")
 
 # Technological and Economic Advancements:
 
