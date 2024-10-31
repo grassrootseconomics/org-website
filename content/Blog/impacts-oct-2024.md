@@ -23,12 +23,16 @@ Sarafu.Network is revolutionizing how communities collaborate, access credit, an
 * **Total Pools Created**: 33 pools facilitating credit, trade, and collaboration ([Sarafu Network Pools](https://sarafu.network/pools))
 * **Unique Vouchers**: 239 vouchers issued by individuals, groups, and businesses globally
 * **Total Mweria Cycles** (since July 2023): 1,504 across 50+ community groups
+* 485 pool swaps (cross exchange between vouchers)
+* 120 pool deposits (Seeding commitment pools)
+* 144,558 voucher transfers (User to user exchanges)
+* 5,138 Celo faucet gives (Enabeling anyone to use Celo with no charges via USSD/SMS)
 
 
 ## Summary of Impacts:
 
 * **Communities Engaged**: Grassroots Economics has partnered with over 101 community groups across Kenya (Kwale, Kitui, Kilifi, Mukuru, Kibera, Dadaab, Kalobeyei, Siaya, Mombasa, Kawangware) and beyond.
-* **Commitment Pooling and Mweria Cycles**: Over 1,500 traditional Mweria cycles have focused on activities like agroforestry, environmental restoration, and disaster preparedness.
+* **Commitment Pooling and Mweria Cycles**: Over 1,500 traditional Mweria cycles have focused on activities like agroforestry, environmental restoration, and disaster preparedness. These activities have resultes in over 320 houses built and 400 farms developed (more impacts below)
 * **Credit and Trade Opportunities**: The 33 commitment pools established provide crucial access to credit, fostering dynamic trade relationships that reshape community interactions.
 
 # Key Regional Impacts:
