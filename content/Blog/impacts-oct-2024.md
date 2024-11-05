@@ -32,12 +32,12 @@ Sarafu.Network is revolutionizing how communities collaborate, access credit, an
 ## Summary of Impacts:
 
 * **Communities Engaged**: Grassroots Economics has partnered with over 101 community groups across Kenya (Kwale, Kitui, Kilifi, Mukuru, Kibera, Dadaab, Kalobeyei, Siaya, Mombasa, Kawangware) and beyond.
-* **Commitment Pooling and Mweria Cycles**: Over 1,500 traditional Mweria cycles have focused on activities like agroforestry, environmental restoration, and disaster preparedness. These activities have resultes in over 320 houses built and 400 farms developed (more impacts below)
+* **Commitment Pooling and Mweria Cycles**: Over 1,500 traditional Mweria cycles have focused on activities like agroforestry, environmental restoration, and disaster preparedness. These activities have resulted in over 320 houses built and 400 farms developed (more impacts below)
 * **Credit and Trade Opportunities**: The 33 commitment pools established provide crucial access to credit, fostering dynamic trade relationships that reshape community interactions.
 
-# Key Regional Impacts:
+## Key Regional Impacts:
 
-## Kwale County:
+### Kwale County:
 
 Groups engaged in land regeneration:
 - **Tumeamua Yowani, Umoja Miloeni, Riziki Miloeni**: 129 Mweria cycles focused on zai pits and sunken beds, leading to improved crop yields and sustainable water management.
@@ -67,7 +67,7 @@ Groups engaged in land regeneration:
 
 ![image](images/blog/impacts-20242.webp)
 
-## Kitui County:
+### Kitui County:
 
 Groups focused on agroforestry and home building:
 - **Great Vision and Kyeni**: Over 83 Mweria cycles for land restoration, home construction, and granary building, enhanced by CAVs to access credit.
@@ -87,7 +87,7 @@ Groups focused on agroforestry and home building:
 | Wikwatyo wa Kalinga| Firewood, land preparation, goat purchase                                                    |
 | Wendo wa Makayaa   | Firewood, land terracing, farming, harvesting                                                |
 
-## Mukuru and Kibera (Urban Areas):
+### Mukuru and Kibera (Urban Areas):
 
 * Progressive Disaster Response and Pastors Network: 52 Mweria cycles in flood preparedness, fire response, and community cleanups.
 
@@ -104,7 +104,7 @@ Groups focused on agroforestry and home building:
 
 ![image](images/blog/impacts-20243.webp)
 
-## Dadaab (January to June 2024):
+### Dadaab (January to June 2024):
 
 GOOB initiative achievements in Refugee Camps:
 * 2 houses built
@@ -114,7 +114,7 @@ GOOB initiative achievements in Refugee Camps:
 
 ![image](images/blog/impacts-20244.webp)
 
-## Kalobeyei (January to June 2024):
+### Kalobeyei (January to June 2024):
 
 Esale project impacts:
 * La Paix: 4 fences, 3 farms supported
