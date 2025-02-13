@@ -1,4 +1,4 @@
-Title: How do you measure dignity?
+Title: Transparent Impact Reporting with Sarafu.Network
 Author: Will Ruddick
 Date: February 13 2025
 Modified: February 13 2025
