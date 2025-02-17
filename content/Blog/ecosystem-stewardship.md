@@ -7,7 +7,7 @@ Summary: Presenting our Ecosystem Stewardship Framework, blending traditional pr
 
 Tags: ecosystem, environment, climate change, commons, watershed, landtrust
 
-![image](images/blog/sarafu-reports1.webp)
+![image](images/blog/ecosystem-stewardship1.webp)
 
 
 Grassroots Economics has been working with thousands of farmers for over a decade while lacking a cohesive framework to include ecological coordination systems together with socio-economic resource coordination systems.  
@@ -68,7 +68,7 @@ As part of our ecosystem stewardship framework, we are actively working on the p
 ## Sarafu Network & the Commitment Pooling Protocol
 
 
-### The Sarafu Network platform enables local exchange and participatory resource coordination as well as collaboration between groups. This system transforms environmental restoration into a recognized collective resource, ensuring that land stewards are rewarded for their ecological contributions and commitment to work collaboratively and support each other.
+The Sarafu Network platform enables local exchange and participatory resource coordination as well as collaboration between groups. This system transforms environmental restoration into a recognized collective resource, ensuring that land stewards are rewarded for their ecological contributions and commitment to work collaboratively and support each other.
 
 Within this framework I have developed Ecosystem Stewardship Certifications which: track past contributions (e.g., reforestation, soil conservation, water management), validate future commitments to ensure ongoing participation and allow for resource pooling— digital certificates can be traded for goods/services or leveraged to seed and nourish larger projects. These certificates as well provide eligibility for reciprocal access to common pooled resources. 
 
@@ -84,25 +84,16 @@ You can find the general report overview here: [https://sarafu.network/reports](
 
 And you can access our Stewardship program reports here: 
 
+**Water retention and erosion strategies - checkdams construction ** [https://sarafu.network/reports/44](https://sarafu.network/reports/44)
 
-# **Water retention and erosion strategies - checkdams construction **[https://sarafu.network/reports/44](https://sarafu.network/reports/44)
 
+**Indigenous trees identification and seed collection ** [https://sarafu.network/reports/45](https://sarafu.network/reports/45)
 
-# **Indigenous trees identification and seed collection**
+**Food diversity ** [https://sarafu.network/reports/46](https://sarafu.network/reports/46)
 
-[https://sarafu.network/reports/45](https://sarafu.network/reports/45)
+**Soil building ** [https://sarafu.network/reports/47](https://sarafu.network/reports/47)
 
-**Food diversity**
-
-[https://sarafu.network/reports/46](https://sarafu.network/reports/46)
-
-**Soil building**
-
-[https://sarafu.network/reports/47](https://sarafu.network/reports/47)
-
-**Soil regeneration and nursery development**
-
-[https://sarafu.network/reports/66](https://sarafu.network/reports/66)
+**Soil regeneration and nursery development ** [https://sarafu.network/reports/66](https://sarafu.network/reports/66)
 
 **The pools are growing !**
 
@@ -112,6 +103,7 @@ Here you can look at and **SUPPORT **the amazing community efforts of Friends of
 
 [https://sarafu.network/pools/0xC4848263821FA02baB2181910A2eFb9CECb2c21C](https://sarafu.network/pools/0xC4848263821FA02baB2181910A2eFb9CECb2c21C)
 
-Stay tuned! \
- \
+Stay tuned! 
+
+
 In my next article I’ll step you through the specific actions we are doing at home and those rippling across hundreds of villages. 
