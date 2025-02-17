@@ -1,14 +1,11 @@
-Title: Transparent Impact Reporting with Sarafu.Network
-Author: Will Ruddick
-Date: February 13 2025
-Modified: February 13 2025
-Slug: sarafu-reports
-Summary: Document and Coordinate - resource-sharing efforts! With Sarafu.Network's impact reporting system, we can now help groups can account for their activities, from agriculture and reforestation to community governance and infrastructure projects. Over 100 reports have already been submitted in the tool's 1st month, showcasing the power of commitments, resource pools, and reports in building resilient local economies. Onward - One report at a time.
+Title: Ecosystem Stewardship: An Environmental Framework
+Author: Aude Péronne
+Date: February 17 2025
+Modified: February 17 2025
+Slug: ecosystem-stewardship
+Summary: Presenting our Ecosystem Stewardship Framework, blending traditional practices like Mweria (reciprocal labor) and Dhome (community governance) with decentralized tools. This approach unites landscape restoration with community-driven resource coordination, ensuring both ecological and social resilience.
 
-Tags: reporting, measurment, impact
-
-
-## New Impact Reporting mechanism with Sarafu.Network
+Tags: ecosystem, environment, climate change, commons, watershed, landtrust
 
 ![image](images/blog/sarafu-reports1.webp)
 
@@ -79,8 +76,7 @@ We envision a community where every act of ecosystem stewardship is recognized a
 
 Through these efforts and protocols, we are establishing a bioregional approach that integrates ecosystem restoration with local food security, community sovereignty, and participatory implementation.
 
-
-### Reports and tracking system integrated to the platform
+**Reports and tracking system integrated to the platform**
 
 And a last achievement on Sarafu Network is our recently installed reporting system for each existing pools to report on their daily or weekly activities. 
 
@@ -108,8 +104,7 @@ And you can access our Stewardship program reports here:
 
 [https://sarafu.network/reports/66](https://sarafu.network/reports/66)
 
-
-### The pools are growing !
+**The pools are growing !**
 
 We are really excited with the technological development of the open source Sarafu Network platform. More and more pools holding commitments to ecosystem stewardship are being created and seeded with resources to grow an active worldwide network. 
 
