@@ -1,8 +1,8 @@
 Title: Lukenya University Pioneers Interest-Free Student Loan System Using Commitment Pooling
-Author: AbdulHakim Maina
+Author: AbdulHakim Maina Ph.D.
 Date: Mar 1 2025
 Slug: interest-free-student-loans
-Summary: Lukenya University has become the first university globally to implement an interest-free student loan system using commitment pooling and multilateral clearing, inspired by Islamic WAQF finance and ancient reciprocal labor traditions, providing a sustainable, community-based alternative to conventional student loans.
+Summary: Lukenya University has become the first university globally to implement an interest-free student loan system using commitment pooling and multilateral clearing, inspired by Islamic Waqf finance and ancient reciprocal labor traditions, providing a sustainable, community-based alternative to conventional student loans.
 
 Tags: Commitment Pooling, Interest-Free Loans, Sustainable Finance, Community-Based Economics, Islamic Finance, University
 
@@ -11,7 +11,7 @@ Tags: Commitment Pooling, Interest-Free Loans, Sustainable Finance, Community-Ba
 
 **A Historic First in Sustainable Community-Based Finance**
 
-Lukenya University School of Business and Economics (LUSOBE) has made history by becoming the **first university in the world to implement an interest-free student loan system using commitment pooling on Sarafu.Network .** Inspired by ancient reciprocal labor traditions and Islamic finance principles—specifically Waqf—the university has launched an innovative digital commitment pool that is set to transform the way students, staff, and vendors access financial support.
+Lukenya University School of Business and Economics (LUSOBE) has made history by becoming the **first university in the world to implement an interest-free student loan system using commitment pooling via Sarafu.Network on Celo Blockchain.** Inspired by ancient reciprocal labor traditions and Islamic finance principles—specifically [Waqf](https://grassecon.org/wafq)—the university has launched an innovative digital commitment pool that is set to transform the way students, staff, and vendors access financial support.
 
 
 ### **LUSOBE Commitment Pool and Voucher Pilot**
@@ -21,7 +21,7 @@ On **February 9, 2025,** in Mtito Andei, Kenya, LUSOBE launched its pilot progra
 ![image](images/blog/interest-free-student-loans2.webp)
 
 
-This initiative builds on the success of the **Resilient Communities Waqf (RCW) project**, which previously piloted commitment pooling models to support shopkeeper credit and community financing in Kilifi County. By integrating these lessons, Lukenya University has established **LUKUNI**—a university-backed commitment pool supported by an initial endowment of **USD 522.51** from Grassroots Economics Foundation (GEF) and RCW.
+This initiative builds on the success of the **Resilient Communities Waqf (RCW) project** (shown above), which previously piloted commitment pooling models to support shopkeeper credit and community financing in Kilifi County. By integrating these lessons, Lukenya University has established **LUKUNI**—a university-backed commitment pool supported by an initial endowment of **USD 522.51** from Grassroots Economics Foundation (GEF) and RCW.
 
 
 ### **The Model: A Community-Based Voucher System**
@@ -69,8 +69,10 @@ If you're inspired by this groundbreaking project and want to **support interest
 
 For more information, contact:
 
- **Dr. AbdulHakim Maina** – Pool Credit Manager, LUSOBE \
-✉️ **Email:** abdulhakim.maina@lukenyauniversity.ac.ke / abdulhmk@gmail.com \
- **Phone:** +254 762 682954 | **WhatsApp:** +254 729 351383
+ **Dr. AbdulHakim Maina** – Pool Credit Manager, LUSOBE
+ 
+✉️**Email:** abdulhakim.maina@lukenyauniversity.ac.ke / abdulhmk@gmail.com
+
+**Phone:** +254 762 682954 | **WhatsApp:** +254 729 351383
 
 Lukenya University is leading the way in financial innovation—could this be the future of student finance globally? Let’s make it happen! 
