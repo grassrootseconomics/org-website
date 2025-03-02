@@ -34,7 +34,7 @@ At the heart of this model is the **LUSOBE voucher**, a university-specific fina
 
 
 1. **Endowments Seed the Pool** – An initial contribution of USD 522.51 kickstarted the system, allowing for credit issuance.
-2. **Credit Committee Oversight** – A dedicated team, including top university officials, faculty, and representatives from Grassroots Economics, ensures responsible financial governance.
+2. **Credit Committee Oversight** – A dedicated team, including top university officials and faculty from Lukenya University's School of Business and Economics, as well as support from Grassroots Economics Foundation, ensures responsible financial governance.
 3. **Vendor and User Participation** – Select vendors, staff, and students were invited to join the pilot, with **34 active accounts** already operational in just three weeks.
 4. **Transaction Volume** – Over **219 transactions totaling KES 204,950** have already taken place, significantly exceeding the 50,000 issued LUSOBE vouchers. LUSOBE holders exchange the LUSOBE among each other and anyone on Sarafu.Network as well as exchange them in the [Lukenya University Pool](https://sarafu.network/pools/0xB1a711609914A6A7281f4B0D0D2a52d82F48d884) for a zero interest student loan. 
 5. **Scalability and Expansion** – With growing demand, more students and staff are eager to join, highlighting the need for additional funding to expand access.
@@ -45,7 +45,7 @@ At the heart of this model is the **LUSOBE voucher**, a university-specific fina
 
 ### **LUSOBE Funds First Interest-Free Student Loan**
 
-On **February 24, 2025**, the system underwent its first real-world test when **Abdullahi, a Lukenya University student**, faced an urgent tuition shortfall of **KES 10,000** to sit for his exams. Through **LUSOBE’s Student Tuition Fee Interest-Free Loan Facility**, he was granted an emergency loan, allowing him to continue his education without financial stress.
+On **February 24, 2025**, the Interest-Free Student Loan Facility underwent its first real-world test when **Abdullahi, a Lukenya University student**, faced an urgent tuition shortfall of **KES 10,000** to sit for his exams. Through **LUSOBE’s Student Tuition Fee Interest-Free Loan Facility**, he was granted an emergency loan, allowing him to continue his education without financial stress.
 
 Incredibly, just **five days later**, Abdullahi repaid the full amount—demonstrating the model’s viability and reinforcing the principle that students, when given financial breathing space, can uphold their commitments responsibly.
 
@@ -58,7 +58,7 @@ As March approaches, **Lukenya University is gearing up for expansion**. Plans i
 
 * **Attracting more endowments** to expand pool access to additional students and vendors.
 * **Academic research and documentation** to refine and responsibly replicate the model.
-* **Showcasing LUSOBE at the Lukenya University "10 Million Trees" Marathon**, a major event with nationwide media coverage.
+* **Showcasing LUSOBE at the Lukenya University [10 Million Trees" Marathon](https://marathon.lukenyauniversity.ac.ke/homepage/)**, a major event with nationwide media coverage.
 
 This initiative is a **blueprint for sustainable, community-based finance**, providing an alternative to exploitative loan systems while fostering collective resilience.
 
