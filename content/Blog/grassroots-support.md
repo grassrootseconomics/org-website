@@ -1,4 +1,4 @@
-Title: Lukenya University Pioneers Interest-Free Student Loan System Using Commitment Pooling
+Title: How to Support and Take Part in Grassroots Economics: A Practical Guide to Getting Involved
 Author: Will Ruddick
 Date: Mar 9 2025
 Slug: grassroots-support
@@ -8,26 +8,26 @@ Tags: Take Action, Community Wealth, Commitment Pooling, Economic Resilience
 
 ![image](images/blog/grassroots-support1.webp)
 
-# **How to Support and Take Part in Grassroots Economics: A Practical Guide to Getting Involved**  
 ---
 
 ## **1. Get Hands-On: Start a Commitment Pool in Your Community**  
 If you believe in the power of **local economies**, you can start a **Commitment Pool** in your own neighborhood, faith group, or bioregion.  
 
 ### **How to Get Started:**  
-1. **Identify a Common Need** – What are the shared resources and services in your community that could be pooled?  
-2. **Gather a Trusted Group** – Commitment pooling works best when participants trust each other and hold shared values.  
-3. **Create a Pool on Sarafu.Network** – Use digital tools to make commitments visible and track exchanges.  
+1. **Identify a Common Need** – What are the shared resources and services in your community that could be pooled? Create your own voucher as your own offering of valueble services. 
+2. **Gather a Trusted Group** – Commitment pooling works best when participants trust each other and hold shared values. Help local services providers create their own vouchers.
+3. **Create a Pool on Sarafu.Network** – Use digital tools to make commitments visible and and enable exchanges beteen vouchers in your community.  
 4. **Engage in Rotational Labor & Shared Commitments** – Like the ancient practice of **Mweria**, participants contribute labor and resources in cycles.  
 5. **Iterate and Improve** – Learn from ecosystems—observe, adjust, and evolve your commitment pooling practices.  
 
 🔗 **Start Your Own Pool Today:**  
-👉 [**Create a Pool on Sarafu.Network**](https://sarafu.network/pools/create)  
+👉 [**Create a Pool on Sarafu.Network**](https://sarafu.network/pools/create)
+👉 [**Create a Voucher on Sarafu.Network**](https://sarafu.network/vouchers/create) - and add it to your pool along with others from your community.  
 
 ---
 
 ## **2. Donate and Endow: Support Community-Driven Economies**  
-One of the easiest ways to support Grassroots Economics is through direct contributions to pools. Your donations help communities organize, create local economic structures, and provide resources that sustain livelihoods.  
+One of the easiest ways to support Grassroots Economies is through direct contributions to pools (seeding). Your donations help communities organize, create local economic structures, and provide resources that sustain livelihoods.  
 
 🌱 **Donate with Your Credit Card or PayPal:**  
 You can contribute directly to support our initiatives and expand the reach of community-driven economics.  
@@ -46,7 +46,7 @@ Create your own! Curate the values, people, and bioregions you care about:
 Grassroots Economics has been building on the **Ethereum Ecosystem** since 2018. The Ethereum blockchain has proven to be a **decentralized and reliable foundation** for community-driven economies.  
 
 💎 **Why stake?**  
-Staking allows you to earn rewards while **simultaneously supporting Grassroots Economics** by directing a portion of your staking rewards toward our projects.  
+Staking allows you to earn rewards while **simultaneously supporting Grassroots Economics** by directing a portion of your staking rewards toward seeding community pools.  
 
 🔗 **Stake Ethereum (ETH) and send staking returns to Grassroots Economics:**  
 👉 [**Stake ETH for Impact**](https://grassroots.impactstake.com/)  
@@ -69,9 +69,9 @@ By staking Celo, you help power a **community-first financial ecosystem** that i
 Want to go deeper into the philosophy and practice behind **Commitment Pooling** and **Regenerative Economics**? My book, *Grassroots Economics*, is now available!  
 
 📖 **Read the Book:**  
-👉 [**Grassroots Economics – The Book**](https://willruddick.substack.com/p/grassroots-economics-the-book-is)  
+👉 [**Grassroots Economics – The Book**](https://willruddick.substack.com/p/grassroots-economics-the-book-is)
 
-This book is a **practical field guide** to how commitment pooling can transform resource coordination, rooted in ancestral wisdom and natural ecosystems.  
+This book is a **practical field guide** to how commitment pooling can transform resource coordination, rooted in ancestral wisdom and natural ecosystems. It is an invitation to learn and share. 
 
 ---
 
@@ -88,9 +88,9 @@ The **Pollination Rebellion** is about reclaiming economic sovereignty and resto
 
 ---
 
-### **Final Thoughts: A Future of Economic Resilience**
+### **Final Thoughts: A Future of Cosmo-Local Economic Resilience**
 
-We are at a tipping point—**will we continue to rely on centralized systems that extract value, or will we build decentralized, community-led economies that regenerate wealth for all?** Grassroots Economics is showing that we **can** do things differently.  
+We are at a tipping point—**will we continue to rely on centralized systems that extract value, or will we build decentralized, community-led economies that regenerate wealth for all?** Grassroots Economists all over the world are showing that we **can** do things differently.  
 
 By **donating, staking, creating pools, and learning about Commitment Pooling**, you’re **helping co-create a more resilient world.**  
 
