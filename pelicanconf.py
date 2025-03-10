@@ -44,7 +44,7 @@ MENUITEMS = (
     ('Docs', 'https://docs.grassecon.org'),
     ('Blog', '/category/blog.html'),
     ('Support', '/pages/get-involved.html'),
-    ('Contact us', '/pages/contact-us.html')
+    ('Contact', '/pages/contact-us.html')
 )
 
 LOAD_CONTENT_CACHE = False
