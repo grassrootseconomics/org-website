@@ -38,13 +38,12 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
     ('About Us', '/pages/about-us.html'),
     ('How', '/pages/how-it-works.html'),
-    ('Ecosystems', '/pages/food-forests.html'),
     ('Sarafu', '/pages/sarafu-network.html'),
+    ('Eco', '/pages/food-forests.html'),
+    ('Edu', '/pages/research.html'),
     ('Docs', 'https://docs.grassecon.org'),
     ('Blog', '/category/blog.html'),
-    ('Education', '/pages/research.html'),
     ('Support', '/pages/get-involved.html'),
-    ('Media', '/pages/media.html'),
     ('Contact us', '/pages/contact-us.html')
 )
 
