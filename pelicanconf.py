@@ -36,7 +36,7 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
-    ('About Us', '/pages/about-us.html'),
+    ('About', '/pages/about-us.html'),
     ('How', '/pages/how-it-works.html'),
     ('Sarafu', '/pages/sarafu-network.html'),
     ('Eco', '/pages/food-forests.html'),
