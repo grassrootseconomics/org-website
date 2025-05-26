@@ -23,6 +23,10 @@ CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 RSS_FEED_SUMMARY_ONLY = False
 FEED_MAX_ITEMS = 800
 
+TEMPLATE_PAGES = {
+    'rss.xml': 'feeds/all.rss.xml',
+}
+
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
