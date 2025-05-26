@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+    <title>{{ SITENAME }}</title>
+    <link>{{ SITEURL }}/</link>
+    <atom:link href="{{ SITEURL }}/feeds/all.rss.xml" rel="self" type="application/rss+xml" />
+    <description>{{ SITESUBTITLE|default('Updates from the field') }}</description>
+    <language>{{ DEFAULT_LANG }}</language>
+
+    {% for article in articles %}
+    <item>
+        <title>{{ article.title }}</title>
+        <link>{{ SITEURL }}/{{ article.url }}</link>
+        <guid isPermaLink="true">{{ SITEURL }}/{{ article.url }}</guid>
+        <pubDate>{{ article.date.rfc822() }}</pubDate>
+        <dc:creator>{{ article.author }}</dc:creator>
+        {% if article.tags %}
+        {% for tag in article.tags %}
+        <category>{{ tag.name }}</category>
+        {% endfor %}
+        {% endif %}
+        <description><![CDATA[{{ article.summary|striptags }}]]></description>
+
+        {# Embed first image in content if available #}
+        {% set img = article.content | regex_search('<img[^>]+src="([^"]+)"') %}
+        {% if img %}
+        <content:encoded><![CDATA[
+            <p><img src="{{ img.group(1) }}" alt="{{ article.title }}"></p>
+            {{ article.content }}
+        ]]></content:encoded>
+        {% else %}
+        <content:encoded><![CDATA[
+            {{ article.content }}
+        ]]></content:encoded>
+        {% endif %}
+    </item>
+    {% endfor %}
+</channel>
+</rss>
