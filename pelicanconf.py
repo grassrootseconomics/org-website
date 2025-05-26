@@ -18,6 +18,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
+FEED_MAX_ITEMS = 800
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
