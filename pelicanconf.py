@@ -50,7 +50,7 @@ MENUITEMS = (
     ('Eco', '/pages/food-forests.html'),
     ('Edu', '/pages/research.html'),
     ('Docs', 'https://docs.grassecon.org'),
-    ('Blog', '/category/blog.html'),
+    ('Blog', 'https://grassecon.substack.com'),
     ('Support', '/pages/get-involved.html'),
     ('Contact', '/pages/contact-us.html')
 )
