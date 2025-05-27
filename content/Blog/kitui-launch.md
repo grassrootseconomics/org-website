@@ -4,7 +4,6 @@ Date: May 21 2022
 Modified: May 21 2022
 Slug: kitui-launch
 Summary: The cumulation of a huge amount of work has gone into 14 Community Inclusion Currency Launches last week. So proud of the team and grateful for all the hard work.
-
 Tags: Kitui, Kenya, WFP, launch, training
 
 ![image](images/blog/kitui-launch1.webp)

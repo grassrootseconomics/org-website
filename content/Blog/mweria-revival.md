@@ -3,7 +3,6 @@ Author: Njmabi Njoroge
 Date: June 21 2024
 Slug: mweria-revival
 Summary: Watch "Mweria Revival", a compelling community-produced video from Kilifi, Kenya, that celebrates the revival of the ancient Mijikenda tradition of Mweria and showcases the power of collective action and grassroots economics.
-
 Tags: Mweria, Kilifi, Kaya, Dhome, Commitment Pooling
 
 ![image](images/blog/mweria-revival1.webp)

@@ -3,7 +3,6 @@ Author: Amina Godana and Joyce Kamau
 Date: July 29 2023
 Slug: goob-dadaab
 Summary: In the face of economic hardships, the Dadaab refugee community has embraced innovative blockchain-based Community Asset Vouchers and revived the tradition of mutual aid, known as "Goob", fostering economic resilience, community solidarity, and inspiring transformative change.
-
 Tags: goob, Somalia, Dadaab, Red Cross, refugee
 
 ![image](images/blog/goob-dadaab1.webp)

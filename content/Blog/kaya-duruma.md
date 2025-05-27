@@ -3,7 +3,6 @@ Author: Wilfred Chibwara
 Date: Aug 23 2023
 Slug: kaya-duruma
 Summary: Into the jubilee celebrations of the Kaya Chilumani and Upendo Mkanyeni groups in Kinango, Kenya, highlighting the revitalization of the ancient Mwerya practice, a testament to the enduring power of tradition, community service, and the blend of past and present.
-
 Tags: Kaya, duruma, Mijikenda, Mwerya
 
 ![image](images/blog/kaya-duruma1.webp)

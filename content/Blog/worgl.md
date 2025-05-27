@@ -4,8 +4,6 @@ Date: Aug 9 2022
 Modified: Aug 9 2022
 Slug: worgl
 Summary: Creating and exchanging promises (credit obligations) builds thriving communities and should be enshrined a basic human right. The story of Wörgl is the first implementation of [demurrage](https://en.wikipedia.org/wiki/Demurrage_(currency)) and has been an inspiration for Grassroots Economics and many others. I hope it inspires you and you share the hope you find here with others. 
-
-
 Tags: Worgl, Wörgl, Bangla-Pesa, demurrage, Gesell
 
 Creating and exchanging promises (credit obligations) builds thriving communities and should be enshrined a basic human right. The story of Wörgl is the first implementation of demurrage https://en.wikipedia.org/wiki/Demurrage_(currency) and has been an inspiration for Grassroots Economics and many others. I hope this movie, based on the real story, inspires you as much as it has me and you share the hope you find here with others. Please watch [Shillings from Heaven / Wörgl's Miracle](https://youtu.be/6Uz4PRWr3ns)

@@ -3,7 +3,6 @@ Author: Emmanuel Mbui and Hamida Ramadhan
 Date: Aug 24 2023
 Slug: bonds-blessings
 Summary: In Kilifi county, the Righteous Seed church groups of Misufini and Mnarani intertwine faith, heritage and innovation, using Community Asset Vouchers to uplift and unite their communities.
-
 Tags: church, christianity, Kilifi, faith, heritage
 
 ![image](images/blog/bonds-blessings1.webp)

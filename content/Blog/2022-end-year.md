@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Dec 16 2022
 Slug: 2022recap
 Summary: This year has been amazing – Rising up out of extreme challenges in 2020 and 2021 - we got our software, legal and implementation streamlined and seeing Community Inclusion Currencies (CICs) rapidly growing.
-
 Tags: end year, report, partners, progress
 
 ![image](images/blog/2022recap1.webp)

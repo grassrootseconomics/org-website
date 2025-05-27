@@ -3,7 +3,6 @@ Author: Njambi Njoroge
 Date: April 9 2025
 Slug: learning-the-art
 Summary: The Upendo group's collaborative building of a chicken house with Magma Cohort Three beautifully illustrated the living practice of commitment pooling, where community, trust, and shared joy transform resource coordination into a vibrant cultural expression of ancestral wisdom.
-
 Tags: commitment pooling, construction, community building, ancestral wisdom, resource coordination, Magma program
 
 On Saturday, April 5th, something beautiful unfolded in the heart of Kilifi. The Upendo group, known for its deep roots in community cooperation and shared growth, welcomed the 3rd cohort of the Magma program — a diverse mix of participants from across Kenya and around the world.

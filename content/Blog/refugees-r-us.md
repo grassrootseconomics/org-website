@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Apr 28 2024
 Slug: refugees-r-us
 Summary: A call to recognize our shared human journey and support community resilience through Commitment Pools, empowering multi-generational settlements to sustain and enhance their culture and livelihoods. Grassroots Economics Foundation invites direct engagement and support for self-sufficient communities by seeding, contributing to or utilizing services within these pooled resources.
-
 Tags: commitment pooling, floods, slum, refugee, settlement, camps, dignity, sovereignty, CommitmentPooling
 
 ![image](images/blog/refugees-r-us1.webp)

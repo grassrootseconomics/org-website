@@ -4,7 +4,6 @@ Date: Sep 2 2022
 Modified: Sep 2 2022
 Slug: debt
 Summary: How do we acknowledge and settle historic debts using a Community Inclusion Currency? Often, acknowledging and settling debts is one of the first things a community will do to maintain a healthy economic commons.
-
 Tags: debt, matrix, obligation, clearing, settlement, commons
 
 ![image](images/blog/debt1.webp)

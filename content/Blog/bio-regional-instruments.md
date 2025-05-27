@@ -4,7 +4,6 @@ Date: Oct 24 2022
 Modified: Oct 24 2022
 Slug: bio-regional-instruments
 Summary:  It is wonderful to be among a community of practice that is connecting and adapting financial instruments to social and bio-regional regeneration. 
-
 Tags: cacao, chocolate, CSA, carbon, research, open source repositories, bio-regional, bioregion, colombia, curacao
 
 

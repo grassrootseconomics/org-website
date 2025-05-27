@@ -3,7 +3,6 @@ Author: AbdulHakim Maina Ph.D.
 Date: Aug 8 2024
 Slug: wafq
 Summary: The Resilient Community Endowments Model utilizes Shariah-compliant endowments to offer interest-free shopkeeper credit, enhancing financial resilience and community solidarity among low-income households in rural areas by leveraging community commitment pools and revolving lines of credit as common pooled resources.
-
 Tags: waqf, endowment, islamic, finance, muslim
 
 ![image](images/blog/wafq1.webp)

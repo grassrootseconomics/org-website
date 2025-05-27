@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Oct 19 2023
 Slug: trust-graph
 Summary:  The Trust Graph reveals the resurgence of traditional mutual aid practices across Kenya, now digitally transparent and inter-operable with 150 unique Community Asset Vouchers, representing over 3,000 nodes and 78,845 exchanges on the Celo Blockchain.
-
 Tags: trust, analytic, sarafu, network, mwerya, mutual aid, non monetary
 
 ![image](images/blog/trust-graph1.webp)

@@ -4,7 +4,6 @@ Date: Sep 12 2022
 Modified: Sep 12 2022
 Slug: good-credit
 Summary: A long time ago - before there was ‘money’ in the form of national currencies, there was *credit*. Specifically promises, commitments, agreements, vouchers, IOUs, and in general trust. These older forms of credit are still all around us! We interact with credit in so many ways in our life – they might as well be the invisible air we are breathing. But once you start learning to spot credit you will seeeeee it everywhere.
-
 Tags: trust, credit, baskets
 
 ![image](images/blog/good-credit1.webp)

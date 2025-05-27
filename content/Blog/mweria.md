@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Dec 5 2022
 Slug: mweria
 Summary:  *Mweria* is an ancient social contract of mutual aid – there is a debt to be paid by the person receiving the support – which is paid as they help others. It is a beautiful form of reciprocal exchange.
-
 Tags: reciprocal exchange, merry-go-round, non-monetary, mutual aid, social contract, promises
 
 ![image](images/blog/mweria1.webp)

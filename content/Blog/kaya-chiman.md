@@ -3,8 +3,6 @@ Author: Wilfred Chibwara
 Date: Oct 8 2023
 Slug: kaya-chiman
 Summary: "Duruma people started working for money rather than for each other," said Mariam Ruwa, a village elder. "The last Mweria I saw was in 2003 when I was 17. It's amazing to see the practice coming back!"
-
-
 Tags: Kaya, duruma, Mijikenda, Mwerya
 
 ![image](images/blog/kaya-chiman1.webp)

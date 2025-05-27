@@ -3,7 +3,6 @@ Author: Njambi Njoroge
 Date: Aug 21 2024
 Slug: 2-years-wfp
 Summary: 
-
 Tags: WFP, Kamba, Kitui, Food Security, Thome
 
 ![image](images/blog/2-years-wfp1.webp)

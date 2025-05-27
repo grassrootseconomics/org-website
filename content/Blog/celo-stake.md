@@ -3,7 +3,6 @@ Author: Njambi Njoroge
 Date: Feb 13 2024
 Slug: celo-stake
 Summary: The culmination of our move to Celo Blockchain means that we can now offer a 3.8% APR on staked CELO while block rewards go to regenerative economic and environmental practices. We have an ambitious plan to reach over 1 Million acres of regenerative agroforestry in the next 5 years. Join us!
-
 Tags: staking, celo, rewards, agroforestry, refi, regenerative agriculture
 
 ![image](images/blog/celo-stake1.webp)

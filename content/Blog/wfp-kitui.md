@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: March 2 2023
 Slug: wfp-kitui
 Summary:  **Talib Mutogi**, the Kitui-East area Chief praised the project, saying, *"Mumo vouchers (CIC) have changed the lives of the people in my community. I'm happy to see people meet every week to trade using vouchers, creating trust amongst them. I'm grateful for the project and it's my prayer that it continues for the benefit of this community."*
-
 Tags: WFP, World Food Programme, RCT, Study, Kenya, Food Security
 
 **Grassroots Economics Foundation Study of Community Inclusion Currencies (CIC) in Rural Kenya; pilot conducted in collaboration with the World Food Programme Innovation Accelerator.**

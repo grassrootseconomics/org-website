@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: March 11 2023
 Slug: wagur
 Summary: “I never thought that I would get an opportunity like this: to be surrounded by so much love and support from my group. Wagur is a practice that I enjoyed as a young lady when I was married into this community." Benter Atieno
-
 Tags: ROLA, wagur, Nyluoro, Mwerya, Chikola, mutual-aid, Kenya, testimonials
 
 ![image](images/blog/wagur1.webp)

@@ -3,7 +3,6 @@ Author: Amina Godana
 Date: Aug 25 2023
 Slug: kigali-rwanda-one
 Summary: A journey to Kigali, Rwanda, where I explored the transformative potential of community asset vouchers, blending technology with indigenous practices.
-
 Tags: Kigali, Rwanda, Vouchers, umukozi
 
 ![image](images/blog/kigali-rwanda-one1.webp)

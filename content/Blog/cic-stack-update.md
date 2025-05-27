@@ -3,7 +3,6 @@ Author: Mohamed Sohail
 Date: Jul 21, 2023
 Slug: cic-stack-update
 Summary: We've transitioned our CIC tech stack to the Celo Blockchain! This means better performance, lower cloud costs & reduced gas usage for our Communty Asset Voucher demurrage contract. 
-
 Tags: software, programming, Celo
 
 ![image](images/blog/cic-stack-update1.webp)

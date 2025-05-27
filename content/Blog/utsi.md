@@ -3,7 +3,6 @@ Author: Wilfred Chibwara
 Date: Jun 18 2023
 Slug: utsi
 Summary: Blending traditional mutual aid practices with modern blockchain technology, has empowered communities in Kinango, Kwale Kenya, fostering economic independence, communal unity, and multi-generational prosperity through Community Asset Vouchers, an innovative tool that symbolizes communal commitment and support.
-
 Tags: mweria, mwerya, traditional, indigenous, reciprocal exchange, merry-go-round, non-monetary, mutual aid, social contract, promises, Celo
 
 ![image](images/blog/utsi1.webp)

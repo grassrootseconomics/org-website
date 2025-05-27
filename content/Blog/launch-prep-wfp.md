@@ -4,7 +4,6 @@ Date: February 15 2022
 Modified: February 15 2022
 Slug: launch-prep-wfp
 Summary: These groups are practicing and developing ways similar to ancient practices inorder to share and trade their resources among each other fairly even when Kenyan shillings are scarce.
-
 Tags: Kitui, Kenya, WFP, launch, training
 
 Kitui East is a semi-arid region located in the Eastern part of Kenya. Some of the economic activities done by locals include livestock keeping, beekeeping, farming and commercial business, labor activities such as collection of firewood, door to door laundry services, brick making, trench digging, fencing, etc.

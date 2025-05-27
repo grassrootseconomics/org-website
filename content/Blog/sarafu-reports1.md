@@ -4,7 +4,6 @@ Date: February 13 2025
 Modified: February 13 2025
 Slug: sarafu-reports
 Summary: Document and Coordinate - resource-sharing efforts! With Sarafu.Network's impact reporting system, we can now help groups can account for their activities, from agriculture and reforestation to community governance and infrastructure projects. Over 100 reports have already been submitted in the tool's 1st month, showcasing the power of commitments, resource pools, and reports in building resilient local economies. Onward - One report at a time.
-
 Tags: reporting, measurment, impact
 
 

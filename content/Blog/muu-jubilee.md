@@ -3,7 +3,6 @@ Author: Joyce Kamau
 Date: Jul 05 2023
 Slug: muu-jubilee
 Summary: A celebration of empowerment through mutual aid, community asset vouchers and credit clearing
-
 Tags: Kilifi, elders, mweria, mwerya, traditional, indigenous, reciprocal exchange, merry-go-round, non-monetary, mutual aid, social contract, promises, Celo
 
 ![image](images/blog/muu-jubilee1.webp)

@@ -4,7 +4,6 @@ Date: June 12 2022
 Modified: June 12 2022
 Slug: musheshe-vision
 Summary: Inspired by Mwalimu Musheshe after a visit to his community in Uganda, I've remembered this week to not focus on problems or problem solving. Instead focus on and describe our vision - then the structural tension between the current situation and that vision.
-
 Tags: vision, mutual credit, abundance
 
 ![image](images/blog/musheshe-vision1.webp)

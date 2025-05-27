@@ -4,7 +4,6 @@ Date: Aug 17 2022
 Modified: Aug 17 2022
 Slug: uteo
 Summary: What models do we have for commons that we can relate to? The Winnowing basket is one of my favorites .
-
 Tags: uteo, winnowing, basket, training, commons
 
 

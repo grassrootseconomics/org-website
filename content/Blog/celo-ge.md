@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Dec 1 2022
 Slug: celo-ge
 Summary:  There is no other EVM chain (on which our software stack is built) that has agreed to let us be part of the infrastructure or has the last mile solutions, community and liquidity Celo offers.
-
 Tags: Celo, blockchain, EVM, Ethereum, humanitarian, validation node, gas fees, liquidity, community, migration
 
 ![image](images/blog/celo-ge1.webp)

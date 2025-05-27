@@ -3,7 +3,6 @@ Author: AbdulHakim Maina Ph.D.
 Date: Mar 1 2025
 Slug: interest-free-student-loans
 Summary: Lukenya University has become the first university globally to implement an interest-free student loan system using commitment pooling and multilateral clearing, inspired by Islamic Waqf finance and ancient reciprocal labor traditions, providing a sustainable, community-based alternative to conventional student loans.
-
 Tags: Commitment Pooling, Interest-Free Loans, Sustainable Finance, Community-Based Economics, Islamic Finance, University
 
 

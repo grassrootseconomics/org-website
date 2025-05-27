@@ -3,7 +3,6 @@ Author: Janet Otieno
 Date: Jan 29 2023
 Slug: trad-regen
 Summary: “We didn’t expect that it would mushroom to this extent,” says Dzeha. “Men have joined. Young people have joined. Almost all the recipients that I talk to belong to a group and are looking forward to starting a mwerya.”
-
 Tags: traditional, indigenous, mery-go-round, ROLA, Mwerya, community, solidarity, monetary, regenerative, traditions, #retrad, potluck, chikola, minga
 
 

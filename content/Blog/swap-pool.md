@@ -3,7 +3,6 @@ Author: Will Ruddck
 Date: Jul 27 2023
 Slug: swap-pool
 Summary:  This article discusses the innovative concept of Swap Pools, an economic platform based on blockchain technology that enables universal usage of various vouchers within a pool, thereby decentralizing resource distribution, encouraging local economic growth, and mirroring ancestral principles of pooled commitments, mutual aid, and reciprocal credit systems.
-
 Tags: swaps, pools, mutual credit, risk
 
 ![image](images/blog/swap-pool1.webp)

@@ -4,7 +4,6 @@ Date: February 17 2025
 Modified: February 17 2025
 Slug: ecosystem-stewardship
 Summary: Presenting our Ecosystem Stewardship Framework, blending traditional practices like Mweria (reciprocal labor) and Dhome (community governance) with decentralized tools. This approach unites landscape restoration with community-driven resource coordination, ensuring both ecological and social resilience.
-
 Tags: ecosystem, environment, climate change, commons, watershed, landtrust
 
 ![image](images/blog/ecosystem-stewardship1.webp)

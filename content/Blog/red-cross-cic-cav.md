@@ -3,7 +3,6 @@ Author: Sylvia Karanja
 Date: Jul 19, 2023
 Slug: red-cross-cic-cav
 Summary: Embracing mutual aid in humanitarian work
-
 Tags: Red Cross, CIC, programming, refugees, CAV
 
 For the past ten years, the Red Cross, in partnership with Grassroots Economics (GE), has been at the forefront of a transformative and ancient model for community empowerment. At the heart of the Community Inclusion Currency (CIC) program are Community Asset Vouchers (CAVs), a humble approach where community members pledge an amount of their goods or services (subject to auditing by local elders) and create vouchers. These vouchers are digitally published via [Celo Blockchain](https://celo.org/) as instruments of Economic Commons on the [Sarafu.Network](https://sarafu.Network) (and operable without the Internet on feature phones. CAVs circulate within the community for rotational aid, as a general medium of exchange, and are sold by community members for capital raising. A unique feature of these vouchers is gradual expiration (demurrage), prompting their return to the issuing group’s community fund over time. Here, they contribute to redistribution strategies, often celebrated at end-year Jubilees.

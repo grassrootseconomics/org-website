@@ -3,7 +3,6 @@ Author: Antony Ngoka
 Date: Aug 1 2023
 Slug: kitui-jubilee
 Summary: The jubilee celebrations in Kitui East, Kenya, have fostered unity and community empowerment through unique community asset vouchers, providing a transformative platform for settling debts, promoting mutual support during financial scarcity, and preserving cultural heritage, thereby inspiring prosperity and self-sufficiency in the community.
-
 Tags: mwethia, Kitui, jubilee, World Food Program, WFP
 
 Welcome to the heartwarming tale of unity, community empowerment, and settling debts through the vibrant jubilee celebrations in Kitui East. Here we'll explore the significance of these jubilee celebrations (done after a full traditional Mwethia cycle) and how they have transformed the lives of the local communities. The spirit of togetherness and the use of unique Community Asset Vouchers (part of a World Food Program - Community Inclusion Currency program) have made a profound impact, creating a ripple effect of positivity and self-sufficiency.

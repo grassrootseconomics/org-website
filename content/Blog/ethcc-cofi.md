@@ -3,7 +3,6 @@ Author: Njambi Njoroge and Janet Otieno
 Date: July 28 2023
 Slug: ethcc-cofi
 Summary: Grassroots Economics reached out, with team members Njambi Njoroge and Janet Otieno attending key events in France “Ethereum Community Conference #EthCC” and Austria "Collaborative Finance #CoFi" respecivley.
-
 Tags: EthCC, CoFi, France, Austria
 
 Grassroots Economics reached out, with team members Njambi Njoroge (Director) and Janet Otieno (Coordinator) attending key events in France “Ethereum Community Conference #EthCC” and Austria "Collaborative Finance #CoFi" respecivley. 

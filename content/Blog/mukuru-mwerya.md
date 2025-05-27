@@ -3,7 +3,6 @@ Author: Sylvia Karanja
 Date: March 13 2023
 Slug:mukuru-mwerya
 Summary: Margaret has been using CICs since they were introduced by the Kenya Red Cross during the 2020 COVID crisis and is a member of the Progressive disaster Response group in Mukuru Kayaba who have begun to revive traditional mutual-aid practices.
-
 Tags: ROLA, wagur, Nyluoro, Mwerya, Chikola, Urban, Nairobi, Mukuru, mutual-aid, Kenya, testimonials
 
 ![image](images/blog/mukuru-mwerya1.webp)

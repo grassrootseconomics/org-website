@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Dec 26 2022
 Slug: familytimebank
 Summary:  If we think of the household or homestead as a small community – where we all have services we are offering each other – then creating promises toward those offerings (like doing chores) could result in receiving other offerings (like a limited allowance of internet or screen time). This sounds a lot like an economy. The word economy stems from the Greek – household management. 
-
 Tags: screen time, parenting, time banking, economics education
 
 ![image](images/blog/familytimebank1.webp)

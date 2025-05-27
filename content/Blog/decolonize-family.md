@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: May 8 2023
 Slug: decolonize-family
 Summary: Exploring the importance of decolonizing family structures by reconnecting with traditional wisdom, like the Mijikenda concept of Kaya, to foster unity, well-being, and cultural heritage in a world impacted by historical traumas and societal changes.
-
 Tags: Family Well-being, Cultural Heritage, Kaya, Mijikenda People, Community Empowerment
 
 ![image](images/blog/decolonize-family1.webp)

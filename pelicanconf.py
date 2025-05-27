@@ -22,6 +22,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 RSS_FEED_SUMMARY_ONLY = False
 FEED_MAX_ITEMS = 800
+FEED_DOMAIN= "https://sarafu.network"
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),

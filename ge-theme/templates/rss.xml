@@ -17,26 +17,16 @@
         <link>{{ SITEURL }}/{{ article.url }}</link>
         <guid isPermaLink="true">{{ SITEURL }}/{{ article.url }}</guid>
         <pubDate>{{ article.date.rfc822() }}</pubDate>
-        <dc:creator>{{ article.author }}</dc:creator>
+        <dc:creator>XXX {{ article.author }}</dc:creator>
         {% if article.tags %}
         {% for tag in article.tags %}
         <category>{{ tag.name }}</category>
         {% endfor %}
         {% endif %}
         <description><![CDATA[{{ article.summary|striptags }}]]></description>
-
-        {# Embed first image in content if available #}
-        {% set img = article.content | regex_search('<img[^>]+src="([^"]+)"') %}
-        {% if img %}
-        <content:encoded><![CDATA[
-            <p><img src="{{ img.group(1) }}" alt="{{ article.title }}"></p>
-            {{ article.content }}
-        ]]></content:encoded>
-        {% else %}
         <content:encoded><![CDATA[
             {{ article.content }}
         ]]></content:encoded>
-        {% endif %}
     </item>
     {% endfor %}
 </channel>

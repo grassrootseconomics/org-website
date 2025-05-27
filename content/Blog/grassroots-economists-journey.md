@@ -3,7 +3,6 @@ Author: Njambi Njoroge
 Date: Apr 13 2024
 Slug: grassroots-economists-journey
 Summary: A Grassroots Economist understands that people are key to their own development.
-
 Tags: career, economist, community development, collaboration
 
 ![image](images/blog/grassroots-economists-journey1.webp)

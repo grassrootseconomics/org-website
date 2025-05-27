@@ -3,7 +3,6 @@ Author: George Shungu
 Date: May 26 2025
 Slug: growing-wealth
 Summary: Using Sarafu.Network, I’ve helped my community in Kiriba Village grow collective wealth through transparent coordination, shared learning, and regenerative action.
-
 Tags: community wealth, regenerative economy, Sarafu Network, blockchain for good, mutual aid
 
 Hello, I’m George Shungu from Kiriba Village. I want to share with you how our small community has been transforming the way we grow, share, and steward resources—together.

@@ -4,7 +4,6 @@ Date: Jul 27 2022
 Modified: Jul 27 2022
 Slug: 31currencies
 Summary: Since May (roughly 3 months) we’ve seen 20,481 user to user transactions with a trade volume of 3,746,594 Kenyan Shillings using 31 different Vouchers (CICs) in communities across Kenya including Bangladesh (Bangla-Pesa), Kakuma, Kitui, Kwale and Nairobi.
-
 Tags: equity, Bangla-Pesa, refugee, Kitui, Kenya, Kakuma, WFP, launch, training
 
 Having left behind our year of Sarafu (as the only digital voucher we had in operation) we have  blossomed forth into enabling 31 communities so far to create their own – which act as Community Inclusion Currencies (CICs). There are now 31 new Vouchers across Kenya and a backlog of another 60 to go, which will commence after the election periods in Kenya. Since May (roughly 3 months) we’ve seen 20,481 user to user transactions with a trade volume of 3,746,594 Kenyan Shillings using 31 different Vouchers (CICs) in communities across Kenya including Bangladesh (Bangla-Pesa), Kakuma, Kitui, Kwale and Nairobi.

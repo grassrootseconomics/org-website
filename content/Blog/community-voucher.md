@@ -3,8 +3,7 @@ Author: Amina Godana
 Date: February 23 2022
 Modified: February 23 2022
 Slug: community-voucher
-Summary: One Bonde will be worth one egg (market value is roughly 10 Kenyan Shillings) or equivalent community goods or services. 
-
+Summary: One Bonde will be worth one egg (market value is roughly 10 Kenyan Shillings) or equivalent community goods or services.
 Tags: voucher, business, group, chama, kitui
 
 ![image](images/blog/community-voucher1.webp)

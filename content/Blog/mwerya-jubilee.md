@@ -3,7 +3,6 @@ Author: Wilfred Chibwara
 Date: July 31 2023
 Slug: mwerya-jubilee
 Summary: The revival of the Mwerya tradition in Kinango, Kenya, marked by a jubilee ceremony, has reinvigorated community unity and sustainability, by using community asset vouchers, thereby preserving cultural heritage and improving living conditions through cooperative labor and ecological practices.
-
 Tags: mwerya, Kinango, jubilee
 
 ### The Mwerya Tradition Returns to Kinango

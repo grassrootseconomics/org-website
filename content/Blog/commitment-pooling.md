@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Feb 19 2024
 Slug: commitment-pooling
 Summary:  Commitment Pooling shows the transformative power of integrating traditional economics with modern technology to develop protocols to foster global economic resilience and mutual aid
-
 Tags: commitment, promise theory, voucher, liquidity, pooling, rotational labor, production financing, protocol
 
 ![image](images/blog/commitment-pooling1.webp)

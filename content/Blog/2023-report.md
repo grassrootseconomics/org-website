@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Dec 9 2023
 Slug: 2023-report
 Summary: Reviving 1,637 mutual aid practices or order to build 30 houses, establishing 139 farms, and grow to over 100 communities - join us at Grassroots Economics in weaving hope and community for a sustainable future.
-
 Tags: end-year, hope, 2024, 
 
 ![image](images/blog/2023-report1.webp)

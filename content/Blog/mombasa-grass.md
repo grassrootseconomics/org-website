@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: April 22, 2023
 Slug: mombasa-grass
 Summary: Explore the environmental and socio-economic impact of Mombasa grass, from improving soil health and erosion control to boosting livestock productivity and fostering green community development.
-
 Tags: aggriculture, grass, regenerative, regen, syntropic
 
 ![image](images/blog/mombasa-grass1.webp)

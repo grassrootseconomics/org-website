@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: May 1 2023
 Slug: labour-day
 Summary: A shift from the capitalistic employer-employee paradigm towards a more equitable, cooperative, and empowering economic system based on mutual service agreements, credit systems, and economic commons principles.
-
 Tags: Labour Day, Mutual Service, Economic Commons, Community Empowerment, Alternative Economic Models
 
 ![image](images/blog/labour-day1.webp)

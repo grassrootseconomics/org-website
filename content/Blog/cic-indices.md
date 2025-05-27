@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Nov 17, 2020
 Slug: cic-indices
 Summary: By encouraging circular trade within communities humanitarian aid can build basic circulatory systems for support and resilience.
-
 Tags: sdgs,humanitarian,aid,index,cic index
 
 ![image](images/blog/cic-indices1.webp)

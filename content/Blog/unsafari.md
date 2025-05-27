@@ -3,8 +3,6 @@ Author: Njambi Njoroge
 Date: May 15 2023
 Slug: unsafari2023
 Summary: A Journey of Indigenous Innovation. Let's unSafari to learn from and support local communities and their efforts toward blockchain integration into traditional practices.
-
-
 Tags: ethsafari, safari, Nairobi, Kilifi, unsafari, community
 
 ![image](images/blog/unsafari20231.webp)

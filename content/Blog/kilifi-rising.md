@@ -4,7 +4,6 @@ Date: Oct 14 2022
 Modified: Oct 14 2022
 Slug: kilifi-rising
 Summary: The employment of community inclusion currency vouchers by different groups within Kilifi county keeps growing to build a connect economic commons to build a thriving community.
-
 Tags: Kilifi, Food Movement, elders, youth, church, rural, urban, mesh, FOMO
 
 The employment of community inclusion currency vouchers by different groups within Kilifi county keeps growing to build a connect economic commons to build a thriving community. We currently have a total of 5 groups with their own vouchers, as a form of curbing the economic challenges being faced by individual households. Below you will see how groups in urban and rural parts of Kilifi are pulling themselves out of the current economic crisis and building community. 

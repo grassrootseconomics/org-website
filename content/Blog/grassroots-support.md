@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: Mar 9 2025
 Slug: grassroots-support
 Summary: A practical guide on how to support Grassroots Economics through starting commitment pools, donating, staking crypto, reading the book, and joining the Pollination Rebellion to help build decentralized, community-driven economies.
-
 Tags: Take Action, Community Wealth, Commitment Pooling, Economic Resilience
 
 ![image](images/blog/grassroots-support1.webp)

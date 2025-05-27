@@ -4,7 +4,6 @@ Date: January 29 2022
 Modified: January 29 2022
 Slug: measure-dignity
 Summary: "[Sarafu] gives us our confidence back, because now you have dignity in your community. You can walk into a shop and no longer have to cower and beg the shopkeeper to give you credit."
-
 Tags: dignity, desertification, impact, trust
 
 Although I spend most of my days in meetings with field teams, tech staff and lots of whiteboard strategizing, I love the opportunity to visit communities using their own Community Inclusion Currencies (CICs).

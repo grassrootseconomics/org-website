@@ -3,7 +3,6 @@ Author: Will Ruddick
 Date: October 29 2024
 Slug: landscape-regenerators
 Summary: Seeking a way people and projects can get supportive funding and also develop a mutual credit network together.
-
 Tags: ecosystem, landscape, restroation, regeneration
 
 ![image](images/blog/landscape-regenerators1.webp)

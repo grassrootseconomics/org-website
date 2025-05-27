@@ -3,7 +3,6 @@ Author: Njambi Njoroge
 Date: March 22 2023
 Slug: mwethya-mutual-credit-heritage
 Summary:  The goal was and is not simply to develop markets but to create a system of mutual-aid such that the community doesn’t need to depend on markets and national currency alone, while building community assets (social, spiritual, physical, governance, economic and natural).
-
 Tags: heritage, UNESCO, Kikuyu, Mwethia, Mwethia
 
 ![image](images/blog/mwethya-mutual-credit-heritage1.webp)
