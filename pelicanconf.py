@@ -44,7 +44,7 @@ MENUITEMS = (
     ('About', '/pages/about-us.html'),
     ('How', '/pages/how-it-works.html'),
     ('Sarafu', '/pages/sarafu-network.html'),
-    ('Eco', '/pages/food-forests.html'),
+    ('Eco', 'https://grassecon.substack.com/p/ecosystem-stewardship'),
     ('Edu', '/pages/research.html'),
     ('Docs', 'https://docs.grassecon.org'),
     ('Blog', 'https://grassecon.substack.com'),
