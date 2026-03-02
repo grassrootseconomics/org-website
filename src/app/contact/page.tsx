@@ -50,7 +50,7 @@ export default function ContactPage() {
         <SectionHeading
           subtitle="We would love to hear your feedback about our work, queries and your story!"
         >
-          Get in Touch
+          Get in touch
         </SectionHeading>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-5xl mx-auto">

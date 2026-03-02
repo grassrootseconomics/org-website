@@ -8,7 +8,7 @@ import { PublicationCard } from "@/components/research/PublicationCard";
 import { publications } from "@/data/publications";
 
 export const metadata: Metadata = {
-  title: "Research & Education",
+  title: "Research",
   description:
     "Peer-reviewed research on community currencies, Community Asset Vouchers, and their impact — published in Nature and beyond.",
 };
@@ -31,7 +31,7 @@ export default function ResearchPage() {
               Published in Nature
             </p>
             <h1 className="text-4xl sm:text-5xl font-bold text-white tracking-tight font-serif">
-              Research &amp; Education
+              Research
             </h1>
           </div>
         </div>
@@ -41,10 +41,9 @@ export default function ResearchPage() {
         <ScrollReveal>
           <div className="max-w-3xl mx-auto mb-16">
             <p className="text-lg text-slate-600 leading-relaxed mb-6">
-              Our research explores the design, development, and impact of community
-              currencies and Commitment Pooling systems. We partner with universities
-              including Copenhagen Business School, Vienna University of Economics,
-              and Central European University.
+              We do regular monitoring and evaluation on the impact of our programs
+              and collaborate with researchers from around the world. Data is collected
+              through digital (blockchain-based) transaction data, journals and surveys.
             </p>
             <div className="bg-green-50 rounded-2xl p-8">
               <h3 className="text-lg font-semibold text-slate-900 mb-4">

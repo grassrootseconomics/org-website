@@ -13,5 +13,5 @@ export const impactMetrics: ImpactMetric[] = [
   { value: 25, suffix: "%", label: "Decrease in crime and corruption", story: "Economic inclusion reduced the need for informal economies" },
   { value: 17, suffix: "%", label: "Jobs created", story: "New businesses emerged to serve the growing voucher network" },
   { value: 37, suffix: "%", label: "Sales revenue", story: "Merchants saw consistent trade even when national currency was scarce" },
-  { value: 78, suffix: "%", label: "Food security", story: "Families like Jacob's went from eating ugali every day to buying diverse foods" },
+  { value: 78, suffix: "%", label: "Food Security", story: "Families like Jacob's went from eating ugali every day to buying diverse foods" },
 ];

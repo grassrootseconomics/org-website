@@ -16,7 +16,7 @@ export default function DashboardPage() {
     <>
       <Section>
         <SectionHeading
-          subtitle="Visualizations derived from transactional data of Community Inclusion Currency users."
+          subtitle="These dashboards are derived from transactional data of individual Community Inclusion Currency Users."
         >
           Dashboard
         </SectionHeading>
@@ -51,9 +51,15 @@ export default function DashboardPage() {
               Help us with Data Analysis and Visualization
             </h2>
             <p className="text-lg text-slate-600 mb-8">
-              For raw data access visit our research page. We&apos;re always looking
-              for collaborators to help analyze and visualize community currency
-              data.
+              For raw data access visit our{" "}
+              <a href="/research" className="text-green-600 hover:underline">
+                research page
+              </a>
+              .{" "}
+              <a href="/contact" className="text-green-600 hover:underline">
+                Contact us
+              </a>{" "}
+              so we can start working together.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Button href="/research">Research Data</Button>

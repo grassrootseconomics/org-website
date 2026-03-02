@@ -7,8 +7,8 @@ const mediaLogos = [
   { name: "Bloomberg", src: "/images/home/bloomberg.webp", href: "https://www.bloomberg.com/news/features/2018-10-31/closing-the-cash-gap-with-cryptocurrency" },
   { name: "BBC", src: "/images/home/bbc.webp", href: "http://bbc.co.uk/programmes/p05zw020" },
   { name: "Al Jazeera", src: "/images/home/aljazeera.webp", href: "https://www.youtube.com/watch?v=UpCr8-3K05E" },
-  { name: "HuffPost", src: "/images/home/huffpost.webp", href: "https://www.huffingtonpost.com/ellen-brown/the-crime-of-alleviating-_b_3519858.html" },
-  { name: "Yes Magazine", src: "/images/home/yes.webp", href: "http://www.yesmagazine.org/commonomics/alternative-currencies-bigger-than-bitcoin-bangla-pesa-brixton" },
+  { name: "Huffington Post", src: "/images/home/huffpost.webp", href: "https://www.huffingtonpost.com/ellen-brown/the-crime-of-alleviating-_b_3519858.html" },
+  { name: "YES!", src: "/images/home/yes.webp", href: "http://www.yesmagazine.org/commonomics/alternative-currencies-bigger-than-bitcoin-bangla-pesa-brixton" },
   { name: "KTB", src: "/images/home/ktb.webp", href: "https://www.youtube.com/watch?v=1awCx-eJB0I" },
   { name: "AFD", src: "/images/home/afd.webp", href: "https://vimeo.com/album/2637039/video/84658423" },
   { name: "Doughnut Economics", src: "/images/home/doughnut.webp", href: "https://www.kateraworth.com/doughnut/" },
@@ -18,19 +18,8 @@ export function MediaFeatures() {
   return (
     <section className="py-20 md:py-28 bg-cream-50">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <ScrollReveal direction="none">
-          <div className="text-center mb-6">
-            <p className="text-2xl sm:text-3xl font-serif italic text-slate-700 max-w-2xl mx-auto">
-              &ldquo;The Crime of Alleviating Poverty&rdquo;
-            </p>
-            <p className="text-sm text-slate-500 mt-2">
-              — HuffPost headline on the Bangla-Pesa arrests
-            </p>
-          </div>
-        </ScrollReveal>
-
         <ScrollReveal>
-          <div className="text-center mb-12 mt-12">
+          <div className="text-center mb-12">
             <Link
               href="/media"
               className="text-sm font-medium uppercase tracking-widest text-slate-500 hover:text-green-600 transition-colors"

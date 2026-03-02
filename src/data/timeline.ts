@@ -8,46 +8,46 @@ export const timelineEntries: TimelineEntry[] = [
   {
     year: "2010",
     title: "Eco-Pesa",
-    description: "Launched as a backed currency model with 75 businesses in three informal settlements near Kongowea, Mombasa. The currency was backed by donor funds and accomplished community service and environmental goals in partnership with Green World Campaign.",
+    description: "This program was launched as a backed currency model with 75 Businesses taking part in three informal settlements near Kongowea, Mombasa. The currency was backed by donor funds and accomplished some amazing community service and environmental goals in partnership with Green World Campaign while increasing local trade for a year period.",
   },
   {
     year: "2012-2013",
     title: "Bangla-Pesa",
-    description: "The first program not fully dependent on donor funds, launched in Bangladesh informal settlement of approximately 20,000 inhabitants outside Mombasa. Six people were arrested, including Will Ruddick. The charge: forgery of currency. The case was thrown out, but it made international headlines. Currently holds 87,200 KSH equivalent vouchers in circulation with a network of 218 businesses.",
+    description: "Bangladesh is an informal settlement of approximately 20,000 inhabitants located outside Mombasa Kenya. This was the first place where a program that was not fully dependent on donor funds was launched. After having had a dramatic start, with people being arrested under charges of forgery, this project currently holds 87,200 (ksh equivalent) vouchers in circulation and a network of 218 businesses.",
   },
   {
     year: "2014",
     title: "Gatina-Pesa",
-    description: "First to replicate the Bangla-Pesa model in Kawangware, Nairobi. Launched with support from area MP Hon. Simba Arati. The entire community mobilized \u2014 a march went from Congo through the slum to Gatina Primary School. The network grew to 258 businesses.",
+    description: "Gatina-Pesa in Kawangware Nairobi, was the first to launch and first to replicate the Bangla-Pesa model. With an amazing march through the slum, starting from Congo and ending at Gatina Primary School, the entire community mobilized around their own voucher. Hon. Simba Arati, the area Minister of Parliament, officially cut the ribbon and launched the program. Currently the network is made up of 258 businesses and a strong wholesale shop that backs the system.",
   },
   {
     year: "2015",
-    title: "Three More Vouchers",
+    title: "3 More Community Vouchers Joined the Network!",
     description: "Kangemi-Pesa, Lindi-Pesa, and Ng'ombeni-Pesa joined the network, expanding the community currency movement across multiple settlements.",
   },
   {
     year: "2016",
     title: "Sarafu-Credit",
-    description: "All 5 networks joined under a common umbrella called Sarafu-Credit. Five supermarkets were created as collateral and network hubs. Testing began on digital platforms and initial stages to develop country-wide cooperatives (SACCOs).",
+    description: "All of the 5 networks joined under a common umbrella called Sarafu-Credit. This allows members to exchange excess vouchers for Kenyan Shillings. 5 supermarkets that act as collateral and network hubs were created. We began testing on platforms to go digital. The initial stages to develop 2 country-wide cooperatives (SACCOs) began. 90% of users are very satisfied with Sarafu Credit and want to keep using it.",
   },
   {
     year: "2017",
-    title: "First Rural Program",
-    description: "Set up the first rural program in Miyani in partnership with Green World Campaign. Revived the traditional Mwerya practice of rotational labor. Over 1,637 Mwerya events organized, 30 houses built, 139 farms established.",
+    title: "Our First Rural Program",
+    description: "This year we setup our first rural program in Miyani in partnership with Green World Campaign and we have also pulled all our best practices together into a Certificate Course to be able to help the movement spread faster!",
   },
   {
     year: "2018",
     title: "Sarafu-Network",
-    description: "Grassroots Economics Foundation helps communities design, deploy, utilize and maintain Community Asset Vouchers \u2014 customizable tokenized claims against redemption. Supporting communities to connect CAVs into decentralized economies.",
+    description: "Grassroots Economics Foundation helps communities design, deploy, utilize and maintain Community Asset Vouchers, which are customizable tokenized claims against redemption. We also support communities to connect CAVs and CICs into decentralized economies and share certified data for markets and impacts.",
   },
   {
     year: "2020",
     title: "Red Cross Adoption",
-    description: "Mukuru Kayaba and Kisauni Mombasa were the first sites where the Red Cross began to pilot Community Inclusion Currencies in partnership with Grassroots Economics Foundation. Registered users grew to over 50,000.",
+    description: "Mukuru Kayaba and Kisauni Mombasa were the first sites that the Red Cross began to pilot and introduce Community Inclusion Currencies via Community Asset Vouchers implemented in partnership with Grassroots Economics Foundation. The number of registered users grew to over 50,000 and helped support communities facing economic downturns due to covid.",
   },
   {
     year: "2024",
     title: "Commitment Pooling",
-    description: "The protocol draws from Mwerya and Chama practices \u2014 rotational labor and savings groups that have existed in East Africa for centuries, now expressed as digital infrastructure. Sarafu.network becomes a polycentric ecosystem of pools and commitments using Celo Blockchain.",
+    description: "Learning cyber-social protocols based on indigenous rotational labor practices that enable exchange between Community Asset Vouchers (as formalized commitments) - Sarafu.network becomes a polycentric eco-system of pools and commitments using Celo Blockchain.",
   },
 ];

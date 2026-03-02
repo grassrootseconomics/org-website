@@ -4,13 +4,6 @@ import Image from "next/image";
 import { motion } from "motion/react";
 import { Button } from "@/components/shared/Button";
 
-const stats = [
-  { label: "Years", value: "14+" },
-  { label: "People", value: "60,000+" },
-  { label: "Communities", value: "100+" },
-  { label: "Published in", value: "Nature" },
-];
-
 export function Hero() {
   return (
     <section className="relative overflow-hidden bg-earth-50">
@@ -21,22 +14,22 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: [0.25, 0.1, 0.25, 1] }}
           >
-            <p className="text-sm font-semibold uppercase tracking-widest text-green-600 mb-4">
-              Mombasa &middot; Nairobi &middot; Kwale
-            </p>
+            <div className="mb-6">
+              <Image
+                src="/images/home/home-logo.webp"
+                alt="Grassroots Economics"
+                width={200}
+                height={80}
+                className="h-auto w-auto max-h-20"
+              />
+            </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-slate-900 leading-[1.1] font-serif">
-              When the money runs out, the community doesn&rsquo;t have to.
+              Prospering economies built by thriving communities.
             </h1>
-            <p className="mt-6 text-lg text-slate-700 leading-relaxed max-w-xl">
-              For 14 years, from Bangladesh settlement in Mombasa to the farms
-              of Miyani, communities across Kenya have been building their own
-              economies — using vouchers, rotational labor, and indigenous
-              practices that long predate modern banking.
-            </p>
             <div className="mt-8 flex flex-wrap gap-4">
-              <Button href="/how-it-works">How It Works</Button>
+              <Button href="/how-it-works">How it works</Button>
               <Button href="/about" variant="outline">
-                Our Story
+                About us
               </Button>
             </div>
           </motion.div>
@@ -63,23 +56,6 @@ export function Hero() {
             </div>
           </motion.div>
         </div>
-
-        {/* Stats strip */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.5 }}
-          className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 border-t border-earth-200 pt-10"
-        >
-          {stats.map((stat) => (
-            <div key={stat.label}>
-              <p className="text-3xl font-serif font-bold text-slate-900">
-                {stat.value}
-              </p>
-              <p className="text-sm text-slate-500 mt-1">{stat.label}</p>
-            </div>
-          ))}
-        </motion.div>
       </div>
     </section>
   );

@@ -81,7 +81,7 @@ export default function MOOCPage() {
           serif
           subtitle="Free online courses and resources about community currencies, Commitment Pooling, and grassroots economics."
         >
-          Educational Resources
+          Join us for our free online course!
         </SectionHeading>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
@@ -136,8 +136,7 @@ export default function MOOCPage() {
               Want to learn more?
             </h2>
             <p className="text-lg text-slate-600 mb-8">
-              Contact us for more up-to-date information about our courses and
-              training programs.
+              For more up-to-date information please contact us.
             </p>
             <Button href="/contact">Get In Touch</Button>
           </div>

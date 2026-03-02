@@ -11,80 +11,75 @@ export const metadata: Metadata = {
     "Sarafu Network is an open-source, community-run decentralized application for creating and managing Community Asset Vouchers.",
 };
 
-const features = [
-  {
-    title: "USSD Technology",
-    description:
-      "Most people in the communities we serve don\u2019t have smartphones or reliable internet. USSD works on any phone \u2014 you dial a code, and you can send vouchers, check your balance, or join a Commitment Pool. No app download, no data plan needed.",
-    image: "/images/sarafu/sarafu-img2.webp",
-    imageAlt: "A community member using USSD on a basic mobile phone",
-  },
-  {
-    title: "Open Source",
-    description:
-      "Every line of code is public. Every transaction is auditable. Communities can verify, modify, and run the platform themselves.",
-    image: "/images/sarafu/sarafu-img4.webp",
-    imageAlt: "Open-source collaboration on the Sarafu Network platform",
-  },
-  {
-    title: "Celo Blockchain",
-    description:
-      "Built on Celo \u2014 a mobile-first blockchain designed for financial inclusion. Transaction records are transparent and tamper-proof, but the technology stays in the background where it belongs.",
-    image: "/images/sarafu/sarafu-img5.webp",
-    imageAlt: "Transparent and secure blockchain transactions on Celo",
-  },
-  {
-    title: "Economic Commons",
-    description:
-      "Communities design their own vouchers, set their own rules, and manage their own Commitment Pools. This is not a product built for communities \u2014 it is infrastructure built by them.",
-    image: "/images/sarafu/sarafu-img7.webp",
-    imageAlt: "Community members managing their own economic tools",
-  },
-];
-
 export default function SarafuNetworkPage() {
   return (
     <>
+      {/* Section 1 */}
       <Section>
-        <SectionHeading
-          eyebrow="SARAFU \u2014 CURRENCY IN SWAHILI"
-          serif
-          subtitle="An open-source, community-run platform for creating and managing Community Asset Vouchers and Commitment Pools."
-        >
-          Sarafu Network
-        </SectionHeading>
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
+          <ScrollReveal>
+            <SectionHeading centered={false} serif>
+              Sarafu.Network
+            </SectionHeading>
+            <p className="text-lg text-slate-600 leading-relaxed">
+              Grassroots Economics is building and supporting systems that
+              empower communities to create their own financial systems based on
+              local goods and services in regional markets that are built from
+              the ground up.{" "}
+              <a
+                href="https://sarafu.network"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-green-600 hover:underline"
+              >
+                Sarafu.Network
+              </a>{" "}
+              is an open source community run decentralized application that
+              connects people to the Celo distributed ledger in order to develop
+              Economic Commons.
+            </p>
+          </ScrollReveal>
+          <ScrollReveal delay={0.15}>
+            <div className="relative aspect-[4/3] rounded-2xl overflow-hidden">
+              <Image
+                src="/images/sarafu/sarafu-img1.webp"
+                alt="Sarafu Network platform"
+                fill
+                className="object-cover"
+              />
+            </div>
+          </ScrollReveal>
+        </div>
       </Section>
 
-      <Section>
-        <div className="space-y-24 md:space-y-32">
-          {features.map((feature, i) => {
-            const imageOnLeft = i % 2 === 0;
-            return (
-              <div
-                key={feature.title}
-                className={`flex flex-col ${imageOnLeft ? "md:flex-row" : "md:flex-row-reverse"} items-center gap-10 md:gap-16`}
+      {/* Section 2 */}
+      <Section background="dark">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
+          <ScrollReveal delay={0.15}>
+            <div className="relative aspect-[4/3] rounded-2xl overflow-hidden">
+              <Image
+                src="/images/sarafu/sarafu-img2.webp"
+                alt="USSD technology for community currencies"
+                fill
+                className="object-cover"
+              />
+            </div>
+          </ScrollReveal>
+          <ScrollReveal>
+            <p className="text-lg text-white leading-relaxed">
+              Celo Distributed ledger technology provides underlying protocols to
+              secure user accounts and USSD technology enables any cell phone
+              (even without internet) to have access.{" "}
+              <a
+                href="https://docs.grassecon.org/software/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-green-400 hover:underline"
               >
-                <ScrollReveal direction={imageOnLeft ? "left" : "right"} className="w-full md:w-1/2">
-                  <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl">
-                    <Image
-                      src={feature.image}
-                      alt={feature.imageAlt}
-                      fill
-                      className="object-cover"
-                    />
-                  </div>
-                </ScrollReveal>
-                <ScrollReveal direction={imageOnLeft ? "right" : "left"} delay={0.15} className="w-full md:w-1/2">
-                  <h3 className="text-2xl sm:text-3xl font-semibold text-slate-900 mb-4">
-                    {feature.title}
-                  </h3>
-                  <p className="text-lg text-slate-600 leading-relaxed">
-                    {feature.description}
-                  </p>
-                </ScrollReveal>
-              </div>
-            );
-          })}
+                Read about our Open source software and Celo blockchain.
+              </a>
+            </p>
+          </ScrollReveal>
         </div>
       </Section>
 

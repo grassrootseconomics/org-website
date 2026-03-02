@@ -41,18 +41,22 @@ export default function AboutPage() {
               About Us
             </SectionHeading>
             <p className="text-lg text-slate-600 leading-relaxed">
-              We are a small team based in Mombasa and Nairobi. We build tools
-              and train communities to create their own economic systems — not
-              imposed from outside, but grown from the indigenous practices that
-              have sustained East African communities for generations.
-            </p>
-            <p className="mt-4 text-lg text-slate-600 leading-relaxed">
-              Our founder Will Ruddick started this work in 2010 with Eco-Pesa,
-              a complementary currency in three informal settlements near
-              Kongowea, Mombasa. When we launched Bangla-Pesa in 2013, we were
-              charged with forgery of currency — the case was eventually thrown
-              out, but the story says something about what it means to challenge
-              existing systems.
+              Grassroots Economics is a non-profit foundation that seeks to
+              partner with communities to take charge of their own livelihoods
+              and economic future. We focus on community development through
+              Economic Commons and are dedicated to helping communities realize
+              and share their abundance. While core beneficiaries of our programs
+              include small businesses and people living in informal settlements
+              as well as rural areas, our trainings, documentation and tools have
+              been broadly applied worldwide.{" "}
+              <a
+                href="https://docs.grassecon.org/community/charter/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-green-600 hover:underline"
+              >
+                Read our charter.
+              </a>
             </p>
           </ScrollReveal>
           <ScrollReveal delay={0.15}>
@@ -80,12 +84,30 @@ export default function AboutPage() {
 
       <Section background="gray">
         <SectionHeading
-          eyebrow="OUR STORY"
+          eyebrow="HISTORY"
           serif
           subtitle="From a single settlement in Mombasa to a network spanning rural and urban Kenya."
         >
           Our History
         </SectionHeading>
+        <ScrollReveal>
+          <p className="text-lg text-slate-600 leading-relaxed max-w-3xl mx-auto text-center mb-12">
+            Our work builds on a rich history of{" "}
+            <a
+              href="https://www.youtube.com/watch?v=gRkV3zjgiIA"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-green-600 hover:underline"
+            >
+              indigenous practices and community programs
+            </a>
+            . We have implemented Commitment Pooling, Community Asset Voucher and
+            Community Inclusion Currency programs in over 100 locations and helped
+            more than 60,000 small businesses, churches and schools take an active
+            role in their own economy and development. We are currently supporting
+            and developing programs and technologies worldwide.
+          </p>
+        </ScrollReveal>
         <Timeline />
         <PullQuote
           quote="They charged us with forging currency. We were creating community."
@@ -116,6 +138,10 @@ export default function AboutPage() {
         <SectionHeading eyebrow="OUR PARTNERS" serif>
           Organizations We Work With
         </SectionHeading>
+        <p className="text-center text-slate-600 mb-8 max-w-3xl mx-auto">
+          Our current partners include: OneProject, Mustardseed Trust, Kenya Red
+          Cross, iNethi, Schumacher Center for New Economics, Celo Blockchain
+        </p>
         <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-8 max-w-4xl mx-auto items-center">
           {partnerLogos.map((logo) => (
             <ScrollReveal key={logo.alt}>

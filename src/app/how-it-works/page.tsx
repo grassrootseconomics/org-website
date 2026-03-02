@@ -44,7 +44,7 @@ export default function HowItWorksPage() {
         <div className="absolute inset-0 bg-black/40" />
         <div className="absolute inset-0 flex items-center justify-center">
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white tracking-tight text-center max-w-4xl px-6 font-serif">
-            Commitment Pooling &amp; Community Asset Vouchers
+            Commitment Pooling and Community Asset Vouchers
           </h1>
         </div>
       </section>
