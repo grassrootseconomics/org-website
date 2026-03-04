@@ -56,9 +56,10 @@ export default function Home() {
               We envision prospering economies built by thriving communities
             </h2>
             <p className="text-lg text-slate-600 leading-relaxed mb-8">
-              Grassroots Economics is a non-profit foundation that has been
-              seeking to empower marginalized communities to take charge of
-              their own livelihoods and economic future since 2010.
+              We envision a world where communities have the tools and agency
+              to build their own prospering economies, using the abundance of
+              their own resources and commitments rather than depending on
+              scarce national currency.
             </p>
             <Button href="/about">About us</Button>
           </ScrollReveal>

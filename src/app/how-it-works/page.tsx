@@ -53,7 +53,7 @@ export default function HowItWorksPage() {
         <ScrollReveal>
           <div className="max-w-4xl mx-auto">
             <YouTubeEmbed
-              url="https://www.youtube.com/embed/P5WZavo468g"
+              url="https://www.youtube.com/embed/gn4mMspXlF0"
               title="How Commitment Pooling Works"
             />
           </div>
@@ -115,14 +115,15 @@ export default function HowItWorksPage() {
       <Section background="warm">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
           <ScrollReveal>
-            <SectionHeading centered={false} eyebrow="INDIGENOUS PRACTICES" serif>
-              Mwerya: The Roots of Commitment Pooling
+            <SectionHeading centered={false} eyebrow="ANCIENT PRACTICES" serif>
+              The Roots of Commitment Pooling
             </SectionHeading>
             <p className="text-lg text-slate-700 leading-relaxed">
-              Mwerya is an ancestral practice of rotational labor — community
-              members take turns helping each other farm, build homes, and create
-              together. It predates any formal economy. Commitment Pooling takes
-              this ancient wisdom and gives it digital infrastructure, allowing
+              ROLA (Rotational Labor Associations) is an ancestral practice
+              where community members take turns helping each other farm, build
+              homes, and create together. It predates any formal economy and is
+              not the same as barter. Commitment Pooling learns from this ancient
+              wisdom and helps us give it digital infrastructure, allowing
               communities to coordinate mutual aid at scale.
             </p>
           </ScrollReveal>
@@ -130,7 +131,7 @@ export default function HowItWorksPage() {
             <div className="relative aspect-[4/3] rounded-2xl overflow-hidden">
               <Image
                 src="/images/how-it-works/cic-img7.webp"
-                alt="Mwerya rotational labor practice in action"
+                alt="Rotational labor association practice in action"
                 fill
                 className="object-cover"
               />

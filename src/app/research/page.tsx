@@ -5,12 +5,51 @@ import { SectionHeading } from "@/components/shared/SectionHeading";
 import { ScrollReveal } from "@/components/shared/ScrollReveal";
 import { Button } from "@/components/shared/Button";
 import { PublicationCard } from "@/components/research/PublicationCard";
-import { publications } from "@/data/publications";
+import {
+  publications,
+  researchQuestions,
+  type PublicationCategory,
+} from "@/data/publications";
 
 export const metadata: Metadata = {
   title: "Research",
   description:
     "Peer-reviewed research on community currencies, Community Asset Vouchers, and their impact — published in Nature and beyond.",
+};
+
+const questionCategoryLabels: Record<string, string> = {
+  design: "Design",
+  development: "Development",
+  "predictive-modeling": "Predictive & Agent-Based Modeling",
+  understanding: "Understanding",
+};
+
+const pubCategoryOrder: PublicationCategory[] = [
+  "journal-article",
+  "book",
+  "dissertation",
+  "dataset",
+  "report",
+  "survey",
+  "working-paper",
+  "conference-paper",
+  "thesis",
+  "seminar-paper",
+  "grant",
+];
+
+const pubCategoryLabels: Record<PublicationCategory, string> = {
+  "journal-article": "Peer-Reviewed Journal Articles",
+  book: "Books",
+  dissertation: "Dissertations",
+  dataset: "Datasets",
+  report: "Reports",
+  survey: "Surveys",
+  "working-paper": "Working Papers",
+  "conference-paper": "Conference Papers",
+  thesis: "Theses",
+  "seminar-paper": "Seminar Papers",
+  grant: "Research Grants",
 };
 
 export default function ResearchPage() {
@@ -68,14 +107,70 @@ export default function ResearchPage() {
         </ScrollReveal>
       </Section>
 
+      {/* Research Questions */}
+      <Section background="warm">
+        <SectionHeading eyebrow="OUR INQUIRY" serif>
+          Research Questions
+        </SectionHeading>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          {(
+            ["design", "development", "predictive-modeling", "understanding"] as const
+          ).map((cat, catIdx) => {
+            const questions = researchQuestions.filter(
+              (q) => q.category === cat
+            );
+            return (
+              <ScrollReveal key={cat} delay={catIdx * 0.1}>
+                <div className="bg-white rounded-2xl p-8 shadow-sm h-full">
+                  <h3 className="text-lg font-semibold text-slate-900 mb-4">
+                    {questionCategoryLabels[cat]}
+                  </h3>
+                  <ul className="space-y-3 text-slate-600 text-sm leading-relaxed">
+                    {questions.map((q, i) => (
+                      <li key={i} className="flex gap-2">
+                        <span className="text-green-600 mt-0.5 flex-shrink-0">
+                          &bull;
+                        </span>
+                        <span>{q.question}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </ScrollReveal>
+            );
+          })}
+        </div>
+      </Section>
+
+      {/* Publications grouped by category */}
       <Section background="gray">
-        <SectionHeading eyebrow="PEER-REVIEWED" serif>Publications</SectionHeading>
-        <div className="max-w-4xl mx-auto space-y-4">
-          {publications.map((pub, i) => (
-            <ScrollReveal key={pub.title} delay={Math.min(i * 0.05, 0.3)}>
-              <PublicationCard pub={pub} />
-            </ScrollReveal>
-          ))}
+        <SectionHeading eyebrow="PUBLICATIONS" serif>
+          Research &amp; Papers
+        </SectionHeading>
+        <div className="max-w-4xl mx-auto">
+          {pubCategoryOrder.map((cat) => {
+            const pubs = publications.filter(
+              (p) => (p.category ?? "journal-article") === cat
+            );
+            if (pubs.length === 0) return null;
+            return (
+              <div key={cat} className="mb-12">
+                <h3 className="text-xl font-semibold text-slate-900 mb-6 font-serif">
+                  {pubCategoryLabels[cat]}
+                </h3>
+                <div className="space-y-4">
+                  {pubs.map((pub, i) => (
+                    <ScrollReveal
+                      key={pub.title}
+                      delay={Math.min(i * 0.05, 0.3)}
+                    >
+                      <PublicationCard pub={pub} />
+                    </ScrollReveal>
+                  ))}
+                </div>
+              </div>
+            );
+          })}
         </div>
       </Section>
 

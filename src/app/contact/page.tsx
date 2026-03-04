@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Section } from "@/components/shared/Section";
 import { SectionHeading } from "@/components/shared/SectionHeading";
 import { ScrollReveal } from "@/components/shared/ScrollReveal";
+import { ContactForm } from "@/components/contact/ContactForm";
 import { CONTACT } from "@/lib/constants";
 
 export const metadata: Metadata = {
@@ -81,50 +82,7 @@ export default function ContactPage() {
 
           {/* Contact Form */}
           <ScrollReveal delay={0.15}>
-            <form className="space-y-6">
-              <div>
-                <label htmlFor="name" className="block text-sm font-medium text-slate-700 mb-2">
-                  Name
-                </label>
-                <input
-                  type="text"
-                  id="name"
-                  name="name"
-                  className="w-full px-4 py-3 rounded-xl border border-slate-200 focus:border-green-500 focus:ring-2 focus:ring-green-500/20 outline-none transition-all"
-                  placeholder="Your name"
-                />
-              </div>
-              <div>
-                <label htmlFor="email" className="block text-sm font-medium text-slate-700 mb-2">
-                  Email
-                </label>
-                <input
-                  type="email"
-                  id="email"
-                  name="email"
-                  className="w-full px-4 py-3 rounded-xl border border-slate-200 focus:border-green-500 focus:ring-2 focus:ring-green-500/20 outline-none transition-all"
-                  placeholder="your@email.com"
-                />
-              </div>
-              <div>
-                <label htmlFor="message" className="block text-sm font-medium text-slate-700 mb-2">
-                  Message
-                </label>
-                <textarea
-                  id="message"
-                  name="message"
-                  rows={5}
-                  className="w-full px-4 py-3 rounded-xl border border-slate-200 focus:border-green-500 focus:ring-2 focus:ring-green-500/20 outline-none transition-all resize-none"
-                  placeholder="Tell us about your interest..."
-                />
-              </div>
-              <button
-                type="submit"
-                className="w-full bg-green-600 text-white font-medium py-3 px-6 rounded-full hover:bg-green-700 transition-colors"
-              >
-                Send Message
-              </button>
-            </form>
+            <ContactForm />
           </ScrollReveal>
         </div>
       </Section>

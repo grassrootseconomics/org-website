@@ -42,7 +42,7 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Grassroots Economics</h3>
             <p className="text-sm text-slate-400 leading-relaxed">
-              Building community economies in Kenya since 2010. Mombasa · Nairobi · Kwale. Open source. Open data.
+              Growing community economies since 2010.
             </p>
           </div>
 
@@ -51,18 +51,21 @@ export function Footer() {
             <h4 className="text-sm font-semibold uppercase tracking-wider text-slate-400 mb-4">
               Quick Links
             </h4>
-            <ul className="space-y-2">
-              {footerLinks.map((link) => (
-                <li key={link.href}>
+            <div className="flex flex-wrap gap-x-1 gap-y-2 items-center">
+              {footerLinks.map((link, i) => (
+                <span key={link.href} className="flex items-center">
                   <Link
                     href={link.href}
                     className="text-sm text-slate-300 hover:text-white transition-colors"
                   >
                     {link.label}
                   </Link>
-                </li>
+                  {i < footerLinks.length - 1 && (
+                    <span className="text-slate-600 mx-1">&middot;</span>
+                  )}
+                </span>
               ))}
-            </ul>
+            </div>
           </div>
 
           {/* Social */}

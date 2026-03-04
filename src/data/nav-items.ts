@@ -7,7 +7,12 @@ export interface NavItem {
 export const navItems: NavItem[] = [
   { label: "About", href: "/about" },
   { label: "How It Works", href: "/how-it-works" },
-  { label: "Sarafu", href: "/sarafu-network" },
+  { label: "Sarafu", href: "https://sarafu.network", external: true },
+  {
+    label: "Cosmo-Local",
+    href: "https://cosmological.credit",
+    external: true,
+  },
   {
     label: "Ecosystem",
     href: "https://grassecon.substack.com/p/ecosystem-stewardship",

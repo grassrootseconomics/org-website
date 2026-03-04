@@ -233,6 +233,18 @@ export default function SupportPage() {
                 Join our online community!
               </a>
             </p>
+            <p className="text-lg text-slate-600 leading-relaxed mt-4">
+              Read the{" "}
+              <a
+                href="https://willruddick.substack.com/p/grassroots-economics-the-book-is"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-green-600 hover:underline"
+              >
+                Grassroots Economics Book
+              </a>{" "}
+              to dive deeper into the theory and practice of Commitment Pooling.
+            </p>
           </div>
         </ScrollReveal>
       </Section>
@@ -320,55 +332,6 @@ export default function SupportPage() {
             </div>
           </ScrollReveal>
         </div>
-      </Section>
-
-      {/* Commitment Pooling Design Course */}
-      <Section background="gray">
-        <SectionHeading serif>Commitment Pooling Design Course</SectionHeading>
-        <ScrollReveal>
-          <div className="max-w-3xl mx-auto text-center">
-            <p className="text-lg text-slate-600 leading-relaxed mb-6">
-              After understanding how to tap into the abundance of communities
-              and build resilient thriving local economies, you will never look
-              at money in the same way.
-            </p>
-            <p className="text-lg font-semibold text-slate-900 mb-6">
-              Please make sure to take the MOOC and read our Training Materials
-              before planning on coming for practical experience.
-            </p>
-            <div className="relative aspect-[16/9] w-full max-w-md mx-auto rounded-2xl overflow-hidden mb-8">
-              <Image
-                src="/images/get-involved/mooc-img.webp"
-                alt="MOOC training materials"
-                fill
-                className="object-cover"
-              />
-            </div>
-            <p className="text-slate-600 mb-8">
-              Our Training Materials, Book and MOOC provide a grounding in
-              Grassroots Economic theory, implementation and management with a
-              focus on practical understanding and skills.
-            </p>
-            <div className="flex flex-wrap justify-center gap-4">
-              <Button
-                href="https://docs.grassecon.org/operations/"
-                external
-              >
-                Training Materials
-              </Button>
-              <Button href="/mooc" variant="outline">
-                MOOC (historic)
-              </Button>
-              <Button
-                href="https://willruddick.substack.com/p/grassroots-economics-the-book-is"
-                external
-                variant="outline"
-              >
-                GE Book
-              </Button>
-            </div>
-          </div>
-        </ScrollReveal>
       </Section>
 
       {/* Testimonials */}

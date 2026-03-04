@@ -4,11 +4,20 @@ import Image from "next/image";
 import { motion } from "motion/react";
 import { Button } from "@/components/shared/Button";
 
-const stats = [
-  { label: "Years", value: "14+" },
-  { label: "People", value: "60,000+" },
-  { label: "Communities", value: "100+" },
-  { label: "Published in", value: "Nature" },
+interface Stat {
+  label: string;
+  value: string;
+  href?: string;
+}
+
+// Stats sourced from https://dune.com/grassrootseconomics/sarafu-network
+// and https://grassecon.substack.com/p/2025-sarafu-network-study-results
+// Last updated: March 2026
+const stats: Stat[] = [
+  { label: "Founded", value: "Since 2010" },
+  { label: "People", value: "4,400+" },
+  { label: "Pools / Communities", value: "55+" },
+  { label: "Vouchers", value: "560+" },
 ];
 
 export function Hero() {
@@ -22,7 +31,7 @@ export function Hero() {
             transition={{ duration: 0.8, ease: [0.25, 0.1, 0.25, 1] }}
           >
             <p className="text-sm font-semibold uppercase tracking-widest text-green-600 mb-4">
-              Mombasa &middot; Nairobi &middot; Kwale
+              Individuals &middot; Groups &middot; Organizations
             </p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-slate-900 leading-[1.1] font-serif">
               Prospering economies built by thriving communities.
@@ -55,7 +64,7 @@ export function Hero() {
                 src="/images/home/home-img1-resize.gif"
                 alt="Community Asset Voucher network in Kenya"
                 fill
-                className="object-cover"
+                className="object-cover mix-blend-multiply"
                 priority
                 unoptimized
               />
@@ -72,9 +81,22 @@ export function Hero() {
         >
           {stats.map((stat) => (
             <div key={stat.label}>
-              <p className="text-3xl font-serif font-bold text-slate-900">
-                {stat.value}
-              </p>
+              {stat.href ? (
+                <a
+                  href={stat.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="group"
+                >
+                  <p className="text-3xl font-serif font-bold text-slate-900 group-hover:text-green-600 transition-colors">
+                    {stat.value}
+                  </p>
+                </a>
+              ) : (
+                <p className="text-3xl font-serif font-bold text-slate-900">
+                  {stat.value}
+                </p>
+              )}
               <p className="text-sm text-slate-500 mt-1">{stat.label}</p>
             </div>
           ))}
