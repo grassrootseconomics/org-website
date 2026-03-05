@@ -8,6 +8,11 @@ import { Button } from "@/components/shared/Button";
 import { ImpactMetrics } from "@/components/how-it-works/ImpactMetrics";
 import { StoryCallout } from "@/components/shared/StoryCallout";
 import { PullQuote } from "@/components/shared/PullQuote";
+import { FullWidthPhoto } from "@/components/shared/FullWidthPhoto";
+import { ProcessDiagram } from "@/components/how-it-works/ProcessDiagram";
+import { CommunityVouchers } from "@/components/how-it-works/CommunityVouchers";
+import { InvestmentFlow } from "@/components/how-it-works/InvestmentFlow";
+import { ProblemsSolutions } from "@/components/how-it-works/ProblemsSolutions";
 
 export const metadata: Metadata = {
   title: "How It Works",
@@ -33,9 +38,10 @@ const beforeAfter = [
 export default function HowItWorksPage() {
   return (
     <>
+      {/* 1. Hero */}
       <section className="relative h-[50vh] min-h-[400px] overflow-hidden">
         <Image
-          src="/images/how-it-works/col1-img.webp"
+          src="/images/how-it-works/howit-img1.webp"
           alt="Community members using Commitment Pooling"
           fill
           className="object-cover"
@@ -49,6 +55,7 @@ export default function HowItWorksPage() {
         </div>
       </section>
 
+      {/* 2. YouTube Video */}
       <Section>
         <ScrollReveal>
           <div className="max-w-4xl mx-auto">
@@ -60,6 +67,7 @@ export default function HowItWorksPage() {
         </ScrollReveal>
       </Section>
 
+      {/* 3. Jacob's Story + Pull Quote */}
       <Section background="warm">
         <StoryCallout
           title="Jacob's Story"
@@ -74,6 +82,7 @@ export default function HowItWorksPage() {
         />
       </Section>
 
+      {/* 4. What are CAVs? */}
       <Section background="gray">
         <div className="max-w-3xl mx-auto">
           <ScrollReveal>
@@ -102,7 +111,46 @@ export default function HowItWorksPage() {
         </div>
       </Section>
 
+      {/* 5. Visual CAV Process Diagram (RESTORED) */}
       <Section>
+        <ProcessDiagram />
+      </Section>
+
+      {/* 6. Full-width photo (RESTORED) */}
+      <FullWidthPhoto
+        src="/images/how-it-works/cic-training1.webp"
+        alt="Community members in a CIC training session"
+      />
+
+      {/* 7. Community Vouchers (RESTORED) */}
+      <Section background="warm">
+        <CommunityVouchers />
+      </Section>
+
+      {/* 8. Full-width photo (RESTORED) */}
+      <FullWidthPhoto
+        src="/images/how-it-works/bangla-pesa-launch1.webp"
+        alt="Bangla-Pesa community currency launch event"
+      />
+
+      {/* 9. Investment Flow (RESTORED) */}
+      <Section background="gray">
+        <InvestmentFlow />
+      </Section>
+
+      {/* 10. Full-width photo (RESTORED) */}
+      <FullWidthPhoto
+        src="/images/how-it-works/empowering-mothers1.webp"
+        alt="Empowering mothers through community economics"
+      />
+
+      {/* 11. Problems & Solutions (RESTORED) */}
+      <Section>
+        <ProblemsSolutions />
+      </Section>
+
+      {/* 12. Impact Metrics */}
+      <Section background="green">
         <SectionHeading eyebrow="MEASURED IMPACT" serif>
           Through our work starting in Kenya we&apos;ve seen
         </SectionHeading>
@@ -112,6 +160,7 @@ export default function HowItWorksPage() {
         </div>
       </Section>
 
+      {/* 13. ROLA */}
       <Section background="warm">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
           <ScrollReveal>
@@ -140,6 +189,7 @@ export default function HowItWorksPage() {
         </div>
       </Section>
 
+      {/* 14. Before and After */}
       <Section background="dark">
         <SectionHeading eyebrow="REAL STORIES" serif>
           Before and After
@@ -162,9 +212,29 @@ export default function HowItWorksPage() {
         </div>
       </Section>
 
+      {/* 15. Going to Scale + Closing (RESTORED) */}
       <Section background="gray">
         <ScrollReveal>
           <div className="text-center max-w-2xl mx-auto">
+            <SectionHeading serif>Going to Scale</SectionHeading>
+            <p className="text-lg text-slate-600 mb-8">
+              See how Community Asset Vouchers are being made globally and create
+              your own on{" "}
+              <a
+                href="https://sarafu.network/vouchers"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-green-600 hover:underline"
+              >
+                Sarafu Network
+              </a>
+              . Finally create your own pool to connect different vouchers as well
+              as national currencies together!
+            </p>
+          </div>
+        </ScrollReveal>
+        <ScrollReveal delay={0.15}>
+          <div className="text-center max-w-2xl mx-auto border-t border-slate-200 pt-12 mt-12">
             <h2 className="text-2xl sm:text-3xl font-semibold text-slate-900 mb-4 font-serif">
               This is just the beginning!
             </h2>
