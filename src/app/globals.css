@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-green-50: #f0fdf0;
+  --color-green-100: #dcfcdc;
+  --color-green-200: #bbf7bb;
+  --color-green-300: #86ef86;
+  --color-green-400: #4ade4a;
+  --color-green-500: #22c722;
+  --color-green-600: #00ae00;
+  --color-green-700: #008a00;
+  --color-green-800: #006d00;
+  --color-green-900: #005a00;
+  --color-green-950: #003200;
+
+  --color-earth-50: #fdf8f0;
+  --color-earth-100: #f5e6d0;
+  --color-earth-200: #e8cda6;
+  --color-earth-500: #a16b2f;
+  --color-cream-50: #fefcf8;
+  --color-cream-100: #faf5eb;
+
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-lora);
+}
+
+body {
+  background: #ffffff;
+  color: #0f172a;
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Focus styles for accessibility */
+*:focus-visible {
+  outline: 2px solid #00ae00;
+  outline-offset: 2px;
+}

@@ -1,2 +1,0 @@
-:title: Media
-:template: media

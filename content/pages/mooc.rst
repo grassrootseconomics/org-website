@@ -1,3 +1,0 @@
-:title: MOOC
-:template: moocpage
-
