@@ -67,7 +67,7 @@ export default function ResearchPage() {
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center px-6">
             <p className="text-sm font-semibold uppercase tracking-widest text-green-300 mb-3">
-              Published in Nature
+              Published Documents
             </p>
             <h1 className="text-4xl sm:text-5xl font-bold text-white tracking-tight font-serif">
               Research
