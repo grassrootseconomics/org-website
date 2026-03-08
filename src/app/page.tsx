@@ -54,8 +54,7 @@ export default function Home() {
                 ecological regeneration with local economic resilience.
               </p>
               <Button
-                href="https://grassecon.substack.com/p/ecosystem-stewardship"
-                external
+                href="/ecosystem"
                 size="sm"
               >
                 See Restoration Work

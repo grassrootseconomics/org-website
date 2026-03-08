@@ -7,6 +7,10 @@ export interface NavItem {
 export const navItems: NavItem[] = [
   { label: "About", href: "/about" },
   { label: "How", href: "/how-it-works" },
+  {
+    label: "Heal Ecosystems",
+    href: "/ecosystem",
+  },
   { label: "Research", href: "/research" },
   { label: "Blog", href: "/blog" },
   { label: "Support", href: "/support" },
@@ -16,11 +20,6 @@ export const navItems: NavItem[] = [
   {
     label: "Cosmo-Local DAO",
     href: "https://cosmolocal.credit",
-    external: true,
-  },
-  {
-    label: "Heal Ecosystems",
-    href: "https://grassecon.substack.com/p/ecosystem-stewardship",
     external: true,
   },
   
