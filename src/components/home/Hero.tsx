@@ -15,9 +15,21 @@ interface Stat {
 // Last updated: March 2026
 const stats: Stat[] = [
   { label: "Founded", value: "Since 2010" },
-  { label: "People", value: "4,400+" },
-  { label: "Pools / Communities", value: "55+" },
-  { label: "Vouchers", value: "560+" },
+  {
+    label: "People",
+    value: "26,600+",
+    href: "https://dune.com/grassrootseconomics/sarafu-network#users",
+  },
+  {
+    label: "Pools / Communities",
+    value: "290+",
+    href: "https://dune.com/grassrootseconomics/sarafu-network#pools",
+  },
+  {
+    label: "Vouchers",
+    value: "2,140+",
+    href: "https://dune.com/grassrootseconomics/sarafu-network#vouchers",
+  },
 ];
 
 export function Hero() {
@@ -39,14 +51,32 @@ export function Hero() {
             <p className="mt-6 text-lg text-slate-700 leading-relaxed max-w-xl">
               Grassroots Economics is a non-profit foundation that has been
               seeking to empower marginalized communities to take charge of their
-              own livelihoods and economic future since 2010.
+              own livelihoods and economic future since 2010. Through this work, we
+              support live community coordination on Sarafu.Network, help develop
+              open protocol infrastructure with the Cosmo-Local Credit DAO, advance
+              ecosystem restoration through community-led regenerative programs, and
+              publish research to measure and improve impact.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <Button href="/how-it-works">How it works</Button>
+              <Button href="https://sarafu.network" external>
+                Use Sarafu.Network
+              </Button>
               <Button href="/about" variant="outline">
                 About us
               </Button>
             </div>
+            <p className="mt-4 text-sm text-slate-600">
+              Explore the protocol layer:{" "}
+              <a
+                href="https://cosmolocal.credit"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-green-600 hover:underline"
+              >
+                Cosmo-Local Credit DAO
+              </a>
+            </p>
           </motion.div>
 
           <motion.div
@@ -101,6 +131,28 @@ export function Hero() {
             </div>
           ))}
         </motion.div>
+        <div className="mt-8 space-y-2 text-sm text-slate-600">
+          <p>
+            <a
+              href="https://dune.com/grassrootseconomics/sarafu-network"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-green-600 hover:underline"
+            >
+              View our impacts on Dune Analytics
+            </a>
+          </p>
+          <p>
+            <a
+              href="https://sarafu.network/dashboard?tab=reports&from=1727730000000&to=1773003599999&vouchers="
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-green-600 hover:underline"
+            >
+              View over 3000 Community Activity Reports
+            </a>
+          </p>
+        </div>
       </div>
     </section>
   );

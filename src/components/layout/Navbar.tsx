@@ -27,7 +27,10 @@ export function Navbar() {
     >
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="flex items-center justify-between">
-          <Link href="/" className="flex-shrink-0">
+          <Link
+            href="/"
+            className="flex-shrink-0 focus-visible:outline-none focus-visible:ring-0"
+          >
             <Image
               src="/images/Grassroots-Economics-logo-med2.png"
               alt="Grassroots Economics"
