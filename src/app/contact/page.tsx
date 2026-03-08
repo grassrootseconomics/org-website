@@ -8,7 +8,7 @@ import { CONTACT } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "Contact Us",
   description:
-    "Get in touch with Grassroots Economics. We'd love to hear from you.",
+    "Get in touch about Sarafu.Network, community support, research collaboration, and Cosmo-Local DAO inquiries.",
 };
 
 const contactChannels = [
@@ -49,10 +49,19 @@ export default function ContactPage() {
     <>
       <Section>
         <SectionHeading
-          subtitle="We would love to hear your feedback about our work, queries and your story!"
+          subtitle="Tell us your goal and we will route your inquiry to the right team."
         >
           Get in touch
         </SectionHeading>
+        <div className="max-w-3xl mx-auto mb-12">
+          <ScrollReveal>
+            <p className="text-lg text-slate-600 leading-relaxed text-center">
+              Reach out for help using Sarafu.Network, supporting community
+              programs, collaborating on research, or discussing Cosmo-Local
+              Credit DAO and protocol development.
+            </p>
+          </ScrollReveal>
+        </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-5xl mx-auto">
           {/* Contact Info */}

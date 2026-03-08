@@ -122,6 +122,75 @@ export default function SupportPage() {
         </div>
       </Section>
 
+      {/* Investor pathway */}
+      <Section background="warm">
+        <div className="max-w-5xl mx-auto">
+          <SectionHeading eyebrow="INVESTOR PATHWAY" serif>
+            Evaluate Cosmo-Local Credit DAO
+          </SectionHeading>
+          <ScrollReveal>
+            <p className="text-lg text-slate-700 leading-relaxed text-center max-w-3xl mx-auto">
+              For investors and strategic partners looking beyond single-market
+              value silos, Cosmo-Local Credit DAO is the protocol layer designed
+              to connect local commitment pools while preserving community
+              stewardship. Grassroots Economics provides live implementation
+              context through Sarafu.Network, along with open research and field
+              learnings that can inform due diligence.
+            </p>
+          </ScrollReveal>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-10">
+            <ScrollReveal>
+              <div className="bg-white rounded-2xl p-6 shadow-sm h-full">
+                <h3 className="text-lg font-semibold text-slate-900 mb-2">
+                  Protocol Thesis
+                </h3>
+                <p className="text-slate-600 leading-relaxed">
+                  Commitment pooling and routing infrastructure for coordination
+                  across people, groups, and agent networks.
+                </p>
+              </div>
+            </ScrollReveal>
+            <ScrollReveal delay={0.1}>
+              <div className="bg-white rounded-2xl p-6 shadow-sm h-full">
+                <h3 className="text-lg font-semibold text-slate-900 mb-2">
+                  Live Operating Surface
+                </h3>
+                <p className="text-slate-600 leading-relaxed">
+                  Sarafu.Network provides real deployment context for voucher
+                  circulation, pools, and community activity.
+                </p>
+              </div>
+            </ScrollReveal>
+            <ScrollReveal delay={0.2}>
+              <div className="bg-white rounded-2xl p-6 shadow-sm h-full">
+                <h3 className="text-lg font-semibold text-slate-900 mb-2">
+                  Evidence Layer
+                </h3>
+                <p className="text-slate-600 leading-relaxed">
+                  Open datasets, publications, and impact reporting for rigorous
+                  analysis and long-term ecosystem evaluation.
+                </p>
+              </div>
+            </ScrollReveal>
+          </div>
+          <div className="mt-10 flex flex-wrap justify-center gap-4">
+            <Button href="https://cosmolocal.credit" external>
+              Visit Cosmo-Local Credit DAO
+            </Button>
+            <Button href="/research" variant="outline">
+              Review Research
+            </Button>
+            <Button href="/contact" variant="outline">
+              Speak with the Team
+            </Button>
+          </div>
+          <p className="mt-4 text-center text-sm text-slate-500">
+            Information shared by Grassroots Economics is for ecosystem
+            education and due diligence support; it is not financial advice.
+          </p>
+        </div>
+      </Section>
+
       {/* Donation section */}
       <Section background="gray">
         <ScrollReveal>

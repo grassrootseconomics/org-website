@@ -15,9 +15,10 @@ export async function submitContactForm(
 ): Promise<ContactFormState> {
   const name = formData.get("name") as string;
   const email = formData.get("email") as string;
+  const interestArea = formData.get("interestArea") as string;
   const message = formData.get("message") as string;
 
-  if (!name || !email || !message) {
+  if (!name || !email || !interestArea || !message) {
     return { success: false, error: "All fields are required." };
   }
 
@@ -30,8 +31,8 @@ export async function submitContactForm(
       from: "Website Contact <noreply@grassecon.org>",
       to: process.env.CONTACT_EMAIL || "info@grassecon.org",
       replyTo: email,
-      subject: `Contact Form: ${name}`,
-      text: `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`,
+      subject: `Contact Form [${interestArea}]: ${name}`,
+      text: `Name: ${name}\nEmail: ${email}\nInterest Area: ${interestArea}\n\nMessage:\n${message}`,
     });
 
     return { success: true, error: null };

@@ -31,7 +31,7 @@ const steps = [
   {
     image: "/images/how-it-works/home-on-globe.webp",
     alt: "Globe with home representing mature industries",
-    text: "These mature industries provide...",
+    text: "These local industries provide essential goods and services to communities, while generating social and financial returns for investors",
     gif: false,
   },
 ];

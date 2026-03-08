@@ -76,6 +76,35 @@ export function ContactForm() {
       </div>
       <div>
         <label
+          htmlFor="interestArea"
+          className="block text-sm font-medium text-slate-700 mb-2"
+        >
+          I&apos;m reaching out about
+        </label>
+        <select
+          id="interestArea"
+          name="interestArea"
+          required
+          defaultValue=""
+          className="w-full px-4 py-3 rounded-xl border border-slate-200 bg-white focus:border-green-500 focus:ring-2 focus:ring-green-500/20 outline-none transition-all"
+        >
+          <option value="" disabled>
+            Select one
+          </option>
+          <option value="Using Sarafu.Network">Using Sarafu.Network</option>
+          <option value="Supporting Community Programs">
+            Supporting Community Programs
+          </option>
+          <option value="Research Collaboration">Research Collaboration</option>
+          <option value="Cosmo-Local DAO / Protocol">
+            Cosmo-Local DAO / Protocol
+          </option>
+          <option value="Media Inquiry">Media Inquiry</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+      <div>
+        <label
           htmlFor="message"
           className="block text-sm font-medium text-slate-700 mb-2"
         >
