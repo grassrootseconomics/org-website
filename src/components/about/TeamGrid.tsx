@@ -6,10 +6,10 @@ import { teamMembers } from "@/data/team";
 
 export function TeamGrid() {
   return (
-    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-5xl mx-auto">
+    <div className="flex flex-wrap justify-center gap-8 max-w-5xl mx-auto">
       {teamMembers.map((member, i) => (
         <ScrollReveal key={member.name} delay={i * 0.05}>
-          <div className="text-center">
+          <div className="text-center w-[calc(50%-1rem)] md:w-[calc(33.333%-1.5rem)] lg:w-[calc(25%-1.5rem)] min-w-[140px]">
             <div className="relative w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden bg-slate-100">
               <Image
                 src={member.image}
