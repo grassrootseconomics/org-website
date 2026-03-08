@@ -21,7 +21,7 @@ export default function EcosystemPage() {
             Ecosystem Stewardship
           </SectionHeading>
           <p className="text-center text-sm text-slate-500">
-            Regeneration Is Relationship • June 12, 2025
+            Regeneration Is Relationship
           </p>
           <ScrollReveal>
             <div className="relative aspect-[16/9] rounded-2xl overflow-hidden mt-8 shadow-sm">
