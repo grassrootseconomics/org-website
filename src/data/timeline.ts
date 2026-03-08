@@ -46,8 +46,18 @@ export const timelineEntries: TimelineEntry[] = [
     description: "Mukuru Kayaba and Kisauni Mombasa were the first sites that the Red Cross began to pilot and introduce Community Inclusion Currencies via Community Asset Vouchers implemented in partnership with Grassroots Economics Foundation. The number of registered users grew to over 50,000 and helped support communities facing economic downturns due to covid.",
   },
   {
-    year: "2024",
+    year: "2022",
     title: "Commitment Pooling",
     description: "Learning cyber-social protocols based on indigenous rotational labor practices that enable exchange between Community Asset Vouchers (as formalized commitments) - Sarafu.network becomes a polycentric eco-system of pools and commitments using Celo Blockchain.",
+  },
+  {
+    year: "2023",
+    title: "Mynumbuni Eco-Hub",
+    description: "Mynumbuni Eco-Hub is community learning center launched in Takaungu mangrove creek watershed as a community-led regenerative development program, with the goal of supporting the local economy and restoring the environment through ecosystem restoration practices and syntropic agroforestry.",
+  },
+  {
+    year: "2026",
+    title: "Cosmo-Local Credit DAO",
+    description: "Inorder to support the growth of the ecosystem and enable more communities to take control of their own economic development, we launched the Cosmo-Local Credit DAO, a decentralized autonomous organization that provides open protocol infrastructure for community-led credit systems and decentralized finance.",
   },
 ];

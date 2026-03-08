@@ -129,7 +129,7 @@ export default function AboutPage() {
 
       <Section background="gray">
         <SectionHeading eyebrow="THE TEAM" serif>
-          Meet the Team
+          Meet the Core Team
         </SectionHeading>
         <TeamGrid />
       </Section>
@@ -139,8 +139,8 @@ export default function AboutPage() {
           Organizations We Work With
         </SectionHeading>
         <p className="text-center text-slate-600 mb-8 max-w-3xl mx-auto">
-          Our current partners include: OneProject, Mustardseed Trust, Kenya Red
-          Cross, iNethi, Schumacher Center for New Economics, Celo Blockchain
+          Our current partners include: HSF, Mustardseed Trust, Kenya Red
+          Cross, iNethi, Schumacher Center for New Economics, Celo Blockchain, Pretium
         </p>
         <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-8 max-w-4xl mx-auto items-center">
           {partnerLogos.map((logo) => (
