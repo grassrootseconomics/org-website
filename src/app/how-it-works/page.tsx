@@ -72,11 +72,11 @@ export default function HowItWorksPage() {
         <StoryCallout
           title="Jacob's Story"
           location="MIYANI, KWALE COUNTY"
-          story="Jacob is a 44-year-old farmer and fisherman with seven children. Before joining a Commitment Pool, his family ate ugali every day — it was all they could afford when Kenyan Shillings were scarce. Through Community Asset Vouchers, Jacob now trades his catch and crops with other pool members. His daily earnings rose from 2,500 to 3,700 KSH on good fishing days. His family now buys rice, beans, and wheat flour."
+          story="Jacob is a 44-year-old farmer and fisherman with seven children. Before joining a Commitment Pool, his family ate only ugali every day. It was all they could afford when Kenyan Shillings were scarce. Through Community Asset Vouchers, Jacob now trades his catch and crops with other pool members. His daily earnings rose from 2,500 to 3,700 KSH on good fishing days. His family now buys rice, beans, and wheat flour."
           imageSrc="/images/how-it-works/cic-img3.webp"
         />
         <PullQuote
-          quote="I don't have to eat ugali every day now. I can buy rice, beans, wheat flour."
+          quote="I don't get to eat every day. Now I can exchange for rice, beans, wheat flour."
           attribution="Jacob, farmer and fisherman"
           location="Miyani, Kwale County"
         />
@@ -92,7 +92,7 @@ export default function HowItWorksPage() {
             <p className="text-lg text-slate-600 leading-relaxed">
               Community Asset Vouchers (CAVs) are formalized commitments that
               individuals, businesses and communities can make for their goods and
-              services. When pooled together they can also act as regional means of
+              services (like a bus ticket, coupon or gift card). When pooled together they can also act as regional means of
               exchange and supplement gaps in the national currency system.
             </p>
             <p className="mt-4 text-lg text-slate-600 leading-relaxed">
